@@ -1,0 +1,75 @@
+2025-02-24 17:11:01,665 - INFO - Use pytorch device_name: cuda
+2025-02-24 17:11:01,665 - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-02-24 17:11:44,001 - INFO - Use pytorch device_name: cuda
+2025-02-24 17:11:44,001 - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-02-24 17:12:01,428 - INFO - Use pytorch device_name: cuda
+2025-02-24 17:12:01,429 - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-02-24 17:12:06,133 - INFO - 🔍 Searching FAISS for: Hi
+2025-02-24 17:12:06,266 - INFO - ✅ Found 5 relevant datasets.
+2025-02-24 17:13:18,912 - INFO - Use pytorch device_name: cuda
+2025-02-24 17:13:18,912 - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-02-24 17:13:37,384 - INFO - Use pytorch device_name: cuda
+2025-02-24 17:13:37,384 - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-02-24 17:13:45,554 - INFO - 🔍 Searching FAISS for: I am looking for datasets about air quality 
+2025-02-24 17:13:45,698 - INFO - ✅ Found 5 relevant datasets.
+2025-02-24 17:17:38,715 - INFO - Use pytorch device_name: cuda
+2025-02-24 17:17:38,715 - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-02-24 17:18:03,234 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-02-24 17:18:03,234 - INFO - 🔍 Refined query: Here is the concise plain text query containing only the important keywords and phrases extracted from the user's query:
+
+"air quality datasets"
+2025-02-24 17:18:03,234 - INFO - 🔍 Searching FAISS for: Here is the concise plain text query containing only the important keywords and phrases extracted from the user's query:
+
+"air quality datasets"
+2025-02-24 17:18:03,382 - INFO - ✅ Found 10 relevant datasets.
+2025-02-24 17:20:14,844 - INFO - Use pytorch device_name: cuda
+2025-02-24 17:20:14,844 - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-02-24 17:20:51,332 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-02-24 17:20:51,332 - INFO - 🔍 Refined query: Here is the concise plain text query containing only the important keywords and phrases extracted from your original query:
+
+"air pollution pdf format"
+2025-02-24 17:20:51,333 - INFO - 🔍 Searching FAISS for: Here is the concise plain text query containing only the important keywords and phrases extracted from your original query:
+
+"air pollution pdf format"
+2025-02-24 17:20:51,492 - INFO - ✅ Found 10 relevant datasets.
+2025-02-24 17:20:51,492 - INFO - Sending prompt to Llama2:13b via Ollama...
+2025-02-24 17:22:47,106 - INFO - Use pytorch device_name: cuda
+2025-02-24 17:22:47,106 - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-02-24 17:23:10,068 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-02-24 17:23:10,068 - INFO - 🔍 Refined query: Sure! Here are the key search terms extracted from your query:
+
+air pollution, pdf format
+2025-02-24 17:23:10,068 - INFO - 🔍 Searching FAISS for query: Sure! Here are the key search terms extracted from your query:
+
+air pollution, pdf format
+2025-02-24 17:23:10,212 - INFO - ✅ Found 10 relevant datasets.
+2025-02-24 17:23:10,212 - INFO - Sending prompt to Llama2:13b via Ollama...
+2025-02-24 17:25:29,523 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-02-24 17:25:29,524 - INFO - Llama2 response received in 139.31 seconds.
+2025-02-24 17:26:15,455 - INFO - Use pytorch device_name: cuda
+2025-02-24 17:26:15,455 - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-02-24 17:29:32,753 - INFO - Use pytorch device_name: cuda
+2025-02-24 17:29:32,753 - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-02-24 17:30:02,369 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-02-24 17:30:02,369 - INFO - 🔍 Refined query: OK! Here are the key search terms from your query:
+2025-02-24 17:30:02,369 - INFO - 🔍 Searching FAISS for query: OK! Here are the key search terms from your query:
+2025-02-24 17:30:02,519 - INFO - ✅ Found 10 relevant datasets.
+2025-02-24 17:30:41,165 - INFO - Use pytorch device_name: cuda
+2025-02-24 17:30:41,165 - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-02-24 17:31:05,108 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-02-24 17:31:05,109 - INFO - 🔍 Refined query: Okay! Here are the key search terms from your query as a comma-separated list:
+2025-02-24 17:31:05,109 - INFO - 🔍 Searching FAISS for query: Okay! Here are the key search terms from your query as a comma-separated list:
+2025-02-24 17:31:05,254 - INFO - ✅ Found 10 relevant datasets.
+2025-02-24 17:32:56,152 - INFO - Use pytorch device_name: cuda
+2025-02-24 17:32:56,152 - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-02-24 17:33:06,337 - INFO - 🔍 Searching FAISS for query: Hi I Am looking for datasets about air quality in csv 
+2025-02-24 17:33:06,485 - INFO - ✅ Found 10 relevant datasets.
+2025-02-24 17:34:44,323 - INFO - Use pytorch device_name: cuda
+2025-02-24 17:34:44,323 - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-02-24 17:34:56,846 - INFO - 🔍 Searching FAISS for query: Hi there, I am looking for datasets about air quality in csv format, can you help me? 
+2025-02-24 17:34:56,980 - INFO - ✅ Found 10 relevant datasets.
+2025-02-24 17:36:09,937 - INFO - Use pytorch device_name: cuda
+2025-02-24 17:36:09,937 - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-02-24 17:36:20,468 - INFO - 🔍 Searching FAISS for query: Hi I am looking for datasets about air quality in csv, can you help me? 
+2025-02-24 17:36:20,614 - INFO - ✅ Found 10 relevant datasets.
+2025-02-24 17:39:32,721 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"

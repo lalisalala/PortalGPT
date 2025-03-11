@@ -1,0 +1,2756 @@
+{
+    "query": "\"Datasets for further analysis\"",
+    "results": [
+        {
+            "id": "428c2708-5365-4202-aef3-4ef5dcb93da9",
+            "title": "Labour Market Analysis of London’s Priority Sectors",
+            "summary": "\nThis page presents a labour market analysis related to each of the Mayor of London’s priority sectors. \nEach report explores a different economic sector in detail by bringing together data from a wide-range of sources. \n\nAn FAQ guide has also been published alongside these reports to help users navigate their contents.\n\n\nWhen using outputs from this analysis it is important to be aware of the following caveats:\n\n\nThe analysis is not intended to be fully comprehensive or exhaustive. It is a snapshot analysis of key data as it pertains to each sector in London.\nThe data presented here reflects the information available at the time of publication. However, as the dataset relies on external sources, it may be subject to updates or revisions as new information becomes available or corrections are made by the original data providers. Users are encouraged to verify the data periodically for the latest version.\nDue to limitations in data collection methods or reporting frameworks, some aspects of the dataset may reflect biases or gaps inherent to the original data sources.\nThe analysis does not represent the full body of evidence on which Mayoral Policies are, or will be, based.\n\n\nOutputs should be triangulated with other sources of information and analysis to develop a more rounded statistical and contextualised picture of any specific policy issues.\n\n\n\n",
+            "publisher": "Jeff Dwan-O'Reilly",
+            "tags": [
+                "data",
+                "skills",
+                "sectors",
+                "employment",
+                "jobs",
+                "labour market",
+                "vacancies",
+                "job-postings",
+                "Skills and Employment",
+                "Business",
+                "demographics",
+                "further education",
+                "apprenticeships",
+                "higher education"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": "Greater London"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "html",
+                "pdf"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/428c2708-5365-4202-aef3-4ef5dcb93da9",
+            "download_links": [
+                {
+                    "title": "Construction",
+                    "url": "https://data.london.gov.uk/download/labour-market-analysis-of-london-s-priority-sectors/e91b90e7-e6e1-4f9e-b2ae-28b489576ee3/Construction",
+                    "format": "html",
+                    "size": 21064849,
+                    "mimetype": "text/html"
+                },
+                {
+                    "title": "FAQ Guide",
+                    "url": "https://data.london.gov.uk/download/labour-market-analysis-of-london-s-priority-sectors/b7a64f8f-19eb-48fa-a4b1-fd7df7766f69/FAQ%20Guide",
+                    "format": "pdf",
+                    "size": 395085,
+                    "mimetype": "application/pdf"
+                }
+            ],
+            "faiss_score": 0.8208,
+            "faiss_rank": 16,
+            "rerank_score": -1.3195096254348755,
+            "rerank_rank": 1
+        },
+        {
+            "id": "564fd310-cf2a-40fa-a500-c595b0f0362a",
+            "title": "Borough by sector employee jobs",
+            "summary": "This dataset provides experimental estimates of borough-by-sector employee jobs in London. It provides a time series consistent with ONS Workforce Jobs data where this would not otherwise be available.\nThe latest workbook provides employee jobs estimates for the period 1971-2022.\nThe estimates are modelled from Business Register and Employment Survey (BRES) and Workforce Jobs (WFJ) data published by the Office for National Statistics (ONS). The methodology is summarised in the ‘cover’ sheet of the latest xlsx workbook. A csv datafile is also provided.",
+            "publisher": "GLA Economics",
+            "tags": [
+                "employment",
+                "jobs",
+                "borough",
+                "sector",
+                "Sectors",
+                "borough-economic"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": "Borough"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet",
+                "csv"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/564fd310-cf2a-40fa-a500-c595b0f0362a",
+            "download_links": [
+                {
+                    "title": "2017 borough by sector",
+                    "url": "https://data.london.gov.uk/download/borough-by-sector-employee-jobs/b4fd60bb-8a17-4cf4-bb35-447973921e9d/2017%20borough%20by%20sector",
+                    "format": "spreadsheet",
+                    "size": 2544413,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                },
+                {
+                    "title": "2017 borough_by_sector.csv",
+                    "url": "https://data.london.gov.uk/download/borough-by-sector-employee-jobs/0a809737-78bb-4157-a356-e3d570acce5a/2017%20borough_by_sector.csv",
+                    "format": "csv",
+                    "size": 1158921,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "2022 borough by sector",
+                    "url": "https://data.london.gov.uk/download/borough-by-sector-employee-jobs/cbd00aa6-c11c-42c5-a80a-67573f28e6df/2022%20borough%20by%20sector",
+                    "format": "spreadsheet",
+                    "size": 159170,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                },
+                {
+                    "title": "2022 borough by sector.csv",
+                    "url": "https://data.london.gov.uk/download/borough-by-sector-employee-jobs/073cc24f-9265-4f21-b9e2-343f2d663357/2022%20borough%20by%20sector.csv",
+                    "format": "csv",
+                    "size": 231231,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "2023 borough by sector.csv",
+                    "url": "https://data.london.gov.uk/download/borough-by-sector-employee-jobs/292a4783-10cc-4802-b011-cd94062887ab/2023%20borough%20by%20sector.csv",
+                    "format": "csv",
+                    "size": 650389,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "2023 borough by sector.xlsx",
+                    "url": "https://data.london.gov.uk/download/borough-by-sector-employee-jobs/22ce91a1-c749-43e8-b4c5-2be8f1a968e5/2023%20borough%20by%20sector.xlsx",
+                    "format": "spreadsheet",
+                    "size": 163821,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                },
+                {
+                    "title": "2024 borough by sector.csv",
+                    "url": "https://data.london.gov.uk/download/borough-by-sector-employee-jobs/47542bdd-99a8-40ea-934e-853789635a5d/2024%20borough%20by%20sector.csv",
+                    "format": "csv",
+                    "size": 239816,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "2024 borough by sector.xlsx",
+                    "url": "https://data.london.gov.uk/download/borough-by-sector-employee-jobs/fb099718-a4f6-484a-9798-88d244361938/2024%20borough%20by%20sector.xlsx",
+                    "format": "spreadsheet",
+                    "size": 164265,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "faiss_score": 0.8155,
+            "faiss_rank": 26,
+            "rerank_score": -2.7317938804626465,
+            "rerank_rank": 2
+        },
+        {
+            "id": "18b6e725-bb26-4cac-92eb-dd534d02d830",
+            "title": "Food and non alcoholic drinks",
+            "summary": "",
+            "publisher": "",
+            "tags": [],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": ""
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/18b6e725-bb26-4cac-92eb-dd534d02d830",
+            "download_links": [
+                {
+                    "title": "F.1.1. GHG- Food & non-alcoholic drinks.xlsx",
+                    "url": "https://data.london.gov.uk/download/food-and-non-alcoholic-drinks/8b1ba079-1253-4d2f-a887-4acaab30a650/F.1.1.%20GHG-%20Food%20&%20non-alcoholic%20drinks.xlsx",
+                    "format": "spreadsheet",
+                    "size": 26941,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "faiss_score": 0.8204,
+            "faiss_rank": 17,
+            "rerank_score": -2.742194652557373,
+            "rerank_rank": 3
+        },
+        {
+            "id": "ab4f498c-f133-4d6b-8d8e-69eb532620c6",
+            "title": "Changes of Ownership by Dwelling Price, Borough",
+            "summary": "Housing prices and number of transactions by dwelling type.\nHouse sales not at full market value are excluded.\nOwnership of this dataset remains with the Communities and Local Government (CLG). Information can only be reproduced if the source is fully acknowledged.\nThe Land Registry (LR) and CLG have provided these datasets drawn from the Land Register.\nInformation on outliers, that is transactions involving a very low or very high price, is included so that users can take their impact into account when using the data.\nAvailable for Middle Layer Super Output Area (MSOA).\nNOTE: This data has not been updated since 2009.\nSee more on the ONS NESS website.",
+            "publisher": "Opinion Research and General Statistics (GLA)",
+            "tags": [
+                "real-estate",
+                "ownership",
+                "house-prices",
+                "transactions",
+                "dwellings",
+                "property"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "Greater London",
+                "smallest_geography": "Local Authority"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/ab4f498c-f133-4d6b-8d8e-69eb532620c6",
+            "download_links": [
+                {
+                    "title": "changes-of-ownership-by-dwelling-price.xls",
+                    "url": "https://data.london.gov.uk/download/changes-ownership-dwelling-price-borough/55d771b9-1259-47f6-9a92-7e79c6f9c953/changes-of-ownership-by-dwelling-price.xls",
+                    "format": "spreadsheet",
+                    "size": 126976,
+                    "mimetype": "application/vnd.ms-excel"
+                }
+            ],
+            "faiss_score": 0.8173,
+            "faiss_rank": 22,
+            "rerank_score": -2.7734758853912354,
+            "rerank_rank": 4
+        },
+        {
+            "id": "92b42574-fac2-4dcb-8ca8-8c58088f6a8f",
+            "title": "Photovoltaic (PV) Solar Panel Energy Generation data",
+            "summary": "This dataset contains voltage, current, power, energy, and weather data from low-voltage substations and domestic premises with high uptake of solar photovoltaic (PV) embedded generation.\nData collected as part of the project run by UK Power Networks.\nValidation of Photovoltaic Connection Assessment Tool https://www.ofgem.gov.uk/ofgem-publications/93938/pvtoolcdrfinal-pdf\n\nThe project collected a rich dataset at domestic sites with Solar Panels. The data set comprises of 25,775 days-worth of data, and over 171 million individual measurements.\nKey stats about the dataset:\n\n20 substations and 10 domestic premises\nCollected over 480 days - 27 July 2013 to 19 November 2014\n10 minute intervals over all time recorded, 1 minute intervals in summer 2014\n10-minute measurements prior to 10 June 2014, aggregated to hourly minima and maxima\n\nSeveral important findings are presented in the final project report (link above). For any further queries please email innovation@ukpowernetworks.co.uk\n",
+            "publisher": "Greater London Authority",
+            "tags": [],
+            "geospatial_coverage": {
+                "bounding_box": "",
+                "smallest_geography": "Other"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet",
+                "zip"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/92b42574-fac2-4dcb-8ca8-8c58088f6a8f",
+            "download_links": [
+                {
+                    "title": "PV Data",
+                    "url": "https://data.london.gov.uk/download/photovoltaic--pv--solar-panel-energy-generation-data/81fb6b31-f6b2-4e12-b054-090319faec7b/PV%20Data",
+                    "format": "zip",
+                    "size": 821564466,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "Weather Data",
+                    "url": "https://data.london.gov.uk/download/photovoltaic--pv--solar-panel-energy-generation-data/b4a7e790-8cb8-451c-b828-c4c5d8445705/Weather%20Data",
+                    "format": "spreadsheet",
+                    "size": 19933918,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "faiss_score": 0.8148,
+            "faiss_rank": 28,
+            "rerank_score": -2.955044984817505,
+            "rerank_rank": 5
+        },
+        {
+            "id": "780e729a-0d9a-4b83-94b0-dbdf3effd898",
+            "title": "Secondary sites",
+            "summary": "\nThis dataset shows our secondary sites and a number of attributes including oil natural air natural (ONAN) ratings, spatial coordinates, customer counts, whether a site is indoor/outdoor, the address, substation name, alias and its primary feeder.\n",
+            "publisher": "UK Power Networks",
+            "tags": [
+                "electricity",
+                "Electric vehicle",
+                "power",
+                "substation"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": "N/A"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "data"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/780e729a-0d9a-4b83-94b0-dbdf3effd898",
+            "download_links": [
+                {
+                    "title": "Secondary sites dataset link",
+                    "url": "https://data.london.gov.uk/download/secondary-sites/b96a2743-ddef-471c-bf73-18719004fded/Secondary%20sites%20dataset%20link",
+                    "format": "data",
+                    "size": "Unknown size",
+                    "mimetype": "Unknown mimetype"
+                }
+            ],
+            "faiss_score": 0.8296,
+            "faiss_rank": 6,
+            "rerank_score": -2.9982657432556152,
+            "rerank_rank": 6
+        },
+        {
+            "id": "7ec93893-6978-429c-b509-93ab6510e245",
+            "title": "Secondary Substation Feeding Areas",
+            "summary": "A shapefile containing the postcode areas supplied by secondary substations.\nThe dataset is generalised using our GIS customer connectivity model.\nEach Secondary Substation's connected LV Network is traced out to its electrical extents, including all connected customers. Using the geographic position of customer connections and key network points of both the Substation being traced and surrounding Substation's network, a Voronoi diagram is created. Each Voronoi polygon that intersects with the traced network is joined together to produce a single polygon, depicting the Supply Zone.\nThis dataset is redacted in that any secondary sites with less than five customers will not be included to protect privacy.",
+            "publisher": "UK Power Networks",
+            "tags": [],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": "Postcode Sector"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "data"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/7ec93893-6978-429c-b509-93ab6510e245",
+            "download_links": [
+                {
+                    "title": "information page (registration and log-in required)",
+                    "url": "https://data.london.gov.uk/download/secondary-substation-feeding-areas/d2766079-fbb5-41f4-9d7c-7e6bd960188d/information%20page%20(registration%20and%20log-in%20required)",
+                    "format": "data",
+                    "size": "Unknown size",
+                    "mimetype": "Unknown mimetype"
+                }
+            ],
+            "faiss_score": 0.8129,
+            "faiss_rank": 36,
+            "rerank_score": -3.091169834136963,
+            "rerank_rank": 7
+        },
+        {
+            "id": "deec76ee-ee4e-4af0-8521-7af71a8d3e0c",
+            "title": "Benefits Analysis",
+            "summary": "\n\n\n\n",
+            "publisher": "",
+            "tags": [
+                "borough-economic",
+                "benefits"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": "Borough"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "csv"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/deec76ee-ee4e-4af0-8521-7af71a8d3e0c",
+            "download_links": [
+                {
+                    "title": "People on UC broken down by borough",
+                    "url": "https://data.london.gov.uk/download/benefits-analysis/fd8e06be-6546-4c4e-ab0e-f265ea161d94/People%20on%20UC%20broken%20down%20by%20borough",
+                    "format": "csv",
+                    "size": 65369,
+                    "mimetype": "application/octet-stream"
+                }
+            ],
+            "faiss_score": 0.8106,
+            "faiss_rank": 46,
+            "rerank_score": -3.142442464828491,
+            "rerank_rank": 8
+        },
+        {
+            "id": "10f2ddb2-f965-44d9-967b-40b2a663353e",
+            "title": "Water Quality of London's Rivers and Other Waterbodies",
+            "summary": "This dataset contains shapefiles for London's river waterbodies managed under the Water Framework Directive (WFD) and any related programmes.\nThe shapefile contains additional data taken from the WFD's Classification Status dataset. This additional data gives a breakdown of the waterbodies by ecological status, chemical status, and other classification status in 2016.\nA shapefile containing WFD waterbodies for the whole of England is available fromthe Environment Agency.",
+            "publisher": "Greater London Authority",
+            "tags": [
+                "water",
+                "waterbody",
+                "waterbodies",
+                "canal",
+                "river",
+                "rivers",
+                "surface",
+                "quality",
+                "ecological",
+                "chemical",
+                "temperature",
+                "classification"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": "Custom Polygons"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "shp"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/10f2ddb2-f965-44d9-967b-40b2a663353e",
+            "download_links": [
+                {
+                    "title": "WFD_London.zip",
+                    "url": "https://data.london.gov.uk/download/water-quality-london-rivers-other-waterbodies/ac8f6c22-f742-40a1-bad7-1040bec661bb/WFD_London.zip",
+                    "format": "shp",
+                    "size": 604962,
+                    "mimetype": "application/zip"
+                }
+            ],
+            "faiss_score": 0.8097,
+            "faiss_rank": 49,
+            "rerank_score": -3.1437466144561768,
+            "rerank_rank": 9
+        },
+        {
+            "id": "524f0e6f-d794-406e-a86e-e47ef97f74d8",
+            "title": "Earnings by Workplace, Borough",
+            "summary": "This dataset provides information about earnings of employees who are working in an area, who are on adult rates and whose pay for the survey pay-period was not affected by absence.\nTables provided here include total gross weekly earnings, and full time weekly earnings with breakdowns by gender, and annual median, mean and lower quartile earnings by borough and UK region. These are provided both in nominal and real terms.\nReal earnings figures are on sheets labelled \"real\", are in 2016 prices, and calculated by applying ONS’s annual CPI index series for April to ASHE data.\nAnnual Survey of Hours and Earnings (ASHE) is based on a sample of employee jobs taken from HM Revenue & Customs PAYE records. Information on earnings and hours is obtained in confidence from employers. ASHE does not cover the self-employed nor does it cover employees not paid during the reference period.\nThe earnings information presented relates to gross pay before tax, National Insurance or other deductions, and excludes payments in kind.\nThe confidence figure is the coefficient of variation (CV) of that estimate. The CV is the ratio of the standard error of an estimate to the estimate itself and is expressed as a percentage. The smaller the coefficient of variation the greater the accuracy of the estimate. The true value is likely to lie within +/- twice the CV.\nResults for 2003 and earlier exclude supplementary surveys. In 2006 there were a number of methodological changes made. For further details goto : http://www.nomisweb.co.uk/articles/341.aspx. The headline statistics for ASHE are based on the median rather than the mean. The median is the value below which 50 per cent of employees fall. It is ONS's preferred measure of average earnings as it is less affected by a relatively small number of very high earners and the skewed distribution of earnings. It therefore gives a better indication of typical pay than the mean.\nSurvey data from a sample frame, use caution if using for performance measurement and trend analysis '#' These figures are suppressed as statistically unreliable. ! Estimate and confidence interval not available since the group sample size is zero or disclosive (0-2).\nFurthermore, data from Abstract of Regional Statistics, New Earnings Survey and ASHE have been combined to create long run historical series of full-time weekly earnings data for London and Great Britain, stretching back to 1965, and is broken down by sex.",
+            "publisher": "Opinion Research and General Statistics (GLA)",
+            "tags": [
+                "men",
+                "sex",
+                "salary",
+                "workplace",
+                "women",
+                "pay",
+                "income",
+                "long-term",
+                "trends",
+                "earnings",
+                "gender",
+                "borough-economic"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "Greater London",
+                "smallest_geography": "Local Authority"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/524f0e6f-d794-406e-a86e-e47ef97f74d8",
+            "download_links": [
+                {
+                    "title": "Earnings data, London and GB, since 1965",
+                    "url": "https://data.london.gov.uk/download/earnings-workplace-borough/84a496d8-5ef8-4558-b56f-30a3f004a09a/Earnings%20data,%20London%20and%20GB,%20since%201965",
+                    "format": "spreadsheet",
+                    "size": 49152,
+                    "mimetype": "application/vnd.ms-excel"
+                },
+                {
+                    "title": "Earnings workplace by borough ",
+                    "url": "https://data.london.gov.uk/download/earnings-workplace-borough/d3bfabd0-33cd-496c-8ab8-6edeb2227dc0/Earnings%20workplace%20by%20borough%20",
+                    "format": "spreadsheet",
+                    "size": 233472,
+                    "mimetype": "application/vnd.ms-excel"
+                }
+            ],
+            "faiss_score": 0.8105,
+            "faiss_rank": 48,
+            "rerank_score": -3.2316596508026123,
+            "rerank_rank": 10
+        },
+        {
+            "id": "8d555e2a-89d3-4dc3-a943-e4c2fb907ba8",
+            "title": "census new wards ethnic identity language religion",
+            "summary": "2011 univariate data re-estimated for 2022 wards comparable with 2021 outputs",
+            "publisher": "",
+            "tags": [],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": "Ward"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "zip",
+                "csv"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/8d555e2a-89d3-4dc3-a943-e4c2fb907ba8",
+            "download_links": [
+                {
+                    "title": "multiple_ethnic_groups_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-ethnic-identity-language-religion/5fb988ca-82b7-4a96-a9b8-345ff91a1edf/multiple_ethnic_groups_wide.csv",
+                    "format": "csv",
+                    "size": 49313,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "ks_ethnic_group_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-ethnic-identity-language-religion/9ca63aff-33b9-491f-8db7-ea4dc5d43e54/ks_ethnic_group_wide.csv",
+                    "format": "csv",
+                    "size": 97931,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "multiple_ethnic_groups_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-ethnic-identity-language-religion/97e7f505-1a74-4966-8c94-bfa8dba916f4/multiple_ethnic_groups_long.csv",
+                    "format": "csv",
+                    "size": 425275,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "ethnic_group_detailed_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-ethnic-identity-language-religion/0151685f-65a1-48c4-8e12-0a34a9ed2b90/ethnic_group_detailed_wide.csv",
+                    "format": "csv",
+                    "size": 429165,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "ks_ethnic_group_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-ethnic-identity-language-religion/1c373eed-5b5a-44b4-96f7-8f502a8872c0/ks_ethnic_group_long.csv",
+                    "format": "csv",
+                    "size": 1405865,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "ks_national_identity_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-ethnic-identity-language-religion/b53954a2-3c0f-4a80-96bc-4230aa43eae1/ks_national_identity_wide.csv",
+                    "format": "csv",
+                    "size": 144793,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "ks_national_identity_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-ethnic-identity-language-religion/6728b03f-54ec-4441-9e5b-fa32fb6b1cbf/ks_national_identity_long.csv",
+                    "format": "csv",
+                    "size": 2558844,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "ethnic_group_detailed_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-ethnic-identity-language-religion/6a814848-14f8-4421-9fc9-8798b5c4490f/ethnic_group_detailed_long.csv",
+                    "format": "csv",
+                    "size": 14879763,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "english_proficiency_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-ethnic-identity-language-religion/e02b9546-f5b0-4bed-8d27-2c040b4a9ee4/english_proficiency_wide.csv",
+                    "format": "csv",
+                    "size": 49672,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "ks_household_language_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-ethnic-identity-language-religion/7f552e99-22b1-4159-87df-ff63079ccf57/ks_household_language_wide.csv",
+                    "format": "csv",
+                    "size": 46171,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "main_language_detailed_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-ethnic-identity-language-religion/145fce9c-54ad-4bcd-8075-e65825b30dc6/main_language_detailed_wide.csv",
+                    "format": "csv",
+                    "size": 215546,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "english_proficiency_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-ethnic-identity-language-religion/dbb8809f-a987-447f-a56a-3a5ff71bfaee/english_proficiency_long.csv",
+                    "format": "csv",
+                    "size": 479275,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "ks_household_language_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-ethnic-identity-language-religion/1a2b5cd1-0d13-4e61-a98e-e440c20efdde/ks_household_language_long.csv",
+                    "format": "csv",
+                    "size": 506648,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "main_language_detailed_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-ethnic-identity-language-religion/26ef252c-7387-4a6b-a556-5ec2e5d35531/main_language_detailed_long.csv",
+                    "format": "csv",
+                    "size": 6100986,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "religion_ks_cor_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-ethnic-identity-language-religion/8fa12210-d0e6-45ce-b012-6329d7dfb024/religion_ks_cor_wide.csv",
+                    "format": "csv",
+                    "size": 63043,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "religion_det_cor_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-ethnic-identity-language-religion/41a0d771-176b-42a2-9998-9e5700680b06/religion_det_cor_wide.csv",
+                    "format": "csv",
+                    "size": 131470,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "religion_ks_cor_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-ethnic-identity-language-religion/116558bb-28de-4731-8158-4fcb3e37e64e/religion_ks_cor_long.csv",
+                    "format": "csv",
+                    "size": 469325,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "religion_detailed_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-ethnic-identity-language-religion/79317588-7c5f-4eec-84bf-83396bcfedac/religion_detailed_wide.csv",
+                    "format": "csv",
+                    "size": 131458,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "ks_religion_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-ethnic-identity-language-religion/f183db35-59cf-444a-82cd-9afac52a5bcc/ks_religion_wide.csv",
+                    "format": "csv",
+                    "size": 63050,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "ks_religion_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-ethnic-identity-language-religion/9726da2e-0103-4e92-80b8-c8cc01f14fcb/ks_religion_long.csv",
+                    "format": "csv",
+                    "size": 469332,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "religion_detailed_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-ethnic-identity-language-religion/93638c8f-8397-426e-95c6-56bcb7621d78/religion_detailed_long.csv",
+                    "format": "csv",
+                    "size": 3038850,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "religion_det_cor_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-ethnic-identity-language-religion/517c924e-86d5-4fde-8fa0-528dbc0ff815/religion_det_cor_long.csv",
+                    "format": "csv",
+                    "size": 3038862,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "eilr_wide.zip",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-ethnic-identity-language-religion/c70dd172-425b-4144-9f79-614e0ecb20f2/eilr_wide.zip",
+                    "format": "zip",
+                    "size": 394343,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "religion_original.zip",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-ethnic-identity-language-religion/6f3a1af5-7a9a-4458-8dfd-c6e96cb4b3ac/religion_original.zip",
+                    "format": "zip",
+                    "size": 588613,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "eilr_long.zip",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-ethnic-identity-language-religion/75072b95-4168-4728-b8bd-195c598ecf2f/eilr_long.zip",
+                    "format": "zip",
+                    "size": 3911003,
+                    "mimetype": "application/zip"
+                }
+            ],
+            "faiss_score": 0.8135,
+            "faiss_rank": 32,
+            "rerank_score": -3.394991397857666,
+            "rerank_rank": 11
+        },
+        {
+            "id": "033dcea6-5653-4c68-b2b4-ff54b392bd8a",
+            "title": "LDN Sqr Test Data",
+            "summary": "Test data for LDN Sqr D3 component development. Random data.",
+            "publisher": "",
+            "tags": [
+                "visualisation-data"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": ""
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "json"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/033dcea6-5653-4c68-b2b4-ff54b392bd8a",
+            "download_links": [
+                {
+                    "title": "gla-ldn-sqr-test.json",
+                    "url": "https://data.london.gov.uk/download/ldn-sqr-test-data/b71acf1c-1fc4-4aea-9e6b-22b8996741ee/gla-ldn-sqr-test.json",
+                    "format": "json",
+                    "size": 3211,
+                    "mimetype": "application/json"
+                }
+            ],
+            "faiss_score": 0.8212,
+            "faiss_rank": 15,
+            "rerank_score": -3.431088447570801,
+            "rerank_rank": 12
+        },
+        {
+            "id": "7208ab65-5e64-459b-ac9e-bba1f3cf4c66",
+            "title": "City Tools: London",
+            "summary": "\nThis dataset covers the various technologies used across London boroughs to deliver their services and back office operations. The data includes information on 809 IT systems and their respective contracts and suppliers. \n\nThe data has been visualised in the City Tools: London dashboard and key insights are covered in the accompanying report.\nThis data is provided and maintained by the London Office of Technology and Innovation (LOTI). The data has been prepared to the best of our knowledge, but LOTI accepts no liabilities caused by errors or omissions.\n\nThe following notes define some of the key terms used in the dataset.\n\nBorough refers to a London local authority.\n\nAfC refers to Achieving for Children, a not-for-profit social enterprise set up by the boroughs of Kingston and Richmond, to deliver their children's services.\n\n\nType refers to Corporate and Frontline service areas.\n\n\nCorporate refers to central support functions to service areas.\n\nFrontline refers to services delivered to support residents.\n\n\nService refers to individual service areas.\n\nCapability refers to departments within services areas.\n\nSystem refers to a product licensed and / or operated by a supplier.\n\nSystem Manufacturer refers to a system manufacturer that may license / manufacture more than one product to support a service.\n\nContract end date raw refers to the raw data submitted by boroughs.\n\nContract end date refers to the inferred date in the format dd/mm/yyyy.\n\nSME refers to the Digital Market Place's definition of SME.\n\n\nTrue means the organisation is an SME as defined by the Digital Market Place\n\nFalse means the organisation is not an SME as defined by the Digital Market Place\n\nNull  means that no information was provided\n",
+            "publisher": "LOTI",
+            "tags": [
+                "LOTI",
+                "London Office of Technology and Innovation",
+                "Bloomberg Associates"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": "Borough"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "html",
+                "csv"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/7208ab65-5e64-459b-ac9e-bba1f3cf4c66",
+            "download_links": [
+                {
+                    "title": "LOTI_City_Tools_London_Dashboard_June2019_.csv",
+                    "url": "https://data.london.gov.uk/download/citytools/c1052e76-b97f-483a-add9-bcde934417c5/LOTI_City_Tools_London_Dashboard_June2019_.csv",
+                    "format": "csv",
+                    "size": 113145,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "City Tools: Interactive Dashboard",
+                    "url": "https://data.london.gov.uk/download/citytools/486bdd0d-734e-4f60-8cfe-dde126f9e8f4/City%20Tools:%20Interactive%20Dashboard",
+                    "format": "html",
+                    "size": 20786,
+                    "mimetype": "text/html; charset=utf-8"
+                }
+            ],
+            "faiss_score": 0.8238,
+            "faiss_rank": 10,
+            "rerank_score": -3.4723806381225586,
+            "rerank_rank": 13
+        },
+        {
+            "id": "a40c80df-b894-4c5b-971b-e8889065139b",
+            "title": "Referral planning applications between 2011-2022",
+            "summary": "This dataset includes information on the planning applications referable to the Mayor between January 2011 - December 2022. Planning applications included within this dataset are those that were considered by the Mayor at stage 2 and stage 3 between 1 January 2011 and 31 December 2022.\nInformation such as number of residential units, affordable housing provision, number of storeys and the Mayoral decision have been recorded for each application.\nThe data has been compiled manually and may be subject to human error, although efforts have been taken to verify information and reduce inaccuracies. If you do have any concerns and/or queries relating to any aspect of the data provided, please get in touch with planningsupport@london.gov.uk. \nThis file was updated to include data to 31st December 2022 on 18 August 2023. An amended version was uploaded on 16 April 2024.",
+            "publisher": "GLA Viability Team",
+            "tags": [],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": "Local Authority"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/a40c80df-b894-4c5b-971b-e8889065139b",
+            "download_links": [
+                {
+                    "title": "Referable planning application data 2011-2023.xlsx",
+                    "url": "https://data.london.gov.uk/download/referral-planning-applications-since-2011/47b49dde-d8ac-4229-b36f-900ca34c7490/Referable%20planning%20application%20data%202011-2023.xlsx",
+                    "format": "spreadsheet",
+                    "size": 702750,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "faiss_score": 0.816,
+            "faiss_rank": 25,
+            "rerank_score": -3.521930694580078,
+            "rerank_rank": 14
+        },
+        {
+            "id": "19c683b3-9d57-4631-8cf9-9a2f7ef25d6e",
+            "title": "Application of PAS 2070: London case study",
+            "summary": "These datasets are for the London case study applying the PAS 2070 British Standard for the assessment of a city's greenhouse gas emissions. They include:  - the full case study datasets - Source documentation: A summary of the source data and weblinks where data is publicly available. - A verification report: Verifying that the case study is in compliance with the PAS 2070\nDownload data - Zip (7MB)\nLink to Executive Summary Link to full case study and PAS 2070 Standard\nSource data which is not available publically elsewhere is also published on this page. This includes: - Emissions Factors: 'Defra DECC 2012 GHG Conversion factors', 'Aviation Efs', and 'AFOLU' - Railways B3: 'ORR 2013 Freight Moved' - Navigation B3: 'DfT 2014 Sea Passengers 2010 London Ports' and 'DfT 2014 Sea Passengers 2010 Other Ports' - Aviation B3: 'FlightGlobal 2013 aviation activity data 2010-2012' - AFOLU D1/D2: 'R-AEA 2014 AFOLU' - Waste E2: 'Thames Water Ofwat July 2010 Return', 'Thames Water Ofwat July 2010 Return Calculations' - Consumption-Based Methodology: 'Leeds University Consumption-Based GHG Emissions of London Final Report' and 'Leeds University Consumption-Based GHG Emissions of London Data'",
+            "publisher": "Environment Team (GLA)",
+            "tags": [
+                "scope-3-emissions",
+                "co2-emissions",
+                "energy",
+                "climate-change"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "Greater London",
+                "smallest_geography": ""
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/19c683b3-9d57-4631-8cf9-9a2f7ef25d6e",
+            "download_links": [
+                {
+                    "title": "PAS-2070.zip",
+                    "url": "https://data.london.gov.uk/download/application-pas-2070-london-case-study/1ec98e58-43fc-42ca-b491-d59ba744c3c5/PAS-2070.zip",
+                    "format": "spreadsheet",
+                    "size": 6805315,
+                    "mimetype": "application/zip"
+                }
+            ],
+            "faiss_score": 0.8127,
+            "faiss_rank": 38,
+            "rerank_score": -3.523827075958252,
+            "rerank_rank": 15
+        },
+        {
+            "id": "35b847fb-9bc1-4353-83a4-4a1ed3c928c2",
+            "title": "WALI-TEST DATA 1",
+            "summary": "",
+            "publisher": "",
+            "tags": [],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": ""
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "csv"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/35b847fb-9bc1-4353-83a4-4a1ed3c928c2",
+            "download_links": [
+                {
+                    "title": "phe_deaths_age_london.csv",
+                    "url": "https://data.london.gov.uk/download/wali-test-data-1/798849ba-f606-4bfb-a9db-8774ff3016e8/phe_deaths_age_london.csv",
+                    "format": "csv",
+                    "size": 980615,
+                    "mimetype": "text/csv"
+                }
+            ],
+            "faiss_score": 0.832,
+            "faiss_rank": 4,
+            "rerank_score": -3.530466318130493,
+            "rerank_rank": 16
+        },
+        {
+            "id": "8ed9861f-e4a3-4d8d-a8c6-da1b5220b06a",
+            "title": "Open streetworks",
+            "summary": "\nThis dataset contains details of open street and roadworks permits and private activities taking place on the highway or on private land within the UK Power Networks footprint. See what work we are doing, where and when you can expect us to finish.  \n",
+            "publisher": "UK Power Networks",
+            "tags": [
+                "streetworks",
+                "power",
+                "electricity",
+                "traffic management"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": "Point Location"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "html"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/8ed9861f-e4a3-4d8d-a8c6-da1b5220b06a",
+            "download_links": [
+                {
+                    "title": "table",
+                    "url": "https://data.london.gov.uk/download/open-streetworks/ca0b3dab-e3d0-4634-8015-f5d4c0bdd673/table",
+                    "format": "html",
+                    "size": 153174,
+                    "mimetype": "text/html; charset=utf-8"
+                }
+            ],
+            "faiss_score": 0.813,
+            "faiss_rank": 35,
+            "rerank_score": -3.535647392272949,
+            "rerank_rank": 17
+        },
+        {
+            "id": "26b81470-5d14-4724-807e-de4aeb3b720b",
+            "title": "Proposed streetworks",
+            "summary": "\nThis dataset contains details of our proposed street and roadwork permit applications taking place on the highway within UK Power Networks' footprint.\n",
+            "publisher": "UK Power Networks",
+            "tags": [
+                "streetworks",
+                "electricity",
+                "power",
+                "traffic management"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": "Point Location"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "html"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/26b81470-5d14-4724-807e-de4aeb3b720b",
+            "download_links": [
+                {
+                    "title": "table",
+                    "url": "https://data.london.gov.uk/download/proposed-streetworks/ac47ec33-b5a4-43bd-bd77-88c51a0292b7/table",
+                    "format": "html",
+                    "size": 150897,
+                    "mimetype": "text/html; charset=utf-8"
+                }
+            ],
+            "faiss_score": 0.8219,
+            "faiss_rank": 12,
+            "rerank_score": -3.5859999656677246,
+            "rerank_rank": 18
+        },
+        {
+            "id": "f2bc6f76-042d-46f0-a16b-b48f548fbd9a",
+            "title": "Library of housing types",
+            "summary": "Library of housing types for use with SketchUp",
+            "publisher": "GLA",
+            "tags": [],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": ""
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "skp"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/f2bc6f76-042d-46f0-a16b-b48f548fbd9a",
+            "download_links": [
+                {
+                    "title": "Linear Urban Block 2.skp",
+                    "url": "https://data.london.gov.uk/download/library-of-housing-types/82cb4be2-6e0f-42e0-9cbb-8dc6457f8842/Linear%20Urban%20Block%202.skp",
+                    "format": "skp",
+                    "size": "Unknown size",
+                    "mimetype": "Unknown mimetype"
+                },
+                {
+                    "title": "Linear Urban Block 4.skp",
+                    "url": "https://data.london.gov.uk/download/library-of-housing-types/5c7f9067-a49f-4807-82a0-ad6f103cf20f/Linear%20Urban%20Block%204.skp",
+                    "format": "skp",
+                    "size": "Unknown size",
+                    "mimetype": "Unknown mimetype"
+                },
+                {
+                    "title": "Tower 2.skp",
+                    "url": "https://data.london.gov.uk/download/library-of-housing-types/b3064366-755f-418d-8845-f2b451e67983/Tower%202.skp",
+                    "format": "skp",
+                    "size": 28664,
+                    "mimetype": "application/vnd.koan"
+                },
+                {
+                    "title": "Linear Urban Block 6.skp",
+                    "url": "https://data.london.gov.uk/download/library-of-housing-types/022ec588-a034-4ad0-8f49-a81f32a85d2a/Linear%20Urban%20Block%206.skp",
+                    "format": "skp",
+                    "size": 34345,
+                    "mimetype": "application/vnd.koan"
+                },
+                {
+                    "title": "Urban Villa Block 2.skp",
+                    "url": "https://data.london.gov.uk/download/library-of-housing-types/a5991f36-4416-4fdf-9606-924538f79e16/Urban%20Villa%20Block%202.skp",
+                    "format": "skp",
+                    "size": 26216,
+                    "mimetype": "application/vnd.koan"
+                },
+                {
+                    "title": "Urban Villa Block 1.skp",
+                    "url": "https://data.london.gov.uk/download/library-of-housing-types/219e45ad-30af-41c4-a2d5-845c08c559e2/Urban%20Villa%20Block%201.skp",
+                    "format": "skp",
+                    "size": 25536,
+                    "mimetype": "application/vnd.koan"
+                },
+                {
+                    "title": "Urban Villa Block 3.skp",
+                    "url": "https://data.london.gov.uk/download/library-of-housing-types/84241337-547a-4dde-8505-a086ea07c83d/Urban%20Villa%20Block%203.skp",
+                    "format": "skp",
+                    "size": 26460,
+                    "mimetype": "application/vnd.koan"
+                },
+                {
+                    "title": "Urban Villa Block 4.skp",
+                    "url": "https://data.london.gov.uk/download/library-of-housing-types/1a64a168-23f1-4484-8cc4-30a343589777/Urban%20Villa%20Block%204.skp",
+                    "format": "skp",
+                    "size": 26514,
+                    "mimetype": "application/vnd.koan"
+                },
+                {
+                    "title": "Linear Urban Block 1.skp",
+                    "url": "https://data.london.gov.uk/download/library-of-housing-types/b5e0223a-76fe-45a2-920f-dde1d8040080/Linear%20Urban%20Block%201.skp",
+                    "format": "skp",
+                    "size": 26180,
+                    "mimetype": "application/vnd.koan"
+                },
+                {
+                    "title": "Urban Villa Block 5.skp",
+                    "url": "https://data.london.gov.uk/download/library-of-housing-types/687fb2e2-b1e4-4f52-a66e-f9773112123a/Urban%20Villa%20Block%205.skp",
+                    "format": "skp",
+                    "size": 27457,
+                    "mimetype": "application/vnd.koan"
+                },
+                {
+                    "title": "Tower 1.skp",
+                    "url": "https://data.london.gov.uk/download/library-of-housing-types/19617132-632a-41f8-a86d-80b12615f145/Tower%201.skp",
+                    "format": "skp",
+                    "size": 30066,
+                    "mimetype": "application/vnd.koan"
+                },
+                {
+                    "title": "Linear Urban Block 5.skp",
+                    "url": "https://data.london.gov.uk/download/library-of-housing-types/4fcbb4aa-4ef1-46a9-8067-caffc49bd6fd/Linear%20Urban%20Block%205.skp",
+                    "format": "skp",
+                    "size": 32698,
+                    "mimetype": "application/vnd.koan"
+                },
+                {
+                    "title": "Tower 5.skp",
+                    "url": "https://data.london.gov.uk/download/library-of-housing-types/3521bbeb-b452-4b1a-8f64-542b5785f094/Tower%205.skp",
+                    "format": "skp",
+                    "size": 28010,
+                    "mimetype": "application/vnd.koan"
+                },
+                {
+                    "title": "Terrace House 2.skp",
+                    "url": "https://data.london.gov.uk/download/library-of-housing-types/dd3c6460-02c1-4ce9-aeae-873deab2cc70/Terrace%20House%202.skp",
+                    "format": "skp",
+                    "size": 18638,
+                    "mimetype": "application/vnd.koan"
+                },
+                {
+                    "title": "Tower 3.skp",
+                    "url": "https://data.london.gov.uk/download/library-of-housing-types/13245e3a-9397-43f3-b4e6-5dee1e09eeba/Tower%203.skp",
+                    "format": "skp",
+                    "size": 30313,
+                    "mimetype": "application/vnd.koan"
+                },
+                {
+                    "title": "Terrace House 1.skp",
+                    "url": "https://data.london.gov.uk/download/library-of-housing-types/3377c23b-baa5-4535-a25b-8f2a1e391bc1/Terrace%20House%201.skp",
+                    "format": "skp",
+                    "size": 21255,
+                    "mimetype": "application/vnd.koan"
+                },
+                {
+                    "title": "Tower 4.skp",
+                    "url": "https://data.london.gov.uk/download/library-of-housing-types/324870f0-e051-4928-94f8-6daee250cb8e/Tower%204.skp",
+                    "format": "skp",
+                    "size": 31655,
+                    "mimetype": "application/vnd.koan"
+                },
+                {
+                    "title": "Linear Urban Block 3.skp",
+                    "url": "https://data.london.gov.uk/download/library-of-housing-types/54f5e56c-250a-42ef-9fc3-0df8e1da1f4c/Linear%20Urban%20Block%203.skp",
+                    "format": "skp",
+                    "size": 30148,
+                    "mimetype": "application/vnd.koan"
+                }
+            ],
+            "faiss_score": 0.8244,
+            "faiss_rank": 8,
+            "rerank_score": -3.596290111541748,
+            "rerank_rank": 19
+        },
+        {
+            "id": "65ce1474-7e0f-4d5e-a6ce-ebba02aff3a4",
+            "title": "Green Job Postings",
+            "summary": "\nAbout this dataset\n\n\nThis page presents experimental analysis related to green jobs and skills in London,\n using online job postings data provided by Lightcast. This near real-time data can be used to help track and assess the demand for green expertise in London.\n\nWhen using outputs from this analysis it is important to be aware of the following caveats:\n\n\n\nThe methodology used to identify green job postings remains experimental and subject to revision. \n\nOnline job postings may not fully reflect the overall composition of vacancies in the London labour market, as the number of vacancies is more evenly distributed across occupational groups in other data sources.\n\nThe analysis is not intended to be comprehensive or exhaustive. It is a snapshot analysis of key data as it pertains to London.\n\n\nThe analysis does not represent the full body of evidence on which Mayoral Policies are, or will be, based.\n\n\n\nOutputs should be triangulated with other sources of information and analysis to develop a rounded statistical picture of any specific policy issues.\n",
+            "publisher": "",
+            "tags": [
+                "green jobs",
+                "green economy",
+                "job-postings",
+                "vacancies",
+                "skills",
+                "employment",
+                "labour market"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": "Greater London"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "html"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/65ce1474-7e0f-4d5e-a6ce-ebba02aff3a4",
+            "download_links": [
+                {
+                    "title": "Green job postings analysis update - December 2024",
+                    "url": "https://data.london.gov.uk/download/green-jobs-and-skills-postings/d4edd3cd-17f6-4c54-b5bd-1f21d4cf9567/Green%20job%20postings%20analysis%20update%20-%20December%202024",
+                    "format": "html",
+                    "size": 2613145,
+                    "mimetype": "text/html"
+                }
+            ],
+            "faiss_score": 0.8151,
+            "faiss_rank": 27,
+            "rerank_score": -3.5976040363311768,
+            "rerank_rank": 20
+        },
+        {
+            "id": "01048ac3-948f-41ce-9c5f-733e262ae2e8",
+            "title": "url-test-newlink",
+            "summary": "",
+            "publisher": "",
+            "tags": [],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": ""
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "txt"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/01048ac3-948f-41ce-9c5f-733e262ae2e8",
+            "download_links": [
+                {
+                    "title": "resource-test-1.txt",
+                    "url": "https://data.london.gov.uk/download/url-test-xyz/764ee1c2-8ae9-48d4-8cf9-d224c5384700/resource-test-1.txt",
+                    "format": "txt",
+                    "size": 5,
+                    "mimetype": "text/plain"
+                }
+            ],
+            "faiss_score": 0.8106,
+            "faiss_rank": 45,
+            "rerank_score": -3.6071090698242188,
+            "rerank_rank": 21
+        },
+        {
+            "id": "84e62956-44d0-4dbe-a7f1-c8632a0de4aa",
+            "title": "Test Dataset for Harvesting Development",
+            "summary": "Test dataset for evaluating and configuring harvesters",
+            "publisher": "",
+            "tags": [],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": ""
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "txt",
+                "image",
+                "document"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/84e62956-44d0-4dbe-a7f1-c8632a0de4aa",
+            "download_links": [
+                {
+                    "title": "renamed-testfile.txt",
+                    "url": "https://data.london.gov.uk/download/test-dataset-for-harvesting-development/828db682-49bb-48f6-9d5c-20554cc68e58/renamed-testfile.txt",
+                    "format": "txt",
+                    "size": 20,
+                    "mimetype": "text/plain"
+                },
+                {
+                    "title": "Cb_test_doc.docx",
+                    "url": "https://data.london.gov.uk/download/test-dataset-for-harvesting-development/19f3dce7-8311-4750-8a61-e17a038b2f6b/Cb_test_doc.docx",
+                    "format": "document",
+                    "size": 12472,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "title": "cat.jpeg",
+                    "url": "https://data.london.gov.uk/download/test-dataset-for-harvesting-development/1b5ec20f-4cbe-47a3-acd9-1e8ff1102a35/cat.jpeg",
+                    "format": "image",
+                    "size": 4982,
+                    "mimetype": "image/jpeg"
+                }
+            ],
+            "faiss_score": 0.8484,
+            "faiss_rank": 1,
+            "rerank_score": -3.617614984512329,
+            "rerank_rank": 22
+        },
+        {
+            "id": "5743b248-2a83-460e-a0ed-f79a273f576a",
+            "title": "Local Authority Collected Waste Management, London",
+            "summary": "These datasets contain the annual results for local authority collected waste in London and England.\nLocal authority collected waste statistics from the quarterly reporting to WasteDataFlow. Data in this table shows Local Authority, London and England data.\nInformation on the median cost of different types of waste management is also included.\nhttp://www.london.gov.uk/priorities/environment/publications/the-mayors-waste-management-strategies\nhttps://www.gov.uk/government/statistics/local-authority-collected-waste-for-england-quarterly-estimates\nhttp://www.wastedataflow.org/reports/default.aspx",
+            "publisher": "Opinion Research and General Statistics (GLA)",
+            "tags": [
+                "landfill",
+                "rubbish",
+                "waste",
+                "recycling"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "",
+                "smallest_geography": "Greater London"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/5743b248-2a83-460e-a0ed-f79a273f576a",
+            "download_links": [
+                {
+                    "title": "la-collected-waste.xls",
+                    "url": "https://data.london.gov.uk/download/local-authority-collected-waste-management-london/4d88d88c-31a7-468b-95e9-49fba78ad20e/la-collected-waste.xls",
+                    "format": "spreadsheet",
+                    "size": 69915,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                },
+                {
+                    "title": "la-collected-waste-quarterly [DISCONTINUED]",
+                    "url": "https://data.london.gov.uk/download/local-authority-collected-waste-management-london/c49bbd3f-b1f8-49d3-8da4-db8cf25f3d90/la-collected-waste-quarterly%20[DISCONTINUED]",
+                    "format": "spreadsheet",
+                    "size": 173056,
+                    "mimetype": "application/vnd.ms-excel"
+                }
+            ],
+            "faiss_score": 0.8242,
+            "faiss_rank": 9,
+            "rerank_score": -3.622837781906128,
+            "rerank_rank": 23
+        },
+        {
+            "id": "c0250e07-9a2b-4a36-bdc8-bb27d5a17966",
+            "title": "Number of take-away food shops and mobile food stands",
+            "summary": "",
+            "publisher": "",
+            "tags": [],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": ""
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/c0250e07-9a2b-4a36-bdc8-bb27d5a17966",
+            "download_links": [
+                {
+                    "title": "Number of take-away food shops and mobile food stands.xls",
+                    "url": "https://data.london.gov.uk/download/number-of-take-away-food-shops-and-mobile-food-stands/fce85745-ee96-4501-8790-79c57ea0a224/Number%20of%20take-away%20food%20shops%20and%20mobile%20food%20stands.xls",
+                    "format": "spreadsheet",
+                    "size": 22752,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "faiss_score": 0.8126,
+            "faiss_rank": 39,
+            "rerank_score": -3.6333959102630615,
+            "rerank_rank": 24
+        },
+        {
+            "id": "53e1159a-c90e-4c44-b0a4-8d39f237374f",
+            "title": "Value of food being purchased through PAL",
+            "summary": "",
+            "publisher": "",
+            "tags": [],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": ""
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/53e1159a-c90e-4c44-b0a4-8d39f237374f",
+            "download_links": [
+                {
+                    "title": "Value of food procured through PAL.xlsx",
+                    "url": "https://data.london.gov.uk/download/value-of-food-being-purchased-through-pal/59fd687a-dfe8-4063-9c4b-6c910231be09/Value%20of%20food%20procured%20through%20PAL.xlsx",
+                    "format": "spreadsheet",
+                    "size": 19806,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "faiss_score": 0.8108,
+            "faiss_rank": 43,
+            "rerank_score": -3.633826732635498,
+            "rerank_rank": 25
+        },
+        {
+            "id": "4fa7e50b-45de-4864-96bd-3786bee8b43b",
+            "title": "Key Stage 1 Results by Borough (Old Measures)",
+            "summary": "This dataset will no longer be updated. For the latest figures click here.\nPercentage of pupils achieving level 2 or above in Key Stage 1 teacher assessments by gender and location of school/educational institution up to the school year 2015. Also includes data by region by ethnic group, language, and free school meal (FSM) eligibility (up to the year 2016).",
+            "publisher": "Greater London Authority",
+            "tags": [],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": ""
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/4fa7e50b-45de-4864-96bd-3786bee8b43b",
+            "download_links": [
+                {
+                    "title": "Key stage 1 Results by Free School Meal Eligibility",
+                    "url": "https://data.london.gov.uk/download/key-stage-1-results-old-measures/1f2568df-7013-4df3-95b2-071f6d347e32/Key%20stage%201%20Results%20by%20Free%20School%20Meal%20Eligibility",
+                    "format": "spreadsheet",
+                    "size": 229888,
+                    "mimetype": "application/vnd.ms-excel"
+                },
+                {
+                    "title": "Key Stage 1 Results by First Language",
+                    "url": "https://data.london.gov.uk/download/key-stage-1-results-old-measures/3cb6ba41-7a40-4860-85ba-c86123e2c8de/Key%20Stage%201%20Results%20by%20First%20Language",
+                    "format": "spreadsheet",
+                    "size": 283648,
+                    "mimetype": "application/vnd.ms-excel"
+                },
+                {
+                    "title": "Key Stage 1 Results",
+                    "url": "https://data.london.gov.uk/download/key-stage-1-results-old-measures/871a21b6-2b5f-4c94-87a4-74c89e9ebed1/Key%20Stage%201%20Results",
+                    "format": "spreadsheet",
+                    "size": 192000,
+                    "mimetype": "application/vnd.ms-excel"
+                },
+                {
+                    "title": "Key Stage 1 Results by Ethnicity",
+                    "url": "https://data.london.gov.uk/download/key-stage-1-results-old-measures/e65f5aa8-0cbf-4efc-8262-a743945abdde/Key%20Stage%201%20Results%20by%20Ethnicity",
+                    "format": "spreadsheet",
+                    "size": 368640,
+                    "mimetype": "application/vnd.ms-excel"
+                }
+            ],
+            "faiss_score": 0.817,
+            "faiss_rank": 24,
+            "rerank_score": -3.716296672821045,
+            "rerank_rank": 26
+        },
+        {
+            "id": "de995dff-c278-4acd-b397-fe5c156215b9",
+            "title": "WALI-TeST-4",
+            "summary": "",
+            "publisher": "",
+            "tags": [],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": ""
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "csv"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/de995dff-c278-4acd-b397-fe5c156215b9",
+            "download_links": [
+                {
+                    "title": "phe_deaths_age_london.csv",
+                    "url": "https://data.london.gov.uk/download/wali-test-4/226d1ca6-522d-4585-8eef-4113069b8360/phe_deaths_age_london.csv",
+                    "format": "csv",
+                    "size": 980615,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "phe_deaths_age_london.csv",
+                    "url": "https://data.london.gov.uk/download/wali-test-4/4aacffc2-5ec4-4fd3-bab9-c1af6e5ec587/phe_deaths_age_london.csv",
+                    "format": "csv",
+                    "size": 980615,
+                    "mimetype": "text/csv"
+                }
+            ],
+            "faiss_score": 0.8117,
+            "faiss_rank": 40,
+            "rerank_score": -3.729326009750366,
+            "rerank_rank": 27
+        },
+        {
+            "id": "eb862901-f429-4efd-92e6-e919e74d3b01",
+            "title": "Accessibility of London Underground Stations",
+            "summary": "Detail relating to the physical accessibility of London Underground stations.  This dataset provides walking distances, number of stairs, location of amenities and a whole host of other data relating to the physical design of London Underground stations.\n\nThis dataset consists of 18 separate tables relating to various accessibility issues.\n\nThis data will be made available shortly in an open format, but requires further processing.  Excel versions are available via the links below. We will also be making the various links to photographs within some of the spreadsheets available as a related table.\n",
+            "publisher": "LU Accessibility and Inclusion Team",
+            "tags": [
+                "transport",
+                "accessibility",
+                "stations"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "Greater London",
+                "smallest_geography": "Point Location"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/eb862901-f429-4efd-92e6-e919e74d3b01",
+            "download_links": [
+                {
+                    "title": "Detailed information on Toilets",
+                    "url": "https://data.london.gov.uk/download/accessibility-london-underground-stations/06b792e0-1f21-487e-a746-c333bc4b113f/Detailed%20information%20on%20Toilets",
+                    "format": "",
+                    "size": 1984000,
+                    "mimetype": "application/vnd.ms-excel"
+                },
+                {
+                    "title": "Detailed information regarding Car Parks",
+                    "url": "https://data.london.gov.uk/download/accessibility-london-underground-stations/25524e7d-1d2b-4dc4-9c2f-178470f950f3/Detailed%20information%20regarding%20Car%20Parks",
+                    "format": "",
+                    "size": 225280,
+                    "mimetype": "application/vnd.ms-excel"
+                },
+                {
+                    "title": "Text information on all sub-objects",
+                    "url": "https://data.london.gov.uk/download/accessibility-london-underground-stations/28be18bf-b38c-4737-aa2d-1cd05cf61a2a/Text%20information%20on%20all%20sub-objects",
+                    "format": "",
+                    "size": 304640,
+                    "mimetype": "application/vnd.ms-excel"
+                },
+                {
+                    "title": "Accessible Platforms",
+                    "url": "https://data.london.gov.uk/download/accessibility-london-underground-stations/29bc38b9-ee42-4324-8340-f512ba71c9f6/Accessible%20Platforms",
+                    "format": "spreadsheet",
+                    "size": 90624,
+                    "mimetype": "application/vnd.ms-excel"
+                },
+                {
+                    "title": "Comments of issues by station by object",
+                    "url": "https://data.london.gov.uk/download/accessibility-london-underground-stations/2df7a1e4-0d43-432a-b54d-ac7dc4a9b467/Comments%20of%20issues%20by%20station%20by%20object",
+                    "format": "",
+                    "size": 705024,
+                    "mimetype": "application/vnd.ms-excel"
+                },
+                {
+                    "title": "Detailed information regarding London Underground Ticket Offices",
+                    "url": "https://data.london.gov.uk/download/accessibility-london-underground-stations/39a265d1-ae76-4e75-bc81-fcb23216f249/Detailed%20information%20regarding%20London%20Underground%20Ticket%20Offices",
+                    "format": "",
+                    "size": 684032,
+                    "mimetype": "application/vnd.ms-excel"
+                },
+                {
+                    "title": "Information on Multi Stairs within Stations",
+                    "url": "https://data.london.gov.uk/download/accessibility-london-underground-stations/3d1b361e-13be-4bea-8f67-dcab818aa2b6/Information%20on%20Multi%20Stairs%20within%20Stations",
+                    "format": "",
+                    "size": 1483264,
+                    "mimetype": "application/vnd.ms-excel"
+                },
+                {
+                    "title": "Detailed information on Escalators in Stations",
+                    "url": "https://data.london.gov.uk/download/accessibility-london-underground-stations/3eb9987c-5fba-4774-93d2-a5c4851971e5/Detailed%20information%20on%20Escalators%20in%20Stations",
+                    "format": "",
+                    "size": 361472,
+                    "mimetype": "application/vnd.ms-excel"
+                },
+                {
+                    "title": "Detailed information regarding Help Points",
+                    "url": "https://data.london.gov.uk/download/accessibility-london-underground-stations/4734b28f-b0b0-44f2-9ec9-c0a76ea17457/Detailed%20information%20regarding%20Help%20Points",
+                    "format": "",
+                    "size": 3032576,
+                    "mimetype": "application/vnd.ms-excel"
+                },
+                {
+                    "title": "All Questions asked of the on Duty Supervisor",
+                    "url": "https://data.london.gov.uk/download/accessibility-london-underground-stations/4e796af4-b39c-4bff-a6d4-1818edde18ef/All%20Questions%20asked%20of%20the%20on%20Duty%20Supervisor",
+                    "format": "",
+                    "size": 92672,
+                    "mimetype": "application/vnd.ms-excel"
+                },
+                {
+                    "title": "Detailed information regarding Ticket Machines",
+                    "url": "https://data.london.gov.uk/download/accessibility-london-underground-stations/5515bd97-b089-42bd-bcd7-eb90af73aace/Detailed%20information%20regarding%20Ticket%20Machines",
+                    "format": "",
+                    "size": 1585152,
+                    "mimetype": "application/vnd.ms-excel"
+                },
+                {
+                    "title": "Station Access using alternative entrances",
+                    "url": "https://data.london.gov.uk/download/accessibility-london-underground-stations/57333b0a-3d5f-4e97-ab30-3e5d1a9ada29/Station%20Access%20using%20alternative%20entrances",
+                    "format": "",
+                    "size": 24576,
+                    "mimetype": "application/vnd.ms-excel"
+                },
+                {
+                    "title": "Detailed information on London Underground Entrances",
+                    "url": "https://data.london.gov.uk/download/accessibility-london-underground-stations/926a67ba-4b25-4e57-a180-d5424ecb98dc/Detailed%20information%20on%20London%20Underground%20Entrances",
+                    "format": "",
+                    "size": 982016,
+                    "mimetype": "application/vnd.ms-excel"
+                },
+                {
+                    "title": "Detailed information regarding Ticket Halls",
+                    "url": "https://data.london.gov.uk/download/accessibility-london-underground-stations/aec4cff0-1779-4a15-a02d-6c899c79104f/Detailed%20information%20regarding%20Ticket%20Halls",
+                    "format": "",
+                    "size": 749056,
+                    "mimetype": "application/vnd.ms-excel"
+                },
+                {
+                    "title": "Detailed information on Barriers",
+                    "url": "https://data.london.gov.uk/download/accessibility-london-underground-stations/bee62c83-2ae5-4163-b6c9-ded57a93a3e7/Detailed%20information%20on%20Barriers",
+                    "format": "",
+                    "size": 534528,
+                    "mimetype": "application/vnd.ms-excel"
+                },
+                {
+                    "title": "Detailed information regarding Stairs",
+                    "url": "https://data.london.gov.uk/download/accessibility-london-underground-stations/ce7dab9c-d610-4c35-b307-bf549ad91769/Detailed%20information%20regarding%20Stairs",
+                    "format": "",
+                    "size": 1053184,
+                    "mimetype": "application/vnd.ms-excel"
+                },
+                {
+                    "title": "Information on Step free stations by Step Gap",
+                    "url": "https://data.london.gov.uk/download/accessibility-london-underground-stations/d10741d4-26f1-4b05-80d0-c6ae43c70702/Information%20on%20Step%20free%20stations%20by%20Step%20Gap",
+                    "format": "",
+                    "size": 37376,
+                    "mimetype": "application/vnd.ms-excel"
+                },
+                {
+                    "title": "Station Access using alternative entrances",
+                    "url": "https://data.london.gov.uk/download/accessibility-london-underground-stations/dbeaef00-214c-43d3-8a40-3ab58d0eb9ec/Station%20Access%20using%20alternative%20entrances",
+                    "format": "",
+                    "size": 607,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "Detailed information Regarding Lifts",
+                    "url": "https://data.london.gov.uk/download/accessibility-london-underground-stations/e8dda16a-3bd3-48de-a9d8-bd533a2c4a93/Detailed%20information%20Regarding%20Lifts",
+                    "format": "",
+                    "size": 331776,
+                    "mimetype": "application/vnd.ms-excel"
+                }
+            ],
+            "faiss_score": 0.8172,
+            "faiss_rank": 23,
+            "rerank_score": -3.8687078952789307,
+            "rerank_rank": 28
+        },
+        {
+            "id": "52588cef-e88b-427b-a41b-13cf389dcfbf",
+            "title": "Key Stage 2 Results by Borough (Old Measures)",
+            "summary": "\nThis dataset will no longer be updated. For the latest figures click here.\n\nPercentage of pupils achieving level 4 or above in their national curriculum assessments at key stage 2 by gender and location of school/educational institution up to the school year 2015. Also includes data by region by ethnic group, language, and free school meal (FSM) eligibility.",
+            "publisher": "Greater London Authority",
+            "tags": [],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": ""
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/52588cef-e88b-427b-a41b-13cf389dcfbf",
+            "download_links": [
+                {
+                    "title": "Key Stage 2 Results by Free School Meal Eligibility ",
+                    "url": "https://data.london.gov.uk/download/key-stage-2-results-by-borough-old-measures/1b6fde1a-5d89-43b4-8e3b-78b910d12acb/Key%20Stage%202%20Results%20by%20Free%20School%20Meal%20Eligibility%20",
+                    "format": "spreadsheet",
+                    "size": 225280,
+                    "mimetype": "application/vnd.ms-excel"
+                },
+                {
+                    "title": " Key Stage 2 Results",
+                    "url": "https://data.london.gov.uk/download/key-stage-2-results-by-borough-old-measures/49f18acc-ef24-4e36-b501-74cd201abcc7/%20Key%20Stage%202%20Results",
+                    "format": "spreadsheet",
+                    "size": 173568,
+                    "mimetype": "application/vnd.ms-excel"
+                },
+                {
+                    "title": "Key Stage 2 Results by Ethnicity ",
+                    "url": "https://data.london.gov.uk/download/key-stage-2-results-by-borough-old-measures/63e75e0b-b5c8-4b1f-a11a-f56a99e5a8ba/Key%20Stage%202%20Results%20by%20Ethnicity%20",
+                    "format": "spreadsheet",
+                    "size": 592896,
+                    "mimetype": "application/vnd.ms-excel"
+                },
+                {
+                    "title": " Key Stage 2 Results by First Language ",
+                    "url": "https://data.london.gov.uk/download/key-stage-2-results-by-borough-old-measures/e7060602-9122-4c10-8b29-4827935dec0c/%20Key%20Stage%202%20Results%20by%20First%20Language%20",
+                    "format": "spreadsheet",
+                    "size": 320512,
+                    "mimetype": "application/vnd.ms-excel"
+                }
+            ],
+            "faiss_score": 0.8221,
+            "faiss_rank": 11,
+            "rerank_score": -3.87428617477417,
+            "rerank_rank": 29
+        },
+        {
+            "id": "4b102fd5-98b4-465a-9b44-7caa4f999e04",
+            "title": "a-public-health-approach-to-serious-youth-violence",
+            "summary": "This dataset has been relocated. Please find the updated version at https://data.london.gov.uk/dataset/serious-youth-violence\n",
+            "publisher": "",
+            "tags": [],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": ""
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "Unknown Format"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/4b102fd5-98b4-465a-9b44-7caa4f999e04",
+            "download_links": [],
+            "faiss_score": 0.832,
+            "faiss_rank": 5,
+            "rerank_score": -3.924008846282959,
+            "rerank_rank": 30
+        },
+        {
+            "id": "2a8c324c-31c1-4c5e-b835-47538dcc26b4",
+            "title": "WALI-TEST-1",
+            "summary": "",
+            "publisher": "",
+            "tags": [],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": ""
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "csv"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/2a8c324c-31c1-4c5e-b835-47538dcc26b4",
+            "download_links": [
+                {
+                    "title": "phe_deaths_age_london.csv",
+                    "url": "https://data.london.gov.uk/download/wali-test-f/2c40e903-980f-4962-b02f-ab2decb32945/phe_deaths_age_london.csv",
+                    "format": "csv",
+                    "size": 980615,
+                    "mimetype": "text/csv"
+                }
+            ],
+            "faiss_score": 0.813,
+            "faiss_rank": 34,
+            "rerank_score": -3.9362504482269287,
+            "rerank_rank": 31
+        },
+        {
+            "id": "d43f875d-8765-4b41-9958-82b355c9efa9",
+            "title": "GiGL Spaces to Visit",
+            "summary": "\nIntroduction\n\n\nThe GiGL Spaces to Visit dataset provides locations and boundaries for open space sites in Greater London that are available to the public as destinations for leisure, activities and community engagement. It includes green corridors that provide opportunities for walking and cycling.\n\n\nThe dataset has been created by Greenspace Information for Greater London CIC (GiGL). As London’s Environmental Records Centre, GiGL mobilises, curates and shares data that underpin our knowledge of London’s natural environment. We provide impartial evidence to support informed discussion and decision making in policy and practice. \n\n\nGiGL maps under licence from the Greater London Authority. \n\n\nDescription\n\n\nThis dataset is a sub-set of the   GiGL Open Space dataset, the most comprehensive dataset available of open spaces in London. Sites are selected for inclusion in Spaces to Visit based on their public accessibility and likelihood that people would be interested in visiting.\nThe dataset is a mapped Geographic Information System (GIS) polygon dataset where one polygon (or multi-polygon) represents one space. As well as site boundaries, the dataset includes information about a site’s name, size and type (e.g. park, playing field etc.).\nGiGL developed the Spaces to Visit dataset to support anyone who is interested in London’s open spaces - including community groups, web and app developers, policy makers and researchers - with an open licence data source. More detailed and extensive data are available under GiGL data use licences for GIGL partners, researchers and students. Information services are also available for ecological consultants, biological recorders and community volunteers – please see www.gigl.org.uk for more information.\nPlease note that access and opening times are subject to change (particularly at the current time) so if you are planning to visit a site check on the local authority or site website that it is open.\nThe dataset is updated on a quarterly basis. If you have questions about this dataset please contact GiGL’s GIS and Data Officer.\n\nData sources\n\n\nThe boundaries and information in this dataset, are a combination of data collected during the London Survey Method habitat and open space survey programme (1986 – 2008) and information provided to GiGL from other sources since. These sources include London borough surveys, land use datasets, volunteer surveys, feedback from the public, park friends’ groups, and updates made as part of GiGL’s on-going data validation and verification process. \n\n\nDue to data availability, some areas are more up-to-date than others. We are continually working on updating and improving this dataset. If you have any additional information or corrections for sites included in the Spaces to Visit dataset please contact  GiGL’s GIS and Data Officer.\nNOTE: The dataset contains OS data © Crown copyright and database rights 2024. The site boundaries are based on Ordnance Survey mapping, and the data are published under Ordnance Survey's 'presumption to publish'. When using these data please acknowledge GiGL and Ordnance Survey as the source of the information using the following citation:\n\n‘Dataset created by Greenspace Information for Greater London CIC (GiGL), 2024 – Contains Ordnance Survey and public sector information licensed under the   Open Government Licence v3.0  ’\n",
+            "publisher": "Greenspace Information for Greater London CIC (GiGL)",
+            "tags": [
+                "open space",
+                "public open space",
+                "leisure",
+                "common",
+                "public woodland",
+                "nature reserve",
+                "canal",
+                "recreation ground",
+                "playing field",
+                "amenity green space",
+                "village green",
+                "reservoir",
+                "play space",
+                "adventure playground",
+                "youth area",
+                "community garden",
+                "city farm",
+                "cemetery",
+                "churchyard",
+                "civic square",
+                "market square",
+                "allotment",
+                "country park",
+                "park"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": ""
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "zip",
+                "pdf",
+                "csv"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/d43f875d-8765-4b41-9958-82b355c9efa9",
+            "download_links": [
+                {
+                    "title": "GiGL_SpacestoVisit_Open_Metadata",
+                    "url": "https://data.london.gov.uk/download/spaces-to-visit/329f8ad6-42fe-423d-a1d1-3c60d5a809f1/GiGL_SpacestoVisit_Open_Metadata",
+                    "format": "pdf",
+                    "size": 235265,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "GiGL_SpacestoVisit_Open",
+                    "url": "https://data.london.gov.uk/download/spaces-to-visit/b9734dbc-79a8-4c13-a6c3-b1588e3bafad/GiGL_SpacestoVisit_Open",
+                    "format": "csv",
+                    "size": 1204205,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "GiGL_SpacestoVisit_Open_Tab",
+                    "url": "https://data.london.gov.uk/download/spaces-to-visit/483954ff-15d6-4658-94e4-f1123c02229c/GiGL_SpacestoVisit_Open_Tab",
+                    "format": "zip",
+                    "size": 5323258,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "GiGL_SpacestoVisit_Open_Shp",
+                    "url": "https://data.london.gov.uk/download/spaces-to-visit/68eda5ec-6f4a-4bbf-a2dd-7a5e9b802a69/GiGL_SpacestoVisit_Open_Shp",
+                    "format": "zip",
+                    "size": 12350527,
+                    "mimetype": "application/zip"
+                }
+            ],
+            "faiss_score": 0.8198,
+            "faiss_rank": 18,
+            "rerank_score": -3.963235378265381,
+            "rerank_rank": 32
+        },
+        {
+            "id": "ebfdf07f-2ccb-4f9a-97ff-e26733fc47d8",
+            "title": "Planning London Datahub applications",
+            "summary": "\n\n\n\n",
+            "publisher": "Planning data",
+            "tags": [],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": ""
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "Unknown Format"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/ebfdf07f-2ccb-4f9a-97ff-e26733fc47d8",
+            "download_links": [],
+            "faiss_score": 0.8144,
+            "faiss_rank": 29,
+            "rerank_score": -3.9948573112487793,
+            "rerank_rank": 33
+        },
+        {
+            "id": "81a7b5de-54ab-4848-a226-8abe3809da7f",
+            "title": "GLA Housing and Land Housing Market Report",
+            "summary": "",
+            "publisher": "",
+            "tags": [
+                "housing market",
+                "housing transactions"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": ""
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "html"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/81a7b5de-54ab-4848-a226-8abe3809da7f",
+            "download_links": [
+                {
+                    "title": "London Housing Market Report - February 2024",
+                    "url": "https://data.london.gov.uk/download/gla-housing-and-land-housing-market-report/f566367a-5b1a-463b-b6b9-3dde6ec3cb30/London%20Housing%20Market%20Report%20-%20February%202024",
+                    "format": "html",
+                    "size": 8716598,
+                    "mimetype": "text/html"
+                },
+                {
+                    "title": "London Housing Market Report - May 2024",
+                    "url": "https://data.london.gov.uk/download/gla-housing-and-land-housing-market-report/c383d05f-e62b-4165-8e79-0702071ee38f/London%20Housing%20Market%20Report%20-%20May%202024",
+                    "format": "html",
+                    "size": 8782658,
+                    "mimetype": "text/html"
+                },
+                {
+                    "title": "London Housing Market Report - August 2024",
+                    "url": "https://data.london.gov.uk/download/gla-housing-and-land-housing-market-report/8b3ad1b0-a6c8-4035-a20d-569fc008b77c/London%20Housing%20Market%20Report%20-%20August%202024",
+                    "format": "html",
+                    "size": 9031760,
+                    "mimetype": "text/html"
+                },
+                {
+                    "title": "London Housing Market Report - November 2024",
+                    "url": "https://data.london.gov.uk/download/gla-housing-and-land-housing-market-report/e8884225-bc38-4c42-8759-df5cd40f4dfc/London%20Housing%20Market%20Report%20-%20November%202024",
+                    "format": "html",
+                    "size": 9037834,
+                    "mimetype": "text/html"
+                }
+            ],
+            "faiss_score": 0.8115,
+            "faiss_rank": 41,
+            "rerank_score": -4.023352146148682,
+            "rerank_rank": 34
+        },
+        {
+            "id": "652ab2b5-5b37-458f-af93-bad1435f4d31",
+            "title": "Digital Talent Programme research and resources",
+            "summary": "A range of reports that helped shape the development and direction of the  \n\nMayor's Digital Talent programme .\n",
+            "publisher": "",
+            "tags": [
+                "skills for londoners",
+                "Skills and Employment"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": ""
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "pdf"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/652ab2b5-5b37-458f-af93-bad1435f4d31",
+            "download_links": [
+                {
+                    "title": "2016 Engaging_smes_in_digital_apprenticeships.pdf",
+                    "url": "https://data.london.gov.uk/download/skills-and-employment-digital-talent-programme-research-and-resources/89ce5498-0333-475d-bfde-e7453ad14d3a/2016%20Engaging_smes_in_digital_apprenticeships.pdf",
+                    "format": "pdf",
+                    "size": 607506,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "2016 Attracting under-represented groups to digital apprenticeships.pdf",
+                    "url": "https://data.london.gov.uk/download/skills-and-employment-digital-talent-programme-research-and-resources/57c296ba-b3a1-4f34-9561-d49ef00c84ea/2016%20Attracting%20under-represented%20groups%20to%20digital%20apprenticeships.pdf",
+                    "format": "pdf",
+                    "size": 685903,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "2016 Labour market intelligence presentation.pdf",
+                    "url": "https://data.london.gov.uk/download/skills-and-employment-digital-talent-programme-research-and-resources/e5849083-5a9e-4f71-ab40-2d75485a87a2/2016%20Labour%20market%20intelligence%20presentation.pdf",
+                    "format": "pdf",
+                    "size": 217892,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "2018 Introductionary guide to new digital apprenticeship standards.pdf",
+                    "url": "https://data.london.gov.uk/download/skills-and-employment-digital-talent-programme-research-and-resources/60e160a1-2c3a-48dd-a402-2e7baf482fde/2018%20Introductionary%20guide%20to%20new%20digital%20apprenticeship%20standards.pdf",
+                    "format": "pdf",
+                    "size": 741466,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "2018 Designing and delivering digital courses for neets and under-represented groups.pdf",
+                    "url": "https://data.london.gov.uk/download/skills-and-employment-digital-talent-programme-research-and-resources/a8ede0de-0993-4f63-b2ec-9d14f1245879/2018%20Designing%20and%20delivering%20digital%20courses%20for%20neets%20and%20under-represented%20groups.pdf",
+                    "format": "pdf",
+                    "size": 875623,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "2016 Priorities for entry-level digital skills needs in greater London.pdf",
+                    "url": "https://data.london.gov.uk/download/skills-and-employment-digital-talent-programme-research-and-resources/5280cdb1-ca7f-4ae6-8068-aea8e05cbbdb/2016%20Priorities%20for%20entry-level%20digital%20skills%20needs%20in%20greater%20London.pdf",
+                    "format": "pdf",
+                    "size": 969074,
+                    "mimetype": "application/pdf"
+                }
+            ],
+            "faiss_score": 0.8181,
+            "faiss_rank": 20,
+            "rerank_score": -4.054597854614258,
+            "rerank_rank": 35
+        },
+        {
+            "id": "a1c6ee0b-bc3a-465a-aa3d-4d2fa1ea4aeb",
+            "title": "Former Biscuit Factory public consultation documents",
+            "summary": "",
+            "publisher": "GLA",
+            "tags": [],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": ""
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "pdf",
+                "zip"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/a1c6ee0b-bc3a-465a-aa3d-4d2fa1ea4aeb",
+            "download_links": [
+                {
+                    "title": "2. Application Drawings.zip",
+                    "url": "https://data.london.gov.uk/download/former-biscuit-factory-public-consultation-documents/6f6da6ba-1d3b-4881-a369-c89180b1a492/2.%20Application%20Drawings.zip",
+                    "format": "zip",
+                    "size": 113616943,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "1. Introductory documents.zip",
+                    "url": "https://data.london.gov.uk/download/former-biscuit-factory-public-consultation-documents/738762e3-9b35-4a6b-901d-772ae9effd99/1.%20Introductory%20documents.zip",
+                    "format": "zip",
+                    "size": 1402512,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "5. Financial Viability Assessment.zip",
+                    "url": "https://data.london.gov.uk/download/former-biscuit-factory-public-consultation-documents/770ada37-1a03-4a6d-8bdb-fb3c953b5a9d/5.%20Financial%20Viability%20Assessment.zip",
+                    "format": "zip",
+                    "size": 7298623,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "4. ES Addendum.zip",
+                    "url": "https://data.london.gov.uk/download/former-biscuit-factory-public-consultation-documents/3db6c2e8-2d57-4621-8b76-ec4475eef0e7/4.%20ES%20Addendum.zip",
+                    "format": "zip",
+                    "size": 413904851,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "3. Detailed documents.zip",
+                    "url": "https://data.london.gov.uk/download/former-biscuit-factory-public-consultation-documents/90700f49-72b0-4f12-a57e-7d65db31a5a6/3.%20Detailed%20documents.zip",
+                    "format": "zip",
+                    "size": 1075388058,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "R3 Issue 3 - The Bermondsey Project - Fire Strategy Summary Report.pdf",
+                    "url": "https://data.london.gov.uk/download/former-biscuit-factory-public-consultation-documents/c430f129-8ae4-42dd-b165-a4a76eb34431/R3%20Issue%203%20-%20The%20Bermondsey%20Project%20-%20Fire%20Strategy%20Summary%20Report.pdf",
+                    "format": "pdf",
+                    "size": 777213,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "4063_8310_200204.pdf",
+                    "url": "https://data.london.gov.uk/download/former-biscuit-factory-public-consultation-documents/6c07a3e9-c0b5-440a-8a56-75cdfbf871ce/4063_8310_200204.pdf",
+                    "format": "pdf",
+                    "size": 19071478,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "191129 GLA REVIEW BISCUIT FACTORY BERMONDSEY C 3776a.pdf",
+                    "url": "https://data.london.gov.uk/download/former-biscuit-factory-public-consultation-documents/e12f53df-9814-4b88-b9f3-96e9579c671f/191129%20GLA%20REVIEW%20BISCUIT%20FACTORY%20BERMONDSEY%20C%203776a.pdf",
+                    "format": "pdf",
+                    "size": 305940,
+                    "mimetype": "application/pdf"
+                }
+            ],
+            "faiss_score": 0.8114,
+            "faiss_rank": 42,
+            "rerank_score": -4.133752822875977,
+            "rerank_rank": 36
+        },
+        {
+            "id": "294e37f5-c31a-4c29-b2fc-1e20d5d1c5aa",
+            "title": "Wimbledon Park Golf Course Hearing Documents",
+            "summary": "",
+            "publisher": "GLA",
+            "tags": [],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": ""
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "pdf"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/294e37f5-c31a-4c29-b2fc-1e20d5d1c5aa",
+            "download_links": [
+                {
+                    "title": "Wimbledon Golf Course - Legal opinion - GLA.pdf",
+                    "url": "https://data.london.gov.uk/download/wimbledon-park-golf-course-hearing-documents/20b8c9b7-6d4b-41d6-b4a1-1a4c1299c065/Wimbledon%20Golf%20Course%20-%20Legal%20opinion%20-%20GLA.pdf",
+                    "format": "pdf",
+                    "size": 261022,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "Wimbledon Park Golf Course - Draft S106 Agreement - Hearing draft.pdf",
+                    "url": "https://data.london.gov.uk/download/wimbledon-park-golf-course-hearing-documents/70503668-3caa-48d6-96b9-cc38678ab8e0/Wimbledon%20Park%20Golf%20Course%20-%20Draft%20S106%20Agreement%20-%20Hearing%20draft.pdf",
+                    "format": "pdf",
+                    "size": 912545,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "Wimbledon Park Golf Course - Stage 3 - Draft Decision Notice - LBM.pdf",
+                    "url": "https://data.london.gov.uk/download/wimbledon-park-golf-course-hearing-documents/f4ef4034-4c91-4e39-ba64-c62939f92b08/Wimbledon%20Park%20Golf%20Course%20-%20Stage%203%20-%20Draft%20Decision%20Notice%20-%20LBM.pdf",
+                    "format": "pdf",
+                    "size": 615496,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "Wimbledon Park Golf Course - Stage 3 - Draft Decision Notice - LBW.pdf",
+                    "url": "https://data.london.gov.uk/download/wimbledon-park-golf-course-hearing-documents/ffeb0dc5-dfd8-4dee-a3b7-e0162b502841/Wimbledon%20Park%20Golf%20Course%20-%20Stage%203%20-%20Draft%20Decision%20Notice%20-%20LBW.pdf",
+                    "format": "pdf",
+                    "size": 606324,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "Wimbledon Park Golf Course - GLA Stage 3 Report.pdf",
+                    "url": "https://data.london.gov.uk/download/wimbledon-park-golf-course-hearing-documents/8c35be25-c9d3-4715-9369-ab621f4229bf/Wimbledon%20Park%20Golf%20Course%20-%20GLA%20Stage%203%20Report.pdf",
+                    "format": "pdf",
+                    "size": 10439301,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "Wimbledon Park Golf Course - GLA Stage 2 Report (GLA1136 & GLA0011).pdf",
+                    "url": "https://data.london.gov.uk/download/wimbledon-park-golf-course-hearing-documents/cec50abb-4fa4-4f84-86ce-702b8380bbf5/Wimbledon%20Park%20Golf%20Course%20-%20GLA%20Stage%202%20Report%20(GLA1136%20&%20GLA0011).pdf",
+                    "format": "pdf",
+                    "size": 349778,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "Wimbledon Park Golf Course - GLA Stage 1 Report (GLA Ref GLA 2021.0914) (1).pdf",
+                    "url": "https://data.london.gov.uk/download/wimbledon-park-golf-course-hearing-documents/cf0a2bff-2def-4697-a189-b865918cf888/Wimbledon%20Park%20Golf%20Course%20-%20GLA%20Stage%201%20Report%20(GLA%20Ref%20GLA%202021.0914)%20(1).pdf",
+                    "format": "pdf",
+                    "size": 222055,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "Addendum Hearing Report.pdf",
+                    "url": "https://data.london.gov.uk/download/wimbledon-park-golf-course-hearing-documents/7fd664d0-aa46-41f8-a069-0eb2fbab3070/Addendum%20Hearing%20Report.pdf",
+                    "format": "pdf",
+                    "size": 149796,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "Wimbledon Park Final Agenda.pdf",
+                    "url": "https://data.london.gov.uk/download/wimbledon-park-golf-course-hearing-documents/b99c4535-436d-4f56-924e-8d16785c9c8c/Wimbledon%20Park%20Final%20Agenda.pdf",
+                    "format": "pdf",
+                    "size": 110036,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "SOS RTI Decision Non intervention.pdf",
+                    "url": "https://data.london.gov.uk/download/wimbledon-park-golf-course-hearing-documents/cf1ac5e4-f29b-4ec8-b30c-a1676041dd1d/SOS%20RTI%20Decision%20Non%20intervention.pdf",
+                    "format": "pdf",
+                    "size": 146938,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "240923 - Wimbledon Expansion - Article 31 Holding Direction.pdf",
+                    "url": "https://data.london.gov.uk/download/wimbledon-park-golf-course-hearing-documents/524a89b0-7b60-40b7-8450-33217089480f/240923%20-%20Wimbledon%20Expansion%20-%20Article%2031%20Holding%20Direction.pdf",
+                    "format": "pdf",
+                    "size": 175511,
+                    "mimetype": "application/pdf"
+                }
+            ],
+            "faiss_score": 0.8096,
+            "faiss_rank": 50,
+            "rerank_score": -4.14132833480835,
+            "rerank_rank": 37
+        },
+        {
+            "id": "89182f0b-cc4b-483d-ae54-874841de55fd",
+            "title": "London Borough of Southwark Cycle Parking",
+            "summary": "Information about this data is available on the data.gov.uk website: https://data.gov.uk/dataset/southwark-cycle-parking",
+            "publisher": "Joanna Lesak",
+            "tags": [
+                "cycle",
+                "locker",
+                "bicycle",
+                "assets",
+                "cycling",
+                "stands",
+                "parking",
+                "hangar"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "",
+                "smallest_geography": "Borough"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "html"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/89182f0b-cc4b-483d-ae54-874841de55fd",
+            "download_links": [
+                {
+                    "title": "southwark-cycle-parking",
+                    "url": "https://data.london.gov.uk/download/london-borough-of-southark-cycle-parking/1a2684fc-a035-463f-b88a-02d5c7d72806/southwark-cycle-parking",
+                    "format": "html",
+                    "size": 7134,
+                    "mimetype": "text/html; charset=utf-8"
+                }
+            ],
+            "faiss_score": 0.8127,
+            "faiss_rank": 37,
+            "rerank_score": -4.162087917327881,
+            "rerank_rank": 38
+        },
+        {
+            "id": "daf98dcc-af36-405f-b565-f9dc7170fa8f",
+            "title": "London Office of Data Analytics",
+            "summary": "The GLA and Nesta are working together to run a pilot to demonstrate that performing data analytics on datasets sourced from multiple local authorities and public sector bodies can help reform public services in the capital. If successful, the pilot will pave the way to create a permanent London Office of Data Analytics.\nAs well as regular blogs, we will publish reports here as they are produced over the next few months.\n ",
+            "publisher": "City Data Team",
+            "tags": [
+                "LODA",
+                "Data Science"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "",
+                "smallest_geography": "N/A"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "pdf"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/daf98dcc-af36-405f-b565-f9dc7170fa8f",
+            "download_links": [
+                {
+                    "title": "LODA Workshop Report - GLA  Nesta July 2016",
+                    "url": "https://data.london.gov.uk/download/london-office-of-data-analytics/dd306b7b-58db-45c0-919f-cac44e17719d/LODA%20Workshop%20Report%20-%20GLA%20%20Nesta%20July%202016",
+                    "format": "pdf",
+                    "size": 1257862,
+                    "mimetype": "application/pdf"
+                }
+            ],
+            "faiss_score": 0.8141,
+            "faiss_rank": 30,
+            "rerank_score": -4.287532806396484,
+            "rerank_rank": 39
+        },
+        {
+            "id": "e5766a09-ab6f-4c69-a123-f7c2dd92a421",
+            "title": "Citroen Site Public Inquiry documents",
+            "summary": "",
+            "publisher": "GLA",
+            "tags": [],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": ""
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "pdf",
+                "zip"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/e5766a09-ab6f-4c69-a123-f7c2dd92a421",
+            "download_links": [
+                {
+                    "title": "Statements of common ground.zip",
+                    "url": "https://data.london.gov.uk/download/citroen-site-public-inquiry-documents/f14aefb7-6ef2-48e7-b9b1-a6e8320bd526/Statements%20of%20common%20ground.zip",
+                    "format": "zip",
+                    "size": 5422967,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "Statements of case.zip",
+                    "url": "https://data.london.gov.uk/download/citroen-site-public-inquiry-documents/76bd4020-09df-4d3f-8702-efb78affddb3/Statements%20of%20case.zip",
+                    "format": "zip",
+                    "size": 600567,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "Proofs of Evidence.zip",
+                    "url": "https://data.london.gov.uk/download/citroen-site-public-inquiry-documents/7ee9fac7-8da0-4724-85cf-fa29127072b1/Proofs%20of%20Evidence.zip",
+                    "format": "zip",
+                    "size": 372723040,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "Rebuttal Russell Brown.pdf",
+                    "url": "https://data.london.gov.uk/download/citroen-site-public-inquiry-documents/804925a3-64b8-487a-bf18-5abff887506a/Rebuttal%20Russell%20Brown.pdf",
+                    "format": "pdf",
+                    "size": 214932,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "Rebuttal Mark Connell Appendix 1 Housing & Viability.pdf",
+                    "url": "https://data.london.gov.uk/download/citroen-site-public-inquiry-documents/22fc1fc4-42ea-4aa2-aab3-81bc1a196ab4/Rebuttal%20Mark%20Connell%20Appendix%201%20Housing%20&%20Viability.pdf",
+                    "format": "pdf",
+                    "size": 278520,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "Rebuttal Mark Connell.pdf",
+                    "url": "https://data.london.gov.uk/download/citroen-site-public-inquiry-documents/ce614215-acd4-4202-b7d5-58f179a02ba6/Rebuttal%20Mark%20Connell.pdf",
+                    "format": "pdf",
+                    "size": 277032,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "Chris M rebuttal.pdf",
+                    "url": "https://data.london.gov.uk/download/citroen-site-public-inquiry-documents/0f009b52-cc92-497e-88a3-5aa15c15958a/Chris%20M%20rebuttal.pdf",
+                    "format": "pdf",
+                    "size": 70293859,
+                    "mimetype": "application/pdf"
+                }
+            ],
+            "faiss_score": 0.8106,
+            "faiss_rank": 44,
+            "rerank_score": -4.331923484802246,
+            "rerank_rank": 40
+        },
+        {
+            "id": "a63889dc-116d-471d-9e15-44c8067fb089",
+            "title": "Test Dataset for Harvester Testing",
+            "summary": "This is a test dataset to evaluate how updates are performed.\nUpdate 2023/06/09 11:17\nUpdate 2023-06-19 13:29\nUpdate 2023-06-19 13:36\nUpdate 2023-06-19 13:48\nUpdate 2023-06-21 12:11\n\n\n",
+            "publisher": "",
+            "tags": [],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": ""
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "txt",
+                "image"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/a63889dc-116d-471d-9e15-44c8067fb089",
+            "download_links": [
+                {
+                    "title": "Test_CB.txt",
+                    "url": "https://data.london.gov.uk/download/test-dataset-for-harvester-capability/762ad0fa-9d9e-4ee3-8014-f752a76eb566/Test_CB.txt",
+                    "format": "txt",
+                    "size": 0,
+                    "mimetype": "text/plain"
+                },
+                {
+                    "title": "KJ_Test2.txt",
+                    "url": "https://data.london.gov.uk/download/test-dataset-for-harvester-capability/60282816-492f-4e78-8885-943203d134a4/KJ_Test2.txt",
+                    "format": "txt",
+                    "size": 24,
+                    "mimetype": "text/plain"
+                },
+                {
+                    "title": "Logo",
+                    "url": "https://data.london.gov.uk/download/test-dataset-for-harvester-capability/a3b6122d-b900-4e6d-9f7f-0ba91083ac4e/Logo",
+                    "format": "image",
+                    "size": 3458,
+                    "mimetype": "image/png"
+                },
+                {
+                    "title": "JPEG_example_flower",
+                    "url": "https://data.london.gov.uk/download/test-dataset-for-harvester-capability/a599ff6b-9ac0-49ea-991e-989d1d518d46/JPEG_example_flower",
+                    "format": "image",
+                    "size": 36287,
+                    "mimetype": "image/jpeg"
+                },
+                {
+                    "title": "Logo.png",
+                    "url": "https://data.london.gov.uk/download/test-dataset-for-harvester-capability/5add05a7-02fc-4636-b5f0-a03b1901af7b/Logo.png",
+                    "format": "image",
+                    "size": 3458,
+                    "mimetype": "image/png"
+                },
+                {
+                    "title": "JPEG_example_flower.jpg",
+                    "url": "https://data.london.gov.uk/download/test-dataset-for-harvester-capability/7eb1a0cf-220a-4739-8ab4-30383976c1f9/JPEG_example_flower.jpg",
+                    "format": "image",
+                    "size": 36287,
+                    "mimetype": "image/jpeg"
+                },
+                {
+                    "title": "another image",
+                    "url": "https://data.london.gov.uk/download/test-dataset-for-harvester-capability/15ba93a6-6116-4166-bcec-c3fef966aef0/another%20image",
+                    "format": "image",
+                    "size": 36287,
+                    "mimetype": "image/jpeg"
+                }
+            ],
+            "faiss_score": 0.8323,
+            "faiss_rank": 3,
+            "rerank_score": -4.411269187927246,
+            "rerank_rank": 41
+        },
+        {
+            "id": "b1f4b3be-5b63-40c3-8830-95c2c6a3b9b4",
+            "title": "Wimbledon Park Golf Course post consultation documents",
+            "summary": "",
+            "publisher": "GLA",
+            "tags": [],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": ""
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "pdf"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/b1f4b3be-5b63-40c3-8830-95c2c6a3b9b4",
+            "download_links": [
+                {
+                    "title": "240704 51365-BHE-XX-XX-RP-Y-06001 P04 Car Park Management Plan Addendum.pdf",
+                    "url": "https://data.london.gov.uk/download/wimbledon-park-golf-course-post-consultation-documents/baeca5e1-1a9d-48da-ae43-be8ffa66a4dc/240704%2051365-BHE-XX-XX-RP-Y-06001%20P04%20Car%20Park%20Management%20Plan%20Addendum.pdf",
+                    "format": "pdf",
+                    "size": 539309,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "Revised Fire Statement 51365-BHE-XX-XX-RP-YF-00001 Revision P04.pdf",
+                    "url": "https://data.london.gov.uk/download/wimbledon-park-golf-course-post-consultation-documents/c5725255-4f81-4c68-8a73-4b49f1b0cfd5/Revised%20Fire%20Statement%2051365-BHE-XX-XX-RP-YF-00001%20Revision%20P04.pdf",
+                    "format": "pdf",
+                    "size": 1965535,
+                    "mimetype": "application/pdf"
+                }
+            ],
+            "faiss_score": 0.8132,
+            "faiss_rank": 33,
+            "rerank_score": -4.4675774574279785,
+            "rerank_rank": 42
+        },
+        {
+            "id": "60c508de-86f8-4767-912e-95e1f087db3b",
+            "title": "Low voltage Distribution Network Options Assessment",
+            "summary": "This dataset is a low voltage subset of the full DNOA dataset.\nThe DNOA output shows future network constraints, the recommended solution, and the current status in the solution progress. It indicates when, where, and at what volume flexibility services will be required in the next few years.\n\nNote: Due to the differences in the publication date of databases such as the LTDS, DFES NSHR, and the DNOA, there can be differences in published data.\n\nYou can find out more information about our methodology here: Distribution Network Options Assessment (DNOA) (ukpowernetworks.co.uk)\n",
+            "publisher": "UK Power Networks",
+            "tags": [
+                "power",
+                "electricity",
+                "upgrade"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": "Point Location"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "html"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/60c508de-86f8-4767-912e-95e1f087db3b",
+            "download_links": [
+                {
+                    "title": "table",
+                    "url": "https://data.london.gov.uk/download/low-voltage-distribution-network-options-assessment/d0dccc34-9dbf-46bc-8fb4-8203d267e27b/table",
+                    "format": "html",
+                    "size": 140855,
+                    "mimetype": "text/html; charset=utf-8"
+                }
+            ],
+            "faiss_score": 0.8141,
+            "faiss_rank": 31,
+            "rerank_score": -4.524691581726074,
+            "rerank_rank": 43
+        },
+        {
+            "id": "f3ad42c5-5b44-4932-ac95-f1c798fcdc5b",
+            "title": "London Datastore Catalogue",
+            "summary": "Datastore catalogue files showing every dataset and resource entry on the London datastore.\nFiles includes all metadata. File represents a live snapshot of content and is continually updated.",
+            "publisher": "Opinion Research and General Statistics (GLA)",
+            "tags": [
+                "metadata",
+                "datastore",
+                "dump",
+                "excel"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "",
+                "smallest_geography": "N/A"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet",
+                "json",
+                "zip"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/f3ad42c5-5b44-4932-ac95-f1c798fcdc5b",
+            "download_links": [
+                {
+                    "title": "catalogue",
+                    "url": "https://data.london.gov.uk/download/london-datastore-catalogue/15e8f0ea-2c68-4377-9703-b5861c501cf8/catalogue",
+                    "format": "zip",
+                    "size": 505352,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "catalogue",
+                    "url": "https://data.london.gov.uk/download/london-datastore-catalogue/99190897-f4fc-44e7-82e5-887789eecf6b/catalogue",
+                    "format": "spreadsheet",
+                    "size": 5207912,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                },
+                {
+                    "title": "catalogue",
+                    "url": "https://data.london.gov.uk/download/london-datastore-catalogue/fd2092ac-4fa6-4eb3-bde0-c1d935b088e7/catalogue",
+                    "format": "json",
+                    "size": 4253305,
+                    "mimetype": "application/json"
+                }
+            ],
+            "faiss_score": 0.8184,
+            "faiss_rank": 19,
+            "rerank_score": -4.600864887237549,
+            "rerank_rank": 44
+        },
+        {
+            "id": "a2699494-2041-4b92-a70e-effe2d613404",
+            "title": "Apprenticeship Statistics for London",
+            "summary": "This page presents analysis and data related to skills and employment in London\n\n\n\nNote on data sources and interpretation:\n\nThe analysis is not intended to be comprehensive or exhaustive. It is a snapshot analysis of key data as it pertains to London.\nThe analysis does not represent the full body of evidence on which Mayoral Policies are, or will be, based.\n\nOutputs should be triangulated with other sources of information and analysis to develop a rounded statistical picture of specific policy issues.",
+            "publisher": "",
+            "tags": [
+                "apprenticeships",
+                "skills for londoners",
+                "Skills and Employment",
+                "local authority",
+                "young-people",
+                "skills",
+                "dashboard",
+                "data",
+                "borough-economic",
+                "apprentices",
+                "further education"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": "Borough"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "html"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/a2699494-2041-4b92-a70e-effe2d613404",
+            "download_links": [
+                {
+                    "title": "London Apprenticeships Update 2020/21 ",
+                    "url": "https://data.london.gov.uk/download/gla-economics-skills-and-employment-analysis/25666dfd-3745-461c-8078-eb2d906723e8/London%20Apprenticeships%20Update%202020/21%20",
+                    "format": "html",
+                    "size": 13622924,
+                    "mimetype": "text/html"
+                },
+                {
+                    "title": "London Apprenticeships Update 2021/22 ",
+                    "url": "https://data.london.gov.uk/download/gla-economics-skills-and-employment-analysis/adbe8db9-7935-443a-be7d-d6e791d56548/London%20Apprenticeships%20Update%202021/22%20",
+                    "format": "html",
+                    "size": 13758648,
+                    "mimetype": "text/html"
+                },
+                {
+                    "title": "London Apprenticeships Mid-Year Update 2022/23",
+                    "url": "https://data.london.gov.uk/download/gla-economics-skills-and-employment-analysis/f5ee5ab0-ad5a-42f1-badb-39abe53de287/London%20Apprenticeships%20Mid-Year%20Update%202022/23",
+                    "format": "html",
+                    "size": 10034012,
+                    "mimetype": "text/html"
+                },
+                {
+                    "title": "London Apprenticeship Full-Year Update 2022/23",
+                    "url": "https://data.london.gov.uk/download/gla-economics-skills-and-employment-analysis/9f5cb30b-9176-418a-98d8-01a57ed6c3e4/London%20Apprenticeship%20Full-Year%20Update%202022/23",
+                    "format": "html",
+                    "size": 13733189,
+                    "mimetype": "text/html"
+                },
+                {
+                    "title": "London Apprenticeship Mid-Year Update 2023/24",
+                    "url": "https://data.london.gov.uk/download/gla-economics-skills-and-employment-analysis/1cfca0f1-4c32-49b6-a975-e476fcaf28e8/London%20Apprenticeship%20Mid-Year%20Update%202023/24",
+                    "format": "html",
+                    "size": 10034720,
+                    "mimetype": "text/html"
+                },
+                {
+                    "title": "London Apprenticeship Industry Update 2021/22",
+                    "url": "https://data.london.gov.uk/download/gla-economics-skills-and-employment-analysis/e2737fdd-e445-4c4f-89c6-5f02ac4d6ce2/London%20Apprenticeship%20Industry%20Update%202021/22",
+                    "format": "html",
+                    "size": 4985597,
+                    "mimetype": "text/html"
+                },
+                {
+                    "title": "London Apprenticeship Full-Year Update 2023/24",
+                    "url": "https://data.london.gov.uk/download/gla-economics-skills-and-employment-analysis/a9d5b8a0-5418-4429-b7c7-9a8fdfa98d4f/London%20Apprenticeship%20Full-Year%20Update%202023/24",
+                    "format": "html",
+                    "size": 14237796,
+                    "mimetype": "text/html"
+                }
+            ],
+            "faiss_score": 0.8216,
+            "faiss_rank": 14,
+            "rerank_score": -4.772852420806885,
+            "rerank_rank": 45
+        },
+        {
+            "id": "112f239f-631e-41bd-b600-2a97fcba5477",
+            "title": "Local Authority comparator data",
+            "summary": "Collated datasets for London local authorities for use as population comparators.\nAdditional data will be added in the coming days.",
+            "publisher": "GLA Demography",
+            "tags": [
+                "population",
+                "demography",
+                "census"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": "Lower Super Output Area"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/112f239f-631e-41bd-b600-2a97fcba5477",
+            "download_links": [
+                {
+                    "title": "gla_comparator_data_file.xlsx",
+                    "url": "https://data.london.gov.uk/download/local-authority-comparator-data/1104a560-af65-4202-b86c-c3b54f42f74c/gla_comparator_data_file.xlsx",
+                    "format": "spreadsheet",
+                    "size": 1027173,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                },
+                {
+                    "title": "lsoa dwellings comparitors.xlsx",
+                    "url": "https://data.london.gov.uk/download/local-authority-comparator-data/7d82e073-b099-4a0d-ba2d-24543feade21/lsoa%20dwellings%20comparitors.xlsx",
+                    "format": "spreadsheet",
+                    "size": 493252,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                },
+                {
+                    "title": "pension_claimants.xlsx",
+                    "url": "https://data.london.gov.uk/download/local-authority-comparator-data/e64f6862-c4b7-4b34-b223-cb92f05e21b0/pension_claimants.xlsx",
+                    "format": "spreadsheet",
+                    "size": 68224,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                },
+                {
+                    "title": "admin_based_population_estimates.xlsx",
+                    "url": "https://data.london.gov.uk/download/local-authority-comparator-data/c128c388-c212-436d-aef6-0007a10b9ffd/admin_based_population_estimates.xlsx",
+                    "format": "spreadsheet",
+                    "size": 172969,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                },
+                {
+                    "title": "patient_register_lad_age_sex.xlsx",
+                    "url": "https://data.london.gov.uk/download/local-authority-comparator-data/6a59bf1b-6f36-4144-8509-9e9ff50cc568/patient_register_lad_age_sex.xlsx",
+                    "format": "spreadsheet",
+                    "size": 171082,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "faiss_score": 0.8179,
+            "faiss_rank": 21,
+            "rerank_score": -4.781164646148682,
+            "rerank_rank": 46
+        },
+        {
+            "id": "a2a885b2-d461-4710-8b80-338da588fb68",
+            "title": "Planning Data Map",
+            "summary": "This is a beta version of the first open planning data map for London. It contains 16 data sets grouped under the headings of 'Good Growth' and 'Constraints'. You are encouraged to explore the map and give us your ideas about how it can be improved. We are also keen to receive suggestions for what information to add next. Please send your feedback to planningdata@london.gov.uk\n\nFor more information about planning, please see www.london.gov.uk/what-we-do/planning\n",
+            "publisher": "GLA Planning",
+            "tags": [
+                "planningconstraintsmap"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": "Custom Polygons"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "html",
+                "api"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/a2a885b2-d461-4710-8b80-338da588fb68",
+            "download_links": [
+                {
+                    "title": "planning",
+                    "url": "https://data.london.gov.uk/download/planning-data-map/bc54532d-00be-4f6a-8307-fe73d18b440f/planning",
+                    "format": "html",
+                    "size": 9775,
+                    "mimetype": "text/html"
+                },
+                {
+                    "title": "Data Service",
+                    "url": "https://data.london.gov.uk/download/planning-data-map/f6453af4-d9a7-4603-ae7c-f9af20098e9e/Data%20Service",
+                    "format": "api",
+                    "size": 11238,
+                    "mimetype": "text/html;charset=utf-8"
+                }
+            ],
+            "faiss_score": 0.8105,
+            "faiss_rank": 47,
+            "rerank_score": -4.9928131103515625,
+            "rerank_rank": 47
+        },
+        {
+            "id": "edd069b9-389a-47d6-ad4e-b938264d4589",
+            "title": "GLA Economics Labour Market Analysis",
+            "summary": "This data can now be found at https://data.london.gov.uk/dataset/gla-economics-labour-market-update  ",
+            "publisher": "",
+            "tags": [],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": ""
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "Unknown Format"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/edd069b9-389a-47d6-ad4e-b938264d4589",
+            "download_links": [],
+            "faiss_score": 0.834,
+            "faiss_rank": 2,
+            "rerank_score": -5.089424133300781,
+            "rerank_rank": 48
+        },
+        {
+            "id": "7901b7b4-c7c2-4357-8b91-192cbdbe494f",
+            "title": "GLA Grants data",
+            "summary": "The GLA Grants Dataset contains data relating to grants which have been awarded by the GLA since 2013. The dataset uses the 360 Giving Standard, to ensure the data is clear and accessible. This dataset can also be accessed on the 360 giving navigation site GrantNav, which allows grant-makers and others to explore how grants are used, areas of commonality between grant-makers and gaps that are not reached by grant-makers. Potential grant-seekers can also see who and what the GLA has funded in the past. ",
+            "publisher": "London Datastore",
+            "tags": [],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": ""
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/7901b7b4-c7c2-4357-8b91-192cbdbe494f",
+            "download_links": [
+                {
+                    "title": "GLA Q2-Q3 2022-23 Dataset",
+                    "url": "https://data.london.gov.uk/download/gla-grants-data/24a99ed7-6bf5-48d8-996e-f7659e46887d/GLA%20Q2-Q3%202022-23%20Dataset",
+                    "format": "spreadsheet",
+                    "size": 63427,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                },
+                {
+                    "title": "GLA Grants Addendum 2018-2023",
+                    "url": "https://data.london.gov.uk/download/gla-grants-data/2352034e-4af9-4677-b718-9ad7ea951e5a/GLA%20Grants%20Addendum%202018-2023",
+                    "format": "spreadsheet",
+                    "size": 48896,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                },
+                {
+                    "title": "GLA Historical data 2013-22",
+                    "url": "https://data.london.gov.uk/download/gla-grants-data/01e2ac9e-a9cf-4356-94fd-771b850e6764/GLA%20Historical%20data%202013-22",
+                    "format": "spreadsheet",
+                    "size": 482765,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                },
+                {
+                    "title": "GLA Q4 2022-23 Dataset ",
+                    "url": "https://data.london.gov.uk/download/gla-grants-data/f3ce171a-2f57-4871-988c-567f1a088be0/GLA%20Q4%202022-23%20Dataset%20",
+                    "format": "spreadsheet",
+                    "size": 64805,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                },
+                {
+                    "title": "GLA Q1 2023-24 Dataset",
+                    "url": "https://data.london.gov.uk/download/gla-grants-data/4dfd5c75-c8c1-4656-b0c6-d7ef676367ef/GLA%20Q1%202023-24%20Dataset",
+                    "format": "spreadsheet",
+                    "size": 60313,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                },
+                {
+                    "title": "GLA Q2 & Q3 2023-24 Dataset",
+                    "url": "https://data.london.gov.uk/download/gla-grants-data/04d6e970-7b37-4eff-a6cb-aaab08221afb/GLA%20Q2%20&%20Q3%202023-24%20Dataset",
+                    "format": "spreadsheet",
+                    "size": 103276,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                },
+                {
+                    "title": "GLA Q4 2023-24 Dataset",
+                    "url": "https://data.london.gov.uk/download/gla-grants-data/2b747b76-d066-4abc-bd1a-4c95526d4de2/GLA%20Q4%202023-24%20Dataset",
+                    "format": "spreadsheet",
+                    "size": 101188,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                },
+                {
+                    "title": "GLA Q1 2024-25 Dataset",
+                    "url": "https://data.london.gov.uk/download/gla-grants-data/296bc3a5-f854-458d-b8ad-6bd2d75ad79f/GLA%20Q1%202024-25%20Dataset",
+                    "format": "spreadsheet",
+                    "size": 32587,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "faiss_score": 0.8249,
+            "faiss_rank": 7,
+            "rerank_score": -5.6984992027282715,
+            "rerank_rank": 49
+        },
+        {
+            "id": "68da2447-15fd-4135-b40b-85fd3eda7a01",
+            "title": "Analysis of English Housing Survey data",
+            "summary": "This page hosts the results of analysis carried out by the Greater London Authority of English Housing Survey microdata, including figures that have been referred to in Mayoral press releases.",
+            "publisher": "",
+            "tags": [
+                "housing"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": "Greater London"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/68da2447-15fd-4135-b40b-85fd3eda7a01",
+            "download_links": [
+                {
+                    "title": "Non-decent private rented homes, average rents and Housing Benefit expenditure - by region, 2020.xlsx",
+                    "url": "https://data.london.gov.uk/download/analysis-of-english-housing-survey-data/37ad5b08-ccd0-4865-8617-7b6d9d32646d/Non-decent%20private%20rented%20homes,%20average%20rents%20and%20Housing%20Benefit%20expenditure%20-%20by%20region,%202020.xlsx",
+                    "format": "spreadsheet",
+                    "size": 11451,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "faiss_score": 0.8218,
+            "faiss_rank": 13,
+            "rerank_score": -5.8020830154418945,
+            "rerank_rank": 50
+        }
+    ]
+}

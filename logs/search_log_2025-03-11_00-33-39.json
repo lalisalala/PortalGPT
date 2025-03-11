@@ -1,0 +1,2792 @@
+{
+    "query": "do you have datasets about average property price in london? ",
+    "results": [
+        {
+            "id": "ce4cc322-a551-4a2c-9106-070ec0c1a31d",
+            "title": "Ratio of House Prices to Earnings, Borough",
+            "summary": "This table shows the average House Price/Earnings ratio, which is an important indicator of housing affordability. Ratios are calculated by dividing house price by the median earnings of a borough.\nThe Annual Survey of Hours and Earnings (ASHE) is based on a 1 per cent sample of employee jobs. Information on earnings and hours is obtained in confidence from employers. It does not cover the self-employed nor does it cover employees not paid during the reference period. Information is as at April each year. The statistics used are workplace based full-time individual earnings.\nPre-2013 Land Registry housing data are for the first half of the year only, so that they are comparable to the ASHE data which are as at April. This is no longer the case from 2013 onwards as this data uses house price data from the ONS House Price Statistics for Small Areas statistical release. Prior to 2006 data are not available for Inner and Outer London.\nThe lowest 25 per cent of prices are below the lower quartile; the highest 75 per cent are above the lower quartile. The \"lower quartile\" property price/income is determined by ranking all property prices/incomes in ascending order. The 'median' property price/income is determined by ranking all property prices/incomes in ascending order. The point at which one half of the values are above and one half are below is the median.\nRegional data has not been published by DCLG since 2012. Data for regions has been calculated by the GLA. Data since 2014 has been calculated by the GLA using Land Registry house prices and ONS Earnings data.\nLink to DCLG Live Tables\nAn interactive map showing the affordability ratios by local authority for 2013, 2014 and 2015 is also available.",
+            "publisher": "Opinion Research and General Statistics (GLA)",
+            "tags": [
+                "house-prices",
+                "earnings",
+                "affordability",
+                "sales",
+                "property"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "Greater London",
+                "smallest_geography": "Local Authority"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/ce4cc322-a551-4a2c-9106-070ec0c1a31d",
+            "download_links": [
+                {
+                    "title": "Ratio house price earnings residence based",
+                    "url": "https://data.london.gov.uk/download/ratio-house-prices-earnings-borough/122ea18a-cb44-466e-a314-e0c62a32529e/Ratio%20house%20price%20earnings%20residence%20based",
+                    "format": "spreadsheet",
+                    "size": 41228,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                },
+                {
+                    "title": "Ratio house price earnings workplace based",
+                    "url": "https://data.london.gov.uk/download/ratio-house-prices-earnings-borough/7ff946e9-62d3-4ab7-ae46-fd8997007150/Ratio%20house%20price%20earnings%20workplace%20based",
+                    "format": "spreadsheet",
+                    "size": 35519,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "faiss_score": 0.8488,
+            "faiss_rank": 2,
+            "rerank_score": -0.30453962087631226,
+            "rerank_rank": 1
+        },
+        {
+            "id": "ab4f498c-f133-4d6b-8d8e-69eb532620c6",
+            "title": "Changes of Ownership by Dwelling Price, Borough",
+            "summary": "Housing prices and number of transactions by dwelling type.\nHouse sales not at full market value are excluded.\nOwnership of this dataset remains with the Communities and Local Government (CLG). Information can only be reproduced if the source is fully acknowledged.\nThe Land Registry (LR) and CLG have provided these datasets drawn from the Land Register.\nInformation on outliers, that is transactions involving a very low or very high price, is included so that users can take their impact into account when using the data.\nAvailable for Middle Layer Super Output Area (MSOA).\nNOTE: This data has not been updated since 2009.\nSee more on the ONS NESS website.",
+            "publisher": "Opinion Research and General Statistics (GLA)",
+            "tags": [
+                "real-estate",
+                "ownership",
+                "house-prices",
+                "transactions",
+                "dwellings",
+                "property"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "Greater London",
+                "smallest_geography": "Local Authority"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/ab4f498c-f133-4d6b-8d8e-69eb532620c6",
+            "download_links": [
+                {
+                    "title": "changes-of-ownership-by-dwelling-price.xls",
+                    "url": "https://data.london.gov.uk/download/changes-ownership-dwelling-price-borough/55d771b9-1259-47f6-9a92-7e79c6f9c953/changes-of-ownership-by-dwelling-price.xls",
+                    "format": "spreadsheet",
+                    "size": 126976,
+                    "mimetype": "application/vnd.ms-excel"
+                }
+            ],
+            "faiss_score": 0.8538,
+            "faiss_rank": 1,
+            "rerank_score": -0.8014179468154907,
+            "rerank_rank": 2
+        },
+        {
+            "id": "ad95cd2f-3ceb-4049-82f3-13b570bb1231",
+            "title": "Average House Prices by Borough, Ward, MSOA & LSOA",
+            "summary": "Annual mean and median property prices calculated by the GLA from Price Paid Data published on Land Registry website. Number of property sales also included. Data has been aggregated to Borough, Ward, MSOA, LSOA, Postcode Districts and Postcode Sectors.\nCaution should be used when analysing figures based on a low number of sales.\nPrice Paid Data provides information on every residential property sale in England and Wales that has been lodged with HM Land Registry for registration. Download full price paid data from the Land Registry.\n\nClick here to access an interactive dashboard using some of the data available from this page. \n ",
+            "publisher": "Greater London Authority",
+            "tags": [
+                "camden",
+                "enfield",
+                "brent",
+                "waltham-forest",
+                "kingston-upon-thames",
+                "westminster",
+                "redbridge",
+                "merton",
+                "city-of-london",
+                "harrow",
+                "house-prices",
+                "sutton",
+                "msoa",
+                "local-authority",
+                "lewisham",
+                "ealing",
+                "barnet",
+                "islington",
+                "barking-and-dagenham",
+                "haringey",
+                "croydon",
+                "lambeth",
+                "richmond-upon-thames",
+                "hounslow",
+                "sales",
+                "greenwich",
+                "wandsworth",
+                "southwark",
+                "newham",
+                "wards",
+                "havering",
+                "bromley",
+                "hillingdon",
+                "kensington-and-chelsea",
+                "tower-hamlets",
+                "hackney",
+                "price-paid",
+                "bexley",
+                "property",
+                "hammersmith-and-fulham",
+                "lsoa"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "Greater London",
+                "smallest_geography": "Postcode Sector"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet",
+                "csv"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/ad95cd2f-3ceb-4049-82f3-13b570bb1231",
+            "download_links": [
+                {
+                    "title": "Average House Prices - Ward (CSV Version)",
+                    "url": "https://data.london.gov.uk/download/average-house-prices/59be940c-ffb8-426d-a833-6146ea77de5c/Average%20House%20Prices%20-%20Ward%20(CSV%20Version)",
+                    "format": "csv",
+                    "size": 11622697,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "Average House Prices - LSOA (CSV Version)",
+                    "url": "https://data.london.gov.uk/download/average-house-prices/9a92fbaf-c04e-498a-9f8c-6c85f280817e/Average%20House%20Prices%20-%20LSOA%20(CSV%20Version)",
+                    "format": "csv",
+                    "size": 88727247,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "Average House Prices - LSOA",
+                    "url": "https://data.london.gov.uk/download/average-house-prices/af75f04c-5a21-4ab8-bf7c-aa57b42a84eb/Average%20House%20Prices%20-%20LSOA",
+                    "format": "spreadsheet",
+                    "size": 13572608,
+                    "mimetype": "application/vnd.ms-excel"
+                },
+                {
+                    "title": "Average House Prices - Borough (CSV Version)",
+                    "url": "https://data.london.gov.uk/download/average-house-prices/b1b0079e-698c-4c0b-b8c7-aa6189590ca4/Average%20House%20Prices%20-%20Borough%20(CSV%20Version)",
+                    "format": "csv",
+                    "size": 707164,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "Average House Prices - MSOA (CSV Version)",
+                    "url": "https://data.london.gov.uk/download/average-house-prices/bdf8eee7-41e1-4d24-90ce-93fe5cf040ae/Average%20House%20Prices%20-%20MSOA%20(CSV%20Version)",
+                    "format": "csv",
+                    "size": 15255066,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "Average House Prices - Borough",
+                    "url": "https://data.london.gov.uk/download/average-house-prices/f01b1cc7-6daa-4256-bd6c-94d8c83ee000/Average%20House%20Prices%20-%20Borough",
+                    "format": "spreadsheet",
+                    "size": 949248,
+                    "mimetype": "application/vnd.ms-excel"
+                },
+                {
+                    "title": "Average House Prices - MSOA",
+                    "url": "https://data.london.gov.uk/download/average-house-prices/fab83691-9c7e-4e53-97e8-564a010a56ce/Average%20House%20Prices%20-%20MSOA",
+                    "format": "spreadsheet",
+                    "size": 2875392,
+                    "mimetype": "application/vnd.ms-excel"
+                },
+                {
+                    "title": "Average House Prices - Ward",
+                    "url": "https://data.london.gov.uk/download/average-house-prices/fb8116f5-06f8-42e0-aa6c-b0b1bd69cdba/Average%20House%20Prices%20-%20Ward",
+                    "format": "spreadsheet",
+                    "size": 1914880,
+                    "mimetype": "application/vnd.ms-excel"
+                }
+            ],
+            "faiss_score": 0.8387,
+            "faiss_rank": 8,
+            "rerank_score": -0.9675164222717285,
+            "rerank_rank": 3
+        },
+        {
+            "id": "56131906-4da7-4102-bf05-31605525265d",
+            "title": "State of London",
+            "summary": "This report by GLA City Intelligence (the latest update of which was published in January 2024) brings together a wide range of outcome data relevant to the work of the Mayor and the London Assembly, which will also be of interest to other stakeholders in London.\nThe aim is to provide readers with a high-level summary of the latest trends in each topic area – these include:\n\nDemography\nThe economy and labour market\nCommunity participation and engagement\nCrime and safety\nThe environment\nHousing\nIncome, poverty and destitution\nTransport and digital infrastructure\nYoung people and education\nHealth, wellbeing and inequalities.\n\n \nDatasets have been selected that update relatively frequently and without too great a lag but not all fit these criteria. While comprehensive in its coverage, it is by no means exhaustive and links to further information are provided with each chapter. A health and wellbeing chapter has been added to the latest edition.\nAs new datasets are released, the charts in the report will be updated on the accompanying State of London Dashboard. The Dashboard is in Beta form while it continues to be developed. We welcome feedback on both the report and the Dashboard via email to: intelligence@london.gov.uk.",
+            "publisher": "",
+            "tags": [
+                "costofliving"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": ""
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "pdf"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/56131906-4da7-4102-bf05-31605525265d",
+            "download_links": [
+                {
+                    "title": "The State of London June 2022 final.pdf",
+                    "url": "https://data.london.gov.uk/download/state-of-london/ea616479-17d1-4590-bd9f-6667b0e1dab7/The%20State%20of%20London%20June%202022%20final.pdf",
+                    "format": "pdf",
+                    "size": 1084072,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "The State of London January 2023 final.pdf",
+                    "url": "https://data.london.gov.uk/download/state-of-london/797792ae-9de2-4be6-b341-8265a4066dbb/The%20State%20of%20London%20January%202023%20final.pdf",
+                    "format": "pdf",
+                    "size": 2727421,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "The State of London June 2023.pdf",
+                    "url": "https://data.london.gov.uk/download/state-of-london/69b6b14c-dbb2-4912-88d6-1b1ec5499195/The%20State%20of%20London%20June%202023.pdf",
+                    "format": "pdf",
+                    "size": 2316817,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "The State of London January 2024.pdf",
+                    "url": "https://data.london.gov.uk/download/state-of-london/f101ab9b-1332-4d1a-a692-4844a3b89694/The%20State%20of%20London%20January%202024.pdf",
+                    "format": "pdf",
+                    "size": 2842846,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "The State of London June 2024.pdf",
+                    "url": "https://data.london.gov.uk/download/state-of-london/37012949-cf37-4e77-8e79-013b4e1de2e3/The%20State%20of%20London%20June%202024.pdf",
+                    "format": "pdf",
+                    "size": 3775721,
+                    "mimetype": "application/pdf"
+                }
+            ],
+            "faiss_score": 0.8227,
+            "faiss_rank": 42,
+            "rerank_score": -2.2600200176239014,
+            "rerank_rank": 4
+        },
+        {
+            "id": "88eaa962-37d1-4f07-a94f-6ea04a31e066",
+            "title": "London’s housing data from AMR13",
+            "summary": "Full listings of the residential units in London’s housing pipeline as at 31/03/2016 and completed between 01/04/20015 and 31/03/2016 from the London Development Database (LDD).\n The LDD records significant planning permissions in London. The data is entered by the London Boroughs and is checked by the GLA to ensure consistency across London. The LDD records any planning consent that permits the loss or gain of one or more residential units.\nThis data was used to compile the housing monitor in the London Plan Annual Monitoring Report 13. it will not be updated.",
+            "publisher": "Planning data team",
+            "tags": [],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": "Point Location"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/88eaa962-37d1-4f07-a94f-6ea04a31e066",
+            "download_links": [
+                {
+                    "title": "LDD - Housing Pipeline from AMR13.xls",
+                    "url": "https://data.london.gov.uk/download/london-s-housing-pipeline-as-at-31-03-2016-from-amr13/f4543bb3-50fa-4de1-98a2-2f44fa0ae13a/LDD%20-%20Housing%20Pipeline%20from%20AMR13.xls",
+                    "format": "spreadsheet",
+                    "size": 16716288,
+                    "mimetype": "application/vnd.ms-excel"
+                },
+                {
+                    "title": "LDD - Housing Completions for AMR 13",
+                    "url": "https://data.london.gov.uk/download/london-s-housing-pipeline-as-at-31-03-2016-from-amr13/f810d871-e735-49c3-85b0-1e6ac7410f1b/LDD%20-%20Housing%20Completions%20for%20AMR%2013",
+                    "format": "spreadsheet",
+                    "size": 2060000,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "faiss_score": 0.8299,
+            "faiss_rank": 19,
+            "rerank_score": -2.8347671031951904,
+            "rerank_rank": 5
+        },
+        {
+            "id": "7f392277-1c2b-43dc-a793-69330fe5a288",
+            "title": "Dwellings Numbers on Valuation List, Borough",
+            "summary": "Numbers of dwellings on Valuation List in each council tax band.\nData comes from Valuation Office Agency of HMRC. Based on property values at 1 April 1991, homes are allocated to one of eight bands in England: the lowest - band A - is for homes worth less than £40,000, and the highest - band H - is for those worth more than £320,000.\nData for smaller geographies (LSOA/MSOA) is available in a separate dataset here.\nExternal link",
+            "publisher": "Opinion Research and General Statistics (GLA)",
+            "tags": [
+                "building",
+                "council",
+                "build",
+                "homes",
+                "housing",
+                "dwellings",
+                "year",
+                "tax"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "Greater London",
+                "smallest_geography": "Local Authority"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/7f392277-1c2b-43dc-a793-69330fe5a288",
+            "download_links": [
+                {
+                    "title": "dwellings-valuation-band-borough.xls",
+                    "url": "https://data.london.gov.uk/download/dwellings-numbers-valuation-list-borough/3c6f0654-8aaf-4bdc-9e23-e099901d8e96/dwellings-valuation-band-borough.xls",
+                    "format": "spreadsheet",
+                    "size": 131072,
+                    "mimetype": "application/vnd.ms-excel"
+                }
+            ],
+            "faiss_score": 0.8218,
+            "faiss_rank": 45,
+            "rerank_score": -2.9271578788757324,
+            "rerank_rank": 6
+        },
+        {
+            "id": "0a9d2e10-b1b6-4469-a889-5813ba734c6c",
+            "title": "Focus on London - Income and Spending",
+            "summary": "FOCUSONLONDON2010:INCOMEANDSPENDINGATHOME\n\nHousehold income in London far exceeds that of any other region in the UK. At £900 per week, London’s gross weekly household income is 15 per cent higher than the next highest region. Despite this, the costs to each household are also higher in the capital. Londoners pay a greater amount of their income in tax and national insurance than the UK average as well as footing a higher bill for housing and everyday necessities. All of which leaves London households less well off than the headline figures suggest.\n\nThis chapter, authored by Richard Walker in the GLA Intelligence Unit, begins with an analysis of income at both individual and household level, before discussing the distribution and sources of income. This is followed by a look at wealth and borrowing and finally, focuses on expenditure including an insight to the cost of housing in London, compared with other regions in the UK.\n\nSee other reports from this Focus on London series.\n\nREPORT:\n\nTo view the report online click on the image below.\n   Income and Spending Report PDF\n\n\n\nPRESENTATION:\n\nThis interactive presentation finds the answer to the question, who really is better off, an average London or UK household? This analysis takes into account available data from all types of income and expenditure. Click on the link to access.\n\nPREZI\n\nThe Prezi in plain text version\n\nRANKINGS:\n\n\nThis interactive chart shows some key borough level income and expenditure data. This chart helps show the relationships between five datasets. Users can rank each of the indicators in turn.\n\nBorough rankings Tableau Chart\n\nMAP:\n\nThese interactive borough maps help to geographically present a range of income and expenditure data within London.\n\nInteractive Maps - Instant Atlas\n\nDATA:\n\nAll the data contained within the Income and Spending at Home report as well as the data used to create the charts and maps can be accessed in this spreadsheet.\n\nReport data\n\nFACTS:\n\nSome interesting facts from the data…\n\n● Five boroughs with the highest median gross weekly pay per person in 2009:\n\n-1. Kensington & Chelsea - £809\n\n-2. City of London - £767\n\n-3. Westminster - £675\n\n-4. Wandsworth - £636\n\n-5. Richmond - £623\n\n-32. Brent - £439\n\n-33. Newham - £422\n\n● Five boroughs with the highest median weekly rent for a 2 bedroom property in October 2010:\n\n-1. Kensington & Chelsea - £550\n\n-2. Westminster - £500\n\n-3. City of London - £450\n\n-4. Camden - £375\n\n-5. Islington - £360\n\n-32. Havering - £183\n\n-33. Bexley - £173\n\n● Five boroughs with the highest percentage of households that own their home outright in 2009:\n\n-1. Bexley – 38 per cent\n\n-2. Havering – 36 per cent\n\n-3. Richmond – 32 per cent\n\n-4. Bromley – 31 per cent\n\n-5. Barnet – 28 per cent\n\n-31. Tower Hamlets – 9 per cent\n\n-32. Southwark – 9 per cent\n",
+            "publisher": "Opinion Research and General Statistics (GLA)",
+            "tags": [
+                "spending",
+                "expenditure",
+                "income",
+                "fol",
+                "borough-economic"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "",
+                "smallest_geography": "Local Authority"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet",
+                "pdf"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/0a9d2e10-b1b6-4469-a889-5813ba734c6c",
+            "download_links": [
+                {
+                    "title": "Focus on London 2010 - Income and Spending",
+                    "url": "https://data.london.gov.uk/download/focus-on-london-income-and-spending/7e69d524-1b60-48e2-8610-c0a97fa08c25/Focus%20on%20London%202010%20-%20Income%20and%20Spending",
+                    "format": "pdf",
+                    "size": 788410,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "Income and Spending Report data",
+                    "url": "https://data.london.gov.uk/download/focus-on-london-income-and-spending/832b6ee2-272a-4aaa-a5ad-2675247d616f/Income%20and%20Spending%20Report%20data",
+                    "format": "spreadsheet",
+                    "size": 957952,
+                    "mimetype": "application/vnd.ms-excel"
+                }
+            ],
+            "faiss_score": 0.8435,
+            "faiss_rank": 5,
+            "rerank_score": -3.0731163024902344,
+            "rerank_rank": 7
+        },
+        {
+            "id": "1e12c403-8ce0-4d02-843e-e499a58fbf0e",
+            "title": "The Economics of London's Housing Market",
+            "summary": "Through reading this publication you will:\n• gain an understanding of how house prices are set in economics terms, how they are measured, and why the cost of housing matters for London’s economy and its residents\n• see whether incomes and earnings in London have kept pace with the costs of home ownership in London, and see how affordability may be affected by future changes in interest rates\n• find out about the drivers of demand for residential property in London, and how the supply of homes has responded to changing conditions",
+            "publisher": "GLA Economics",
+            "tags": [
+                "GLA Economics",
+                "housing",
+                "house prices",
+                "economy",
+                "borough-economic"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "",
+                "smallest_geography": "Borough"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "html",
+                "spreadsheet"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/1e12c403-8ce0-4d02-843e-e499a58fbf0e",
+            "download_links": [
+                {
+                    "title": "An economic analysis of London’s housing market: WP72",
+                    "url": "https://data.london.gov.uk/download/london-housing/0c7dcd64-4fea-4cfc-bd67-1da508fbc499/An%20economic%20analysis%20of%20London’s%20housing%20market:%20WP72",
+                    "format": "html",
+                    "size": 1408147,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "London's housing market WP72: data tables",
+                    "url": "https://data.london.gov.uk/download/london-housing/b7715cc7-82b8-46f3-a711-95f39844043a/London's%20housing%20market%20WP72:%20data%20tables",
+                    "format": "spreadsheet",
+                    "size": 3597242,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "faiss_score": 0.8445,
+            "faiss_rank": 4,
+            "rerank_score": -3.0786550045013428,
+            "rerank_rank": 8
+        },
+        {
+            "id": "edd069b9-389a-47d6-ad4e-b938264d4589",
+            "title": "GLA Economics Labour Market Analysis",
+            "summary": "This data can now be found at https://data.london.gov.uk/dataset/gla-economics-labour-market-update  ",
+            "publisher": "",
+            "tags": [],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": ""
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "Unknown Format"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/edd069b9-389a-47d6-ad4e-b938264d4589",
+            "download_links": [],
+            "faiss_score": 0.8361,
+            "faiss_rank": 13,
+            "rerank_score": -3.404078960418701,
+            "rerank_rank": 9
+        },
+        {
+            "id": "5ee963b5-fe47-4fdf-8a47-81761ffe5565",
+            "title": "Analysis of potential savings from freezing private rents",
+            "summary": "This page provides the results of an analysis carried out by the Greater London Authority of data on average private rents from Rightmove and forecast rent changes from Savills, resulting in estimated savings to renting households if rents were frozen at the levels of December 2022. ",
+            "publisher": "",
+            "tags": [
+                "housing market"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": "Greater London"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/5ee963b5-fe47-4fdf-8a47-81761ffe5565",
+            "download_links": [
+                {
+                    "title": "Rent freeze analysis.xlsx",
+                    "url": "https://data.london.gov.uk/download/analysis-of-potential-savings-from-freezing-private-rents/ace6083b-1163-4da8-8379-3de179733c97/Rent%20freeze%20analysis.xlsx",
+                    "format": "spreadsheet",
+                    "size": 13417,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "faiss_score": 0.8362,
+            "faiss_rank": 11,
+            "rerank_score": -3.582108497619629,
+            "rerank_rank": 10
+        },
+        {
+            "id": "2ca5ad28-f1fa-443d-afad-cab0c7403b6b",
+            "title": "House Price per Square Metre in England and Wales",
+            "summary": "This house price per square metre dataset is created through complex address-based matching between the Land Registry’s Price Paid Data (LR-PPD) and property size information from the Domestic Energy Performance Certificates (EPC) data published by the Department for Levelling Up, Housing and Communities (DLUHC, formerly MHCLG). Details of the data linkage are published in the UCL Open: Environment along with the related linkage code via the UK Data Service ReShare repository.\nDuring this data linkage process, the transactions assigned as category B (Additional Price Paid entry) and other property types are removed. Here we publish our latest limited attribute version of the uncorrected house price per square metre dataset in England and Wales with the LR-PPD data (1/1/1995-26/2/2021) and Domestic EPCs data (the sixth version, up to 20/9/2020) downloaded on 1/4/2021 for non-commercial purpose. This uncorrected version of house price per square metre dataset records over 18 million transactions with 16 variables in England and Wales since 1995. Unlike in our published article, in this uncorrected version we have not removed transactions with any improbable price per square metre values - i.e. where either the transaction price or total floor area values are null, 0 or too low to be realistic. This uncorrected version of the data will offer the most flexibility for researchers.\nWe offer technical validation and data cleaning code via the UKDA ReShare repository to help users evaluate the representation of the linked data for a given time period. The data cleaning code shows our methods for cleaning up unlikely floor size records before using this data in analysis. Users can create their own rules and undertake this clean-up process based on their own experience and research aims.\nThis limited attribute version is published by local authority (2021 version). Details of the 16 variables are described in the explanation file. The National Statistics Postcode Lookup NSPL (May 2021 version) is used to assign the local authority unit for your production of area-based statistics. Users can match historical changes in LA boundaries by choosing appropriate aggregations using, for instance ONSPD, and the postcode variable in our dataset.\nAn extended version of this dataset containing additional variables is available from UK Data Service Reshare service. Users can directly access this full version dataset (tranall_link_01042021.zip) via the following link:  https://reshare.ukdataservice.ac.uk/855033/ . Accompanying LR-PPD and EPC data are also supplied through the ReShare service. Users who would like to attach their own additional variables from the LR-PPD data are advised to use the transactionid variable to link to the LR-PPD (LRPPD_01042021.zip). Users who would like to attach additional variables from the EPC data are advised to use the id variable to link to the sixth version Domestic EPCs (epc6_id.zip). \n\nThe 2024 update\n\n\nThe 2024 updated version of the house price per square metre dataset extends the data coverage to the end of 2024 (\nhpm_la_2024.zip\n). This new version is the result of linking LR-PPD data (01/01/1995–31/10/2024) and Domestic EPCs data (up to 31/10/2024), downloaded on 26/12/2024 for non-commercial purposes. It records over 22 million transactions in England and Wales since 1995.\n\n\nUnlike the previous versions, this updated removes the id variable (created by the authors) and adds the lmk_key variable (originally from the Domestic EPCs dataset). This change was made because the lmk_key serves as a unique identifier with no duplicate records since 2024.\n\n\nThe match rate of the linked data varies over time; therefore, we recommend users carefully choose the time coverage and validate the data coverage using the match rate. Please note that publicly available Domestic EPCs data starts in 2008, resulting in an extremely low match rate for the period between 1995 and 2008.\n\n\nThe National Statistics Postcode Lookup (November 2024 version) is used to assign local authorities (2023 version) for this publication. An extended version of this dataset, containing additional variables from LR-PPD and Domestic EPCs, will be available from the UK Data Service Reshare platform.\n\n\nAlternatively, users can use the lmk_key variable to link additional variables from the Domestic EPCs dataset or use the transactionid to add in other information from the LR-PPD dataset.\n\n\nThe 2023 update\n\n\n In 2023, a third updated version of the house price per square metre dataset has been published on the London Datastore ( hpm_la_2023.zip ). This new version extends the data coverage to 2023, but keeps the same publication format as the first publication. The new version is the linked result based on LR-PPD data (1/1/1995-31/10/2023) and Domestic EPCs data (end with 31/10/2023) downloaded on 2/12/2023 for non-commercial purposes. This uncorrected version of the house price per square metre dataset records almost 21 million transactions in England and Wales since 1995.\nThe match rate of this linked data varies across time, thus we suggest the user chooses the time coverage needed based on their own research. The id variable has been newly generated for this new version of the Domestic EPC dataset published by DLUHC at the end of the 2023, so it is not the same as the id variable in our previous publication( hpm_la.zip   or    hpm_la_2022.zip ) and should not be used to link between the new and the previous publication.\n\n The National Statistics Postcode Lookup NSPL (November 2023 version) is used to assign the local authority unit for this second publication. An extended version of this dataset containing additional variables from LR-PPD and Domestic EPCs will be available in due course from UK Data Service Reshare service.\n\nThe 2022 update\n\nIn 2022, a second updated version of the house price per square metre dataset has been published on the London Datastore (hpm_la_2022.zip). This new version extends the data coverage to 2022, but keeps the same publication format as the first publication. The new version is the linked result based on LR-PPD data (1/1/1995-27/6/2022) and Domestic EPCs data (the twelfth version: end with 30/6/2022) downloaded on 13/8/2022 for non-commercial purposes. This uncorrected version of the house price per square metre dataset records almost 20 million transactions in England and Wales since 1995.\nThe match rate of this linked data before 2008 is lower, thus we suggest the user chooses the time coverage needed based on their own research. The id variable has been newly generated for this new data from the twelfth version of the Domestic EPC dataset published by DLUHC, so it is not the same as the id variable in our previous publication(hpm_la.zip) and should not be used to link between the new and the previous publication.\n\nThe National Statistics Postcode Lookup NSPL (August 2022 version) is used to assign the local authority unit for this second publication. An extended version of this dataset containing additional variables from LR-PPD and Domestic EPCs is available on the UK Data Service (  https://reshare.ukdataservice.ac.uk/856204/  )\n",
+            "publisher": "Bin Chi, Adam Dennett, Thomas Oléron-Evans and Robin Morphet (all UCL)",
+            "tags": [],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": ""
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "pdf",
+                "zip"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/2ca5ad28-f1fa-443d-afad-cab0c7403b6b",
+            "download_links": [
+                {
+                    "title": "House price per square metre dataset 2021",
+                    "url": "https://data.london.gov.uk/download/house-price-per-square-metre-in-england-and-wales/29ed9a44-3125-4bb2-91e5-87bbf190fe23/House%20price%20per%20square%20metre%20dataset%202021",
+                    "format": "zip",
+                    "size": 745738404,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "Explanations of fields in the house price per square metre dataset",
+                    "url": "https://data.london.gov.uk/download/house-price-per-square-metre-in-england-and-wales/5313e02a-6f0c-4bca-8294-5be87a631160/Explanations%20of%20fields%20in%20the%20house%20price%20per%20square%20metre%20dataset",
+                    "format": "pdf",
+                    "size": 79391,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "House price per square metre dataset 2022 updated version",
+                    "url": "https://data.london.gov.uk/download/house-price-per-square-metre-in-england-and-wales/540ec1b4-b04a-434a-9b2c-ab1977432c58/House%20price%20per%20square%20metre%20dataset%202022%20updated%20version",
+                    "format": "zip",
+                    "size": 817775638,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "House price per square metre dataset 2023 ",
+                    "url": "https://data.london.gov.uk/download/house-price-per-square-metre-in-england-and-wales/eb135539-340e-4c60-a580-c78cb4cada68/House%20price%20per%20square%20metre%20dataset%202023%20",
+                    "format": "zip",
+                    "size": 902058960,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "House price per square metre dataset 2024",
+                    "url": "https://data.london.gov.uk/download/house-price-per-square-metre-in-england-and-wales/e4a4f81e-d922-4d14-b6f7-9a4d8c09e9bc/House%20price%20per%20square%20metre%20dataset%202024",
+                    "format": "zip",
+                    "size": 1336477789,
+                    "mimetype": "application/zip"
+                }
+            ],
+            "faiss_score": 0.8455,
+            "faiss_rank": 3,
+            "rerank_score": -3.6356678009033203,
+            "rerank_rank": 11
+        },
+        {
+            "id": "7208ab65-5e64-459b-ac9e-bba1f3cf4c66",
+            "title": "City Tools: London",
+            "summary": "\nThis dataset covers the various technologies used across London boroughs to deliver their services and back office operations. The data includes information on 809 IT systems and their respective contracts and suppliers. \n\nThe data has been visualised in the City Tools: London dashboard and key insights are covered in the accompanying report.\nThis data is provided and maintained by the London Office of Technology and Innovation (LOTI). The data has been prepared to the best of our knowledge, but LOTI accepts no liabilities caused by errors or omissions.\n\nThe following notes define some of the key terms used in the dataset.\n\nBorough refers to a London local authority.\n\nAfC refers to Achieving for Children, a not-for-profit social enterprise set up by the boroughs of Kingston and Richmond, to deliver their children's services.\n\n\nType refers to Corporate and Frontline service areas.\n\n\nCorporate refers to central support functions to service areas.\n\nFrontline refers to services delivered to support residents.\n\n\nService refers to individual service areas.\n\nCapability refers to departments within services areas.\n\nSystem refers to a product licensed and / or operated by a supplier.\n\nSystem Manufacturer refers to a system manufacturer that may license / manufacture more than one product to support a service.\n\nContract end date raw refers to the raw data submitted by boroughs.\n\nContract end date refers to the inferred date in the format dd/mm/yyyy.\n\nSME refers to the Digital Market Place's definition of SME.\n\n\nTrue means the organisation is an SME as defined by the Digital Market Place\n\nFalse means the organisation is not an SME as defined by the Digital Market Place\n\nNull  means that no information was provided\n",
+            "publisher": "LOTI",
+            "tags": [
+                "LOTI",
+                "London Office of Technology and Innovation",
+                "Bloomberg Associates"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": "Borough"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "html",
+                "csv"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/7208ab65-5e64-459b-ac9e-bba1f3cf4c66",
+            "download_links": [
+                {
+                    "title": "LOTI_City_Tools_London_Dashboard_June2019_.csv",
+                    "url": "https://data.london.gov.uk/download/citytools/c1052e76-b97f-483a-add9-bcde934417c5/LOTI_City_Tools_London_Dashboard_June2019_.csv",
+                    "format": "csv",
+                    "size": 113145,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "City Tools: Interactive Dashboard",
+                    "url": "https://data.london.gov.uk/download/citytools/486bdd0d-734e-4f60-8cfe-dde126f9e8f4/City%20Tools:%20Interactive%20Dashboard",
+                    "format": "html",
+                    "size": 20786,
+                    "mimetype": "text/html; charset=utf-8"
+                }
+            ],
+            "faiss_score": 0.8221,
+            "faiss_rank": 44,
+            "rerank_score": -3.646836757659912,
+            "rerank_rank": 12
+        },
+        {
+            "id": "62c08c7b-20c6-4e3d-bdbb-dc50f0943682",
+            "title": "Ordnance Survey OpenData",
+            "summary": "Variety of freely available Ordnance Survey digital mapping datasets including postcodes and administration boundaries. These datasets can be useful in helping to map a number of other datasets available on the London Datastore such as Borough or Ward level data.\nThe following OS products are available to download from the OS OpenData website:\n\nMiniScale®\n1:250 000 Scale Colour Raster\nOS Street View®\nBoundary-Line™\nCode-Point Open®\n1:50 000 Scale Gazetteer\nStrategi®\nMeridian™ 2\nOS Locator™\nOS Terrain 50\nLand-Form PANORAMA®\nOS VectorMap® District (vector)\nOS VectorMap® District (raster)\n\nClick here to visit the Ordnance Survey OpenData pages\nClick here to download the Ordnance Survey OpenData files",
+            "publisher": "Opinion Research and General Statistics (GLA)",
+            "tags": [
+                "gis",
+                "geo",
+                "maps"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "National",
+                "smallest_geography": ""
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "Unknown Format"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/62c08c7b-20c6-4e3d-bdbb-dc50f0943682",
+            "download_links": [],
+            "faiss_score": 0.8233,
+            "faiss_rank": 39,
+            "rerank_score": -3.7544920444488525,
+            "rerank_rank": 13
+        },
+        {
+            "id": "843aa28f-8c50-463b-8234-689791460ce0",
+            "title": "London Labour Market, Skills and Employment Indicators",
+            "summary": "The Labour Market Indicators spreadsheet for boroughs and regions will no longer be updated from March 2015. The final version from March 2015 will still be available to download at the bottom of this page. Most of the data is available within datasets elsewhere on the Datastore.\nWorkforce Jobs Unemployment Model based Unemployment for Boroughs Claimant Count rates for Boroughs and Wards Employment Rate Trends Employment rates by Gender, Age and Disability Number of Self Employed, Full and Part Time Employed Employment by Occupation Employment by Industry Employment, Unemployment, Economic Activity and Inactivity Rates by Disability Employment by Ethnicity Economic Inactivity by Gender and Reason Qualifications of Economically Active, Employed and Unemployed Qualification levels of working-age population Apprenticeship Starts and Achievements Young People Not in Employment, Education or Training (NEET), Borough 19 year olds Qualified to NVQ Level 3 GCE A level examination results of 16-18 year olds GCSE Results by Pupil Characteristics People Claiming Out-of-Work Benefits People Claiming Incapacity Benefit Children Living in Workless Households Gross Value Added, and Gross Disposable Household Income Earnings by place of residence Earnings by place of work Business Demographics Employment projections by sector Jobs Density Population Estimates Population Migration\nCore Indicators\nNumber of London residents of working age in employment Employment rate Number of male London residents of working age in employment Male employment rate Number of female London residents of working age in employment Female employment rate Workforce jobs Jobs density Number of London residents of working age who are economically inactive Economic inactivity rate Number of London residents aged 16+ who are unemployed (model based) Proportion of London residents aged 16+ who are unemployed (model based) Claimant unemployment Claimant Count as a proportion of the working age population Incidence of skill gaps (Numbers and rates) GCSE (5+ A*–C) attainment including English and Maths Number of working age people in London with no qualifications Proportion of working age people in London with no qualifications Number of working age people in London with Level 4+ qualifications Proportion of working age people in London with Level 4+ qualifications Number of people of working age claiming out of work benefits Proportion of the working age population who claim out of work benefits Number of young people aged 16-18 who are not in employment, education or training NEET) Proportion of 16-18 year olds who are NEET\nAdditional Indicators\nEconomy and Productivity Business Demography (active enterprises, births and deaths of enterprises) Business Demography (active enterprises, births and deaths of enterprises): Index Business Demography (National indicators)\nDemand for labour: Jobs, vacancies and skills needs Total vacancies reported by employers Skill shortage vacancies JobCentre vacancies - notified JobCentre vacancies - unfilled Number employed by industry (working age) Employment rates by industry (working age) Number employed by occupation Employment rates by occupation Working age who are self-employed Numbers employed in the civil service\nPopulation and supply of labour Population estimates (working age) National Insurance Number Registrations of overseas nationals Employment projections Number employed by ethnic groups (working age) Employment rates by ethnic groups (working age) Number employed by age groups Employment rates by age groups Number employed by disability (working age) Employment rates by disability (working age) Employment: Part time/ Full time Inactivity by reason (working age) Inactivity rates by reason (working age) JSA claimants by ethnic groups Incapacity Benefit claimants by duration Working age benefit claimants by statistical group Aged 18-24, claiming JSA for over 6 months Aged 18-24, claiming JSA for over 9 months Aged over 25, claiming JSA for over 1 year JSA claimant flows JSA claimant flows: index\nSkills and learning Total achieving 5+ A*-C grades inc. English & Mathematics by characteristics Percentage achieving 5+ A*-C grades inc. English & Mathematics by characteristics GCE A level examination results of 16-18 year olds Working age population by qualification level and sex Working age rates by qualification level and sex Qualification levels of those in employment (working age) Number with no adult learning (working age) Proportion with no adult learning (working age) Received job related training in last 13 wks (working age) Apprenticeship Programme starts and achievements - summary Apprenticeship Programme starts and achievements - index Apprenticeship Programme starts by level and age Apprenticeship Programme achievements by level and age Number of 19 year olds qualified to Level 3 Proportion of 19 year olds qualified to Level 3\nWorklessness and NEETS Worklessness by sex and age (working age) Worklessness rates by sex and age (working age) Worklessness numbers and rates by qualification levels (working age)\nWithin the borough spreadsheet, statistics are shown for boroughs, inner London, outer London, Thames Gateway London, Olympic Host Boroughs, West London, and West London Alliance.\nFurther Labour Market Indicator tools are available from the CESI website.\n ",
+            "publisher": "Opinion Research and General Statistics (GLA)",
+            "tags": [
+                "haringey",
+                "barnet",
+                "newham",
+                "brent",
+                "wandsworth",
+                "camden",
+                "barking-and-dagenham",
+                "hackney",
+                "waltham-forest",
+                "redbridge",
+                "lambeth",
+                "hounslow",
+                "lewisham",
+                "havering",
+                "kensington-and-chelsea",
+                "croydon",
+                "hammersmith-and-fulham",
+                "islington",
+                "harrow",
+                "merton",
+                "enfield",
+                "greenwich",
+                "city-of-london",
+                "sutton",
+                "bexley",
+                "ealing",
+                "hillingdon",
+                "bromley",
+                "southwark",
+                "richmond-upon-thames",
+                "kingston-upon-thames",
+                "tower-hamlets",
+                "westminster",
+                "borough-economic"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "",
+                "smallest_geography": "Local Authority"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet",
+                "pdf"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/843aa28f-8c50-463b-8234-689791460ce0",
+            "download_links": [
+                {
+                    "title": "Scorecard_Mar15.pdf",
+                    "url": "https://data.london.gov.uk/download/london-labour-market-indicators/67937c15-b705-4e86-a3bb-e8505134593d/Scorecard_Mar15.pdf",
+                    "format": "pdf",
+                    "size": 103271,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "Indicators_London_Borough_Data_Feb16.xls",
+                    "url": "https://data.london.gov.uk/download/london-labour-market-indicators/877e7afb-adf2-445f-b8ea-7486db267a35/Indicators_London_Borough_Data_Feb16.xls",
+                    "format": "spreadsheet",
+                    "size": 4114432,
+                    "mimetype": "application/vnd.ms-excel"
+                },
+                {
+                    "title": "Indicators_London_Region_Feb16.xls",
+                    "url": "https://data.london.gov.uk/download/london-labour-market-indicators/bc778a13-396e-43f0-9a25-b71aa9ef29d1/Indicators_London_Region_Feb16.xls",
+                    "format": "spreadsheet",
+                    "size": 1910784,
+                    "mimetype": "application/vnd.ms-excel"
+                }
+            ],
+            "faiss_score": 0.8228,
+            "faiss_rank": 41,
+            "rerank_score": -3.9190893173217773,
+            "rerank_rank": 14
+        },
+        {
+            "id": "1b0acf79-fcf1-4e42-bdca-16e33bec9a26",
+            "title": "Housing Research Notes",
+            "summary": "Housing Research Notes are a series of analytical reports from the Greater London Authority focusing on individual issues of relevance to housing policy in London. \nThe most recent Housing Research Note (published in November 2023) estimates the annual cost to the NHS of homes in poor condition in London. It also estimates the cost of repairing all the homes in London that are in poor condition, calculating how long it would take the savings to pay off the repair costs. The analysis is broken down by tenure and compared with the same figures for the rest of England.\nPrevious Housing Research Notes have analysed topics including housing supply, Help to Buy policy, short-term lettings, international comparisons, the factors behind increasing private rents and race equality. ",
+            "publisher": "",
+            "tags": [
+                "housing",
+                "supply",
+                "housing association",
+                "local authority",
+                "build to rent",
+                "developer",
+                "small sites",
+                "changes of use",
+                "new build",
+                "large sites",
+                "research",
+                "analysis",
+                "report",
+                "help to buy",
+                "housing market",
+                "house prices",
+                "housing transactions"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": "Borough"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet",
+                "pdf"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/1b0acf79-fcf1-4e42-bdca-16e33bec9a26",
+            "download_links": [
+                {
+                    "title": "Housing Research Note 2 - Help to Buy in London.pdf",
+                    "url": "https://data.london.gov.uk/download/housing-research-notes/19113f3a-9dd4-45f5-808f-7862272c2e0a/Housing%20Research%20Note%202%20-%20Help%20to%20Buy%20in%20London.pdf",
+                    "format": "pdf",
+                    "size": 560061,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "Housing Research Note 1 - Profile of new homes 2016-17.pdf",
+                    "url": "https://data.london.gov.uk/download/housing-research-notes/4e60cd27-497a-46e3-ab9e-13101e2e0ec9/Housing%20Research%20Note%201%20-%20Profile%20of%20new%20homes%202016-17.pdf",
+                    "format": "pdf",
+                    "size": 744547,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "Housing Research Note 3 - Housing in four world cities.pdf",
+                    "url": "https://data.london.gov.uk/download/housing-research-notes/eff969c5-c2f6-44da-89f5-6a01eb4097a0/Housing%20Research%20Note%203%20-%20Housing%20in%20four%20world%20cities.pdf",
+                    "format": "pdf",
+                    "size": 760488,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "Data and sources for HRN 3 - Housing in four world cities",
+                    "url": "https://data.london.gov.uk/download/housing-research-notes/b3909dc1-7b97-483a-a06b-2022403ef7b2/Data%20and%20sources%20for%20HRN%203%20-%20Housing%20in%20four%20world%20cities",
+                    "format": "spreadsheet",
+                    "size": 26549,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                },
+                {
+                    "title": "Housing Research Note 4 - Short-term and holiday letting in London.pdf",
+                    "url": "https://data.london.gov.uk/download/housing-research-notes/70c0d357-4eb6-41b5-8cbe-1b6b0524fdb2/Housing%20Research%20Note%204%20-%20Short-term%20and%20holiday%20letting%20in%20London.pdf",
+                    "format": "pdf",
+                    "size": 1272313,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": " Housing Research Note 5 - Intermediate housing: The evidence base.pdf",
+                    "url": "https://data.london.gov.uk/download/housing-research-notes/42ba7261-42fe-4c91-adef-1d8b18438150/%20Housing%20Research%20Note%205%20-%20Intermediate%20housing:%20The%20evidence%20base.pdf",
+                    "format": "pdf",
+                    "size": 837551,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "Housing Research Note 6 - An analysis of housing floorspace per person.pdf",
+                    "url": "https://data.london.gov.uk/download/housing-research-notes/a69d6769-855e-4666-861c-671aadae9a69/Housing%20Research%20Note%206%20-%20An%20analysis%20of%20housing%20floorspace%20per%20person.pdf",
+                    "format": "pdf",
+                    "size": 1170283,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "Housing Research Note 7 - Who moves into social housing in London.pdf",
+                    "url": "https://data.london.gov.uk/download/housing-research-notes/6eb88e18-ae77-41b5-904d-730f5752354b/Housing%20Research%20Note%207%20-%20Who%20moves%20into%20social%20housing%20in%20London.pdf",
+                    "format": "pdf",
+                    "size": 1474140,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "Housing Research Note 8 - Housing and race equality in London.pdf",
+                    "url": "https://data.london.gov.uk/download/housing-research-notes/a1fec274-f6e8-4058-b2fe-e78b148535f7/Housing%20Research%20Note%208%20-%20Housing%20and%20race%20equality%20in%20London.pdf",
+                    "format": "pdf",
+                    "size": 2345740,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "Housing Research Note 6 - Floorspace summary data",
+                    "url": "https://data.london.gov.uk/download/housing-research-notes/707269d8-5048-4e09-8f43-e5d0cebac886/Housing%20Research%20Note%206%20-%20Floorspace%20summary%20data",
+                    "format": "spreadsheet",
+                    "size": 44836,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                },
+                {
+                    "title": "Housing Research Note 9 - Understanding recent rental trends in London's private rented market.pdf",
+                    "url": "https://data.london.gov.uk/download/housing-research-notes/cc1eebf6-5ac0-4e31-a492-d3e6fae2c8fc/Housing%20Research%20Note%209%20-%20Understanding%20recent%20rental%20trends%20in%20London's%20private%20rented%20market.pdf",
+                    "format": "pdf",
+                    "size": 909645,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "Housing Research Note 10 - The affordability impacts of new housing supply.pdf",
+                    "url": "https://data.london.gov.uk/download/housing-research-notes/b8008534-9e70-46bf-b471-876362a14d9e/Housing%20Research%20Note%2010%20-%20The%20affordability%20impacts%20of%20new%20housing%20supply.pdf",
+                    "format": "pdf",
+                    "size": 821296,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "Housing Research Note 11 - The cost of poor housing in London",
+                    "url": "https://data.london.gov.uk/download/housing-research-notes/ebc2554b-6957-4958-a37c-94c2afd856b7/Housing%20Research%20Note%2011%20-%20The%20cost%20of%20poor%20housing%20in%20London",
+                    "format": "pdf",
+                    "size": 645622,
+                    "mimetype": "application/pdf"
+                }
+            ],
+            "faiss_score": 0.824,
+            "faiss_rank": 34,
+            "rerank_score": -4.0994744300842285,
+            "rerank_rank": 15
+        },
+        {
+            "id": "5743b248-2a83-460e-a0ed-f79a273f576a",
+            "title": "Local Authority Collected Waste Management, London",
+            "summary": "These datasets contain the annual results for local authority collected waste in London and England.\nLocal authority collected waste statistics from the quarterly reporting to WasteDataFlow. Data in this table shows Local Authority, London and England data.\nInformation on the median cost of different types of waste management is also included.\nhttp://www.london.gov.uk/priorities/environment/publications/the-mayors-waste-management-strategies\nhttps://www.gov.uk/government/statistics/local-authority-collected-waste-for-england-quarterly-estimates\nhttp://www.wastedataflow.org/reports/default.aspx",
+            "publisher": "Opinion Research and General Statistics (GLA)",
+            "tags": [
+                "landfill",
+                "rubbish",
+                "waste",
+                "recycling"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "",
+                "smallest_geography": "Greater London"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/5743b248-2a83-460e-a0ed-f79a273f576a",
+            "download_links": [
+                {
+                    "title": "la-collected-waste.xls",
+                    "url": "https://data.london.gov.uk/download/local-authority-collected-waste-management-london/4d88d88c-31a7-468b-95e9-49fba78ad20e/la-collected-waste.xls",
+                    "format": "spreadsheet",
+                    "size": 69915,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                },
+                {
+                    "title": "la-collected-waste-quarterly [DISCONTINUED]",
+                    "url": "https://data.london.gov.uk/download/local-authority-collected-waste-management-london/c49bbd3f-b1f8-49d3-8da4-db8cf25f3d90/la-collected-waste-quarterly%20[DISCONTINUED]",
+                    "format": "spreadsheet",
+                    "size": 173056,
+                    "mimetype": "application/vnd.ms-excel"
+                }
+            ],
+            "faiss_score": 0.8285,
+            "faiss_rank": 23,
+            "rerank_score": -4.231213092803955,
+            "rerank_rank": 16
+        },
+        {
+            "id": "85408eaa-442e-489e-a5f1-49e76ff10a54",
+            "title": "Focus on London - Housing",
+            "summary": "FOCUSONLONDON2011: HOUSING:AGROWINGCITY\n\nWith the highest average incomes in the country but the least space to grow, demand for housing in London has long outstripped supply, resulting in higher housing costs and rising levels of overcrowding. The pressures of housing demand in London have grown in recent years, in part due to fewer people leaving London to buy homes in other regions. But while new supply during the recession held up better in London than in other regions, it needs to increase significantly in order to meet housing needs and reduce housing costs to more affordable levels.\n\nThis edition of Focus on London authored by James Gleeson in the Housing Unit looks at housing trends in London, from the demand/supply imbalance to the consequences for affordability and housing need.\n\nREPORT:\n\nRead the report in PDF format.\n\n\n\nPRESENTATION:\n\nHow much pressure is London’s popularity putting on housing provision in the capital? This interactive presentation looks at the effect on housing pressure of demographic changes, and recent new housing supply, shown by trends in overcrowding and house prices. Click on the start button at the bottom of the slide to access.\n\nView Focus on London - Housing: A Growing City on Prezi\n\nHISTOGRAM:\n\nThis histogram shows a selection of borough data and helps show areas that are similar to one another by each indicator.\n\nHistogram\n\nMOTION CHART:\n\nThis motion chart shows how the relationship, between key housing related indicators at borough level, changes over time.\n\nMotion Chart\n\nMAP:\n\nThese interactive borough maps help to geographically present a range of housing data within London, as well as presenting trend data where available.\n\nMAP\n\nDATA:\n\nAll the data contained within the Housing: A Growing City report as well as the data used to create the charts and maps can be accessed in this spreadsheet.\n\nFACTS:\n\nSome interesting facts from the data…\n\n● Five boroughs with the highest proportion of households that have lived at their address for less than 12 months in 2009/10:\n\n\n\n     Westminster – 19 per cent\n \n\n     Wandsworth – 17 per cent\n \n\n     Camden – 16 per cent\n \n\n     Lambeth – 14 per cent\n \n\n     Southwark – 13 per cent\n \n\n-31. Harrow – 6 per cent\n\n-32. Havering – 5 per cent\n\n● Five boroughs with the highest percentage point increase between 2004 and 2009 of households in the ‘private rented’ sector:\n\n\n\n     Newham – 17 per cent\n \n\n     Greenwich – 11 per cent\n \n\n     Enfield – 10 per cent\n \n\n     Camden – 9 per cent\n \n\n     Harrow – 8 per cent\n \n\n-32. Islington – 1 per cent\n\n-33. Bexley – 1 per cent\n\n● Five boroughs with the highest percentage difference in median house prices between 2007 Q4 and 2010 Q4:\n\n\n\n     Kensington & Chelsea – 29 per cent\n \n\n     Westminster – 19 per cent\n \n\n     Camden – 15 per cent\n \n\n     Islington – 14 per cent\n \n\n     Southwark – 10 per cent\n \n\n-31. Newham – down 9 per cent\n\n-32. Barking & D’ham – down 9 per cent\n",
+            "publisher": "Opinion Research and General Statistics (GLA)",
+            "tags": [
+                "fol",
+                "housing"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "",
+                "smallest_geography": "Local Authority"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet",
+                "pdf"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/85408eaa-442e-489e-a5f1-49e76ff10a54",
+            "download_links": [
+                {
+                    "title": "FOL Housing Report",
+                    "url": "https://data.london.gov.uk/download/focus-on-london-housing/929d06e3-2718-40f6-a479-7b2ddd3eb423/FOL%20Housing%20Report",
+                    "format": "pdf",
+                    "size": 1675677,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "FOL Housing Report Data",
+                    "url": "https://data.london.gov.uk/download/focus-on-london-housing/b488ee1e-8c4d-4d62-82d9-4fd883791db5/FOL%20Housing%20Report%20Data",
+                    "format": "spreadsheet",
+                    "size": 488448,
+                    "mimetype": "application/vnd.ms-excel"
+                }
+            ],
+            "faiss_score": 0.8339,
+            "faiss_rank": 15,
+            "rerank_score": -4.270657062530518,
+            "rerank_rank": 17
+        },
+        {
+            "id": "b4abb5a5-ec4c-48b0-abad-d7a18ac7c831",
+            "title": "Age of Commercial and Industrial Stock, Borough",
+            "summary": "Commercial and Industrial stock by date built.\n\nAverage rateable value - £/m2\r\nTotal Rateable value - £'000s\r\nTotal Floorspace - 000s m2\r\nHereditaments - Number\r\n",
+            "publisher": "Opinion Research and General Statistics (GLA)",
+            "tags": [
+                "age",
+                "commercial",
+                "stock",
+                "industrial",
+                "planning",
+                "property"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "Greater London",
+                "smallest_geography": "Local Authority"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/b4abb5a5-ec4c-48b0-abad-d7a18ac7c831",
+            "download_links": [
+                {
+                    "title": "age-of-commercial-and-industrial-stock.xls",
+                    "url": "https://data.london.gov.uk/download/age-commercial-and-industrial-stock-borough/246ce015-9006-48d7-acb8-f93d05d7cd64/age-of-commercial-and-industrial-stock.xls",
+                    "format": "spreadsheet",
+                    "size": 165376,
+                    "mimetype": "application/vnd.ms-excel"
+                }
+            ],
+            "faiss_score": 0.8275,
+            "faiss_rank": 26,
+            "rerank_score": -4.294724464416504,
+            "rerank_rank": 18
+        },
+        {
+            "id": "767a841f-5465-469d-9f0a-beb4c7e725d4",
+            "title": "Housing Sales",
+            "summary": "Number of properties sold from Land Registry data.\nExcluded from the above figures are sales at less than market price (e.g. Right To Buy), sales below £1,000 and sales above £20m.\nRelevant link: http://www.ons.gov.uk/ons/rel/regional-analysis/house-price-statistics-for-small-areas/index.html",
+            "publisher": "Opinion Research and General Statistics (GLA)",
+            "tags": [
+                "house",
+                "sales",
+                "market",
+                "property",
+                "homes"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "Greater London",
+                "smallest_geography": "Local Authority"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet",
+                "csv"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/767a841f-5465-469d-9f0a-beb4c7e725d4",
+            "download_links": [
+                {
+                    "title": "housing-sales-borough.xls",
+                    "url": "https://data.london.gov.uk/download/housing-sales/27806166-a893-4c68-abd0-129e9d2cc093/housing-sales-borough.xls",
+                    "format": "spreadsheet",
+                    "size": 75264,
+                    "mimetype": "application/vnd.ms-excel"
+                },
+                {
+                    "title": "housing-sales-borough.csv",
+                    "url": "https://data.london.gov.uk/download/housing-sales/dfa394b3-c523-47e1-a14d-e02d341acaee/housing-sales-borough.csv",
+                    "format": "csv",
+                    "size": 6392,
+                    "mimetype": "text/csv"
+                }
+            ],
+            "faiss_score": 0.8378,
+            "faiss_rank": 9,
+            "rerank_score": -4.396901607513428,
+            "rerank_rank": 19
+        },
+        {
+            "id": "9bdff4d3-79de-44df-be14-87b973f12317",
+            "title": "Affordable Housing Open Data",
+            "summary": "Building affordable and council homes is a priority for the Mayor in tackling London's housing crisis and a key component of the London Housing Strategy. The GLA Housing team monitor a range of housing statistics produced by the Department for Levelling Up, Housing and Communities (DLUHC), and this spreadsheet contains a section from the Affordable Housing Open Data. This data has been used to measure the number of affordable and council homes built in London since 2016/17 and includes all affordable homes built, including those which did not receive funding from the GLA.\nThis dataset does not incorporate DLUHC data for 2021/22 or GLA data for 2022/23.",
+            "publisher": "",
+            "tags": [
+                "Housing",
+                "affordable homes",
+                "council-housing",
+                "social-housing"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": "Borough"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/9bdff4d3-79de-44df-be14-87b973f12317",
+            "download_links": [
+                {
+                    "title": "Affordable Housing Open Data.xlsx",
+                    "url": "https://data.london.gov.uk/download/affordable-housing-open-data/2def83ce-ab19-435e-a721-45e98bf5e34f/Affordable%20Housing%20Open%20Data.xlsx",
+                    "format": "spreadsheet",
+                    "size": 15034,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "faiss_score": 0.839,
+            "faiss_rank": 7,
+            "rerank_score": -4.666871070861816,
+            "rerank_rank": 20
+        },
+        {
+            "id": "fe128bf6-2c4d-43a0-b8e0-dfcd031f036c",
+            "title": "London Debt Advice Clients",
+            "summary": "This dataset combines information on debt advice clients from three agencies working in London.\n\nThis dataset is built from information recorded by debt advice agencies on their client databases. It therefore does not provide a complete picture of debt in London, but helps to understand the characteristics of those seeking debt advice. The data are aggregated from three separate sources, and categories have been matched where possible to provide consistent output. Unknown cases for each variable have been omitted and numbers below 5 have been supressed, so there are different numbers of clients for each variable.\n\nKey Findings\n\n\n\n     -The number of people seeking debt advice varies widely across London, up to more than 200 clients in one year in one postcode sector.\n \n\n     -Around 4 in 10 of those seeking debt advice were in the 35-49 age group\n \n\n     -Londoners seeking debt advice came from across the spectrum of society, owner occupiers to homeless, all age groups and all ethnicities.\n \n\n     -Levels of debt ranged from under £1,000 to over £1,000,000\n \n\nDownload Data\n\n\nCombined debt advice statistics 2010-11\n\n\nCombined debt advice statistics 2011-12\n\n\n\n*Maps\n\nThe GLA has prepared a series of maps visualising the debt advice data. These can be downloaded in PNG format below.\n\nGeographic Unit, Measure, 2010-11, 2011-12\n\nBorough,\n   Age of clients,\n   Map (PNG),\n   Map (PNG)\n\nBorough,\n   Level of debt,\n   Map (PNG),\n   Map (PNG)\n\nBorough,\n   Level of debt of clients over 65,\n   Map (PNG),\n   Map (PNG)\n\nBorough,\n   Ethnicity of clients,\n   Map (PNG),\n   Map (PNG)\n\nBorough,\n   Tenure of clients,\n   Map (PNG),\n   Map (PNG)\n\nPostcode Sector,\n   Number of clients,\n   Map (PNG),\n   Map (PNG)\n",
+            "publisher": "Rachel Leeser",
+            "tags": [
+                "debt",
+                "age",
+                "ethnicity",
+                "tenure"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "Greater London",
+                "smallest_geography": "Postcode Sector"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/fe128bf6-2c4d-43a0-b8e0-dfcd031f036c",
+            "download_links": [
+                {
+                    "title": "Combined debt advice statistics 2010-11",
+                    "url": "https://data.london.gov.uk/download/london-debt-advice-clients/8cfcb67f-e472-4579-bfee-73d10b672ae7/Combined%20debt%20advice%20statistics%202010-11",
+                    "format": "spreadsheet",
+                    "size": 145920,
+                    "mimetype": "application/vnd.ms-excel"
+                },
+                {
+                    "title": "Combined debt advice statistics 2011-12",
+                    "url": "https://data.london.gov.uk/download/london-debt-advice-clients/ea7362dd-b1ae-4fd7-9ca7-ea65a0978095/Combined%20debt%20advice%20statistics%202011-12",
+                    "format": "spreadsheet",
+                    "size": 129024,
+                    "mimetype": "application/vnd.ms-excel"
+                }
+            ],
+            "faiss_score": 0.8268,
+            "faiss_rank": 28,
+            "rerank_score": -4.703588962554932,
+            "rerank_rank": 21
+        },
+        {
+            "id": "85519884-6f01-44e6-ac58-593c05ddecb9",
+            "title": "Annual London Survey 2010",
+            "summary": "The data is taken from a face-to-face survey of 1,490 residents of Greater London, undertaken in early 2010 by BMG Research on behalf of the GLA. The questions explore areas of Mayoral policy and priority including policing and safety, the environment, transport, the Olympics and london life.\n\nThe data is available by demographic group, including gender, age, ethnicity and social class. A full report and a summary of topline results were published on the GLA website in May 2010.\n\nThe response data is available as a CSV file containing 403 variables with an accompanying file defining each variable.  The same data is also available in SPSS format for users of that software.\n\nThe data is also available in an Excel spreadsheet with tabs relating to each of the categories in the main report.  This gets around the Excel limit of 255 columns in a single worksheet.\n\nA crosstab report is also available in rtf format.\n",
+            "publisher": "BMG Research",
+            "tags": [
+                "residents",
+                "satisfaction",
+                "opinion",
+                "top-priorities",
+                "survey"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "Greater London",
+                "smallest_geography": ""
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet",
+                "csv"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/85519884-6f01-44e6-ac58-593c05ddecb9",
+            "download_links": [
+                {
+                    "title": "gla-als-2010-responses.sav",
+                    "url": "https://data.london.gov.uk/download/annual-london-survey-2010/4a981bdb-3b67-4063-869d-52c6a62fde64/gla-als-2010-responses.sav",
+                    "format": "",
+                    "size": 733369,
+                    "mimetype": "application/octet-stream"
+                },
+                {
+                    "title": "gla-als-2010-crosstabs.rtf",
+                    "url": "https://data.london.gov.uk/download/annual-london-survey-2010/692ddc90-d9ad-417d-9190-c2908d733f9b/gla-als-2010-crosstabs.rtf",
+                    "format": "",
+                    "size": 1271106,
+                    "mimetype": "application/rtf"
+                },
+                {
+                    "title": "gla-als-2010-responses.csv",
+                    "url": "https://data.london.gov.uk/download/annual-london-survey-2010/a2b04f34-af77-47dd-a776-d9d60772c2fd/gla-als-2010-responses.csv",
+                    "format": "csv",
+                    "size": 3734369,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "gla-als-2010-responses.xls",
+                    "url": "https://data.london.gov.uk/download/annual-london-survey-2010/ba7b522a-802c-4041-b0df-eb73ff1e5c99/gla-als-2010-responses.xls",
+                    "format": "spreadsheet",
+                    "size": 9009152,
+                    "mimetype": "application/vnd.ms-excel"
+                }
+            ],
+            "faiss_score": 0.8216,
+            "faiss_rank": 46,
+            "rerank_score": -4.7162604331970215,
+            "rerank_rank": 22
+        },
+        {
+            "id": "f08d9dbc-0abc-47fd-b28a-7d35d1403ed8",
+            "title": "Monthly Mix-Adjusted Average House Prices, London",
+            "summary": "This page is no longer being updated. Please use the UK House Price Index instead.\nMix-adjusted house prices, by new/pre-owned dwellings, type of buyer (first time buyer) and region, from February 2002 for London and UK, and average mix-adjusted prices by UK region, and long term Annual House Price Index data since 1969 for London.\nThe ONS House Price Index is mix-adjusted to allow for differences between houses sold (for example type, number of rooms, location) in different months within a year. House prices are modelled using a combination of characteristics to produce a model containing around 100,000 cells (one such cell could be first-time buyer, old dwelling, one bedroom flat purchased in London). Each month estimated prices for all cells are produced by the model and then combined with their appropriate weight to produce mix-adjusted average prices. The index values are based on growth rates in the mix-adjusted average house prices and are annually chain linked.\nThe weights used for mix-adjustment change at the start of each calendar year (i.e. in January). The mix-adjusted prices are therefore not comparable between calendar years, although they are comparable within each calendar year. If you wish to calculate change between years, you should use the mix-adjusted house price index, available in Table 33.\nThe data published in these tables are based on a sub-sample of RMS data. These results will therefore differ from results produced using full sample data. For further information please contact the ONS using the contact details below.  House prices, mortgage advances and incomes have been rounded to the nearest £1,000.  Data taken from Table 2 and Table 9 of the monthly ONS release.\nDownload from ONS website",
+            "publisher": "Opinion Research and General Statistics (GLA)",
+            "tags": [
+                "house-prices-index",
+                "time",
+                "series"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "",
+                "smallest_geography": "Region"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/f08d9dbc-0abc-47fd-b28a-7d35d1403ed8",
+            "download_links": [
+                {
+                    "title": "ons-monthly-house-prices-london.xls",
+                    "url": "https://data.london.gov.uk/download/monthly-mix-adjusted-average-house-prices-london/3cdaab45-9793-4cef-9f6c-469866a8916a/ons-monthly-house-prices-london.xls",
+                    "format": "spreadsheet",
+                    "size": 157696,
+                    "mimetype": "application/vnd.ms-excel"
+                }
+            ],
+            "faiss_score": 0.8429,
+            "faiss_rank": 6,
+            "rerank_score": -4.71757698059082,
+            "rerank_rank": 23
+        },
+        {
+            "id": "a40c80df-b894-4c5b-971b-e8889065139b",
+            "title": "Referral planning applications between 2011-2022",
+            "summary": "This dataset includes information on the planning applications referable to the Mayor between January 2011 - December 2022. Planning applications included within this dataset are those that were considered by the Mayor at stage 2 and stage 3 between 1 January 2011 and 31 December 2022.\nInformation such as number of residential units, affordable housing provision, number of storeys and the Mayoral decision have been recorded for each application.\nThe data has been compiled manually and may be subject to human error, although efforts have been taken to verify information and reduce inaccuracies. If you do have any concerns and/or queries relating to any aspect of the data provided, please get in touch with planningsupport@london.gov.uk. \nThis file was updated to include data to 31st December 2022 on 18 August 2023. An amended version was uploaded on 16 April 2024.",
+            "publisher": "GLA Viability Team",
+            "tags": [],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": "Local Authority"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/a40c80df-b894-4c5b-971b-e8889065139b",
+            "download_links": [
+                {
+                    "title": "Referable planning application data 2011-2023.xlsx",
+                    "url": "https://data.london.gov.uk/download/referral-planning-applications-since-2011/47b49dde-d8ac-4229-b36f-900ca34c7490/Referable%20planning%20application%20data%202011-2023.xlsx",
+                    "format": "spreadsheet",
+                    "size": 702750,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "faiss_score": 0.8274,
+            "faiss_rank": 27,
+            "rerank_score": -4.8989481925964355,
+            "rerank_rank": 24
+        },
+        {
+            "id": "d43f875d-8765-4b41-9958-82b355c9efa9",
+            "title": "GiGL Spaces to Visit",
+            "summary": "\nIntroduction\n\n\nThe GiGL Spaces to Visit dataset provides locations and boundaries for open space sites in Greater London that are available to the public as destinations for leisure, activities and community engagement. It includes green corridors that provide opportunities for walking and cycling.\n\n\nThe dataset has been created by Greenspace Information for Greater London CIC (GiGL). As London’s Environmental Records Centre, GiGL mobilises, curates and shares data that underpin our knowledge of London’s natural environment. We provide impartial evidence to support informed discussion and decision making in policy and practice. \n\n\nGiGL maps under licence from the Greater London Authority. \n\n\nDescription\n\n\nThis dataset is a sub-set of the   GiGL Open Space dataset, the most comprehensive dataset available of open spaces in London. Sites are selected for inclusion in Spaces to Visit based on their public accessibility and likelihood that people would be interested in visiting.\nThe dataset is a mapped Geographic Information System (GIS) polygon dataset where one polygon (or multi-polygon) represents one space. As well as site boundaries, the dataset includes information about a site’s name, size and type (e.g. park, playing field etc.).\nGiGL developed the Spaces to Visit dataset to support anyone who is interested in London’s open spaces - including community groups, web and app developers, policy makers and researchers - with an open licence data source. More detailed and extensive data are available under GiGL data use licences for GIGL partners, researchers and students. Information services are also available for ecological consultants, biological recorders and community volunteers – please see www.gigl.org.uk for more information.\nPlease note that access and opening times are subject to change (particularly at the current time) so if you are planning to visit a site check on the local authority or site website that it is open.\nThe dataset is updated on a quarterly basis. If you have questions about this dataset please contact GiGL’s GIS and Data Officer.\n\nData sources\n\n\nThe boundaries and information in this dataset, are a combination of data collected during the London Survey Method habitat and open space survey programme (1986 – 2008) and information provided to GiGL from other sources since. These sources include London borough surveys, land use datasets, volunteer surveys, feedback from the public, park friends’ groups, and updates made as part of GiGL’s on-going data validation and verification process. \n\n\nDue to data availability, some areas are more up-to-date than others. We are continually working on updating and improving this dataset. If you have any additional information or corrections for sites included in the Spaces to Visit dataset please contact  GiGL’s GIS and Data Officer.\nNOTE: The dataset contains OS data © Crown copyright and database rights 2024. The site boundaries are based on Ordnance Survey mapping, and the data are published under Ordnance Survey's 'presumption to publish'. When using these data please acknowledge GiGL and Ordnance Survey as the source of the information using the following citation:\n\n‘Dataset created by Greenspace Information for Greater London CIC (GiGL), 2024 – Contains Ordnance Survey and public sector information licensed under the   Open Government Licence v3.0  ’\n",
+            "publisher": "Greenspace Information for Greater London CIC (GiGL)",
+            "tags": [
+                "open space",
+                "public open space",
+                "leisure",
+                "common",
+                "public woodland",
+                "nature reserve",
+                "canal",
+                "recreation ground",
+                "playing field",
+                "amenity green space",
+                "village green",
+                "reservoir",
+                "play space",
+                "adventure playground",
+                "youth area",
+                "community garden",
+                "city farm",
+                "cemetery",
+                "churchyard",
+                "civic square",
+                "market square",
+                "allotment",
+                "country park",
+                "park"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": ""
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "pdf",
+                "csv",
+                "zip"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/d43f875d-8765-4b41-9958-82b355c9efa9",
+            "download_links": [
+                {
+                    "title": "GiGL_SpacestoVisit_Open_Metadata",
+                    "url": "https://data.london.gov.uk/download/spaces-to-visit/329f8ad6-42fe-423d-a1d1-3c60d5a809f1/GiGL_SpacestoVisit_Open_Metadata",
+                    "format": "pdf",
+                    "size": 235265,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "GiGL_SpacestoVisit_Open",
+                    "url": "https://data.london.gov.uk/download/spaces-to-visit/b9734dbc-79a8-4c13-a6c3-b1588e3bafad/GiGL_SpacestoVisit_Open",
+                    "format": "csv",
+                    "size": 1204205,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "GiGL_SpacestoVisit_Open_Tab",
+                    "url": "https://data.london.gov.uk/download/spaces-to-visit/483954ff-15d6-4658-94e4-f1123c02229c/GiGL_SpacestoVisit_Open_Tab",
+                    "format": "zip",
+                    "size": 5323258,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "GiGL_SpacestoVisit_Open_Shp",
+                    "url": "https://data.london.gov.uk/download/spaces-to-visit/68eda5ec-6f4a-4bbf-a2dd-7a5e9b802a69/GiGL_SpacestoVisit_Open_Shp",
+                    "format": "zip",
+                    "size": 12350527,
+                    "mimetype": "application/zip"
+                }
+            ],
+            "faiss_score": 0.8268,
+            "faiss_rank": 30,
+            "rerank_score": -5.463160514831543,
+            "rerank_rank": 25
+        },
+        {
+            "id": "14a9f1aa-800b-43a4-ac89-1cd32723286b",
+            "title": "London Building Stock Model (LBSM)",
+            "summary": "The Mayor is committed to cutting fuel poverty and increasing the energy efficiency of buildings across London. To help target where action is most needed, the Mayor has developed a London Building Stock Model with the UCL Energy Institute. The London Building Stock Model is a database of all the energy and carbon data collected through the Mayor’s energy programmes and policies. It provides a snapshot of all London’s buildings (both domestic and non-domestic) with information on their energy performance certificates as of 2017.\n\nMore information is available here, and an interactive map is available here.\nMost of the data from the London Building Stock Model interactive map has been made available through the data extracts below. Please note that the data extracts are based on Ordnance Survey's list of London properties as of 2023. However, as the London Building Stock Model data is from 2017, some of the properties might not have any London Building Stock Model data attached to them.\nThe data contains Ordnance Survey mapping and the data is published under Ordnance Survey's 'presumption to publish'. © Crown copyright and database rights 2023\n",
+            "publisher": "",
+            "tags": [],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": ""
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet",
+                "csv",
+                "zip"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/14a9f1aa-800b-43a4-ac89-1cd32723286b",
+            "download_links": [
+                {
+                    "title": "London Building Stock Model - Barking & Dagenham Data",
+                    "url": "https://data.london.gov.uk/download/london-building-stock-model/27118995-063a-471e-a35d-5794f6121fc0/London%20Building%20Stock%20Model%20-%20Barking%20&%20Dagenham%20Data",
+                    "format": "csv",
+                    "size": 24714664,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "London Building Stock Model - Barnet Data",
+                    "url": "https://data.london.gov.uk/download/london-building-stock-model/a01499e0-68c9-48ea-bd9f-8e8b0709f101/London%20Building%20Stock%20Model%20-%20Barnet%20Data",
+                    "format": "csv",
+                    "size": 47971219,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "London Building Stock Model - Bexley Data",
+                    "url": "https://data.london.gov.uk/download/london-building-stock-model/59ec1cd3-3fe4-4ac0-a56c-1f048172a761/London%20Building%20Stock%20Model%20-%20Bexley%20Data",
+                    "format": "csv",
+                    "size": 28927312,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "London Building Stock Model - Brent Data",
+                    "url": "https://data.london.gov.uk/download/london-building-stock-model/e9475e93-5b64-4a2f-b211-eab5f4b427dd/London%20Building%20Stock%20Model%20-%20Brent%20Data",
+                    "format": "csv",
+                    "size": 40487560,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "London Building Stock Model - Bromley Data",
+                    "url": "https://data.london.gov.uk/download/london-building-stock-model/ef16f799-f57e-477c-9601-0778e436c8cc/London%20Building%20Stock%20Model%20-%20Bromley%20Data",
+                    "format": "csv",
+                    "size": "Unknown size",
+                    "mimetype": "Unknown mimetype"
+                },
+                {
+                    "title": "London Building Stock Model - Camden Data",
+                    "url": "https://data.london.gov.uk/download/london-building-stock-model/7be9be95-a44b-41d6-a188-8ebdfcab24d4/London%20Building%20Stock%20Model%20-%20Camden%20Data",
+                    "format": "csv",
+                    "size": 43296195,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "London Building Stock Model - City of London Data",
+                    "url": "https://data.london.gov.uk/download/london-building-stock-model/6190ecd1-55f6-467f-ae3e-62cbc2dd7bd8/London%20Building%20Stock%20Model%20-%20City%20of%20London%20Data",
+                    "format": "csv",
+                    "size": 5268594,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "London Building Stock Model - Croydon Data",
+                    "url": "https://data.london.gov.uk/download/london-building-stock-model/07c72fc5-e24b-463c-af0b-921a0daefc02/London%20Building%20Stock%20Model%20-%20Croydon%20Data",
+                    "format": "csv",
+                    "size": 49289435,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "London Building Stock Model - Ealing Data",
+                    "url": "https://data.london.gov.uk/download/london-building-stock-model/54327fe3-8df3-4b02-8415-70fced39009f/London%20Building%20Stock%20Model%20-%20Ealing%20Data",
+                    "format": "csv",
+                    "size": 44898270,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "London Building Stock Model - Enfield Data",
+                    "url": "https://data.london.gov.uk/download/london-building-stock-model/c74c3531-2396-4983-872f-ff853db6f20c/London%20Building%20Stock%20Model%20-%20Enfield%20Data",
+                    "format": "csv",
+                    "size": 38635883,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "London Building Stock Model - Greenwich Data",
+                    "url": "https://data.london.gov.uk/download/london-building-stock-model/52103160-8970-4fb7-893f-574e7a1ede30/London%20Building%20Stock%20Model%20-%20Greenwich%20Data",
+                    "format": "csv",
+                    "size": 39371001,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "London Building Stock Model - Hackney Data",
+                    "url": "https://data.london.gov.uk/download/london-building-stock-model/40a886eb-dbde-4433-bd10-85f579c03540/London%20Building%20Stock%20Model%20-%20Hackney%20Data",
+                    "format": "csv",
+                    "size": 40642070,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "London Building Stock Model - Hammersmith & Fulham Data",
+                    "url": "https://data.london.gov.uk/download/london-building-stock-model/7ba13b53-c86c-4f66-a4bd-6cf1c63e2643/London%20Building%20Stock%20Model%20-%20Hammersmith%20&%20Fulham%20Data",
+                    "format": "csv",
+                    "size": 34626076,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "London Building Stock Model - Haringey Data",
+                    "url": "https://data.london.gov.uk/download/london-building-stock-model/90d4d7e0-19f5-4802-ac01-b67f96f3a292/London%20Building%20Stock%20Model%20-%20Haringey%20Data",
+                    "format": "csv",
+                    "size": 37216184,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "London Building Stock Model - Harrow Data",
+                    "url": "https://data.london.gov.uk/download/london-building-stock-model/c87f460a-3a67-4e91-9b92-afb2bfde311a/London%20Building%20Stock%20Model%20-%20Harrow%20Data",
+                    "format": "csv",
+                    "size": 28493204,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "London Building Stock Model - Havering Data",
+                    "url": "https://data.london.gov.uk/download/london-building-stock-model/e193dd65-0719-48d7-8864-ee8954eb5d76/London%20Building%20Stock%20Model%20-%20Havering%20Data",
+                    "format": "csv",
+                    "size": 32779978,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "London Building Stock Model - Hillingdon Data",
+                    "url": "https://data.london.gov.uk/download/london-building-stock-model/60002a32-94bc-4eaf-8970-9d88cee4035d/London%20Building%20Stock%20Model%20-%20Hillingdon%20Data",
+                    "format": "csv",
+                    "size": 38056756,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "London Building Stock Model - Hounslow Data",
+                    "url": "https://data.london.gov.uk/download/london-building-stock-model/7d82d28a-6470-4af9-b815-50e1046b5704/London%20Building%20Stock%20Model%20-%20Hounslow%20Data",
+                    "format": "csv",
+                    "size": 34426234,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "London Building Stock Model - Islington Data",
+                    "url": "https://data.london.gov.uk/download/london-building-stock-model/819f10b2-6cb5-4d1c-a3a2-80e54a992497/London%20Building%20Stock%20Model%20-%20Islington%20Data",
+                    "format": "csv",
+                    "size": "Unknown size",
+                    "mimetype": "Unknown mimetype"
+                },
+                {
+                    "title": "London Building Stock Model - Kensington & Chelsea Data",
+                    "url": "https://data.london.gov.uk/download/london-building-stock-model/79a48a2e-c559-43f5-8347-f1a90b6c26d8/London%20Building%20Stock%20Model%20-%20Kensington%20&%20Chelsea%20Data",
+                    "format": "csv",
+                    "size": "Unknown size",
+                    "mimetype": "Unknown mimetype"
+                },
+                {
+                    "title": "London Building Stock Model - Kingston upon Thames Data",
+                    "url": "https://data.london.gov.uk/download/london-building-stock-model/2f556e0a-622f-484b-9fb8-7f91ea4f43e2/London%20Building%20Stock%20Model%20-%20Kingston%20upon%20Thames%20Data",
+                    "format": "csv",
+                    "size": 24632305,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "London Building Stock Model - Lambeth Data",
+                    "url": "https://data.london.gov.uk/download/london-building-stock-model/398fc81e-62fa-485a-94eb-f8701601f7ae/London%20Building%20Stock%20Model%20-%20Lambeth%20Data",
+                    "format": "csv",
+                    "size": 48480388,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "London Building Stock Model - Lewisham Data",
+                    "url": "https://data.london.gov.uk/download/london-building-stock-model/e47659d5-cad9-48a2-aa8d-ed1804401c8c/London%20Building%20Stock%20Model%20-%20Lewisham%20Data",
+                    "format": "csv",
+                    "size": 41187732,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "London Building Stock Model - Merton Data",
+                    "url": "https://data.london.gov.uk/download/london-building-stock-model/01fc76a1-918b-4263-bd94-a37f2bedffb3/London%20Building%20Stock%20Model%20-%20Merton%20Data",
+                    "format": "csv",
+                    "size": "Unknown size",
+                    "mimetype": "Unknown mimetype"
+                },
+                {
+                    "title": "London Building Stock Model - Newham Data",
+                    "url": "https://data.london.gov.uk/download/london-building-stock-model/e9d3f410-15ac-4d23-9f73-a5d3c2e13703/London%20Building%20Stock%20Model%20-%20Newham%20Data",
+                    "format": "csv",
+                    "size": 38658126,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "London Building Stock Model - Redbridge Data",
+                    "url": "https://data.london.gov.uk/download/london-building-stock-model/0e0dc245-cd25-4118-9fdd-6b30bc7be58a/London%20Building%20Stock%20Model%20-%20Redbridge%20Data",
+                    "format": "csv",
+                    "size": 32130337,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "London Building Stock Model - Richmond upon Thames Data",
+                    "url": "https://data.london.gov.uk/download/london-building-stock-model/70f695a9-901d-440b-b672-83f591b1903c/London%20Building%20Stock%20Model%20-%20Richmond%20upon%20Thames%20Data",
+                    "format": "csv",
+                    "size": 27817389,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "London Building Stock Model - Southwark Data",
+                    "url": "https://data.london.gov.uk/download/london-building-stock-model/35a22120-8e9a-44f1-8311-52704a4b9e2c/London%20Building%20Stock%20Model%20-%20Southwark%20Data",
+                    "format": "csv",
+                    "size": 47331970,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "London Building Stock Model - Sutton Data",
+                    "url": "https://data.london.gov.uk/download/london-building-stock-model/cd2e3417-feca-4eac-8fba-88a8c5d62a70/London%20Building%20Stock%20Model%20-%20Sutton%20Data",
+                    "format": "csv",
+                    "size": 25089590,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "London Building Stock Model - Tower Hamlets Data",
+                    "url": "https://data.london.gov.uk/download/london-building-stock-model/cd994768-da26-402b-ac31-7fab190e2652/London%20Building%20Stock%20Model%20-%20Tower%20Hamlets%20Data",
+                    "format": "csv",
+                    "size": 51266860,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "London Building Stock Model - Waltham Forest Data",
+                    "url": "https://data.london.gov.uk/download/london-building-stock-model/4e0c1243-d90b-4b6a-b2c0-221cc474f5e1/London%20Building%20Stock%20Model%20-%20Waltham%20Forest%20Data",
+                    "format": "csv",
+                    "size": 35009971,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "London Building Stock Model - Wandsworth Data",
+                    "url": "https://data.london.gov.uk/download/london-building-stock-model/6d496032-66da-462b-bbfc-11fb060d3e00/London%20Building%20Stock%20Model%20-%20Wandsworth%20Data",
+                    "format": "csv",
+                    "size": 49582861,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "London Building Stock Model - Westminster Data",
+                    "url": "https://data.london.gov.uk/download/london-building-stock-model/6663d928-a783-48c2-9047-359bed31fe07/London%20Building%20Stock%20Model%20-%20Westminster%20Data",
+                    "format": "csv",
+                    "size": 54700071,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "London Building Stock Model - All London Data",
+                    "url": "https://data.london.gov.uk/download/london-building-stock-model/5a64fc2f-e3c4-4a63-a495-a3030e1d092d/London%20Building%20Stock%20Model%20-%20All%20London%20Data",
+                    "format": "zip",
+                    "size": 118164955,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "London Building Stock Model - Data Dictionary",
+                    "url": "https://data.london.gov.uk/download/london-building-stock-model/01e9ce1b-464a-4cf2-87ef-d78b5985ed82/London%20Building%20Stock%20Model%20-%20Data%20Dictionary",
+                    "format": "spreadsheet",
+                    "size": 12983,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "faiss_score": 0.8326,
+            "faiss_rank": 16,
+            "rerank_score": -5.488221168518066,
+            "rerank_rank": 26
+        },
+        {
+            "id": "2915c894-11ba-4fff-abcf-0c4750b936ff",
+            "title": "Empty Homes",
+            "summary": "Who owns the empty homes.\n\nEach year the Department for Communities and Local Government collects data on the number of empty homes from each local authority in England and from other Government departments and bodies (HSSA Statistics).\n\nLA data are reported figures. Regions' totals include estimated values for missing data. Hence summing LA figures would not yield region's figure. LA data are reported figures. # indicates figure not supplied.Regions' totals include estimated values for missing data. Hence summing LA figures would not yield region's figure.\n\nEngland total is sum of all regions' figures with estimates. \"-\" indicates not applicable or non-derivable.\"..\" indicates not available. Stock information on Registered Social Landlord stock and Private Sector stock have not been collected on 2009's HSSA return to reduce data burdens on local authorities. This information will be published separately in a live table on the CLG website in December or early 2010.\n\nTotal stock information refers to all stock and as a result the sum of local authority stock and 'other' public stock will not sum to the total stock for any given local authority. Regional totals as supplied by DCLG may differ from individual boroughs due to additional cross-referencing with other bodies such as Government  departments and the Housing Corporation.\n",
+            "publisher": "Opinion Research and General Statistics (GLA)",
+            "tags": [
+                "westminster",
+                "croydon",
+                "islington",
+                "harrow",
+                "merton",
+                "hammersmith-and-fulham",
+                "greenwich",
+                "redbridge",
+                "enfield",
+                "haringey",
+                "housing",
+                "tower-hamlets",
+                "bromley",
+                "hillingdon",
+                "hounslow",
+                "dwellings",
+                "havering",
+                "empty",
+                "barking-and-dagenham",
+                "private",
+                "kensington-and-chelsea",
+                "ealing",
+                "lewisham",
+                "waltham-forest",
+                "barnet",
+                "southwark",
+                "ownership",
+                "hackney",
+                "wandsworth",
+                "newham",
+                "sutton",
+                "brent",
+                "bexley",
+                "kingston-upon-thames",
+                "richmond-upon-thames",
+                "homes",
+                "city-of-london",
+                "camden",
+                "vacancy",
+                "lambeth",
+                "public"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "Greater London",
+                "smallest_geography": "Local Authority"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "csv"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/2915c894-11ba-4fff-abcf-0c4750b936ff",
+            "download_links": [
+                {
+                    "title": "empty-homes-borough.csv",
+                    "url": "https://data.london.gov.uk/download/empty-homes/f05c27ac-243c-49d8-b9bc-03bb57f4f769/empty-homes-borough.csv",
+                    "format": "csv",
+                    "size": 8016,
+                    "mimetype": "text/csv"
+                }
+            ],
+            "faiss_score": 0.828,
+            "faiss_rank": 24,
+            "rerank_score": -5.536299228668213,
+            "rerank_rank": 27
+        },
+        {
+            "id": "a2a885b2-d461-4710-8b80-338da588fb68",
+            "title": "Planning Data Map",
+            "summary": "This is a beta version of the first open planning data map for London. It contains 16 data sets grouped under the headings of 'Good Growth' and 'Constraints'. You are encouraged to explore the map and give us your ideas about how it can be improved. We are also keen to receive suggestions for what information to add next. Please send your feedback to planningdata@london.gov.uk\n\nFor more information about planning, please see www.london.gov.uk/what-we-do/planning\n",
+            "publisher": "GLA Planning",
+            "tags": [
+                "planningconstraintsmap"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": "Custom Polygons"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "html",
+                "api"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/a2a885b2-d461-4710-8b80-338da588fb68",
+            "download_links": [
+                {
+                    "title": "planning",
+                    "url": "https://data.london.gov.uk/download/planning-data-map/bc54532d-00be-4f6a-8307-fe73d18b440f/planning",
+                    "format": "html",
+                    "size": 9775,
+                    "mimetype": "text/html"
+                },
+                {
+                    "title": "Data Service",
+                    "url": "https://data.london.gov.uk/download/planning-data-map/f6453af4-d9a7-4603-ae7c-f9af20098e9e/Data%20Service",
+                    "format": "api",
+                    "size": 11238,
+                    "mimetype": "text/html;charset=utf-8"
+                }
+            ],
+            "faiss_score": 0.8366,
+            "faiss_rank": 10,
+            "rerank_score": -5.673558235168457,
+            "rerank_rank": 28
+        },
+        {
+            "id": "a426425b-0178-4d10-ac63-22d67949ce1d",
+            "title": "Londoners' awareness and understanding of retrofitting ",
+            "summary": "Qualitative research (focus groups) and representative polling undertaken by the GLA's Opinion Research team in February 2022. Focus groups were split by income and by housing tenure. The research explored: \n\nTo what extent are Londoners aware of retrofitting?\nTo what extent are Londoners currently willing to retrofit their homes?\nWhat might encourage Londoners to consider retrofitting? What information do they have / need? \n",
+            "publisher": "Opinion Research",
+            "tags": [],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": "Greater London"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "pdf"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/a426425b-0178-4d10-ac63-22d67949ce1d",
+            "download_links": [
+                {
+                    "title": "Retrofitting research report Feb 2022",
+                    "url": "https://data.london.gov.uk/download/londoners-awareness-and-understanding-of-retrofitting-/feaaaace-5d79-4630-a41f-bd42f4e603fa/Retrofitting%20research%20report%20Feb%202022",
+                    "format": "pdf",
+                    "size": 468001,
+                    "mimetype": "application/pdf"
+                }
+            ],
+            "faiss_score": 0.8232,
+            "faiss_rank": 40,
+            "rerank_score": -5.689088344573975,
+            "rerank_rank": 29
+        },
+        {
+            "id": "1e44523a-c56f-4d3c-af5a-b22d70a19c19",
+            "title": "Population by Nationality",
+            "summary": "This dataset shows different breakdowns of London's resident population by their nationality. Data used comes from ONS' Annual Population Survey (APS).\nThe APS has a sample of around 320,000 people in the UK (around 28,000 in London). As such all figures must be treated with some caution. 95% confidence interval levels are provided.\nNumbers have been rounded to the nearest thousand and figures for smaller populations have been suppressed.\nTwo files are available to download:\n\nNationality - Borough: Shows nationality estimates in their broad groups such as European Union, South East Asia, North Africa, etc. broken down to borough level.\nDetailed Nationality - London: Shows nationality estimates for specific countries such as France, Bangladesh, Nigeria, etc. available for London as a whole.\n\nA Tableau visualisation tool is also available.\nCountry of Birth data can be found here: https://data.london.gov.uk/dataset/country-of-birth\nNationality refers to that stated by the respondent during the interview. Country of birth is the country in which they were born. It is possible that an individual’s nationality may change, but the respondent’s country of birth cannot change. This means that country of birth gives a more robust estimate of change over time.\n ",
+            "publisher": "Opinion Research and General Statistics (GLA)",
+            "tags": [
+                "migrant",
+                "migration",
+                "EU",
+                "European",
+                "union"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "",
+                "smallest_geography": "Borough"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "html",
+                "spreadsheet"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/1e44523a-c56f-4d3c-af5a-b22d70a19c19",
+            "download_links": [
+                {
+                    "title": "Detailed Nationality - London",
+                    "url": "https://data.london.gov.uk/download/nationality/5bd4e27c-3d20-4832-885a-b98312348ad9/Detailed%20Nationality%20-%20London",
+                    "format": "spreadsheet",
+                    "size": 75264,
+                    "mimetype": "application/vnd.ms-excel"
+                },
+                {
+                    "title": "Nationality - Borough",
+                    "url": "https://data.london.gov.uk/download/nationality/7222d8e8-2a32-4f92-9958-54536170da7c/Nationality%20-%20Borough",
+                    "format": "spreadsheet",
+                    "size": 452608,
+                    "mimetype": "application/vnd.ms-excel"
+                },
+                {
+                    "title": "Nationality 2004-2015 Visualisation Tool",
+                    "url": "https://data.london.gov.uk/download/nationality/e82f4cd8-0490-410f-98c3-98343fcd593c/Nationality%202004-2015%20Visualisation%20Tool",
+                    "format": "html",
+                    "size": -1,
+                    "mimetype": "text/html; charset=UTF-8"
+                }
+            ],
+            "faiss_score": 0.8285,
+            "faiss_rank": 22,
+            "rerank_score": -5.700137615203857,
+            "rerank_rank": 30
+        },
+        {
+            "id": "75637c21-3f08-46e8-b871-bbea98dc278f",
+            "title": "Local Authority Maintained Trees",
+            "summary": "This dataset includes the locations and species information for over 880,000 of London's trees. It also includes additional information such as size and age for some of these trees. These are predominantly street trees, but also some trees in parks and other open spaces.\nThe data does not represent the entirety of the capital's urban forest - the London iTree report estimated that there are over eight million trees in London, which includes trees in woodlands, parks, streets, private gardens and more. The data includes 26 of London's 33 boroughs, the City of London and Transport for London.\nAs recognised in the London Urban Forest Plan, collating data about London's urban forest is challenging due to the number of landowners and managers involved, as well as the limited resources available. The Plan committed to undertaking regular updates to this map, and also, over time, to collating a London-wide inventory of publicly owned and managed trees, in line with emerging national standards.\nThe data is used on the London Street Tree Map.\n\nNotes on the data:\n\nThe data on the map includes data provided in 2014-15, during initial data collection, and updated data provided in 2019-20. Where boroughs did not provide updated data in 2019-20, the 2014-15 data has been retained. However, trees may have been surveyed some time before this and so some records may be several years old.\nThe map includes data from 26 of the London boroughs, the City of London and Transport for London (TfL). TfL trees are shown London-wide.\nData has not been received to date from six boroughs. We aim to add any additional data received to the  Datastore  and online map.\nSome large gaps on the map are due to large green spaces (including the Royal Parks), reservoirs, or airports, as well as those boroughs where data is missing.\nThe data received varies significantly by borough. Some boroughs have only included trees on highways, whilst others have included trees on housing land, in schools or in parks. In some cases trees were recorded only when work was carried out.\nThere is not a consistent or agreed format for collecting or recording tree data across London. This presents a challenge in collating data across multiple boroughs. Many boroughs collect a range of information about their trees (e.g. age, height). However this varied by borough in terms of the information collected and categorisations used so we were not able to standardise this information.\nTree species data has been standardised the names to come up with a simplified common name for display on the tree webmap (e. g. “Pear”). These are the common names for the 24 types of tree appearing most frequently in the data (which encompass 90% of all trees), with the remaining trees categorised as “Other”. We have also left the species name as provided by the borough in the data.\nThe ‘tree ID’ number has been added to the data to help map it. This number is not linked to borough’s tree management systems.\n\n\n\n\n   \n\nWarning: Large file size may result in a long download time\n",
+            "publisher": "GLA Environment Team",
+            "tags": [],
+            "geospatial_coverage": {
+                "bounding_box": "",
+                "smallest_geography": "Point Location"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet",
+                "csv"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/75637c21-3f08-46e8-b871-bbea98dc278f",
+            "download_links": [
+                {
+                    "title": "Borough_tree_list.csv",
+                    "url": "https://data.london.gov.uk/download/local-authority-maintained-trees/c52e733d-bf7e-44b8-9c97-827cb2bc53be/Borough_tree_list.csv",
+                    "format": "csv",
+                    "size": 84774841,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "Borough_tree_list.xlsx",
+                    "url": "https://data.london.gov.uk/download/local-authority-maintained-trees/eee72e56-300c-4d90-ae80-b065392358c3/Borough_tree_list.xlsx",
+                    "format": "spreadsheet",
+                    "size": 52445235,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                },
+                {
+                    "title": "Borough_tree_list_2021.csv",
+                    "url": "https://data.london.gov.uk/download/local-authority-maintained-trees/61bd9591-ba63-4f0c-ab77-81db6347e856/Borough_tree_list_2021.csv",
+                    "format": "csv",
+                    "size": 109608110,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "Borough_tree_list_2021July.csv",
+                    "url": "https://data.london.gov.uk/download/local-authority-maintained-trees/a2a0ae91-cdf5-4bcd-8b23-2a40f1d854e9/Borough_tree_list_2021July.csv",
+                    "format": "csv",
+                    "size": 105754172,
+                    "mimetype": "text/csv"
+                }
+            ],
+            "faiss_score": 0.826,
+            "faiss_rank": 31,
+            "rerank_score": -5.705142498016357,
+            "rerank_rank": 31
+        },
+        {
+            "id": "1bdd2a16-83d5-4c64-b600-890913b13e53",
+            "title": "Rate of growth in the value of Londons goods and services exports",
+            "summary": "",
+            "publisher": "",
+            "tags": [],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": ""
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/1bdd2a16-83d5-4c64-b600-890913b13e53",
+            "download_links": [
+                {
+                    "title": "Rate of growth in the value of London's goods and services exports.xlsx",
+                    "url": "https://data.london.gov.uk/download/rate-of-growth-in-the-value-of-londons-goods-and-services-exports/4b6d8722-4044-439d-bb07-40ec4f6f0305/Rate%20of%20growth%20in%20the%20value%20of%20London's%20goods%20and%20services%20exports.xlsx",
+                    "format": "spreadsheet",
+                    "size": 10722,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "faiss_score": 0.8213,
+            "faiss_rank": 48,
+            "rerank_score": -5.715087413787842,
+            "rerank_rank": 32
+        },
+        {
+            "id": "13500843-2fb8-4bf1-ae24-fd3885173968",
+            "title": "Geographic Lookups for London",
+            "summary": "This dataset contains a range of geographic lookup files to scale between different areas in London.",
+            "publisher": "Greater London Authority",
+            "tags": [
+                "lookup",
+                "gis"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": "Output Area"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet",
+                "csv"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/13500843-2fb8-4bf1-ae24-fd3885173968",
+            "download_links": [
+                {
+                    "title": "2011_to_2014_WARD_with_proportions.xls",
+                    "url": "https://data.london.gov.uk/download/geographic-lookups-for-london/2d8bf92c-ac53-4b9d-b921-5c77bcdbc269/2011_to_2014_WARD_with_proportions.xls",
+                    "format": "spreadsheet",
+                    "size": 50688,
+                    "mimetype": "application/vnd.ms-excel"
+                },
+                {
+                    "title": "2011 _OA-LSOA-MSOA-LA.csv",
+                    "url": "https://data.london.gov.uk/download/geographic-lookups-for-london/4435e90b-37ba-4fbc-a474-867422f39f83/2011%20_OA-LSOA-MSOA-LA.csv",
+                    "format": "csv",
+                    "size": 2360937,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "2001 _OA-Ward-LA.csv",
+                    "url": "https://data.london.gov.uk/download/geographic-lookups-for-london/69b7e104-dafe-481c-b321-ca035cffc5b8/2001%20_OA-Ward-LA.csv",
+                    "format": "csv",
+                    "size": 1543742,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "2001 _OA-LSOA-MSOA-LA.csv",
+                    "url": "https://data.london.gov.uk/download/geographic-lookups-for-london/a4b94bea-38ae-4eca-bded-b52ea59ebb3e/2001%20_OA-LSOA-MSOA-LA.csv",
+                    "format": "csv",
+                    "size": 2178532,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "2011 _OA-Ward-LA.csv",
+                    "url": "https://data.london.gov.uk/download/geographic-lookups-for-london/c2a96c32-c12d-4ebc-bfac-0cd46e54d137/2011%20_OA-Ward-LA.csv",
+                    "format": "csv",
+                    "size": 1679187,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "2001_to_2011_OA-LSOA-MSOA-WARD-BOROUGH.xls",
+                    "url": "https://data.london.gov.uk/download/geographic-lookups-for-london/e057edd8-9f11-4865-8b68-45b271001304/2001_to_2011_OA-LSOA-MSOA-WARD-BOROUGH.xls",
+                    "format": "spreadsheet",
+                    "size": 8383488,
+                    "mimetype": "application/vnd.ms-excel"
+                }
+            ],
+            "faiss_score": 0.8213,
+            "faiss_rank": 49,
+            "rerank_score": -5.736099720001221,
+            "rerank_rank": 33
+        },
+        {
+            "id": "68da2447-15fd-4135-b40b-85fd3eda7a01",
+            "title": "Analysis of English Housing Survey data",
+            "summary": "This page hosts the results of analysis carried out by the Greater London Authority of English Housing Survey microdata, including figures that have been referred to in Mayoral press releases.",
+            "publisher": "",
+            "tags": [
+                "housing"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": "Greater London"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/68da2447-15fd-4135-b40b-85fd3eda7a01",
+            "download_links": [
+                {
+                    "title": "Non-decent private rented homes, average rents and Housing Benefit expenditure - by region, 2020.xlsx",
+                    "url": "https://data.london.gov.uk/download/analysis-of-english-housing-survey-data/37ad5b08-ccd0-4865-8617-7b6d9d32646d/Non-decent%20private%20rented%20homes,%20average%20rents%20and%20Housing%20Benefit%20expenditure%20-%20by%20region,%202020.xlsx",
+                    "format": "spreadsheet",
+                    "size": 11451,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "faiss_score": 0.8287,
+            "faiss_rank": 21,
+            "rerank_score": -5.7491774559021,
+            "rerank_rank": 34
+        },
+        {
+            "id": "79bc3256-0b2a-42df-97ce-504223be0e8b",
+            "title": "Dwelling Stock by Tenure and Condition, Borough",
+            "summary": "Number and percentage of dwellings by tenure, and type of dwelling, including condition.\n\nDownload data from NeSS Website\n",
+            "publisher": "Opinion Research and General Statistics (GLA)",
+            "tags": [
+                "bromley",
+                "city-of-london",
+                "harrow",
+                "havering",
+                "dwellings",
+                "redbridge",
+                "hillingdon",
+                "tower-hamlets",
+                "barnet",
+                "merton",
+                "kensington-and-chelsea",
+                "hounslow",
+                "bexley",
+                "lambeth",
+                "southwark",
+                "sutton",
+                "housing",
+                "tenure",
+                "hackney",
+                "greenwich",
+                "camden",
+                "enfield",
+                "stock",
+                "croydon",
+                "newham",
+                "islington",
+                "brent",
+                "hammersmith-and-fulham",
+                "wandsworth",
+                "ealing",
+                "lewisham",
+                "waltham-forest",
+                "richmond-upon-thames",
+                "haringey",
+                "kingston-upon-thames",
+                "westminster",
+                "barking-and-dagenham"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "Greater London",
+                "smallest_geography": "Local Authority"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/79bc3256-0b2a-42df-97ce-504223be0e8b",
+            "download_links": [
+                {
+                    "title": "dwelling-stock-by-tenure-and-condition.xls",
+                    "url": "https://data.london.gov.uk/download/dwelling-stock-tenure-and-condition-borough/dc90f1ac-59c6-4c90-ab22-502217d85256/dwelling-stock-by-tenure-and-condition.xls",
+                    "format": "spreadsheet",
+                    "size": 153088,
+                    "mimetype": "application/vnd.ms-excel"
+                }
+            ],
+            "faiss_score": 0.8279,
+            "faiss_rank": 25,
+            "rerank_score": -5.846072673797607,
+            "rerank_rank": 35
+        },
+        {
+            "id": "1464d87b-c586-4e8d-8073-1cf515b2cce0",
+            "title": "Annual London Survey 2000 - 2011",
+            "summary": "This dataset contains the topline results from the Annual London Surveys undertaken between 2000 and 2011 (there was no survey was 2008). Responses for these surveys were collected by conducting approximately 1,400 face-to-face interviews (exact numbers vary year on year) in respondents’ homes.\nFrom 2014 onwards the Annual London Survey has been delivered by Talk London, City Hall’s online research community. The results for these surveys can be found by clicking the links below. Due to the significant changes in methodology and sampling framework it is not recommended that the latest results are compared directly with the pre-2014 figures.\n\nAnnual London Survey 2014\nAnnual London Survey 2015\n\n ",
+            "publisher": "Opinion Research and General Statistics (GLA)",
+            "tags": [],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": "Greater London"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "pdf"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/1464d87b-c586-4e8d-8073-1cf515b2cce0",
+            "download_links": [
+                {
+                    "title": "Annual London Survey 2001 Toplines.pdf",
+                    "url": "https://data.london.gov.uk/download/annual-london-survey-2000---2011/200db330-13e5-4a17-a957-3a79f1c5c186/Annual%20London%20Survey%202001%20Toplines.pdf",
+                    "format": "pdf",
+                    "size": 168479,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "Annual London Survey 2005 Toplines.pdf",
+                    "url": "https://data.london.gov.uk/download/annual-london-survey-2000---2011/2db3d34d-f822-4795-9064-cfcbee08796c/Annual%20London%20Survey%202005%20Toplines.pdf",
+                    "format": "pdf",
+                    "size": 134918,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "Annual London Survey 2004 Toplines.pdf",
+                    "url": "https://data.london.gov.uk/download/annual-london-survey-2000---2011/2fae1c8a-e9cd-4174-8bac-b5e2a2c73a8e/Annual%20London%20Survey%202004%20Toplines.pdf",
+                    "format": "pdf",
+                    "size": 211951,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "Annual London Survey 2003 Toplines.pdf",
+                    "url": "https://data.london.gov.uk/download/annual-london-survey-2000---2011/6e67dd5e-4b7a-4e48-b25a-35182218d1f8/Annual%20London%20Survey%202003%20Toplines.pdf",
+                    "format": "pdf",
+                    "size": 180620,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "Annual London Survey 2000 Toplines.pdf",
+                    "url": "https://data.london.gov.uk/download/annual-london-survey-2000---2011/7a2173b2-2632-48e6-80e1-21518222d799/Annual%20London%20Survey%202000%20Toplines.pdf",
+                    "format": "pdf",
+                    "size": 81323,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "Annual London Survey 2011 Toplines.pdf",
+                    "url": "https://data.london.gov.uk/download/annual-london-survey-2000---2011/7cf5d0a4-be90-4253-8ce4-3ba709bd058a/Annual%20London%20Survey%202011%20Toplines.pdf",
+                    "format": "pdf",
+                    "size": 624609,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "Annual London Survey 2009 Toplines.pdf",
+                    "url": "https://data.london.gov.uk/download/annual-london-survey-2000---2011/ae0dc6fa-24b8-4ad7-9ee2-a05ec1507907/Annual%20London%20Survey%202009%20Toplines.pdf",
+                    "format": "pdf",
+                    "size": 146325,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "Annual London Survey 2010 Toplines.pdf",
+                    "url": "https://data.london.gov.uk/download/annual-london-survey-2000---2011/dad56b39-9cb1-41d4-af58-2a234e81c2ae/Annual%20London%20Survey%202010%20Toplines.pdf",
+                    "format": "pdf",
+                    "size": 264769,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "Annual London Survey 2007 Toplines.pdf",
+                    "url": "https://data.london.gov.uk/download/annual-london-survey-2000---2011/db7f97eb-b403-466a-823b-67d9fe61a9bc/Annual%20London%20Survey%202007%20Toplines.pdf",
+                    "format": "pdf",
+                    "size": 193386,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "Annual London Survey 2002 Toplines.pdf",
+                    "url": "https://data.london.gov.uk/download/annual-london-survey-2000---2011/f1c014db-a9f2-4825-bb2b-52c12670f747/Annual%20London%20Survey%202002%20Toplines.pdf",
+                    "format": "pdf",
+                    "size": 229292,
+                    "mimetype": "application/pdf"
+                }
+            ],
+            "faiss_score": 0.8259,
+            "faiss_rank": 32,
+            "rerank_score": -5.866978168487549,
+            "rerank_rank": 36
+        },
+        {
+            "id": "04a4aefa-9bd6-405d-acf0-ab191fe7d7ae",
+            "title": "MyLondon",
+            "summary": "My London is a new tool to help people who are moving to London for the first time or who are moving within London.\nIt allows people to define an area or neighbourhood of interest and pulls back an uptodate range of data important to decision making when moving house.",
+            "publisher": "Paul Hodgson",
+            "tags": [],
+            "geospatial_coverage": {
+                "bounding_box": "",
+                "smallest_geography": "Output Area"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "csv"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/04a4aefa-9bd6-405d-acf0-ab191fe7d7ae",
+            "download_links": [
+                {
+                    "title": "MyLondon_LOAC_area_description_text_v3",
+                    "url": "https://data.london.gov.uk/download/mylondon/3848d6af-bd5e-4317-8676-bbb857f773e0/MyLondon_LOAC_area_description_text_v3",
+                    "format": "csv",
+                    "size": 20359493,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "MyLondon_fare_zone_OA",
+                    "url": "https://data.london.gov.uk/download/mylondon/5ff9ce59-2a77-456a-9ecc-f8fb80660ef1/MyLondon_fare_zone_OA",
+                    "format": "csv",
+                    "size": 325707,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "MyLondon_postcode_OA",
+                    "url": "https://data.london.gov.uk/download/mylondon/94baeb22-9d31-4332-95ab-84d4aaf72f22/MyLondon_postcode_OA",
+                    "format": "csv",
+                    "size": 378207,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "MyLondonSchoolsCatchmentv2",
+                    "url": "https://data.london.gov.uk/download/mylondon/98ec0962-af1a-49ad-ac10-47606f7794da/MyLondonSchoolsCatchmentv2",
+                    "format": "csv",
+                    "size": 4797785,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "Summary",
+                    "url": "https://data.london.gov.uk/download/mylondon/a72ae909-56d1-4e2a-9d37-8abb0260775a/Summary",
+                    "format": "csv",
+                    "size": 1691076,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "Bounding Boxes (LSOA resolution)",
+                    "url": "https://data.london.gov.uk/download/mylondon/bef4362b-5598-49d6-9e5f-99f7868ffb6e/Bounding%20Boxes%20(LSOA%20resolution)",
+                    "format": "csv",
+                    "size": 334191,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "modelled_OA_rents",
+                    "url": "https://data.london.gov.uk/download/mylondon/c16db584-f212-439f-b735-507fe6c49955/modelled_OA_rents",
+                    "format": "csv",
+                    "size": 752774,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "MyLondon_traveltime_to_Bank_station_OA",
+                    "url": "https://data.london.gov.uk/download/mylondon/c2e9ebc1-935b-460c-9361-293398d84fe5/MyLondon_traveltime_to_Bank_station_OA",
+                    "format": "csv",
+                    "size": 960046,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "Bounding Boxes",
+                    "url": "https://data.london.gov.uk/download/mylondon/d62ad9f3-4a5d-410b-993a-134c57ce52ee/Bounding%20Boxes",
+                    "format": "csv",
+                    "size": 2682152,
+                    "mimetype": "text/csv"
+                }
+            ],
+            "faiss_score": 0.8348,
+            "faiss_rank": 14,
+            "rerank_score": -6.115941524505615,
+            "rerank_rank": 37
+        },
+        {
+            "id": "4fa7e50b-45de-4864-96bd-3786bee8b43b",
+            "title": "Key Stage 1 Results by Borough (Old Measures)",
+            "summary": "This dataset will no longer be updated. For the latest figures click here.\nPercentage of pupils achieving level 2 or above in Key Stage 1 teacher assessments by gender and location of school/educational institution up to the school year 2015. Also includes data by region by ethnic group, language, and free school meal (FSM) eligibility (up to the year 2016).",
+            "publisher": "Greater London Authority",
+            "tags": [],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": ""
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/4fa7e50b-45de-4864-96bd-3786bee8b43b",
+            "download_links": [
+                {
+                    "title": "Key stage 1 Results by Free School Meal Eligibility",
+                    "url": "https://data.london.gov.uk/download/key-stage-1-results-old-measures/1f2568df-7013-4df3-95b2-071f6d347e32/Key%20stage%201%20Results%20by%20Free%20School%20Meal%20Eligibility",
+                    "format": "spreadsheet",
+                    "size": 229888,
+                    "mimetype": "application/vnd.ms-excel"
+                },
+                {
+                    "title": "Key Stage 1 Results by First Language",
+                    "url": "https://data.london.gov.uk/download/key-stage-1-results-old-measures/3cb6ba41-7a40-4860-85ba-c86123e2c8de/Key%20Stage%201%20Results%20by%20First%20Language",
+                    "format": "spreadsheet",
+                    "size": 283648,
+                    "mimetype": "application/vnd.ms-excel"
+                },
+                {
+                    "title": "Key Stage 1 Results",
+                    "url": "https://data.london.gov.uk/download/key-stage-1-results-old-measures/871a21b6-2b5f-4c94-87a4-74c89e9ebed1/Key%20Stage%201%20Results",
+                    "format": "spreadsheet",
+                    "size": 192000,
+                    "mimetype": "application/vnd.ms-excel"
+                },
+                {
+                    "title": "Key Stage 1 Results by Ethnicity",
+                    "url": "https://data.london.gov.uk/download/key-stage-1-results-old-measures/e65f5aa8-0cbf-4efc-8262-a743945abdde/Key%20Stage%201%20Results%20by%20Ethnicity",
+                    "format": "spreadsheet",
+                    "size": 368640,
+                    "mimetype": "application/vnd.ms-excel"
+                }
+            ],
+            "faiss_score": 0.8222,
+            "faiss_rank": 43,
+            "rerank_score": -6.140954494476318,
+            "rerank_rank": 38
+        },
+        {
+            "id": "fa09904c-5134-43ea-b7dc-6e55c4f0061f",
+            "title": "Tourism Spend Estimates",
+            "summary": "Local Authority level tourist spend estimates (£ millions).\nIndicitive borough level day visitor estimates for 2007 were derived from the LDA’s own experimental London level day visitor estimates. As such the borough level day visitor estimates should be treated with caution and the 2007 day visitor estimates are not comparable with those from previous years. They are intended only to give a best estimate of the scale of day visitor tourism in each borough from the currently available data.\nThis dataset is no longer updated.",
+            "publisher": "Opinion Research and General Statistics (GLA)",
+            "tags": [
+                "overseas",
+                "domestic",
+                "spending",
+                "visitors",
+                "day-trips",
+                "tourism",
+                "borough-economic"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "Greater London",
+                "smallest_geography": "Local Authority"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet",
+                "pdf"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/fa09904c-5134-43ea-b7dc-6e55c4f0061f",
+            "download_links": [
+                {
+                    "title": "tourism-spend-borough.xls",
+                    "url": "https://data.london.gov.uk/download/tourism-spend-estimates/32da8663-657e-4953-aa69-b8b0248c4d76/tourism-spend-borough.xls",
+                    "format": "spreadsheet",
+                    "size": 59904,
+                    "mimetype": "application/vnd.ms-excel"
+                },
+                {
+                    "title": "Lati-final-full.pdf",
+                    "url": "https://data.london.gov.uk/download/tourism-spend-estimates/d0b8d221-6d50-4239-87eb-64d0c060b293/Lati-final-full.pdf",
+                    "format": "pdf",
+                    "size": 699006,
+                    "mimetype": "application/pdf"
+                }
+            ],
+            "faiss_score": 0.821,
+            "faiss_rank": 50,
+            "rerank_score": -6.143132209777832,
+            "rerank_rank": 39
+        },
+        {
+            "id": "a3187d92-8f53-45ac-8bcf-217bfa0f448c",
+            "title": "Number and Density of Dwellings by Borough",
+            "summary": "Dwelling stock estimates by local authority district since 2001, at 31st March, and density of dwellings per hectare.DCLG: Live tables on dwelling stockSource: Census 2001, Census 2011, Housing Flows Reconciliation, the Greater London Authority and Regional Assembly joint returns.Data from DCLG Table 125Figures from 2001 and 2011 are census figures. All figures from 2002 to 2011 have been revised following the release of the dwelling count from the 2011 census.Data from 2003, 2003 and 2004 contains a number of imputed and adjusted values and should not be considered as robust as subsequent years.National totals are expressed to the nearest thousand dwellings but should not be regarded as accurate to the nearest thousand. District totals are expressed to the nearest ten dwellings but should not be regarded as accurate to the nearest ten.DCLG Link",
+            "publisher": "Opinion Research and General Statistics (GLA)",
+            "tags": [
+                "density",
+                "houses",
+                "property",
+                "house",
+                "housing",
+                "homes",
+                "dwellings",
+                "properties"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "",
+                "smallest_geography": "Local Authority"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/a3187d92-8f53-45ac-8bcf-217bfa0f448c",
+            "download_links": [
+                {
+                    "title": "number-density-dwelling-stock-borough",
+                    "url": "https://data.london.gov.uk/download/number-and-density-of-dwellings-by-borough/dbdfc0b4-ae9f-4c58-a228-79d05c3a1c8e/number-density-dwelling-stock-borough",
+                    "format": "spreadsheet",
+                    "size": 37199,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "faiss_score": 0.8312,
+            "faiss_rank": 18,
+            "rerank_score": -6.219629764556885,
+            "rerank_rank": 40
+        },
+        {
+            "id": "04af59f2-c26d-4c38-a480-11f4a00de924",
+            "title": "Londons ranking in access to business environment, digital infrastructure, non-digital infrastructure and skills",
+            "summary": "",
+            "publisher": "",
+            "tags": [],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": ""
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/04af59f2-c26d-4c38-a480-11f4a00de924",
+            "download_links": [
+                {
+                    "title": "London's ranking in access to business environment, digital infrastructure, non-digital infrastructure and skills.xlsx",
+                    "url": "https://data.london.gov.uk/download/londons-ranking-in-access-to-business-environment--digital-infrastructure--non-digital-infrastructure-and-skills/c54e9deb-cd2b-447a-9099-71d4ec445ddc/London's%20ranking%20in%20access%20to%20business%20environment,%20digital%20infrastructure,%20non-digital%20infrastructure%20and%20skills.xlsx",
+                    "format": "spreadsheet",
+                    "size": 9182,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "faiss_score": 0.8318,
+            "faiss_rank": 17,
+            "rerank_score": -6.273775577545166,
+            "rerank_rank": 41
+        },
+        {
+            "id": "f6484524-269f-4e4d-91a4-a607111bdff7",
+            "title": "Population by Country of Birth",
+            "summary": "This dataset shows different breakdowns of London's resident population by their country of birth. Data used comes from ONS' Annual Population Survey (APS).\nThe APS has a sample of around 320,000 people in the UK (around 28,000 in London). As such all figures must be treated with some caution. 95% confidence interval levels are provided.\nNumbers have been rounded to the nearest thousand and figures for smaller populations have been suppressed.\nFour files are available for download:\n\nCountry of Birth - Borough: Shows country of birth estimates in their broad groups such as European Union, South East Asia, North Africa, etc. broken down to borough level.\nDetailed Country of Birth - London: Shows country of birth estimates for specific countries such as France, Bangladesh, Nigeria, etc. available for London as a whole\nDemography Update 09-2015: A GLA Demography report that uses APS data to analyse the trends in London for the period 2004 to 2014. A supporting data file is also provided.\nCountry of Birth Borough 2004-2016 Analysis Tool: A tool produced by GLA Demography that allows users to explore different breakdowns of country of birth data.\n\nAn accompanying Tableau visualisation tool has also been produced which maps data from 2004 to 2015.\n2011 Census Country of Birth data can be found here: https://data.london.gov.uk/census/themes/diversity/\nNationality data can be found here: https://data.london.gov.uk/dataset/nationality\nNationality refers to that stated by the respondent during the interview. Country of birth is the country in which they were born. It is possible that an individual’s nationality may change, but the respondent’s country of birth cannot change. This means that country of birth gives a more robust estimate of change over time.",
+            "publisher": "Opinion Research and General Statistics (GLA) ",
+            "tags": [
+                "migrant",
+                "eu",
+                "European",
+                "union",
+                "migration"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "",
+                "smallest_geography": "Local Authority"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "html",
+                "spreadsheet",
+                "csv",
+                "zip"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/f6484524-269f-4e4d-91a4-a607111bdff7",
+            "download_links": [
+                {
+                    "title": "Demography Update 09-2015",
+                    "url": "https://data.london.gov.uk/download/country-of-birth/156a21d1-4723-4cfe-90ac-0dfe8296f69d/Demography%20Update%2009-2015",
+                    "format": "zip",
+                    "size": 624210,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "Country of Birth 2004-2015 Visualisation Tool",
+                    "url": "https://data.london.gov.uk/download/country-of-birth/4c89f6cf-d92d-4f7c-a133-96aedb0a9763/Country%20of%20Birth%202004-2015%20Visualisation%20Tool",
+                    "format": "html",
+                    "size": -1,
+                    "mimetype": "text/html; charset=UTF-8"
+                },
+                {
+                    "title": "Country of Birth - Borough (CSV Version)",
+                    "url": "https://data.london.gov.uk/download/country-of-birth/aeeb0b0a-5b2f-48b3-a53e-e6c525858b31/Country%20of%20Birth%20-%20Borough%20(CSV%20Version)",
+                    "format": "csv",
+                    "size": 882916,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "Country of Birth - Borough",
+                    "url": "https://data.london.gov.uk/download/country-of-birth/c61439c3-32ab-4c7d-941e-366d4ac2c57c/Country%20of%20Birth%20-%20Borough",
+                    "format": "spreadsheet",
+                    "size": 1141760,
+                    "mimetype": "application/vnd.ms-excel"
+                },
+                {
+                    "title": "Detailed Country of Birth - London",
+                    "url": "https://data.london.gov.uk/download/country-of-birth/e3e82a86-f085-4c69-891a-3bdcee645093/Detailed%20Country%20of%20Birth%20-%20London",
+                    "format": "spreadsheet",
+                    "size": 134656,
+                    "mimetype": "application/vnd.ms-excel"
+                },
+                {
+                    "title": "Country of Birth Borough 2004-2016 Analysis Tool",
+                    "url": "https://data.london.gov.uk/download/country-of-birth/fc2f7989-f445-485f-acb1-c19208ed8ff9/Country%20of%20Birth%20Borough%202004-2016%20Analysis%20Tool",
+                    "format": "spreadsheet",
+                    "size": 735280,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "faiss_score": 0.8237,
+            "faiss_rank": 37,
+            "rerank_score": -6.414917945861816,
+            "rerank_rank": 42
+        },
+        {
+            "id": "54117e0c-098e-4c3d-ae1d-82e6cc01b3f8",
+            "title": "Biodiversity Hotspots for Planning",
+            "summary": "\nDataset last updated: 8th January 2025\n\nThis dataset provides indicative areas of biodiversity hotspots in Greater London, identified by research and data analysis using methods derived from the Greater London Authority’s (GLA) “Planning for Biodiversity?” report (2016).\nThe dataset has been created by Greenspace Information for Greater London CIC (GiGL). GiGL mobilises, curates and shares data that underpin our knowledge of London’s natural environment. We provide impartial evidence to enable informed discussion and decision-making in policy and practice. The dataset is based on GiGL partnership data which are continuously updated.\nThe underlying data for the dataset may have been subject to changes since the current version was modelled. Subsequent versions will provide updated information from the GiGL database annually. The dataset is a coarse-resolution presentation of high-resolution data. To access data at their original resolution, please contact GiGL or visit www.gigl.org.uk for more information.\nResearch for this dataset has been assisted by London and South East England Local Records Centres (LaSER) and the London Boroughs Biodiversity Forum (LBBF), and is based on advice provided by the Open Data Institute (ODI).\n\n\n\nDescription\nTo meet Policy G6 D of The London Plan (2021), the capital’s spatial development strategy, \" Development proposals should manage impacts on biodiversity and aim to secure net biodiversity gain. This should be informed by the best available ecological information and addressed from the start of the development process\".\n\nThe Biodiversity Hotspots for Planning (BHP) dataset provides developers, homeowners and LPAs an indication of areas, where data are available, that have potential impacts on biodiversity and are likely to be relevant to local planning decisions by applying biodiversity criteria developed by GiGL, based on the original “Planning for Biodiversity?” research. ‘Hotspot’ areas indicate a detected presence of sensitive biodiversity that could potentially be affected by development. Original records can be accessed from GiGL to assist the decision-making process.\n\nN.B. 1: Areas without these biodiversity indicator records may still have undetected biodiversity so should also be considered for biodiversity potential on a case-by-case basis.\n\n\nN.B. 2: The dataset is purely indicative and an ecological data search report must still be commissioned as evidence for planning applications. See  here  for help on this.\n\n\n\n\nSpecification\nThe GIS file shows London as 100m hexagon tiles. Each tile is scored for the known presence of protected species, sites and habitats impact areas based on the impact buffer size as specified in the criteria table below, giving a cumulative score range of 0 to 3. Tiles are considered a hotspot where impact areas overlap the tile by more than 10%.\n\n\n\nTiles with a score of 0 indicate that there are currently no known protected species, sites or habitats impact areas present in that area based on the criteria table, which excludes some protected species. Tiles with a score of 3 indicate the presence of impact areas for all three categories. Intermediate scores indicate the presence of impact areas for one or more of the categories without specifying which are present. The scores can be used in a thematic map to colour the tiles and visually indicate areas with greater presence of impact areas. A sample thematic map is provided.\nThe dataset will be updated annually using the latest protected species, sites and habitats data available to GiGL at time of creation. Please give GiGL appropriate credit when using, adapting or sharing the dataset following the guidance below:\n\nIn-text citation: GiGL, [dataset creation date]\n\nReference: \"Biodiversity Hotspots for Planning\" Greenspace Information for Greater London CIC, [dataset creation date]\n\nWhere data is used in maps: Map displays GiGL data [dataset creation date]\n\nWhere data is summarised but not mapped: Data provided by Greenspace Information for Greater London CIC [dataset creation date]",
+            "publisher": "Greenspace Information for Greater London CIC (GiGL)",
+            "tags": [
+                "Biodiversity",
+                "hotspots",
+                "planning",
+                "planning-application",
+                "wildlife"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": ""
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "zip",
+                "image"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/54117e0c-098e-4c3d-ae1d-82e6cc01b3f8",
+            "download_links": [
+                {
+                    "title": "GiGL_BHP_ThematicMap.PNG",
+                    "url": "https://data.london.gov.uk/download/biodiversity-hotspots-for-planning/cc3f255a-c25e-4a4f-a60e-7c165f75ec92/GiGL_BHP_ThematicMap.PNG",
+                    "format": "image",
+                    "size": 2176261,
+                    "mimetype": "image/png"
+                },
+                {
+                    "title": "GiGL_BHP_TAB.zip",
+                    "url": "https://data.london.gov.uk/download/biodiversity-hotspots-for-planning/05712863-cd2a-4af5-be7b-c5de762dbde0/GiGL_BHP_TAB.zip",
+                    "format": "zip",
+                    "size": 9367350,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "GiGL_BHP_SHP.zip",
+                    "url": "https://data.london.gov.uk/download/biodiversity-hotspots-for-planning/3c3b1410-392f-4ca5-b5be-a8504a4b353a/GiGL_BHP_SHP.zip",
+                    "format": "zip",
+                    "size": 8361015,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "GiGL_BHP_CriteriaTable.JPG",
+                    "url": "https://data.london.gov.uk/download/biodiversity-hotspots-for-planning/851bdeef-6d49-4502-b373-e8913651afae/GiGL_BHP_CriteriaTable.JPG",
+                    "format": "image",
+                    "size": 223155,
+                    "mimetype": "image/jpeg"
+                }
+            ],
+            "faiss_score": 0.8254,
+            "faiss_rank": 33,
+            "rerank_score": -6.437175273895264,
+            "rerank_rank": 43
+        },
+        {
+            "id": "52588cef-e88b-427b-a41b-13cf389dcfbf",
+            "title": "Key Stage 2 Results by Borough (Old Measures)",
+            "summary": "\nThis dataset will no longer be updated. For the latest figures click here.\n\nPercentage of pupils achieving level 4 or above in their national curriculum assessments at key stage 2 by gender and location of school/educational institution up to the school year 2015. Also includes data by region by ethnic group, language, and free school meal (FSM) eligibility.",
+            "publisher": "Greater London Authority",
+            "tags": [],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": ""
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/52588cef-e88b-427b-a41b-13cf389dcfbf",
+            "download_links": [
+                {
+                    "title": "Key Stage 2 Results by Free School Meal Eligibility ",
+                    "url": "https://data.london.gov.uk/download/key-stage-2-results-by-borough-old-measures/1b6fde1a-5d89-43b4-8e3b-78b910d12acb/Key%20Stage%202%20Results%20by%20Free%20School%20Meal%20Eligibility%20",
+                    "format": "spreadsheet",
+                    "size": 225280,
+                    "mimetype": "application/vnd.ms-excel"
+                },
+                {
+                    "title": " Key Stage 2 Results",
+                    "url": "https://data.london.gov.uk/download/key-stage-2-results-by-borough-old-measures/49f18acc-ef24-4e36-b501-74cd201abcc7/%20Key%20Stage%202%20Results",
+                    "format": "spreadsheet",
+                    "size": 173568,
+                    "mimetype": "application/vnd.ms-excel"
+                },
+                {
+                    "title": "Key Stage 2 Results by Ethnicity ",
+                    "url": "https://data.london.gov.uk/download/key-stage-2-results-by-borough-old-measures/63e75e0b-b5c8-4b1f-a11a-f56a99e5a8ba/Key%20Stage%202%20Results%20by%20Ethnicity%20",
+                    "format": "spreadsheet",
+                    "size": 592896,
+                    "mimetype": "application/vnd.ms-excel"
+                },
+                {
+                    "title": " Key Stage 2 Results by First Language ",
+                    "url": "https://data.london.gov.uk/download/key-stage-2-results-by-borough-old-measures/e7060602-9122-4c10-8b29-4827935dec0c/%20Key%20Stage%202%20Results%20by%20First%20Language%20",
+                    "format": "spreadsheet",
+                    "size": 320512,
+                    "mimetype": "application/vnd.ms-excel"
+                }
+            ],
+            "faiss_score": 0.8214,
+            "faiss_rank": 47,
+            "rerank_score": -6.483989715576172,
+            "rerank_rank": 44
+        },
+        {
+            "id": "ebfdf07f-2ccb-4f9a-97ff-e26733fc47d8",
+            "title": "Planning London Datahub applications",
+            "summary": "\n\n\n\n",
+            "publisher": "Planning data",
+            "tags": [],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": ""
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "Unknown Format"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/ebfdf07f-2ccb-4f9a-97ff-e26733fc47d8",
+            "download_links": [],
+            "faiss_score": 0.8237,
+            "faiss_rank": 36,
+            "rerank_score": -6.4867143630981445,
+            "rerank_rank": 45
+        },
+        {
+            "id": "b05fbf4e-9c03-4994-a41b-4290cc5d686d",
+            "title": "Local Authority Average Rents",
+            "summary": "Amount charged weekly by Local Authorities for social housing. Rents data are based on the financial year.\nStock figures used to estimate the average for each county, region and the nation are taken at 1st April of the following financial year. Average rents data between 2003/04 and 2007/08 inclusively is based on total stock figures from Housing Revenue Account (HRA) audited base claim form. Before 2003/04 the average rents data is based on total stock figures from the Housing Revenue Account (HRA) second subsidy claim form.\nRents data for 2008/09 are based on total stock figures as at the beginning of the financial year. This data is taken from the HRA subsidy base data form. Average rent data for this year are provisional and will be updated when stock data at the start of the following financial year become available.\nFor a few authorities no rent figure is given because the stock is now very small and the authority no longer reports average rents. For some local authorities the average rent for 2003/04 is lower than in 2002/03. This may be due to some local authorities supplying net rents excluding service charges from 2003/04 onwards. Prior to 2003/04 some of them may have been including service charges in their rent figures. Average rent figures do not account for stock composition.\n'LSVT': all or most of the local authority stock has been transferred to the RSL sector, so the average rent is no longer applicable. LSVTs are not taken into account when calculating county, regional or national averages. MYT (Mid-Year Transfer) refers to those authorities that have transferred their stock in full, part way through the financial year.\nWhere a local authority has transferred part of it's stock mid-year, the stock figure used to estimate averages is taken as at 1st April the following financial year. MYT information is provided from 2003/04 onwards only. Prior to 2003/04 average rents figures may be based on stock figures at the start of the financial year prior to any mid-year transfer.\nThe districts, unitary authorities and counties listed above are based on 1 April 1998 boundaries. Figures for any 'new' re-organised areas have been estimated retrospectively applying the new boundaries back to 1996. Average rents data for 2003/04 and onwards are based on a standardised 52 week collection. Data prior to 2003/04 may have been reported on various different collection scales. Average rent is calculated from stock-owning local authorities that have provided data.\nView Live Tables on Rents and Tenancies on DCLG website\nAverage rents for council owned stock are reported in section H of the Local Authority Housing Statistics data",
+            "publisher": "Opinion Research and General Statistics (GLA)",
+            "tags": [
+                "council",
+                "house-prices",
+                "rent",
+                "social-housing"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "Greater London",
+                "smallest_geography": "Local Authority"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/b05fbf4e-9c03-4994-a41b-4290cc5d686d",
+            "download_links": [
+                {
+                    "title": "local-authority-rents-borough.xls",
+                    "url": "https://data.london.gov.uk/download/local-authority-average-rents/2a74e893-3188-4cb8-b5a7-087a1965b623/local-authority-rents-borough.xls",
+                    "format": "spreadsheet",
+                    "size": 45307,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "faiss_score": 0.8293,
+            "faiss_rank": 20,
+            "rerank_score": -6.859669208526611,
+            "rerank_rank": 46
+        },
+        {
+            "id": "81f0c53f-74cd-4868-ad02-3467eff166e3",
+            "title": "Good Quality Homes SPG consultation draft documents",
+            "summary": "https://consult.london.gov.uk/good-quality-homes-for-all-londoners",
+            "publisher": "GLA",
+            "tags": [],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": ""
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "zip"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/81f0c53f-74cd-4868-ad02-3467eff166e3",
+            "download_links": [
+                {
+                    "title": "Good Quality Homes SPG Documents.zip",
+                    "url": "https://data.london.gov.uk/download/good-quality-homes-spg-consultation-draft-documents/6c03ac4d-47de-4505-8b1b-6066a7b08a62/Good%20Quality%20Homes%20SPG%20Documents.zip",
+                    "format": "zip",
+                    "size": 97566238,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "Good Quality Homes SPG SketchUp files 2013 compatible.zip",
+                    "url": "https://data.london.gov.uk/download/good-quality-homes-spg-consultation-draft-documents/32236fcc-de1a-4a67-bded-13c079ed08d7/Good%20Quality%20Homes%20SPG%20SketchUp%20files%202013%20compatible.zip",
+                    "format": "zip",
+                    "size": 294649,
+                    "mimetype": "application/zip"
+                }
+            ],
+            "faiss_score": 0.8235,
+            "faiss_rank": 38,
+            "rerank_score": -7.060787677764893,
+            "rerank_rank": 47
+        },
+        {
+            "id": "7277628d-9e6c-477b-9ec2-b279e7f49b19",
+            "title": "Londons ranking for the perception of global city brands",
+            "summary": "",
+            "publisher": "",
+            "tags": [],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": ""
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/7277628d-9e6c-477b-9ec2-b279e7f49b19",
+            "download_links": [
+                {
+                    "title": "London's ranking for the perception of global city brands.xlsx",
+                    "url": "https://data.london.gov.uk/download/londons-ranking-for-the-perception-of-global-city-brands/f8766f8c-f50a-4a01-a53b-fffbc2d759a0/London's%20ranking%20for%20the%20perception%20of%20global%20city%20brands.xlsx",
+                    "format": "spreadsheet",
+                    "size": 9296,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "faiss_score": 0.8268,
+            "faiss_rank": 29,
+            "rerank_score": -7.401347637176514,
+            "rerank_rank": 48
+        },
+        {
+            "id": "a41503ae-eb85-4906-bf01-d371c16229a6",
+            "title": "LLDC Land and Property",
+            "summary": "All details on LLDC land and building assets is available in the Land and Property database.\n \nhttps://www.london.gov.uk/what-we-do/housing-and-land/land-and-asset-portfolio\n ",
+            "publisher": "",
+            "tags": [],
+            "geospatial_coverage": {
+                "bounding_box": "",
+                "smallest_geography": ""
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "html"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/a41503ae-eb85-4906-bf01-d371c16229a6",
+            "download_links": [
+                {
+                    "title": "Land and Asset Portfolio",
+                    "url": "https://data.london.gov.uk/download/lldc-land-and-property/7d347ce1-d0b0-4ce7-9590-ca8ff2627dd9/Land%20and%20Asset%20Portfolio",
+                    "format": "html",
+                    "size": 0,
+                    "mimetype": "text/html; charset=utf-8"
+                }
+            ],
+            "faiss_score": 0.8362,
+            "faiss_rank": 12,
+            "rerank_score": -7.500332355499268,
+            "rerank_rank": 49
+        },
+        {
+            "id": "24bcdb72-43d6-45b7-8a4c-d0555dfda5b2",
+            "title": "Number of fresh produce food markets in London",
+            "summary": "",
+            "publisher": "",
+            "tags": [],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": ""
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/24bcdb72-43d6-45b7-8a4c-d0555dfda5b2",
+            "download_links": [
+                {
+                    "title": "Number of fresh produce food markets in London.xlsx",
+                    "url": "https://data.london.gov.uk/download/number-of-fresh-produce-food-markets-in-london/80c430dc-eda0-4c92-a201-ba802e8916ea/Number%20of%20fresh%20produce%20food%20markets%20in%20London.xlsx",
+                    "format": "spreadsheet",
+                    "size": 17775,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "faiss_score": 0.824,
+            "faiss_rank": 35,
+            "rerank_score": -7.939239025115967,
+            "rerank_rank": 50
+        }
+    ]
+}
