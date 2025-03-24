@@ -12,8 +12,9 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 from llm.intent_classifier import classify_intent
 from llm.intent_handlers.dataset_search import handle_dataset_search 
 from llm.intent_handlers.dataset_more_results import handle_dataset_more_results
-from llm.intent_handlers.handle_dataset_filtering import handle_dataset_filtering
 from llm.session_manager import update_user_history, generate_user_id
+from llm.intent_handlers.dataset_metadata import handle_dataset_metadata  
+
 
 # ✅ Setup logging
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
@@ -48,8 +49,6 @@ def generate_response(query, user_id):
         return handle_dataset_search(query, user_id)
     elif intent == "dataset_more_results":
         return handle_dataset_more_results(user_id)
-    elif intent == "dataset_filtering":
-        return handle_dataset_filtering(query, user_id)
     elif intent == "dataset_metadata":
         return handle_dataset_metadata(query, user_id)  # 🔹 Covers all metadata lookups
     elif intent == "dataset_explanation":

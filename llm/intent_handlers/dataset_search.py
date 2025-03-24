@@ -67,35 +67,21 @@ def summarize_text(dataset):
         return description if description else "No summary available."  # Fallback
 
 def format_dataset_info(datasets):
-    """Formats dataset information for LLM input using metadata-aware summarization."""
+    """Formats dataset information with only title and summary (minimalist mode)."""
     formatted_info = ""
 
     for i, dataset in enumerate(datasets, 1):
         title = dataset.get("title", "Unknown Title")
-        summary = summarize_text(dataset)  # ✅ Summarize using all metadata
-        formats = ", ".join(dataset.get("format", [])) if dataset.get("format") else "Unknown format."
-        formats = formats.upper()  # ✅ Ensure format names are uppercase
-        landing_page = dataset.get("landing_page", "No landing page available.")
-        download_links = dataset.get("download_links", [])
+        summary = summarize_text(dataset)  # Still uses rich metadata for smart summary
 
-        # ✅ Choose best access method (direct download vs. landing page)
-        if len(download_links) == 1:
-            access_link = f"[Download Dataset]({download_links[0].get('url', '')})"
-        elif len(download_links) > 1:
-            access_link = f"[View More & Download Here]({landing_page})"
-        else:
-            access_link = f"[Dataset Landing Page]({landing_page})" if landing_page else "No available links."
-
-        # ✅ Format dataset response (Minimalist search mode, Highly readable)
         formatted_info += textwrap.dedent(f"""
-            **Dataset {i}**
-            **Title:** {title}
-            🔹 **Summary:** {summary}
-            📁 **Formats:** {formats}
-            🔗 **Access:** {access_link}
+        **Dataset {i}**
+        **Title:** {title}
+        🔹 **Summary:** {summary}
         """).strip() + "\n\n"
 
     return formatted_info.strip()
+
 
 def clean_llm_output(response_text):
     """Removes redundant instructions from LLM output."""
@@ -154,15 +140,16 @@ def handle_dataset_search(query, user_id):
 
     # ✅ Step 2: Search FAISS with the refined query
     datasets = search_faiss(refined_query, k=50)  
-    top_datasets = datasets[:5]  # ✅ First batch of results
+    top_datasets = datasets[:3]  # ✅ First batch of results
 
     # ✅ Step 3: Store results in session
     session = get_user_session(user_id)
     store_faiss_results(user_id, datasets)
 
-    # 🔥 FIX: Update `shown_count` to 5 (ensures pagination starts at 6 next time)
-    session["shown_count"] = 5
-    logging.info(f"✅ Updated `shown_count` to 5 for user {user_id}")
+    # 🔥 FIX: Update `shown_count` to 3 (ensures pagination starts at 6 next time)
+    session["shown_count"] = 3
+    session["has_searched"] = True 
+    logging.info(f"✅ Updated `shown_count` to 3 for user {user_id}")
 
     dataset_info = format_dataset_info(top_datasets)
     dataset_prompt_template = load_prompt()

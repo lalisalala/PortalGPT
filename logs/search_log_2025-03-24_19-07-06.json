@@ -1,0 +1,1884 @@
+{
+    "query": "I am looking for datasets about homelessness",
+    "results": [
+        {
+            "id": "e1b60712-b128-4412-b7bd-d1117519033b",
+            "title": "Rough sleeping in London (CHAIN reports)",
+            "summary": "\nInformation  \n\n\nThese published reports present information from the multi-agency database Combined Homelessness and Information Network (CHAIN), about people seen rough sleeping by outreach teams in London. CHAIN, which is commissioned and funded by the Greater London Authority (GLA) and managed by Homeless Link, represents one of the UK’s most detailed and comprehensive sources of information about rough sleeping. \n\n\nServices that record information on CHAIN include outreach teams, assessment centres, accommodation projects, day centres and other specialist projects. The system allows users to share information about work done with people sleeping rough and about their needs, ensuring that they receive the most appropriate support and that efforts are not duplicated. \n\n\nIn these reports, people are counted as having been seen rough sleeping if they have been encountered by a commissioned outreach worker bedded down on the street, or in other open spaces or locations not designed for habitation, such as doorways, stairwells, parks or derelict buildings. The report does not include people from “hidden homeless” groups such as those “sofa surfing” or living in squats, unless they have also been seen bedded down in one of the settings outlined above. \n\n\nSeparate reports are produced for London as a whole and for individual boroughs, and these are published each quarter. There are also annual reports that contain aggregated information for each full year. \n\n\nInteractive Visualisation Tool \n\n\nQuarterly Data Tool\n\n\nAnnual Data Tool\n\n\nA suite of online interactive charts and maps based on CHAIN data is available by clicking the above links. The data available via these tools mirrors that presented in the published PDF documents, with the addition of filters and other enhancements to allow users to interrogate the data. The Quarterly Data Tool shows data from the last eight quarters, and the Annual Data Tool shows data from the last five years.  \n\n\nOrganisations Using CHAIN  \n\n\nA list of the  organisations which have signed the CHAIN Data Protection Agreement  and are able to access the live CHAIN system is also available to download. \n\n\nPDF Reports & Data tables \n\n\nAs of January 2024, published CHAIN PDF reports are accompanied by an OpenDocument Spreadsheet file providing the underlying data in an accessible aggregated tabular format. The file includes data at local authority level, and for London overall, including comparative data for previous periods. There is also an accompanying  explanatory notes  document, which provides important contextual information about the data. \n\n\nPlease click the links below to download a zip file containing the PDF reports and OpenDocument Spreadsheet for the corresponding timeframe.  \n\n\nPublication Schedule  \n\n\nReports are published 1 month after the end of each quarter and one quarter after the end of each year. The linked document below provides details of forthcoming publications \n\n\nQuarterly and Annual Report Schedule 2024/25   \n\n2024/25\n\nQ3 2024/25\n\n\n\nGreater London 2024/25 Q3\n\n\nBorough Reports 2024/25 Q3  \n\n\nQuarterly Data Tables 2024/25 Q3\n\n\n\nQ2 2024/25 \n\n\n\nGreater London 2024/25 Q2\n\n\nBorough Reports 2024/25 Q2\n\n\nQuarterly Data Tables 2024/25 Q2\n\n\n\nQ1 2024/25\n\n\n\nGreater London 2024/25 Q1\n\n\nBorough Reports 2024/25 Q1\n\n\nQuarterly Data Tables 2024/25 Q1\n\n\n2023/24\n\n\nGreater London Bulletin \n\n\nGreater London full report \n\n\nBorough Annual Reports\n\n\nAnnual Data Tables\n\n\nQuarterly Reports and Data Tables (for Q3 and Q4 only)\n\n2022/23\n\n\nGreater London bulletin\n\n\nGreater London full report\n\n\nBorough Annual Reports\n\n\nQuarterly Reports\n\n\n2021/22\n\n\nGreater London bulletin\n\n\nGreater London full report\n\n\nBorough Annual Reports\n\n\nQuarterly Reports\n\n\n2020/21\n\n\nGreater London bulletin\n\n\nGreater London full report\n\n\nBorough Annual Reports \n\n\nQuarterly Reports \n\n\n2019/20\n\n\nGreater London bulletin\n\n\nGreater London full report\n\n\nBorough Annual Reports\n\n\nQuarterly Reports\n\n\n2018/19\n\n\nGreater London bulletin\n\n\nGreater London full report\n\n\nBorough Annual Reports\n\n\nQuarterly Reports\n\n\n2017/18\n\n\nGreater London bulletin\n\n\nGreater London full report\n\n\nBorough Annual Reports\n\n\nQuarterly Reports\n\n\n2016/17\n\n\nGreater London bulletin\n\n\nGreater London full report\n\n\nBorough Annual Reports\n\n\nQuarterly Reports\n\n\n2015/16\n\n\nGreater London bulletin\n\n\nGreater London full report\n\n\nBorough Annual Reports\n\n\nQuarterly Reports\n\n\n2014/15\n\n\nGreater London bulletin\n\n\nGreater London full report\n\n\nBorough Annual Reports\n\n\nQuarterly Reports \n\nPre-2014/15\n\nFor earlier reports please see the end of this page.\n\n\nThis dataset is one of the Greater London Authority's measures of Economic Fairness. Click here to find out more.\n",
+            "publisher": "GLA Rough Sleeping Team",
+            "tags": [
+                "Rough sleeping",
+                "Homelessness",
+                "Housing"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "",
+                "smallest_geography": "Local Authority"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "pdf",
+                "spreadsheet",
+                "zip"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/e1b60712-b128-4412-b7bd-d1117519033b",
+            "download_links": [
+                {
+                    "title": "Greater London bulletin 2016-17",
+                    "url": "https://data.london.gov.uk/download/chain-reports/0b93bc40-963b-476e-b043-523e790dbde3/Greater%20London%20bulletin%202016-17",
+                    "format": "pdf",
+                    "size": 616998,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "2016-17 Quarterly Reports",
+                    "url": "https://data.london.gov.uk/download/chain-reports/24b639cb-dba1-4fad-9184-cfe38018d0dd/2016-17%20Quarterly%20Reports",
+                    "format": "zip",
+                    "size": 28435742,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "2015-16 Borough Annual Reports",
+                    "url": "https://data.london.gov.uk/download/chain-reports/643b6aa6-53c9-45fb-bfd9-30d4d41dff71/2015-16%20Borough%20Annual%20Reports",
+                    "format": "zip",
+                    "size": 866606,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "Greater London full report 2016-17",
+                    "url": "https://data.london.gov.uk/download/chain-reports/6a03343e-a722-490b-afbe-c8f3edd39319/Greater%20London%20full%20report%202016-17",
+                    "format": "pdf",
+                    "size": 3146281,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "Greater London bulletin 2014-15",
+                    "url": "https://data.london.gov.uk/download/chain-reports/6c740944-3816-4f21-bbcf-04505b59c76b/Greater%20London%20bulletin%202014-15",
+                    "format": "pdf",
+                    "size": 213181,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "Greater London bulletin 2017-18",
+                    "url": "https://data.london.gov.uk/download/chain-reports/79151807-e06b-47db-b630-4c813f6204d7/Greater%20London%20bulletin%202017-18",
+                    "format": "pdf",
+                    "size": 1020280,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "2017-18 Quarterly Reports",
+                    "url": "https://data.london.gov.uk/download/chain-reports/8f49c6cc-7093-41b5-854f-1d134d5ec297/2017-18%20Quarterly%20Reports",
+                    "format": "zip",
+                    "size": 109900555,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "2014-15 Quarterly Reports",
+                    "url": "https://data.london.gov.uk/download/chain-reports/92ec5515-5c0b-4a47-98b7-3d3b239870ce/2014-15%20Quarterly%20Reports",
+                    "format": "zip",
+                    "size": 6380155,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "2016-17 Borough Annual Reports",
+                    "url": "https://data.london.gov.uk/download/chain-reports/a3820f3b-683f-4eff-b0cc-627af4e42631/2016-17%20Borough%20Annual%20Reports",
+                    "format": "zip",
+                    "size": 11347001,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "Greater London bulletin 2015-16",
+                    "url": "https://data.london.gov.uk/download/chain-reports/a3ebddd3-764e-42c0-a921-7f144702bd55/Greater%20London%20bulletin%202015-16",
+                    "format": "pdf",
+                    "size": 61330,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "2014-15 Borough Annual Reports",
+                    "url": "https://data.london.gov.uk/download/chain-reports/c432e3e5-ac13-4573-9bf6-c6c90cb9ccf8/2014-15%20Borough%20Annual%20Reports",
+                    "format": "zip",
+                    "size": 1419566,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "Greater London full report 2015-16",
+                    "url": "https://data.london.gov.uk/download/chain-reports/db4d244e-ab51-44e1-96dd-c8befa65a62a/Greater%20London%20full%20report%202015-16",
+                    "format": "pdf",
+                    "size": 1180066,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "Greater London full report 2014-15",
+                    "url": "https://data.london.gov.uk/download/chain-reports/dd12fe65-0a44-465d-96e6-5339fc5c505d/Greater%20London%20full%20report%202014-15",
+                    "format": "pdf",
+                    "size": 594326,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "2017-18 Borough Annual Reports",
+                    "url": "https://data.london.gov.uk/download/chain-reports/e40e037a-51be-4395-b334-56c0871c9dd1/2017-18%20Borough%20Annual%20Reports",
+                    "format": "zip",
+                    "size": 11780743,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "Greater London full 2017-18",
+                    "url": "https://data.london.gov.uk/download/chain-reports/e601b91c-f0b6-4a57-8d79-ba125c3b9ec2/Greater%20London%20full%202017-18",
+                    "format": "pdf",
+                    "size": 5393226,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "2015-16 Quarterly Reports",
+                    "url": "https://data.london.gov.uk/download/chain-reports/ffb9d285-ce68-4a93-bce8-f6f58e1d4f47/2015-16%20Quarterly%20Reports",
+                    "format": "zip",
+                    "size": 5202983,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "Greater London full report 2018-19",
+                    "url": "https://data.london.gov.uk/download/chain-reports/0538e6f7-b746-4391-9aab-c7e5fe3083da/Greater%20London%20full%20report%202018-19",
+                    "format": "pdf",
+                    "size": 2593921,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "2018-19 Borough Annual Reports",
+                    "url": "https://data.london.gov.uk/download/chain-reports/a40ecb54-6098-467f-81bf-087c199b7f38/2018-19%20Borough%20Annual%20Reports",
+                    "format": "zip",
+                    "size": 11426408,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "Greater London bulletin 2018-19",
+                    "url": "https://data.london.gov.uk/download/chain-reports/6f56a562-d882-4dac-9afe-e5d3b1bb371e/Greater%20London%20bulletin%202018-19",
+                    "format": "pdf",
+                    "size": 984941,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "2018-19 Quarterly Reports",
+                    "url": "https://data.london.gov.uk/download/chain-reports/2b46e2cf-8563-46c7-ae16-fb77207b7d36/2018-19%20Quarterly%20Reports",
+                    "format": "zip",
+                    "size": 128757275,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "Greater London bulletin 2019-20",
+                    "url": "https://data.london.gov.uk/download/chain-reports/b2d0a4d2-17f4-4bdc-b263-9d7395a3d3c7/Greater%20London%20bulletin%202019-20",
+                    "format": "pdf",
+                    "size": 990134,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "Greater London full 2019-20",
+                    "url": "https://data.london.gov.uk/download/chain-reports/d40d34b3-e3e0-415e-ae7a-4678d83f5058/Greater%20London%20full%202019-20",
+                    "format": "pdf",
+                    "size": 3152695,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "2019-20 Quarterly Reports",
+                    "url": "https://data.london.gov.uk/download/chain-reports/a4e4c91c-9528-4a3b-b4d6-c9151f6a0bb2/2019-20%20Quarterly%20Reports",
+                    "format": "zip",
+                    "size": 281074573,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "2019-20 Borough Annual Reports",
+                    "url": "https://data.london.gov.uk/download/chain-reports/a20ebc9f-c584-4582-9903-0da8fbb1756d/2019-20%20Borough%20Annual%20Reports",
+                    "format": "zip",
+                    "size": 10219005,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "Greater London bulletin 2020-21",
+                    "url": "https://data.london.gov.uk/download/chain-reports/4c108080-9e54-4ed1-a14a-598ae94d362d/Greater%20London%20bulletin%202020-21",
+                    "format": "pdf",
+                    "size": 1143290,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "Greater London full 2020-21",
+                    "url": "https://data.london.gov.uk/download/chain-reports/08f1dece-59d5-4856-ad70-89a2fdb24852/Greater%20London%20full%202020-21",
+                    "format": "pdf",
+                    "size": 3195818,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "2020-21 Borough Annual Reports",
+                    "url": "https://data.london.gov.uk/download/chain-reports/641018eb-6674-4c73-9727-b96e948ea401/2020-21%20Borough%20Annual%20Reports",
+                    "format": "zip",
+                    "size": 15401998,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "2020-21 Quarterly Reports",
+                    "url": "https://data.london.gov.uk/download/chain-reports/e27693eb-ad8d-4546-a91a-6322b4bedead/2020-21%20Quarterly%20Reports",
+                    "format": "zip",
+                    "size": 452296916,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "Borough reports - quarterly and bimonthly 2013",
+                    "url": "https://data.london.gov.uk/download/chain-reports/ce84a6cb-8ae3-4fa0-8eb2-f3d2d57e4d83/Borough%20reports%20-%20quarterly%20and%20bimonthly%202013",
+                    "format": "zip",
+                    "size": 11283850,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "Street to Home - Quarterly and Bimonthly",
+                    "url": "https://data.london.gov.uk/download/chain-reports/97b2c066-8d7a-42ed-9560-1f23eccebbc5/Street%20to%20Home%20-%20Quarterly%20and%20Bimonthly",
+                    "format": "zip",
+                    "size": 5721742,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "Borough reports - quarterly and bimonthly 2012",
+                    "url": "https://data.london.gov.uk/download/chain-reports/05682d8f-1d32-4008-9304-9b0e3eca0ef8/Borough%20reports%20-%20quarterly%20and%20bimonthly%202012",
+                    "format": "zip",
+                    "size": 13172167,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "Borough reports - quarterly and bimonthly 2014",
+                    "url": "https://data.london.gov.uk/download/chain-reports/730eba68-7c22-46dc-9540-4f250c491e82/Borough%20reports%20-%20quarterly%20and%20bimonthly%202014",
+                    "format": "zip",
+                    "size": 2136713,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "Borough reports - quarterly and bimonthly 2011",
+                    "url": "https://data.london.gov.uk/download/chain-reports/ea214ddb-d5db-4e6e-892f-ae33c200eacb/Borough%20reports%20-%20quarterly%20and%20bimonthly%202011",
+                    "format": "zip",
+                    "size": 11041273,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "Borough reports - quarterly and bimonthly 2010",
+                    "url": "https://data.london.gov.uk/download/chain-reports/15b1fd17-0682-4ecb-8423-e04563832f24/Borough%20reports%20-%20quarterly%20and%20bimonthly%202010",
+                    "format": "zip",
+                    "size": 8397683,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "Street to Home - Annual Reports and Bulletins",
+                    "url": "https://data.london.gov.uk/download/chain-reports/d5440838-70fd-4b37-8245-32a5ad03cec8/Street%20to%20Home%20-%20Annual%20Reports%20and%20Bulletins",
+                    "format": "zip",
+                    "size": 14390333,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "2021-22 Borough Annual Reports",
+                    "url": "https://data.london.gov.uk/download/chain-reports/3af47341-8693-4bd6-9f5e-d980d6e76f5e/2021-22%20Borough%20Annual%20Reports",
+                    "format": "zip",
+                    "size": 11682218,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "Greater London full 2021-22",
+                    "url": "https://data.london.gov.uk/download/chain-reports/38ae4265-449e-4080-9fd3-85b4dabf2710/Greater%20London%20full%202021-22",
+                    "format": "pdf",
+                    "size": 2771054,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "Greater London bulletin 2021-22",
+                    "url": "https://data.london.gov.uk/download/chain-reports/bf1d22c6-e113-4ffa-ae12-e2173cab2705/Greater%20London%20bulletin%202021-22",
+                    "format": "pdf",
+                    "size": 1394049,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "2021-22 Quarterly Reports",
+                    "url": "https://data.london.gov.uk/download/chain-reports/ff32ff04-3f75-4db9-8539-41ce59dd080d/2021-22%20Quarterly%20Reports",
+                    "format": "zip",
+                    "size": 218964199,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "Greater London full 2022-23.pdf",
+                    "url": "https://data.london.gov.uk/download/chain-reports/6ee424a2-e7e0-4ad3-9622-e225276940cd/Greater%20London%20full%202022-23.pdf",
+                    "format": "pdf",
+                    "size": 6966739,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "2022-23 Quarterly Reports.zip",
+                    "url": "https://data.london.gov.uk/download/chain-reports/7db4872d-2753-4482-bf9f-719c541adcbf/2022-23%20Quarterly%20Reports.zip",
+                    "format": "zip",
+                    "size": 189215575,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "Greater London bulletin 2022-23.pdf",
+                    "url": "https://data.london.gov.uk/download/chain-reports/05203df7-3253-406d-8bf6-3fccc9a2ab4c/Greater%20London%20bulletin%202022-23.pdf",
+                    "format": "pdf",
+                    "size": 6185008,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "2022-23 Borough Annual Reports.zip",
+                    "url": "https://data.london.gov.uk/download/chain-reports/20bd5ff4-e837-41ef-9cfa-3220b4f29c03/2022-23%20Borough%20Annual%20Reports.zip",
+                    "format": "zip",
+                    "size": 18257138,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "Quarterly and Annual Reports Process and Schedule 2024/25.pdf",
+                    "url": "https://data.london.gov.uk/download/chain-reports/bfc0473d-5832-40ed-979c-00b3cdd4406c/Quarterly%20and%20Annual%20Reports%20Process%20and%20Schedule%202024/25.pdf",
+                    "format": "pdf",
+                    "size": 111180,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "CHAIN data tables explanatory notes 3.0.0.pdf",
+                    "url": "https://data.london.gov.uk/download/chain-reports/62caaae9-e854-424e-a726-e40b973700d4/CHAIN%20data%20tables%20explanatory%20notes%203.0.0.pdf",
+                    "format": "pdf",
+                    "size": 300217,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "2023-24 Borough Annual Reports.zip",
+                    "url": "https://data.london.gov.uk/download/chain-reports/c917e7d7-2569-4950-a711-86f260329106/2023-24%20Borough%20Annual%20Reports.zip",
+                    "format": "zip",
+                    "size": 12818492,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "2023-24 Quarterly Reports.zip",
+                    "url": "https://data.london.gov.uk/download/chain-reports/10911dab-5c5c-40a1-87ca-4872ff37a0cb/2023-24%20Quarterly%20Reports.zip",
+                    "format": "zip",
+                    "size": 162612318,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "CHAIN annual data tables 2023-24.ods",
+                    "url": "https://data.london.gov.uk/download/chain-reports/5ea89803-011e-44a2-9bec-a9463358ead6/CHAIN%20annual%20data%20tables%202023-24.ods",
+                    "format": "spreadsheet",
+                    "size": 235725,
+                    "mimetype": "application/vnd.oasis.opendocument.spreadsheet"
+                },
+                {
+                    "title": "CHAIN quarterly data tables 2024-25 Q1.ods",
+                    "url": "https://data.london.gov.uk/download/chain-reports/f8832d91-6a1a-4033-8429-96a7f8b326d4/CHAIN%20quarterly%20data%20tables%202024-25%20Q1.ods",
+                    "format": "spreadsheet",
+                    "size": 247425,
+                    "mimetype": "application/vnd.oasis.opendocument.spreadsheet"
+                },
+                {
+                    "title": "Greater London 2024-25 Q1.pdf",
+                    "url": "https://data.london.gov.uk/download/chain-reports/bfcecb4d-f0e0-4d87-843d-5628161f04a5/Greater%20London%202024-25%20Q1.pdf",
+                    "format": "pdf",
+                    "size": 3845744,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "Q1 2024-25 Borough reports.zip",
+                    "url": "https://data.london.gov.uk/download/chain-reports/5af8f978-f376-43c0-b3bc-36c1c8192200/Q1%202024-25%20Borough%20reports.zip",
+                    "format": "zip",
+                    "size": 35760563,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "Greater London 2024-25 Q2.pdf",
+                    "url": "https://data.london.gov.uk/download/chain-reports/cd95d65a-54a9-436c-8c05-a64731a77ac2/Greater%20London%202024-25%20Q2.pdf",
+                    "format": "pdf",
+                    "size": 9835254,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "Q2 Borough Reports.zip",
+                    "url": "https://data.london.gov.uk/download/chain-reports/afa395f2-d1be-4b9b-8e08-87fffccb044a/Q2%20Borough%20Reports.zip",
+                    "format": "zip",
+                    "size": 71837229,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "CHAIN quarterly data tables 2024-25 Q2.ods",
+                    "url": "https://data.london.gov.uk/download/chain-reports/51389553-3d3a-41c6-b8b6-02c72a53c558/CHAIN%20quarterly%20data%20tables%202024-25%20Q2.ods",
+                    "format": "spreadsheet",
+                    "size": 248109,
+                    "mimetype": "application/vnd.oasis.opendocument.spreadsheet"
+                },
+                {
+                    "title": "CHAIN DPA current signatories 02-01-25.xlsx",
+                    "url": "https://data.london.gov.uk/download/chain-reports/1902b611-1b7a-40ee-b10a-be625c0262b3/CHAIN%20DPA%20current%20signatories%2002-01-25.xlsx",
+                    "format": "spreadsheet",
+                    "size": 22929,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                },
+                {
+                    "title": "Q3 Borough Reports.zip",
+                    "url": "https://data.london.gov.uk/download/chain-reports/5afdd086-c03f-46b3-a2d5-864c32ca7bbc/Q3%20Borough%20Reports.zip",
+                    "format": "zip",
+                    "size": 35662915,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "Greater London 2024-25 Q3.pdf",
+                    "url": "https://data.london.gov.uk/download/chain-reports/59689306-6e82-4837-a757-461fc770cbc7/Greater%20London%202024-25%20Q3.pdf",
+                    "format": "pdf",
+                    "size": 1959778,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "CHAIN quarterly data tables 2024-25 Q3.ods",
+                    "url": "https://data.london.gov.uk/download/chain-reports/e5998435-dd49-42cc-bf35-2de03b18086e/CHAIN%20quarterly%20data%20tables%202024-25%20Q3.ods",
+                    "format": "spreadsheet",
+                    "size": 245488,
+                    "mimetype": "application/vnd.oasis.opendocument.spreadsheet"
+                },
+                {
+                    "title": "Greater London bulletin 2023-24 - amended1.pdf",
+                    "url": "https://data.london.gov.uk/download/chain-reports/dbe08bea-c848-4edb-a855-b40e4ac6cdfd/Greater%20London%20bulletin%202023-24%20-%20amended1.pdf",
+                    "format": "pdf",
+                    "size": 2216563,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "Greater London 2023-24 - amended1.pdf",
+                    "url": "https://data.london.gov.uk/download/chain-reports/469b738d-9e3b-43ae-bd0b-3a83e238c6c1/Greater%20London%202023-24%20-%20amended1.pdf",
+                    "format": "pdf",
+                    "size": 3532744,
+                    "mimetype": "application/pdf"
+                }
+            ],
+            "faiss_score": 0.8269,
+            "faiss_rank": 2,
+            "rerank_score": 2.428560972213745,
+            "rerank_rank": 1
+        },
+        {
+            "id": "7d712e1f-07dd-4107-83a2-62d7e12aa89c",
+            "title": "Homelessness Provision, Borough",
+            "summary": "Local authorities' action under the homelessness provisions of the 1985 and 1996 Housing Acts (financial year). Homelessness provision made by local authorities in London, 2004/05 to 2017/18.\nSource: DCLG P1E Homelessness returns (quarterly)\nHouseholds \"Excludes cases for whom a duty was owed but no accommodation was being secure\" are those accepted as owed a main duty, or awaiting a decision on their application, but able to remain in their existing accommodation for the immediate future. \n\nhttps://www.gov.uk/government/statistical-data-sets/live-tables-on-homelessness\n\n\n\n\n\nThis dataset is one of the Greater London Authority's measures of Economic Fairness. Click here to find out more.\n",
+            "publisher": "Opinion Research and General Statistics (GLA)",
+            "tags": [
+                "homelessness",
+                "housing",
+                "economic-fairness"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "Greater London",
+                "smallest_geography": "Local Authority"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/7d712e1f-07dd-4107-83a2-62d7e12aa89c",
+            "download_links": [
+                {
+                    "title": "statutory-homelessness-borough",
+                    "url": "https://data.london.gov.uk/download/homelessness/7b28ad56-5698-4ea0-9a94-f301fcb62b3e/statutory-homelessness-borough",
+                    "format": "spreadsheet",
+                    "size": 356864,
+                    "mimetype": "application/vnd.ms-excel"
+                },
+                {
+                    "title": "Homelessness.xlsx",
+                    "url": "https://data.london.gov.uk/download/homelessness/504a5602-d74f-4303-a926-101000da1d59/Homelessness.xlsx",
+                    "format": "spreadsheet",
+                    "size": 36473,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "faiss_score": 0.8376,
+            "faiss_rank": 1,
+            "rerank_score": 2.2771155834198,
+            "rerank_rank": 2
+        },
+        {
+            "id": "67ea4f52-46f7-46b9-b5f5-6787df0a4782",
+            "title": "Housing and Health",
+            "summary": "\nDescription \n\n\nThis data companion pack is a resource intended to frame and be read alongside the linked  Evidence Review: Housing and Health Inequalities in London (available on the Institute of Health Equity website) .\n\n\nThe resource provides intelligence and context on the housing and health inequalities in London only, while the accompanying rapid review of evidence for interventions contains the recommendations for action.​\n\n\n\nThis pack is intended to provide a high-level overview of the best available data on housing in London and the key housing-related health inequalities issues faced by Londoners, in correlation with the IHE Evidence Review: Housing and Health Inequalities in London.​\nThis pack identifies how certain groups in the population are at greatest risk of housing-related health inequalities, as well as noting gaps in available data for particularly excluded groups.\nThe pack provides a platform for partnership work on housing-related health inequalities across London, including providing an overview of key issues, and identifying key gaps in intelligence that would help improve understanding of housing-related inequalities across the capital. ​\n\n\nAudience\n\n\nIt will be useful for health leaders, analysts, officers, and policy makers from local and regional government, integrated care systems, and more, to address ​housing-related health inequalities by -\n\n\n\nAdvocating for the need for action to address housing inequalities, given impacts on health and health inequalities ​\n\n\nFraming the context for the interventions highlighted in the linked rapid review of interventions​\n\n\nEngaging communities ​\n\n\n\n​Development of this resource\n\nThe Institute of Health Equity (IHE), Greater London Authority (GLA) Health, GLA City Intelligence Unit, Office for Health Improvement and Disparities London (OHID), Association of Directors of Public Health London (ADPH), and NHSE have collaboratively produced this report, as part of the Building the Evidence (BTE) programme of work\n\nThe sources of data available and topics included have been identified from existing published data, working in partnership through iterative discussion \n\nThe resource is provided in PDF and PowerPoint format to support colleagues in their work to\n\n\nThere is no current plan for periodic updates of this resource, though this will be discussed on completion of this programme of work\n\n\n\nOther useful resources: \n\n\n\nThe \nIntegrated Care Systems (ICS) Housing Profile\n is a resource that aims to support people working in ICSs and ICBs to understand, and work jointly with partners to mitigate and tackle the key housing-related issues that drive poor health in London. \n\n",
+            "publisher": "GLA Health Team",
+            "tags": [
+                "Housing",
+                "health",
+                "inequalities",
+                "Homelessness",
+                "overheating",
+                "overcrowding",
+                "private rented sector",
+                "social housing",
+                "population",
+                "housing"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": ""
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "pdf",
+                "slideshow"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/67ea4f52-46f7-46b9-b5f5-6787df0a4782",
+            "download_links": [
+                {
+                    "title": "BTE Housing data companion piece 05.23.pptx",
+                    "url": "https://data.london.gov.uk/download/housing-and-health/9dd6e424-934b-4625-b3c8-cc8e519ec620/BTE%20Housing%20data%20companion%20piece%2005.23.pptx",
+                    "format": "slideshow",
+                    "size": 6717554,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+                },
+                {
+                    "title": "BTE Housing data companion piece 05.23.pdf",
+                    "url": "https://data.london.gov.uk/download/housing-and-health/9725fdff-10a9-4732-940d-5317ae5ab688/BTE%20Housing%20data%20companion%20piece%2005.23.pdf",
+                    "format": "pdf",
+                    "size": 2365211,
+                    "mimetype": "application/pdf"
+                }
+            ],
+            "faiss_score": 0.813,
+            "faiss_rank": 6,
+            "rerank_score": -9.122833251953125,
+            "rerank_rank": 3
+        },
+        {
+            "id": "85b71fc6-1fe3-4588-90a6-3455330c1ef1",
+            "title": "Fuel Poverty",
+            "summary": "Percentage of households in fuel poverty as measured by the Department for Energy Security and Net Zero. Statistics by tenure taken from the English Housing Survey.\n\n\n\n\nThis dataset is one of the Greater London Authority's measures of Economic Fairness. Click here to find out more.\n",
+            "publisher": "Greater London Authority (GLA)",
+            "tags": [
+                "economic-fairness",
+                "costofliving"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": "Greater London"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/85b71fc6-1fe3-4588-90a6-3455330c1ef1",
+            "download_links": [
+                {
+                    "title": "Fuel poverty.xlsx",
+                    "url": "https://data.london.gov.uk/download/fuel-poverty/245ef1a3-e782-4888-bcce-ef63546f7664/Fuel%20poverty.xlsx",
+                    "format": "spreadsheet",
+                    "size": 44298,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                },
+                {
+                    "title": "Fuel poverty by LA, Region and LSOA.xlsx",
+                    "url": "https://data.london.gov.uk/download/fuel-poverty/43358a7d-23b2-427f-830c-6056b8922dc7/Fuel%20poverty%20by%20LA,%20Region%20and%20LSOA.xlsx",
+                    "format": "spreadsheet",
+                    "size": 577967,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                },
+                {
+                    "title": "Fuel Poverty Low Income Low Energy Efficiency.xlsx",
+                    "url": "https://data.london.gov.uk/download/fuel-poverty/43c92a2d-823b-4a3f-baf8-8c0fff243c39/Fuel%20Poverty%20Low%20Income%20Low%20Energy%20Efficiency.xlsx",
+                    "format": "spreadsheet",
+                    "size": 39453,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "faiss_score": 0.8102,
+            "faiss_rank": 9,
+            "rerank_score": -9.552846908569336,
+            "rerank_rank": 4
+        },
+        {
+            "id": "68da2447-15fd-4135-b40b-85fd3eda7a01",
+            "title": "Analysis of English Housing Survey data",
+            "summary": "This page hosts the results of analysis carried out by the Greater London Authority of English Housing Survey microdata, including figures that have been referred to in Mayoral press releases.",
+            "publisher": "",
+            "tags": [
+                "housing"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": "Greater London"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "spreadsheet"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/68da2447-15fd-4135-b40b-85fd3eda7a01",
+            "download_links": [
+                {
+                    "title": "Non-decent private rented homes, average rents and Housing Benefit expenditure - by region, 2020.xlsx",
+                    "url": "https://data.london.gov.uk/download/analysis-of-english-housing-survey-data/37ad5b08-ccd0-4865-8617-7b6d9d32646d/Non-decent%20private%20rented%20homes,%20average%20rents%20and%20Housing%20Benefit%20expenditure%20-%20by%20region,%202020.xlsx",
+                    "format": "spreadsheet",
+                    "size": 11451,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "faiss_score": 0.8129,
+            "faiss_rank": 7,
+            "rerank_score": -11.064178466796875,
+            "rerank_rank": 5
+        },
+        {
+            "id": "020749e7-b9f2-480c-9873-8641b1d17283",
+            "title": "2011 Census Housing",
+            "summary": "Reports and data on Housing.\r\n",
+            "publisher": "Census Information Scheme",
+            "tags": [
+                "census",
+                "overcrowding",
+                "tenure"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "",
+                "smallest_geography": ""
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "pdf",
+                "spreadsheet"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/020749e7-b9f2-480c-9873-8641b1d17283",
+            "download_links": [
+                {
+                    "title": "tenure-by-ns-sec-data.xlsx",
+                    "url": "https://data.london.gov.uk/download/2011-census-housing/0755e073-0ffd-44f8-a6ae-a466e5325d4f/tenure-by-ns-sec-data.xlsx",
+                    "format": "spreadsheet",
+                    "size": 156827,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                },
+                {
+                    "title": "2011-census-tenure-by-economic-activity.pdf",
+                    "url": "https://data.london.gov.uk/download/2011-census-housing/271551e2-de14-4c6b-b924-fc2afe1bdf03/2011-census-tenure-by-economic-activity.pdf",
+                    "format": "pdf",
+                    "size": 486883,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "2011-census-trends-in-housing-tenure.pdf",
+                    "url": "https://data.london.gov.uk/download/2011-census-housing/2db4a9a8-e8f4-4fe9-aed0-9bb23217600e/2011-census-trends-in-housing-tenure.pdf",
+                    "format": "pdf",
+                    "size": 641220,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "housing-data.zip",
+                    "url": "https://data.london.gov.uk/download/2011-census-housing/31afbcac-fee0-413c-a817-694f97c0aad9/housing-data.zip",
+                    "format": "",
+                    "size": 12345665,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "2011-census-housing-characteristics.pdf",
+                    "url": "https://data.london.gov.uk/download/2011-census-housing/377bcc89-fab4-4f88-a69f-10a2570cbde5/2011-census-housing-characteristics.pdf",
+                    "format": "pdf",
+                    "size": 494444,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "tenure-by-economic-activity-data.xls",
+                    "url": "https://data.london.gov.uk/download/2011-census-housing/3a3bf4ec-26af-420a-a82b-3eeb96e0217b/tenure-by-economic-activity-data.xls",
+                    "format": "spreadsheet",
+                    "size": 364032,
+                    "mimetype": "application/vnd.ms-excel"
+                },
+                {
+                    "title": "housing-characteristics-data.xls",
+                    "url": "https://data.london.gov.uk/download/2011-census-housing/51b968fa-b526-46b3-93d1-5b0e36571eed/housing-characteristics-data.xls",
+                    "format": "spreadsheet",
+                    "size": 582656,
+                    "mimetype": "application/vnd.ms-excel"
+                },
+                {
+                    "title": "trends-in-tenure-data.xls",
+                    "url": "https://data.london.gov.uk/download/2011-census-housing/56531383-1a8d-4c1d-b55e-83b864416c64/trends-in-tenure-data.xls",
+                    "format": "spreadsheet",
+                    "size": 641220,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "2011-census-snapshot-housing.pdf",
+                    "url": "https://data.london.gov.uk/download/2011-census-housing/7f5a3f2c-3312-475d-a6bc-0845c9499162/2011-census-snapshot-housing.pdf",
+                    "format": "pdf",
+                    "size": 164723,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "2011-census-trends-in-overcrowding.pdf",
+                    "url": "https://data.london.gov.uk/download/2011-census-housing/a469ab1b-ff43-482d-bbe1-fe97581e5fd1/2011-census-trends-in-overcrowding.pdf",
+                    "format": "pdf",
+                    "size": 1326802,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "2011-census-tenure-by-ns-sec.pdf",
+                    "url": "https://data.london.gov.uk/download/2011-census-housing/cab6cce1-1514-4dca-95bc-7ff5e9452273/2011-census-tenure-by-ns-sec.pdf",
+                    "format": "pdf",
+                    "size": 1231168,
+                    "mimetype": "application/pdf"
+                },
+                {
+                    "title": "trends-in-overcrowding-data.xls",
+                    "url": "https://data.london.gov.uk/download/2011-census-housing/e02652a4-85cb-4a83-821b-a497fff529c0/trends-in-overcrowding-data.xls",
+                    "format": "spreadsheet",
+                    "size": 367104,
+                    "mimetype": "application/vnd.ms-excel"
+                }
+            ],
+            "faiss_score": 0.8129,
+            "faiss_rank": 8,
+            "rerank_score": -11.308271408081055,
+            "rerank_rank": 6
+        },
+        {
+            "id": "9d33ee60-378a-4bc1-bd6b-aae09ca0fde3",
+            "title": "2011 census new wards housing",
+            "summary": "2011 univariate data re-estimated for 2022 wards comparable with 2021 outputs",
+            "publisher": "",
+            "tags": [],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": "Ward"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "zip",
+                "csv"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/9d33ee60-378a-4bc1-bd6b-aae09ca0fde3",
+            "download_links": [
+                {
+                    "title": "persons_per_bedroom_people_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-housing/a3d3bd66-8920-4c11-81db-bfec8818d7ce/persons_per_bedroom_people_wide.csv",
+                    "format": "csv",
+                    "size": 48298,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "occupancy_rating_rooms_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-housing/1c05dba3-a1bd-4332-bf81-474f08b4bdcb/occupancy_rating_rooms_wide.csv",
+                    "format": "csv",
+                    "size": 49442,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "persons_per_bedroom_people_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-housing/e2adf20e-3755-4f69-ac4c-5872b9620255/persons_per_bedroom_people_long.csv",
+                    "format": "csv",
+                    "size": 317297,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "occupancy_rating_bedrooms_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-housing/196ce8e2-6dea-4206-9259-12e40d8c2bb2/occupancy_rating_bedrooms_long.csv",
+                    "format": "csv",
+                    "size": 367414,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "number_of_rooms_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-housing/ecd9d6ce-0c3c-4785-bab5-8f68a7134d02/number_of_rooms_long.csv",
+                    "format": "csv",
+                    "size": 426732,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "central_heating_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-housing/37691d8f-4ad9-4cb7-aa2f-a053b51700fc/central_heating_wide.csv",
+                    "format": "csv",
+                    "size": 51444,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "number_of_bedrooms_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-housing/a1c881c0-b41f-441a-895c-db9ddfb70b14/number_of_bedrooms_long.csv",
+                    "format": "csv",
+                    "size": 320200,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "occupancy_rating_rooms_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-housing/6d90df6b-5755-41cd-9d27-3bde5b4047ea/occupancy_rating_rooms_long.csv",
+                    "format": "csv",
+                    "size": "Unknown size",
+                    "mimetype": "Unknown mimetype"
+                },
+                {
+                    "title": "accommodation_type_households_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-housing/3070d5e4-bd1e-48cb-b04f-c7d3fd108dbd/accommodation_type_households_wide.csv",
+                    "format": "csv",
+                    "size": "Unknown size",
+                    "mimetype": "Unknown mimetype"
+                },
+                {
+                    "title": "central_heating_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-housing/be038c97-5114-44af-9da4-32b97ebe026d/central_heating_long.csv",
+                    "format": "csv",
+                    "size": "Unknown size",
+                    "mimetype": "Unknown mimetype"
+                },
+                {
+                    "title": "car_van_availability_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-housing/60f094c3-c990-47be-b91f-e88c27094c8a/car_van_availability_long.csv",
+                    "format": "csv",
+                    "size": "Unknown size",
+                    "mimetype": "Unknown mimetype"
+                },
+                {
+                    "title": "persons_per_room_people_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-housing/338a24e2-a53f-4e82-a940-f13f742aa6b4/persons_per_room_people_long.csv",
+                    "format": "csv",
+                    "size": "Unknown size",
+                    "mimetype": "Unknown mimetype"
+                },
+                {
+                    "title": "household_size_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-housing/7a56f4bc-f174-4c8c-ba62-89dfac411006/household_size_wide.csv",
+                    "format": "csv",
+                    "size": "Unknown size",
+                    "mimetype": "Unknown mimetype"
+                },
+                {
+                    "title": "accommodation_type_people_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-housing/7fa244fb-5119-4aac-ad90-0cf86b73af79/accommodation_type_people_long.csv",
+                    "format": "csv",
+                    "size": "Unknown size",
+                    "mimetype": "Unknown mimetype"
+                },
+                {
+                    "title": "tenure_people_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-housing/5ce227c4-a512-4221-add7-c218b0320e40/tenure_people_wide.csv",
+                    "format": "csv",
+                    "size": "Unknown size",
+                    "mimetype": "Unknown mimetype"
+                },
+                {
+                    "title": "tenure_households_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-housing/6d415eb7-ccd4-4d28-a25f-f91ca30737a1/tenure_households_wide.csv",
+                    "format": "csv",
+                    "size": "Unknown size",
+                    "mimetype": "Unknown mimetype"
+                },
+                {
+                    "title": "accommodation_type_households_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-housing/64299e13-f69c-4439-b7f9-b729ba7475af/accommodation_type_households_long.csv",
+                    "format": "csv",
+                    "size": "Unknown size",
+                    "mimetype": "Unknown mimetype"
+                },
+                {
+                    "title": "number_of_bedrooms_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-housing/9c145fb5-5056-4e34-9ea4-f20aba147698/number_of_bedrooms_wide.csv",
+                    "format": "csv",
+                    "size": "Unknown size",
+                    "mimetype": "Unknown mimetype"
+                },
+                {
+                    "title": "tenure_households_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-housing/ef66d13d-c249-479a-8e5b-a6503b0d4d08/tenure_households_long.csv",
+                    "format": "csv",
+                    "size": "Unknown size",
+                    "mimetype": "Unknown mimetype"
+                },
+                {
+                    "title": "dwellings_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-housing/391f1674-c7e0-40c4-a421-0f196d20875c/dwellings_wide.csv",
+                    "format": "csv",
+                    "size": 39493,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "number_of_rooms_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-housing/126753a7-a8c2-4f11-95a9-588ca89ceb14/number_of_rooms_wide.csv",
+                    "format": "csv",
+                    "size": 58835,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "car_van_availability_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-housing/001a0914-c73b-4cdd-be59-9fc033b723d7/car_van_availability_wide.csv",
+                    "format": "csv",
+                    "size": 51845,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "persons_per_room_people_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-housing/8f869cea-af19-4687-b32f-c4b4c68e86ba/persons_per_room_people_wide.csv",
+                    "format": "csv",
+                    "size": 47455,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "household_spaces_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-housing/ea509438-1b5b-4d3f-a2be-d46474a4aa63/household_spaces_long.csv",
+                    "format": "csv",
+                    "size": 190506,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "occupancy_rating_bedrooms_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-housing/f74a2c9b-617b-4cfe-b6f0-8e05167e4e1a/occupancy_rating_bedrooms_wide.csv",
+                    "format": "csv",
+                    "size": 49167,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "accommodation_type_people_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-housing/d8c555f4-a2f0-4dfd-bed4-1c90206e31b3/accommodation_type_people_wide.csv",
+                    "format": "csv",
+                    "size": 68198,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "dwellings_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-housing/727dbe30-b5f3-4845-b7b7-8691af031fa8/dwellings_long.csv",
+                    "format": "csv",
+                    "size": 148886,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "household_spaces_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-housing/6917e912-1162-4682-8cbe-8aacaf8444ac/household_spaces_wide.csv",
+                    "format": "csv",
+                    "size": 40373,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "household_size_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-housing/eb66194f-9151-4df4-bc9e-9e0fa8c4cd3e/household_size_long.csv",
+                    "format": "csv",
+                    "size": 461138,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "persons_per_bedroom_households_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-housing/8826f947-7616-45e7-8000-0a3d94c75151/persons_per_bedroom_households_wide.csv",
+                    "format": "csv",
+                    "size": 46685,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "persons_per_bedroom_households_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-housing/6f5095e8-26b8-443c-9cef-af99e7f42214/persons_per_bedroom_households_long.csv",
+                    "format": "csv",
+                    "size": 315684,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "persons_per_room_households_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-housing/f6087745-39be-40ba-a465-b9a8f3e84c29/persons_per_room_households_wide.csv",
+                    "format": "csv",
+                    "size": 46058,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "persons_per_room_households_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-housing/b2a28de3-f0c2-40d3-a3e9-98d9549a4ccb/persons_per_room_households_long.csv",
+                    "format": "csv",
+                    "size": 304872,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "tenure_people_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-housing/1e145d52-3d95-483b-9a12-f6a1ec84b989/tenure_people_long.csv",
+                    "format": "csv",
+                    "size": 804984,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "occupancy_wide.zip",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-housing/ff4258b0-de4a-4431-8120-0b528b678008/occupancy_wide.zip",
+                    "format": "zip",
+                    "size": 117736,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "characteristics_wide.zip",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-housing/168c245b-9789-4024-8018-c0a1b13c1145/characteristics_wide.zip",
+                    "format": "zip",
+                    "size": 128687,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "accom_wide.zip",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-housing/d1f809a5-70ae-49bf-ad1a-507f50c765ea/accom_wide.zip",
+                    "format": "zip",
+                    "size": 74412,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "characteristics_long.zip",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-housing/b07a563b-5604-49ef-b544-2651db2b710c/characteristics_long.zip",
+                    "format": "zip",
+                    "size": 513778,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "occupancy_long.zip",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-housing/921d478e-e287-4aeb-878d-b6f5d7fde1ee/occupancy_long.zip",
+                    "format": "zip",
+                    "size": 361708,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "accom_long.zip",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-housing/5f25c582-3f03-4f93-8d52-45c0f4bd6e3b/accom_long.zip",
+                    "format": "zip",
+                    "size": 268741,
+                    "mimetype": "application/zip"
+                }
+            ],
+            "faiss_score": 0.8185,
+            "faiss_rank": 4,
+            "rerank_score": -11.328786849975586,
+            "rerank_rank": 7
+        },
+        {
+            "id": "592d5172-a24b-4690-a005-d0f97dd909ad",
+            "title": "2021 census wards housing",
+            "summary": "Data for 2011 and 2021 for wards in London ",
+            "publisher": "Census Information Scheme",
+            "tags": [
+                "population",
+                "demography",
+                "housing"
+            ],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": "Ward"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "csv",
+                "spreadsheet"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/592d5172-a24b-4690-a005-d0f97dd909ad",
+            "download_links": [
+                {
+                    "title": "accommodation type.xlsx",
+                    "url": "https://data.london.gov.uk/download/2021-census-wards-housing/b137d8db-9289-4dcb-9997-adfc31b8e1a6/accommodation%20type.xlsx",
+                    "format": "spreadsheet",
+                    "size": 164713,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                },
+                {
+                    "title": "central heating.xlsx",
+                    "url": "https://data.london.gov.uk/download/2021-census-wards-housing/d59ed9ff-78a4-4811-a29f-4affea876e79/central%20heating.xlsx",
+                    "format": "spreadsheet",
+                    "size": 163832,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                },
+                {
+                    "title": "number of bedrooms.xlsx",
+                    "url": "https://data.london.gov.uk/download/2021-census-wards-housing/18499a34-cae9-43b5-a7e7-d340b4116823/number%20of%20bedrooms.xlsx",
+                    "format": "spreadsheet",
+                    "size": 136433,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                },
+                {
+                    "title": "number of rooms.xlsx",
+                    "url": "https://data.london.gov.uk/download/2021-census-wards-housing/860398f4-69c8-491a-a2f7-0be2a5c61eac/number%20of%20rooms.xlsx",
+                    "format": "spreadsheet",
+                    "size": 194170,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                },
+                {
+                    "title": "cars or vans.xlsx",
+                    "url": "https://data.london.gov.uk/download/2021-census-wards-housing/0e610d1b-b96b-4637-b83a-0d5cebf3b5ce/cars%20or%20vans.xlsx",
+                    "format": "spreadsheet",
+                    "size": 136139,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                },
+                {
+                    "title": "occupancy rating - bedrooms.xlsx",
+                    "url": "https://data.london.gov.uk/download/2021-census-wards-housing/b2c35034-42cc-4e8a-adff-ae2c6ff9a201/occupancy%20rating%20-%20bedrooms.xlsx",
+                    "format": "spreadsheet",
+                    "size": 148705,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                },
+                {
+                    "title": "tenure - households.xlsx",
+                    "url": "https://data.london.gov.uk/download/2021-census-wards-housing/28cebcb3-4a4c-4b77-8869-c8cb24258783/tenure%20-%20households.xlsx",
+                    "format": "spreadsheet",
+                    "size": 179078,
+                    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                },
+                {
+                    "title": "RM135_LC4101EW.csv",
+                    "url": "https://data.london.gov.uk/download/2021-census-wards-housing/072fd87d-00fa-41cb-811d-817aae43f5ee/RM135_LC4101EW.csv",
+                    "format": "csv",
+                    "size": 4922675,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "RM098_LC4105EW.csv",
+                    "url": "https://data.london.gov.uk/download/2021-census-wards-housing/11b0ae91-4fe7-4ee6-aea0-6f4044cea32a/RM098_LC4105EW.csv",
+                    "format": "csv",
+                    "size": 5022232,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "RM099_LC4108EW.csv",
+                    "url": "https://data.london.gov.uk/download/2021-census-wards-housing/3dd38488-887f-4d22-bc3f-55d1357b192c/RM099_LC4108EW.csv",
+                    "format": "csv",
+                    "size": 943392,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "RM097_LC4206EW.csv",
+                    "url": "https://data.london.gov.uk/download/2021-census-wards-housing/3cae53bb-2f54-43c7-8617-0dd770ae64de/RM097_LC4206EW.csv",
+                    "format": "csv",
+                    "size": 2220941,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "RM130_LC4202EW.csv",
+                    "url": "https://data.london.gov.uk/download/2021-census-wards-housing/18d26324-b289-4628-90b2-85c2565f3e5d/RM130_LC4202EW.csv",
+                    "format": "csv",
+                    "size": 5498918,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "RM132_LC4412EW.csv",
+                    "url": "https://data.london.gov.uk/download/2021-census-wards-housing/d850c25c-1161-4802-b115-1382f1b6ecfe/RM132_LC4412EW.csv",
+                    "format": "csv",
+                    "size": 599679,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "RM140_LC4604EW.csv",
+                    "url": "https://data.london.gov.uk/download/2021-census-wards-housing/fa862c34-aac3-4d6d-9682-d70ac153bdb0/RM140_LC4604EW.csv",
+                    "format": "csv",
+                    "size": 2789447,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "RM138_LC4605EW.csv",
+                    "url": "https://data.london.gov.uk/download/2021-census-wards-housing/d460b522-29b7-4456-b1c9-11dd0ae8cebc/RM138_LC4605EW.csv",
+                    "format": "csv",
+                    "size": 2982338,
+                    "mimetype": "text/csv"
+                }
+            ],
+            "faiss_score": 0.8226,
+            "faiss_rank": 3,
+            "rerank_score": -11.328995704650879,
+            "rerank_rank": 8
+        },
+        {
+            "id": "cee36098-49a2-48f7-b962-1f793012087b",
+            "title": "2011 Census new wards Demography and Migration",
+            "summary": "2011 univariate data re-estimated for 2022 wards comparable with 2021 outputs",
+            "publisher": "",
+            "tags": [],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": "Ward"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "zip",
+                "csv"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/cee36098-49a2-48f7-b962-1f793012087b",
+            "download_links": [
+                {
+                    "title": "age_arrival_uk_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/bdcdb769-bf34-4382-8030-f4e4abe10f1f/age_arrival_uk_wide.csv",
+                    "format": "csv",
+                    "size": 76176,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "adult_lifestage_alt_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/87388c79-a42b-4222-b77a-842bfd189eb8/adult_lifestage_alt_wide.csv",
+                    "format": "csv",
+                    "size": 107547,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "age_18_64_one_adult_household_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/bec7c0b2-424f-44c3-917a-ea7d1093e2ff/age_18_64_one_adult_household_wide.csv",
+                    "format": "csv",
+                    "size": 41197,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "age_18_64_one_adult_household_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/51f0d933-be3d-4608-8786-0053ab33305d/age_18_64_one_adult_household_long.csv",
+                    "format": "csv",
+                    "size": 175713,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "age_single_year_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/30428037-a0ba-46ab-b81d-c1da00d24253/age_single_year_wide.csv",
+                    "format": "csv",
+                    "size": 271760,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "age_sex_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/1d7da28e-35cf-4342-87c7-912f0efd7419/age_sex_wide.csv",
+                    "format": "csv",
+                    "size": 328796,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "age_arrival_uk_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/ed8c3ea0-e2c5-447f-b3d3-8fc2d45ce4e7/age_arrival_uk_long.csv",
+                    "format": "csv",
+                    "size": 1044481,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "adult_lifestage_alt_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/be39f9e6-805c-4ffe-91f6-4f84ab863f1f/adult_lifestage_alt_long.csv",
+                    "format": "csv",
+                    "size": 1807668,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "age_single_year_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/688d92b3-2d95-4df5-8c8e-fafd37d3d0a6/age_single_year_long.csv",
+                    "format": "csv",
+                    "size": 4092316,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "age_sex_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/8458d39a-87f3-4ab7-8490-653517d0a167/age_sex_long.csv",
+                    "format": "csv",
+                    "size": 6221386,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "country_birth_detailed_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/6a4c8715-35fc-4eee-a7d0-e34bc2ea509e/country_birth_detailed_wide.csv",
+                    "format": "csv",
+                    "size": 211765,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "families_dependent_children_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/370b1ed9-013c-40c5-8d17-51b81d402586/families_dependent_children_wide.csv",
+                    "format": "csv",
+                    "size": 64111,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "families_dependent_children_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/11a12282-ad28-45fd-97f8-5e9159a34e5a/families_dependent_children_long.csv",
+                    "format": "csv",
+                    "size": 815686,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "country_birth_detailed_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/91bb074e-07d6-4d23-9183-643b3b6ee239/country_birth_detailed_long.csv",
+                    "format": "csv",
+                    "size": 5347025,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "household_comp_alt_people_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/470ba8c2-e5e0-48c9-8c13-683032f822d2/household_comp_alt_people_wide.csv",
+                    "format": "csv",
+                    "size": 70161,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "household_comp_households_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/e5069287-a5de-46b5-8360-aa65bb8f059b/household_comp_households_wide.csv",
+                    "format": "csv",
+                    "size": 108432,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "household_comp_alt_households_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/1dfd8778-5201-4e0b-beaa-a224a3c5da1a/household_comp_alt_households_wide.csv",
+                    "format": "csv",
+                    "size": 66531,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "household_comp_people_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/19e5e7e0-8871-43a4-a404-5707210f6101/household_comp_people_wide.csv",
+                    "format": "csv",
+                    "size": 115968,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "household_comp_alt_people_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/768a8c6d-57a9-40d1-bd21-2e9c1fe5da69/household_comp_alt_people_long.csv",
+                    "format": "csv",
+                    "size": 910685,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "household_comp_alt_households_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/c8a19a96-23a2-4203-9b56-0ed793d11aec/household_comp_alt_households_long.csv",
+                    "format": "csv",
+                    "size": 907055,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "household_comp_households_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/a9f4de85-9be8-4991-98d0-a070671d877b/household_comp_households_long.csv",
+                    "format": "csv",
+                    "size": 2142707,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "household_comp_people_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/1e65201b-b89a-4014-be68-0866555e813b/household_comp_people_long.csv",
+                    "format": "csv",
+                    "size": 2150243,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "ks_age_structure_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/abab841e-96a1-412a-badd-e8a2caa714c3/ks_age_structure_wide.csv",
+                    "format": "csv",
+                    "size": 79768,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "ks_country_of_birth_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/767446da-8046-4b66-84bb-1795fc8f5db5/ks_country_of_birth_wide.csv",
+                    "format": "csv",
+                    "size": 64801,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "ks_passports_held_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/f5fb0aca-6e19-4020-a2bd-f706e1eab783/ks_passports_held_wide.csv",
+                    "format": "csv",
+                    "size": 64977,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "household_lifestage_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/e854c764-768b-4469-8fe8-71a89a2a5de9/household_lifestage_wide.csv",
+                    "format": "csv",
+                    "size": 79075,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "household_type_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/4977cda9-54ed-4bf9-be8e-f5fe5f3eed4a/household_type_wide.csv",
+                    "format": "csv",
+                    "size": 62251,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "households_deprivation_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/5d8a9721-db89-46e7-aa44-eea533822391/households_deprivation_wide.csv",
+                    "format": "csv",
+                    "size": 48960,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "households_deprivation_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/d1f12775-76f3-4a48-ab39-3c5bba290aad/households_deprivation_long.csv",
+                    "format": "csv",
+                    "size": 381466,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "ks_country_of_birth_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/29e529e6-e5ca-4e3b-98df-20a9d593e7ce/ks_country_of_birth_long.csv",
+                    "format": "csv",
+                    "size": 588232,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "household_type_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/59964a0e-5aee-4e72-82a8-ba38adf4f833/household_type_long.csv",
+                    "format": "csv",
+                    "size": 800246,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "ks_age_structure_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/56b5658f-f706-476b-91cd-9610f62ffd74/ks_age_structure_long.csv",
+                    "format": "csv",
+                    "size": 751668,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "ks_passports_held_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/f3a85f01-cbe0-4f5f-bbbe-87e45e23f13e/ks_passports_held_long.csv",
+                    "format": "csv",
+                    "size": 637657,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "household_lifestage_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/edea3181-7951-4f46-94ab-5ae8137e065d/household_lifestage_long.csv",
+                    "format": "csv",
+                    "size": 1224238,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "living_arrangements_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/e0b3924f-8d93-4698-b142-62ec12366a33/living_arrangements_wide.csv",
+                    "format": "csv",
+                    "size": 65150,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "length_of_residence_uk_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/4e774616-20a1-4c3f-be5a-cfc81685433d/length_of_residence_uk_wide.csv",
+                    "format": "csv",
+                    "size": 50488,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "length_of_residence_uk_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/1b255ffe-b36b-4828-93fd-649f39bae88e/length_of_residence_uk_long.csv",
+                    "format": "csv",
+                    "size": 374167,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "living_arrangements_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/86da40fb-e773-4cb3-bf69-8d6ff2e3a1ed/living_arrangements_long.csv",
+                    "format": "csv",
+                    "size": 886301,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "schoolchildren_students_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/4683746e-357c-4f7c-bd75-b6b3bc46ee2d/schoolchildren_students_long.csv",
+                    "format": "csv",
+                    "size": 121453,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "sex_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/12e026b5-8fb2-4ab4-a856-25df70b88689/sex_wide.csv",
+                    "format": "csv",
+                    "size": 41679,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "usual_resident_population_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/28c41e28-3b22-4d58-9ae9-09fc49f64381/usual_resident_population_wide.csv",
+                    "format": "csv",
+                    "size": 55334,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "usual_resident_population_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/c3d83207-fb00-461a-896e-ed1bc0d2995d/usual_resident_population_long.csv",
+                    "format": "csv",
+                    "size": 434053,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "sex_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/ad24ecd2-f964-4e89-b8c0-9ba9557b11cc/sex_long.csv",
+                    "format": "csv",
+                    "size": 125270,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "schoolchildren_students_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/c54f7520-3ad5-4499-a6df-c287108060c1/schoolchildren_students_wide.csv",
+                    "format": "csv",
+                    "size": 37862,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "second_address_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/3bc2e3ce-8592-41fa-8ebd-acca51b2d489/second_address_long.csv",
+                    "format": "csv",
+                    "size": 252919,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "second_address_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/8dda71d6-a5b5-4f03-ae3a-11d1233d02e8/second_address_wide.csv",
+                    "format": "csv",
+                    "size": 47067,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "year_arrival_uk_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/bea68413-626c-4bb9-b9ec-2c569b9e868e/year_arrival_uk_wide.csv",
+                    "format": "csv",
+                    "size": 66917,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "passports_held_lsoa_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/42108fbd-455e-42bb-b0d8-a27a5e9504b8/passports_held_lsoa_wide.csv",
+                    "format": "csv",
+                    "size": 186266,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "year_arrival_uk_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/23f8376f-ac76-4e42-96c9-08932be92ce7/year_arrival_uk_long.csv",
+                    "format": "csv",
+                    "size": 632807,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "passports_held_lsoa_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/2ff4847e-0de3-4fdf-a027-649bd98d1b97/passports_held_lsoa_long.csv",
+                    "format": "csv",
+                    "size": 4985292,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "demography_long.zip",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/6e028aae-d0f1-412a-b0fc-c1b57b703e4a/demography_long.zip",
+                    "format": "zip",
+                    "size": 2082810,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "demography_wide.zip",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/b3816caf-c46c-4354-954a-9afd5656107f/demography_wide.zip",
+                    "format": "zip",
+                    "size": 304436,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "migration_wide.zip",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/5fd94fa4-7487-4c96-a13a-464d9f16465c/migration_wide.zip",
+                    "format": "zip",
+                    "size": 272703,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "households_wide.zip",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/8386e3e9-4770-4418-9a83-bc9b0bc4ddc1/households_wide.zip",
+                    "format": "zip",
+                    "size": 311086,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "households_long.zip",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/c4cac699-ef48-42ec-9f0d-e327db1c7e8c/households_long.zip",
+                    "format": "zip",
+                    "size": 1522311,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "migration_long.zip",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-demography-and-migration/e280b9e5-2339-4bd8-8ee7-cfc819763efe/migration_long.zip",
+                    "format": "zip",
+                    "size": 1776336,
+                    "mimetype": "application/zip"
+                }
+            ],
+            "faiss_score": 0.8139,
+            "faiss_rank": 5,
+            "rerank_score": -11.335315704345703,
+            "rerank_rank": 9
+        },
+        {
+            "id": "151b53b7-1070-46ac-852b-1db69d3d4bc6",
+            "title": "2011 census new wards labour market",
+            "summary": "2011 univariate data re-estimated for 2022 wards comparable with 2021 outputs",
+            "publisher": "",
+            "tags": [],
+            "geospatial_coverage": {
+                "bounding_box": "Unknown bounding box",
+                "smallest_geography": "Ward"
+            },
+            "temporal_coverage": {
+                "from": null,
+                "to": null
+            },
+            "format": [
+                "zip",
+                "csv"
+            ],
+            "landing_page": "https://data.london.gov.uk/dataset/151b53b7-1070-46ac-852b-1db69d3d4bc6",
+            "download_links": [
+                {
+                    "title": "ns_sec_ref_under_65_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-labour-market/b3a1c9ed-ced7-432c-ae1b-41c7a09687d5/ns_sec_ref_under_65_wide.csv",
+                    "format": "csv",
+                    "size": 173880,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "ns_sec_hrp_ref_person_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-labour-market/a853478f-db71-43a8-b45a-4824011dbe07/ns_sec_hrp_ref_person_wide.csv",
+                    "format": "csv",
+                    "size": 176064,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "ns_sec_hrp_under_65_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-labour-market/9d90884f-dabc-425b-972c-3c312d0efbb6/ns_sec_hrp_under_65_wide.csv",
+                    "format": "csv",
+                    "size": 173494,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "ns_sec_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-labour-market/fcce5db3-3795-45d8-8ae4-478651c15f21/ns_sec_wide.csv",
+                    "format": "csv",
+                    "size": 171039,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "ns_sec_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-labour-market/da055718-e5d0-42ad-9007-928507be2e0d/ns_sec_long.csv",
+                    "format": "csv",
+                    "size": 3387290,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "ns_sec_hrp_under_65_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-labour-market/377f02ac-e8b7-4856-b983-12fb28cec36b/ns_sec_hrp_under_65_long.csv",
+                    "format": "csv",
+                    "size": 3415547,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "ns_sec_ref_under_65_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-labour-market/c2bac765-8386-48d5-b88f-f5123c628062/ns_sec_ref_under_65_long.csv",
+                    "format": "csv",
+                    "size": 3415933,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "ns_sec_hrp_ref_person_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-labour-market/5c016f2b-a3a7-4515-bae9-267dd1116f63/ns_sec_hrp_ref_person_long.csv",
+                    "format": "csv",
+                    "size": 3418117,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "year_last_worked_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-labour-market/4415bca8-ab12-46b0-96ae-23fde978d1d3/year_last_worked_wide.csv",
+                    "format": "csv",
+                    "size": 65420,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "occupation_minor_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-labour-market/e7426b81-1109-4f90-9b34-5120915c7861/occupation_minor_wide.csv",
+                    "format": "csv",
+                    "size": 311303,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "year_last_worked_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-labour-market/d484c520-1cb5-46da-81d9-4eba3883daa3/year_last_worked_long.csv",
+                    "format": "csv",
+                    "size": 596999,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "occupation_minor_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-labour-market/bf122156-149e-46cc-a843-587710be4ccc/occupation_minor_long.csv",
+                    "format": "csv",
+                    "size": 7910672,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "method_travel_work_2001_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-labour-market/59aa4bd9-b7a1-49fa-94f0-ad3dbc8a872a/method_travel_work_2001_wide.csv",
+                    "format": "csv",
+                    "size": 66690,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "method_travel_work_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-labour-market/2de1bff5-bd3c-4590-ad07-4a0cd5bf28c2/method_travel_work_wide.csv",
+                    "format": "csv",
+                    "size": 66781,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "method_travel_work_2001_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-labour-market/ee663888-0847-421c-ae1f-c1da606d6a9c/method_travel_work_2001_long.csv",
+                    "format": "csv",
+                    "size": 648197,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "method_travel_work_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-labour-market/e8c42bd0-7448-41d5-9587-e73de2313abd/method_travel_work_long.csv",
+                    "format": "csv",
+                    "size": 648288,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "industry_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-labour-market/d930d15f-9ca3-4a8e-9b1d-75ef88055100/industry_wide.csv",
+                    "format": "csv",
+                    "size": 97009,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "hours_worked_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-labour-market/9541e684-3408-4a4d-a8a4-cb16adccadc2/hours_worked_wide.csv",
+                    "format": "csv",
+                    "size": 53359,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "hours_worked_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-labour-market/bc9985f1-b2d9-45b8-ab39-41855b6dc0f0/hours_worked_long.csv",
+                    "format": "csv",
+                    "size": 383509,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "industry_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-labour-market/7e1f77e2-170a-4984-b171-1d7b643ed4a6/industry_long.csv",
+                    "format": "csv",
+                    "size": 1852490,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "economic_activity_students_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-labour-market/a2038a52-88fd-4040-82e5-b53248557353/economic_activity_students_wide.csv",
+                    "format": "csv",
+                    "size": 42008,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "economic_activity_students_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-labour-market/282f36ac-3906-4cc0-9253-5917e0f21148/economic_activity_students_long.csv",
+                    "format": "csv",
+                    "size": 304536,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "economic_activity_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-labour-market/b8eae093-05fc-4de7-9143-282abae7e63d/economic_activity_wide.csv",
+                    "format": "csv",
+                    "size": 77854,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "economic_activity_reference_person_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-labour-market/c4b0b2f6-679e-4fee-8d6b-efdd6659b73f/economic_activity_reference_person_wide.csv",
+                    "format": "csv",
+                    "size": 74679,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "economic_activity_reference_person_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-labour-market/2aae4354-b0a7-421a-a7aa-9484a899d6bf/economic_activity_reference_person_long.csv",
+                    "format": "csv",
+                    "size": 1051089,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "economic_activity_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-labour-market/90c6916a-e3f1-4639-95de-bd7acc777fcf/economic_activity_long.csv",
+                    "format": "csv",
+                    "size": 1054264,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "approx_social_grade_usual_16_64_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-labour-market/fda02a12-dd8c-421c-a709-ae1603b7a804/approx_social_grade_usual_16_64_wide.csv",
+                    "format": "csv",
+                    "size": 47988,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "approx_social_grade_hrp_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-labour-market/e4d1192f-446d-4ae7-9de2-f08cbe263bf0/approx_social_grade_hrp_long.csv",
+                    "format": "csv",
+                    "size": 273404,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "approx_social_grade_hrp_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-labour-market/574e7382-7148-47df-afca-c5d29b5abab1/approx_social_grade_hrp_wide.csv",
+                    "format": "csv",
+                    "size": 46503,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "approx_social_grade_usual_16_64_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-labour-market/766554df-5347-4074-87f8-6f0d94a38bd1/approx_social_grade_usual_16_64_long.csv",
+                    "format": "csv",
+                    "size": 400504,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "distance_travel_work_wide.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-labour-market/20c17580-f044-4fa5-89c9-fb87f4c33384/distance_travel_work_wide.csv",
+                    "format": "csv",
+                    "size": 67773,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "distance_travel_work_long.csv",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-labour-market/6fe759de-4572-4bca-809b-68716d938490/distance_travel_work_long.csv",
+                    "format": "csv",
+                    "size": 630268,
+                    "mimetype": "text/csv"
+                },
+                {
+                    "title": "econ_activity_wide.zip",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-labour-market/0a828276-6281-4a7f-b7db-e9338eef6dd5/econ_activity_wide.zip",
+                    "format": "zip",
+                    "size": 190297,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "ind_occ_nssec_wide.zip",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-labour-market/891317ad-ba12-461f-ac33-b5d2eee306d0/ind_occ_nssec_wide.zip",
+                    "format": "zip",
+                    "size": 465805,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "econ_activity_long.zip",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-labour-market/6818d146-afb6-4393-bdb1-e0b166ba63c4/econ_activity_long.zip",
+                    "format": "zip",
+                    "size": 808021,
+                    "mimetype": "application/zip"
+                },
+                {
+                    "title": "ind_occ_nssec_long.zip",
+                    "url": "https://data.london.gov.uk/download/2011-census-new-wards-labour-market/036336f3-b4aa-40a7-bac8-9defd0595dc9/ind_occ_nssec_long.zip",
+                    "format": "zip",
+                    "size": 3232303,
+                    "mimetype": "application/zip"
+                }
+            ],
+            "faiss_score": 0.8096,
+            "faiss_rank": 10,
+            "rerank_score": -11.335437774658203,
+            "rerank_rank": 10
+        }
+    ]
+}

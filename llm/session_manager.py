@@ -12,11 +12,13 @@ def get_user_session(user_id):
     """Retrieves user session, ensuring it is initialized."""
     if user_id not in user_sessions:
         user_sessions[user_id] = {
-            "history": [],   # ✅ Store conversation history
-            "results": [],   # ✅ Store FAISS results
-            "shown_count": 0 # ✅ Track how many datasets have been shown
+            "history": [],
+            "results": [],
+            "shown_count": 0,
+            "has_searched": False  # ✅ Initialize the search flag
         }
     return user_sessions[user_id]
+
 
 def update_user_history(user_id, query):
     """Stores user queries in session history."""
@@ -43,7 +45,7 @@ def store_faiss_results(user_id, results):
 
 
 
-def get_next_faiss_results(user_id, batch_size=5):
+def get_next_faiss_results(user_id, batch_size=3):
     """Retrieves the next batch of FAISS results sequentially, ensuring proper pagination."""
     session = get_user_session(user_id)  # ✅ Ensure session exists
     all_results = session["results"]
@@ -70,3 +72,15 @@ def get_next_faiss_results(user_id, batch_size=5):
 
     return next_batch
 
+def get_last_shown_datasets(user_id, count=1):
+    """Returns the most recently shown `count` datasets from the user's session."""
+    session = get_user_session(user_id)
+    all_results = session.get("results", [])
+    shown_count = session.get("shown_count", 0)
+
+    # ✅ Prevent negative slicing if nothing has been shown yet
+    if shown_count == 0 or not all_results:
+        return []
+
+    start = max(0, shown_count - count)
+    return all_results[start:shown_count]

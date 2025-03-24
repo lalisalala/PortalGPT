@@ -34,7 +34,8 @@ with open(DATASETS_JSON_PATH, "r", encoding="utf-8") as f:
     dataset_metadata = {ds["id"]: ds for ds in json.load(f)}
 
 # ✅ Load embedding model (same as indexing)
-EMBEDDING_MODEL = SentenceTransformer("BAAI/bge-large-en")
+EMBEDDING_MODEL = SentenceTransformer("intfloat/e5-base-v2")
+
 
 # ✅ Create logs directory if it doesn't exist
 LOGS_DIR = "logs"
@@ -101,6 +102,7 @@ def search_faiss(query, k=50):
             "title": dataset_info.get("title", "Unknown Title"),
             "summary": dataset_info.get("summary", "No summary available"),
             "publisher": dataset_info.get("publisher", "Not specified"),
+            "license": dataset_info.get("license", "Unknown"),
             "tags": dataset_info.get("tags", []),
             "geospatial_coverage": dataset_info.get("geospatial_coverage", {"bounding_box": "Unknown", "smallest_geography": "Unknown"}),
             "temporal_coverage": {
@@ -110,6 +112,8 @@ def search_faiss(query, k=50):
             "format": all_formats if all_formats else ["Unknown Format"],
             "landing_page": landing_page,  # ✅ Include landing page
             "download_links": download_links,  # ✅ Include full download links
+            "metadata_created": dataset_info.get("metadata_created", "Unknown"),
+            "metadata_modified": dataset_info.get("metadata_modified", "Unknown"),
             "faiss_score": round(float(d), 4),
             "faiss_rank": faiss_rank  # ✅ Track FAISS ranking
         })
@@ -131,5 +135,5 @@ def search_faiss(query, k=50):
 # ✅ Run test search if executed directly
 if __name__ == "__main__":
     test_query = "I am looking for datasets about homelessness"
-    results = search_faiss(test_query, k=50)
+    results = search_faiss(test_query, k=10)
     print("🔍 Final Compact Results:", json.dumps(results, indent=4, ensure_ascii=False))

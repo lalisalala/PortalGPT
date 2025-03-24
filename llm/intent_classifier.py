@@ -5,7 +5,6 @@ from llm.session_manager import get_user_session  # ✅ No circular import
 INTENTS = [
     "dataset_search",       # 🔹 Includes dataset recommendations
     "dataset_more_results", # 🔹 Retrieve additional FAISS results (pagination)
-    "dataset_filtering",    # 🔹 Refining search results (by date, format, etc.)
     "dataset_metadata",     # 🔹 Fetching dataset details (license, source, etc.)
     "dataset_explanation",  # 🔹 Asking about dataset-related terms (e.g., "What is NO₂?")
     "fallback"              # 🔹 General conversation (e.g., "hi", "How are you?")
@@ -34,21 +33,17 @@ You are a dataset discovery assistant. Your job is to classify user queries into
 - "Are there any other datasets available?"
 - "Give me a few more options."
 
-#### 🎯 **dataset_filtering** → The user wants to refine search results (e.g., by date, format, region).
+#### ℹ️ **dataset_metadata** → The user wants information about a dataset (e.g., format, license, publisher, download link, landing page).
 **Examples:**
-- "Only show me datasets from 2010 to 2020."
-- "I need datasets in CSV format."
-- "Can you filter the results to show only UK data?"
-- "Do you have datasets in PDF format?"
-- "I want only datasets that are free to use."
-
-#### ℹ️ **dataset_metadata** → The user wants information about a dataset (e.g., format, license, publisher).
-**Examples:**
-- "What is the license for this dataset?"
+- "What is the license for these datasets?"
 - "Who published this dataset?"
 - "What formats is this dataset available in?"
-- "When was this dataset last updated?"
+- "When were these datasets last updated?"
 - "Is this dataset free to use?"
+- "Where can I download these datasets?"
+- "Where can I learn more about these datasets"
+- "Where is the documentation?"
+
 
 #### 🤔 **dataset_explanation** → The user is asking about the meaning of a term, abbreviation, or dataset-related concept.
 **Examples:**
@@ -71,36 +66,54 @@ You are a dataset discovery assistant. Your job is to classify user queries into
 1. **Read the user’s message** and classify it into one of these categories.
 2. If the message is a **greeting or general conversation**, classify it as `"fallback"`.
 3. If the user is requesting **more datasets beyond what was already shown**, classify as `"dataset_more_results"`.
-4. If the user is asking to **refine search results**, classify it as `"dataset_filtering"`.
-5. If the message is a **dataset-related question that does not fit `"dataset_search"` or `"dataset_filtering"`**, classify it as `"dataset_metadata"` or `"dataset_explanation"`.
-6. **Respond ONLY with one of these intents:** {', '.join(INTENTS)}.
+4. If the user is asking about details of previously shown datasets (like format, license, publisher), classify it as `"dataset_metadata"`.
+5. If the message is a dataset-related question that involves defining a term or abbreviation (e.g. PM2.5, GDP), classify it as `"dataset_explanation"`.
+6. **Respond ONLY with one of these intents:** dataset_search, dataset_more_results, dataset_metadata, dataset_explanation, fallback
 """
 
 
 def classify_intent(query: str, user_id: str, use_memory: bool = False) -> str:
     """Classify user intent using Mistral via Ollama with session memory."""
-    past_context = get_user_session(user_id)["history"] if use_memory else []
+    session = get_user_session(user_id)  # 🔧 Add this at the top to access session
+    past_context = session["history"] if use_memory else []
 
-    # ✅ Construct the LLM Prompt for Intent Classification
+    history_str = "\n".join(past_context) if past_context else "No prior context available."
+
     prompt = f"""
-    {SYSTEM_PROMPT}
+{SYSTEM_PROMPT}
 
-    **Conversation History:**
-    {"\n".join(past_context) if past_context else "No prior context available."}
+**Conversation History:**
+{history_str}
 
-    **Latest User Query:**  
-    {query}
+**Latest User Query:**  
+{query}
 
-    Respond ONLY with one of these intents: {', '.join(INTENTS)}.
-    """
+Respond ONLY with one of these intents: {', '.join(INTENTS)}.
+"""
 
     try:
-        result = subprocess.run(["ollama", "run", "mistral", prompt],
-                                capture_output=True, text=True, timeout=30)
+        result = subprocess.run(
+            ["ollama", "run", "mistral", prompt],
+            capture_output=True,
+            text=True,
+            timeout=30
+        )
+
         if result.returncode == 0:
             response = result.stdout.strip().lower()
+
+            # ✅ Safety: make sure it's a known intent
             if response in INTENTS:
-                return response  # ✅ Ensure only a valid intent is returned
-        return "dataset_search"  # Default fallback intent
-    except Exception:
+
+                # 🔧 [NEW] Check if FAISS has already run and override if needed
+                if response == "dataset_search" and session.get("has_searched", False):
+                    logging.info("🔁 FAISS already used — treating query as dataset_metadata instead.")
+                    return "dataset_metadata"
+
+                return response
+
+        return "dataset_search"  # Default fallback
+
+    except Exception as e:
+        logging.error(f"⚠️ Exception during intent classification: {e}")
         return "dataset_search"

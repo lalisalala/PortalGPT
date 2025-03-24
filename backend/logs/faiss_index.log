@@ -1,0 +1,14 @@
+2025-03-24 18:51:08,934 - INFO - Use pytorch device_name: cuda
+2025-03-24 18:51:08,934 - INFO - Load pretrained SentenceTransformer: BAAI/bge-m3
+2025-03-24 18:54:50,903 - INFO - Use pytorch device_name: cuda
+2025-03-24 18:54:50,903 - INFO - Load pretrained SentenceTransformer: BAAI/bge-m3
+2025-03-24 18:56:10,494 - INFO - Use pytorch device_name: cuda
+2025-03-24 18:56:10,494 - INFO - Load pretrained SentenceTransformer: BAAI/bge-m3
+2025-03-24 19:01:01,195 - INFO - Use pytorch device_name: cuda
+2025-03-24 19:01:01,195 - INFO - Load pretrained SentenceTransformer: intfloat/e5-base-v2
+2025-03-24 19:01:01,370 - WARNING - No sentence-transformers model found with name intfloat/e5-base-v2. Creating a new one with mean pooling.
+2025-03-24 19:03:32,419 - INFO - Use pytorch device_name: cuda
+2025-03-24 19:03:32,419 - INFO - Load pretrained SentenceTransformer: intfloat/e5-base-v2
+2025-03-24 19:03:52,497 - INFO - 🔍 Loading FAISS-ready dataset metadata...
+2025-03-24 19:04:01,704 - INFO - ✅ FAISS index saved to backend/data/dataset_index.faiss
+2025-03-24 19:04:01,704 - INFO - ✅ Dataset mappings saved to backend/data/dataset_mappings.json

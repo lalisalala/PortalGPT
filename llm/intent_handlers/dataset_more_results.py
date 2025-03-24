@@ -7,7 +7,7 @@ def handle_dataset_more_results(user_id):
     """Fetches additional datasets beyond the initially retrieved results."""
     
     # ✅ Get the next batch of FAISS results
-    next_datasets = get_next_faiss_results(user_id, batch_size=5)
+    next_datasets = get_next_faiss_results(user_id, batch_size=3)
 
     if not next_datasets:
         return "⚠️ No more datasets available. Try refining your search."
