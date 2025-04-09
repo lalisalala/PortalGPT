@@ -1,0 +1,7 @@
+eval_type,avg_relevance,correctness,f1,precision,recall
+described dataset,3.083,,0.528,0.622,0.538
+source request,,,0.0,0.0,0.0
+implied dataset,2.645,,0.538,0.583,0.583
+dataset request,3.091,,0.547,0.722,0.457
+additional dataset information,,0.144,,,
+clarification,,,,,

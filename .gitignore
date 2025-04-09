@@ -1,0 +1,6 @@
+
+# Ignore logs folder
+/logs/
+/backend/logs
+/backend/data/
+# If there are any specific log files to ignore

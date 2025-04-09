@@ -45,7 +45,7 @@ def store_faiss_results(user_id, results):
 
 
 
-def get_next_faiss_results(user_id, batch_size=3):
+def get_next_faiss_results(user_id, batch_size=5):
     """Retrieves the next batch of FAISS results sequentially, ensuring proper pagination."""
     session = get_user_session(user_id)  # ✅ Ensure session exists
     all_results = session["results"]

@@ -73,13 +73,13 @@ def format_all_metadata(datasets, fields=["all"]):
 def handle_dataset_metadata(query, user_id):
     """Main handler for answering dataset metadata questions."""
     session = get_user_session(user_id)
-    datasets = session.get("results", [])[:session.get("shown_count", 3)]
+    datasets = session.get("results", [])[:session.get("shown_count", 5)]
 
     if not datasets:
         logging.warning(f"⚠️ No shown datasets found for user {user_id}. Using fallback FAISS search.")
-        datasets = search_faiss(query, k=3)
+        datasets = search_faiss(query, k=5)
         session["results"] = datasets
-        session["shown_count"] = 3
+        session["shown_count"] = 5
 
     fields = extract_relevant_fields(query)
     dataset_info = format_all_metadata(datasets, fields=fields)

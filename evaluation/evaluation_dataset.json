@@ -1,0 +1,3337 @@
+[
+    {
+        "conversation_id": "Academic Conferences#1",
+        "turns": [
+            {
+                "user": "Can you find open datasets on AI or Machine Learning conferences?",
+                "bot": null,
+                "eval": {
+                    "type": "Described Dataset",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Do these datasets include information on past and upcoming conferences?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Where is this dataset hosted? Can you provide the link?",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "What is the licensing for this dataset? Can I use it commercially?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Academic Conference#2",
+        "turns": [
+            {
+                "user": "Are there datasets available on government-funded AI research conferences in the UK?",
+                "bot": null,
+                "eval": {
+                    "type": "Described Dataset",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Where can I download this dataset?",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "What format is this dataset available in?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Property Prices #1",
+        "turns": [
+            {
+                "user": "Can you find me a dataset with the average property prices in London?",
+                "bot": null,
+                "eval": {
+                    "type": "Described Dataset",
+                    "ground_truth_ld": [
+                        {
+                            "dataset_title": "Average House Prices by Borough, Ward, MSOA & LSOA",
+                            "relevance": 4
+                        },
+                        {
+                            "dataset_title": "Ratio of House Prices to Earnings, Borough",
+                            "relevance": 3
+                        },
+                        {
+                            "dataset_title": "UK House Price Index",
+                            "relevance": 3
+                        },
+                        {
+                            "dataset_title": "House Price per Square Metre in England and Wales",
+                            "relevance": 4
+                        },
+                        {
+                            "dataset_title": "Monthly Mix-Adjusted Average House Prices, London",
+                            "relevance": 4
+                        },
+                        {
+                            "dataset_title": "Focus on London - Housing",
+                            "relevance": 4
+                        }
+                    ]
+                }
+            },
+            {
+                "user": "Where is this dataset hosted? Can you provide a download link?",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": [
+                        "https://data.london.gov.uk/dataset/average-house-prices",
+                        "https://data.london.gov.uk/dataset/ratio-house-prices-earnings-borough",
+                        "https://data.london.gov.uk/dataset/uk-house-price-index",
+                        "https://data.london.gov.uk/dataset/house-price-per-square-metre-in-england-and-wales",
+                        "https://data.london.gov.uk/dataset/monthly-mix-adjusted-average-house-prices-london"
+                    ]
+                }
+            },
+            {
+                "user": "Does this dataset include additional details such as property types (flats, houses, etc.)?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Property Prices #2",
+        "turns": [
+            {
+                "user": "How have property prices in London changed over the past 20 years?",
+                "bot": null,
+                "eval": {
+                    "type": "Implied Dataset",
+                    "ground_truth_ld": [
+                        {
+                            "dataset_title": "Average House Prices by Borough, Ward, MSOA & LSOA",
+                            "relevance": 4
+                        },
+                        {
+                            "dataset_title": "Ratio of House Prices to Earnings, Borough",
+                            "relevance": 3
+                        },
+                        {
+                            "dataset_title": "UK House Price Index",
+                            "relevance": 3
+                        },
+                        {
+                            "dataset_title": "House Price per Square Metre in England and Wales",
+                            "relevance": 4
+                        },
+                        {
+                            "dataset_title": "Monthly Mix-Adjusted Average House Prices, London",
+                            "relevance": 4
+                        }
+                        ,
+                        {
+                            "dataset_title": "The Economics of London's Housing Market",
+                            "relevance": 4
+                        }
+                    ]
+                }
+            },
+            {
+                "user": "Can you provide direct links to download these datasets?",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": [
+                        "https://data.london.gov.uk/dataset/average-house-prices",
+                        "https://data.london.gov.uk/dataset/ratio-house-prices-earnings-borough",
+                        "https://data.london.gov.uk/dataset/uk-house-price-index",
+                        "https://data.london.gov.uk/dataset/house-price-per-square-metre-in-england-and-wales",
+                        "https://data.london.gov.uk/dataset/monthly-mix-adjusted-average-house-prices-london"
+                    ]
+                }
+            },
+            {
+                "user": "Are these datasets updated regularly, and do they include projections for future trends?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Birds#1",
+        "turns": [
+            {
+                "user": "Do you have data from eBird from before 2021?",
+                "bot": null,
+                "eval": {
+                    "type": "Dataset Request",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Can you provide a link to the eBird dataset for Europe?",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Does this dataset include only citizen science data, or does it also contain government surveys?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Birds#2",
+        "turns": [
+            {
+                "user": "What are the most common bird species in the UK?",
+                "bot": null,
+                "eval": {
+                    "type": "Implied Dataset",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Can you provide links to open data portals with bird observation records?",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "What licensing does this dataset have?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Postcode Address Files #1",
+        "turns": [
+            {
+                "user": "Can you provide me with the UK Ordnance Survey Open Names dataset containing all street names and postal codes?",
+                "bot": null,
+                "eval": {
+                    "type": "Dataset Request",
+                    "ground_truth_ld": [
+                        {
+                            "dataset_title": "Ordnance Survey Open Data",
+                            "relevance": 4
+                        },
+                        {
+                            "dataset_title": "Ordnance Survey Code-Point Open",
+                            "relevance": 4
+                        },
+                        {
+                            "dataset_title": "London Boroughs",
+                            "relevance": 3
+                        },
+                        {
+                            "dataset_title": "Postcode Directory for London",
+                            "relevance": 3
+                        }
+                    ]
+                }
+            },
+            {
+                "user": "Can you provide a direct link?",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": [
+                        "https://data.london.gov.uk/dataset/ordnance-survey-opendata",
+                        "https://data.london.gov.uk/dataset/ordnance-survey-code-point"
+                    ]
+                }
+            },
+            {
+                "user": "Does this dataset include historical changes in street names or only the latest data?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Under what license is this dataset published?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": [
+                        "Dataset 1: UK Open Government License",
+                        "Dataset 2: UK Open Government License"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Postcode Address Files #2",
+        "turns": [
+            {
+                "user": "Are there publicly available datasets listing all street names and corresponding postal codes in the UK?",
+                "bot": null,
+                "eval": {
+                    "type": "Described Dataset",
+                    "ground_truth_ld": [
+                        {
+                            "dataset_title": "Ordnance Survey Open Data",
+                            "relevance": 4
+                        },
+                        {
+                            "dataset_title": "Ordnance Survey Code-Point Open",
+                            "relevance": 4
+                        },
+                        {
+                            "dataset_title": "London Boroughs",
+                            "relevance": 3
+                        },
+                        {
+                            "dataset_title": "Postcode Directory for London",
+                            "relevance": 3
+                        }
+                    ]
+                }
+            },
+            {
+                "user": "Where can I download an official UK government dataset for postal codes?",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": [
+                        "https://data.london.gov.uk/dataset/ordnance-survey-opendata",
+                        "https://data.london.gov.uk/dataset/ordnance-survey-code-point"
+                    ]
+                }
+            },
+            {
+                "user": "What data formats are available?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": [
+                        "Dataset 1: Link",
+                        "Dataset 2: CSV",
+                        "ZIP"
+                    ]
+                }
+            },
+            {
+                "user": "Does this dataset also include alternative names for streets (e.g., historical names)?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Laws #1",
+        "turns": [
+            {
+                "user": "Can you provide me with a dataset containing all UK Supreme Court rulings on tenant repair obligations?",
+                "bot": null,
+                "eval": {
+                    "type": "Dataset Request",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "This dataset covers general landlord-tenant cases but does not focus on cosmetic repairs. Can you refine your search?",
+                "bot": null,
+                "eval": {
+                    "type": "Clarification",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Can you provide a link to the original case law database where this data is stored?",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Under what conditions is this dataset available?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Laws #2",
+        "turns": [
+            {
+                "user": "Are there any publicly available datasets listing court rulings on cosmetic repair clauses in tenancy agreements?",
+                "bot": null,
+                "eval": {
+                    "type": "Described Dataset",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "This dataset only covers cases until 2015. I need the latest cases, ideally from 2020 onward. Can you find an updated version?",
+                "bot": null,
+                "eval": {
+                    "type": "Clarification",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Where can I find a government open-access legal database with this information?",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Does this dataset also include case summaries or only the full rulings?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Education #1",
+        "turns": [
+            {
+                "user": "Can you provide the Higher Education Statistics Agency (HESA) dataset on university enrollment by gender in the UK from 1946 to 2021?",
+                "bot": null,
+                "eval": {
+                    "type": "Dataset Request",
+                    "ground_truth_ld": [
+                        {
+                            "dataset_title": "HESA Student Records",
+                            "relevance": 3
+                        },
+                        {
+                            "dataset_title": "Graduate out comes in London",
+                            "relevance": 3
+                        },
+                        {
+                            "dataset_title": "Students by higher education provider",
+                            "relevance": 4
+                        },
+                        {
+                            "dataset_title": "Further Education and Higher Education destinations of KS5 students, Borough and Institution",
+                            "relevance": 4
+                        }
+                    ]
+                }
+            },
+            {
+                "user": "This dataset only covers data from 2000 onward. I need historical records from 1946. Can you refine your search?",
+                "bot": null,
+                "eval": {
+                    "type": "Clarification",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Can you provide a link to where I can download the full dataset?",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": [
+                        "https://data.london.gov.uk/dataset/hesa-student-records",
+                        "https://data.london.gov.uk/dataset/graduate-outcomes-in-london"
+                    ]
+                }
+            },
+            {
+                "user": "What licensing restrictions apply to this dataset?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": [
+                        "Dataset 1: Public Domain",
+                        "Dataset 2: UK Open Government License"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Education #2",
+        "turns": [
+            {
+                "user": "Are there datasets tracking the gender ratio of students in universities over time?",
+                "bot": null,
+                "eval": {
+                    "type": "Described Dataset",
+                    "ground_truth_ld": [
+                        {
+                            "dataset_title": "HESA Student Records",
+                            "relevance": 3
+                        },
+                        {
+                            "dataset_title": "Graduate out comes in London",
+                            "relevance": 3
+                        },
+                        {
+                            "dataset_title": "Students by higher education provider",
+                            "relevance": 4
+                        },
+                        {
+                            "dataset_title": "Further Education and Higher Education destinations of KS5 students, Borough and Institution",
+                            "relevance": 4
+                        }
+                    ]
+                }
+            },
+            {
+                "user": "What sources provide this data?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Can you provide direct links to datasets that track student gender ratios at UK universities?",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Do these datasets also include dropout rates and retention statistics?",
+                "bot": null,
+                "eval": {
+                    "type": "additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Homelessness #1",
+        "turns": [
+            {
+                "user": "Can you provide me with a dataset of the number of homeless people in the UK between 2010 and 2023?",
+                "bot": null,
+                "eval": {
+                    "type": "Dataset Request",
+                    "ground_truth_ld": [
+                        {
+                            "dataset_title": "Public Health Outcomes Framework Indicators",
+                            "relevance": 2
+                        },
+                        {
+                            "dataset_title": "Rough Sleeping in London",
+                            "relevance": 4
+                        },
+                        {
+                            "dataset_title": "Housing in London - The evidence base for the Mayor's Housing Strategy",
+                            "relevance": 2
+                        },
+                        {
+                            "dataset_title": "Homelessness Provision, Borough",
+                            "relevance": 4
+                        },
+                        {
+                            "dataset_title": "State of London",
+                            "relevance": 4
+                        }
+                    ]
+                }
+            },
+            {
+                "user": "This dataset is missing data for the years 2020–2023. Can you refine your search to find a more up-to-date dataset?",
+                "bot": null,
+                "eval": {
+                    "type": "Clarification",
+                    "ground_truth_ld": [
+                        {
+                            "dataset_title": "Housing in London - The evidence base for the Mayor's Housing Strategy",
+                            "relevance": 2
+                        },
+                        {
+                            "dataset_title": "Rough Sleeping in London",
+                            "relevance": 4
+                        }
+                    ]
+                }
+            },
+            {
+                "user": "Can you provide a link to the original dataset?",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": [
+                        "https://data.london.gov.uk/dataset/housing-london",
+                        "https://data.london.gov.uk/dataset/chain-reports"
+                    ]
+                }
+            },
+            {
+                "user": "What is the definition of ‘homeless’ used in this dataset? Could differences in definitions across countries skew the comparison?",
+                "bot": null,
+                "eval": {
+                    "type": "additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Homelessness #2",
+        "turns": [
+            {
+                "user": "Are there any publicly available datasets tracking homelessness trends in UK cities over time?",
+                "bot": null,
+                "eval": {
+                    "type": "Described Dataset",
+                    "ground_truth_ld": [
+                        {
+                            "dataset_title": "Public Health Outcomes Framework Indicators",
+                            "relevance": 2
+                        },
+                        {
+                            "dataset_title": "Rough Sleeping in London",
+                            "relevance": 4
+                        },
+                        {
+                            "dataset_title": "Housing in London - The evidence base for the Mayor's Housing Strategy",
+                            "relevance": 2
+                        },
+                        {
+                            "dataset_title": "Homelessness Provision, Borough",
+                            "relevance": 4
+                        },
+                        {
+                            "dataset_title": "State of London",
+                            "relevance": 4
+                        }
+                    ]
+                }
+            },
+            {
+                "user": "Can you compare the homelessness trends between London, Manchester, and Birmingham?",
+                "bot": null,
+                "eval": {
+                    "type": "additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "This dataset only includes data from London. I need a dataset that includes multiple cities. Can you refine your search?",
+                "bot": null,
+                "eval": {
+                    "type": "Clarification",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Where can I find government reports or open data portals with nationwide homelessness statistics?",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "What is the definition of ‘homeless’ used in this dataset? Does it include rough sleepers, temporary housing, and hidden homelessness?",
+                "bot": null,
+                "eval": {
+                    "type": "additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Physics #1",
+        "turns": [
+            {
+                "user": "Are there any publicly available datasets tracking plasma physics experiments in UK fusion research?",
+                "bot": null,
+                "eval": {
+                    "type": "Described Dataset",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Which datasets contain experimental data on UK-funded fusion research projects?",
+                "bot": null,
+                "eval": {
+                    "type": "additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "This dataset contains theoretical models but lacks experimental measurements. Can you refine your search to find empirical datasets?",
+                "bot": null,
+                "eval": {
+                    "type": "Clarification",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Can you provide a direct link to the latest experimental data?",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": []
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Physics #2",
+        "turns": [
+            {
+                "user": "How has fusion energy research in the UK progressed over the last decade?",
+                "bot": null,
+                "eval": {
+                    "type": "Implied Dataset",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Do these datasets include experimental results or only funding records?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Where does this dataset come from? Which UK institutions collected this data?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "What is the downloadable link to this dataset?",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": []
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Food #1",
+        "turns": [
+            {
+                "user": "Can you provide me with the Food Foundation dataset on how much of their food budget people in the UK spend on foods high in salt, sugar, or fat?",
+                "bot": null,
+                "eval": {
+                    "type": "Dataset Request",
+                    "ground_truth_ld": [
+                        {
+                            "dataset_title": "London Consumer Expenditure Estimates 2011-2036",
+                            "relevance": 2
+                        },                    
+                        {
+                            "dataset_title":  "Food security in London: Headline findings from The Survey of Londoners 2018-19",
+                            "relevance": 2
+                        },                    
+                        {
+                            "dataset_title":  "London Food Strategy Consultation 2018",
+                            "relevance": 3
+                        }
+                    ]
+                }
+            },
+            {
+                "user": "This dataset is outdated. I need data from 2022 or 2023. Can you refine your search to find a more up-to-date version?",
+                "bot": null,
+                "eval": {
+                    "type": "Clarification",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Where does this dataset come from? Is it based on government surveys or supermarket sales data?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Can you provide a direct link to this dataset?",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Does this dataset break down spending by household income groups?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "How does the Food Foundation define ‘poorest households’?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional dataset information",
+                    "ground_truth_ld": []
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Food #2",
+        "turns": [
+            {
+                "user": "Are there publicly available datasets that track how much UK households spend on foods high in salt, sugar, or fat?",
+                "bot": null,
+                "eval": {
+                    "type": "Described Dataset",
+                    "ground_truth_ld": [
+                        {
+                            "dataset_title": "London Consumer Expenditure Estimates 2011-2036",
+                            "relevance": 2
+                        },                    
+                        {
+                            "dataset_title":  "Food security in London: Headline findings from The Survey of Londoners 2018-19",
+                            "relevance": 2
+                        },                    
+                        {
+                            "dataset_title":  "London Food Strategy Consultation 2018",
+                            "relevance": 3
+                        }
+                    ]
+                }
+            },
+            {
+                "user": "Is there any recent data (2022 or 2023) on how much adults spend on these foods, either overall or as a percentage of their budget?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": [
+                        "Dataset 2: London Consumer Expenditure Estimates 2011-2036 (1)"
+                    ]
+                }
+            },
+            {
+                "user": "Are there any datasets that explain why people, particularly those in lower-income households, choose foods high in salt, sugar, and fat?",
+                "bot": null,
+                "eval": {
+                    "type": "Clarification",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Can you provide datasets or surveys that ask people about their reasons for purchasing junk foods?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Can you give me the link to the 2022 Food Foundation report and the two surveys you cited above?",
+                "bot": null,
+                "eval": {
+                    "type": "Link Request",
+                    "ground_truth_ld": []
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Tree Canopy Cover #1",
+        "turns": [
+            {
+                "user": "Is there a publicly available dataset for tree canopy cover in London?",
+                "bot": null,
+                "eval": {
+                    "type": "Described Dataset",
+                    "ground_truth_ld": [
+                        {
+                            "dataset_title": "Tree Canopy Cover 2024",
+                            "relevance": 4
+                        },
+                        {
+                            "dataset_title": "Tree Canopy Cover Prioritisation Tool",
+                            "relevance": 3
+                        },
+                        {
+                            "dataset_title": "Curio Canopy - London Tree Canopy Cover",
+                            "relevance": 4
+                        },
+                        {
+                            "dataset_title": "Green Cover 2024",
+                            "relevance": 4
+                        },
+                        {
+                            "dataset_title": "Local Authority Maintained Trees",
+                            "relevance": 4
+                        },
+                        {
+                            "dataset_title": "London Green and Blue Cover",
+                            "relevance": 4
+                        }
+                    ]
+                }
+            },
+            {
+                "user": "What license does this dataset have?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional dataset information",
+                    "ground_truth_ld": [
+                        "Dataset 1: Not Open",
+                        "Dataset 2: UK Open Government Licence",
+                        "Dataset 3: Attribution Share-Alike License Creative Commons",
+                        "Dataset 4: Not Open"
+                    ]
+                }
+            },
+            {
+                "user": "Do you have a source for this additional information? ",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": [
+                        "https://data.london.gov.uk/dataset/canopy-cover-2024",
+                        "https://data.london.gov.uk/dataset/tree-canopy-cover-prioritisation-tool",
+                        "https://data.london.gov.uk/dataset/curio-canopy",
+                        "https://data.london.gov.uk/dataset/green-cover-2024"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Tree Canopy Cover #2",
+        "turns": [
+            {
+                "user": "Can you provide me with the Greater London Authority (GLA) dataset on tree canopy cover in London?",
+                "bot": null,
+                "eval": {
+                    "type": "Dataset Request",
+                    "ground_truth_ld": [
+                        {
+                            "dataset_title": "Tree Canopy Cover 2024",
+                            "relevance": 4
+                        },
+                        {
+                            "dataset_title": "Tree Canopy Cover Prioritisation Tool",
+                            "relevance": 3
+                        },
+                        {
+                            "dataset_title": "Curio Canopy - London Tree Canopy Cover",
+                            "relevance": 4
+                        },
+                        {
+                            "dataset_title": "Green Cover 2024",
+                            "relevance": 4
+                        },
+                        {
+                            "dataset_title": "Local Authority Maintained Trees",
+                            "relevance": 4
+                        },
+                        {
+                            "dataset_title": "London Green and Blue Cover",
+                            "relevance": 4
+                        }
+                    ]
+                }
+            },
+            {
+                "user": "This dataset is outdated. Is there a more recent dataset, ideally from 2022 or 2023?",
+                "bot": null,
+                "eval": {
+                    "type": "Clarification",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Can I compare this dataset to other cities?",
+                "bot": null,
+                "eval": {
+                    "type": "Further Context/Advice Request",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Who maintains this dataset? Is it collected by satellites, aerial surveys, or local councils?",
+                "bot": null,
+                "eval": {
+                    "type": "Further Context/Advice Request",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Can you provide a link to the dataset?",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": [
+                        "https://data.london.gov.uk/dataset/canopy-cover-2024",
+                        "https://data.london.gov.uk/dataset/tree-canopy-cover-prioritisation-tool",
+                        "https://data.london.gov.uk/dataset/green-cover-2024"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Sport and Activity #1",
+        "turns": [
+            {
+                "user": "Are there any publicly available datasets on public information needs about sport and activity opportunities in the UK?",
+                "bot": null,
+                "eval": {
+                    "type": "Described Dataset",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Do any datasets analyze how better information would support sport and activity uptake?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional dataset information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "This dataset covers participation trends, but does it include data on information availability as a barrier?",
+                "bot": null,
+                "eval": {
+                    "type": "Clarification",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Are there datasets specifically showing what types of information about sport and activity opportunities people need?",
+                "bot": null,
+                "eval": {
+                    "type": "ADditional dataset information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Does this dataset contain regional breakdowns, such as sport participation rates by UK local authorities?",
+                "bot": null,
+                "eval": {
+                    "type": "Further Context/Advice Request",
+                    "ground_truth_ld": []
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Sport and Activity #2",
+        "turns": [
+            {
+                "user": "How does information availability impact participation in sports and physical activity?",
+                "bot": null,
+                "eval": {
+                    "type": "Implied Dataset",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Are there datasets that specifically focus on information needs among disabled people trying to access sports opportunities?",
+                "bot": null,
+                "eval": {
+                    "type": "Clarification",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Does any dataset provide information about barriers to sport and physical activity for disabled people?",
+                "bot": null,
+                "eval": {
+                    "type": "Clarification",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "What organizations collect and publish data on sport participation among disabled groups in the UK?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional dataset information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Where can I find official documentation explaining how this dataset is structured?",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": []
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Census #1",
+        "turns": [
+            {
+                "user": "Can you access the most recent London census data?",
+                "bot": null,
+                "eval": {
+                    "type": "Dataset Request",
+                    "ground_truth_ld": [
+                        {
+                            "dataset_title": "Historical Census Tables",
+                            "relevance": 4
+                        },
+                        {
+                            "dataset_title": "London's Population",
+                            "relevance": 4
+                        },
+                        {
+                            "dataset_title": "GLA Population statistics User Group presentations",
+                            "relevance": 3
+                        },
+                        {
+                            "dataset_title": "Modelled population backseries",
+                            "relevance": 3
+                        },
+                        {
+                            "dataset_title": "Historical Census Population",
+                            "relevance": 4
+                        }
+                    ]
+                }
+            },
+            {
+                "user": "Can you provide me with the summary of the census data for London?",
+                "bot": null,
+                "eval": {
+                    "type": "Clarification",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Where can I download the full dataset for London?",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": [
+                        "https://data.london.gov.uk/dataset/historical-census-tables",
+                        "https://data.london.gov.uk/dataset/londons-population",
+                        "https://data.london.gov.uk/dataset/gla-population-statistics-user-group-presentations",
+                        "https://data.london.gov.uk/dataset/modelled-population-backseries",
+                        "https://data.london.gov.uk/dataset/historic-census-population"
+                    ]
+                }
+            },
+            {
+                "user": "Can I get this data in CSV format?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": [
+                        "Dataset 1: No",
+                        "xls",
+                        "Dataset 2: no",
+                        "html",
+                        "Dataset 3: no",
+                        "ZIP file",
+                        "Dataset 4: Yes",
+                        "csv",
+                        "Dataset 5: No",
+                        "xls"
+                    ]
+                }
+            },
+            {
+                "user": "How frequently is this dataset updated? Is it the 2021 census or a more recent update?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": [
+                        "Dataset 1: 2021 dataset",
+                        "Dataset 2: 2023",
+                        "yearly estimate",
+                        "Dataset 3: 2024",
+                        "half yearly",
+                        "Dataset 4: 2023",
+                        "annual",
+                        "Dataset 5: 2021",
+                        "annual"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Census #2",
+        "turns": [
+            {
+                "user": "Can you return the most recent census data?",
+                "bot": null,
+                "eval": {
+                    "type": "Described Dataset",
+                    "ground_truth_ld": [
+                        {
+                            "dataset_title": "Historical Census Tables",
+                            "relevance": 2
+                        },
+                        {
+                            "dataset_title": "London's Population",
+                            "relevance": 2
+                        },
+                        {
+                            "dataset_title": "GLA Population statistics User Group presentations",
+                            "relevance": 2
+                        },
+                        {
+                            "dataset_title": "Modelled population backseries",
+                            "relevance": 4
+                        },
+                        {
+                            "dataset_title": "Historical Census Population",
+                            "relevance": 2
+                        }
+                    ]
+                }
+            },
+            {
+                "user": "Can you provide me with the direct link to download those CSV files?",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": [
+                        "https://data.london.gov.uk/dataset/modelled-population-backseries"
+                    ]
+                }
+            },
+            {
+                "user": "Why did you include the links to PDF files even though I only asked for CSVs?",
+                "bot": null,
+                "eval": {
+                    "type": "Clarification",
+                    "ground_truth_ld": []
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Travel #1",
+        "turns": [
+            {
+                "user": "Can you provide me with the UK Department for Transport dataset on active travel infrastructure?",
+                "bot": null,
+                "eval": {
+                    "type": "Dataset Request",
+                    "ground_truth_ld": [
+                        {
+                            "dataset_title": "Travel to Work by Bicycle, Ward",
+                            "relevance": 2
+                        },
+                        {
+                            "dataset_title": "London Business Survey 2014 - London as a place to do business",
+                            "relevance": 1
+                        },
+                        {
+                            "dataset_title": "Travel Patterns and Trends, London",
+                            "relevance": 2
+                        },
+                        {
+                            "dataset_title": "Cycling Infrastructure Database",
+                            "relevance": 3
+                        },
+                        {
+                            "dataset_title": "TfL Rolling Origin and Destination Survey",
+                            "relevance": 4
+                        }
+                    ]
+                }
+            },
+            {
+                "user": "What formats is this dataset available in?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "How frequently is this dataset updated?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Can you provide a direct link to the dataset publisher’s page?",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": []
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Travel #2",
+        "turns": [
+            {
+                "user": "How does the UK government track active travel infrastructure?",
+                "bot": null,
+                "eval": {
+                    "type": "Implied Dataset",
+                    "ground_truth_ld": [
+                        {
+                            "dataset_title": "Travel to Work by Bicycle, Ward",
+                            "relevance": 2
+                        },
+                        {
+                            "dataset_title": "London Business Survey 2014 - London as a place to do business",
+                            "relevance": 1
+                        },
+                        {
+                            "dataset_title": "Travel Patterns and Trends, London",
+                            "relevance": 2
+                        },
+                        {
+                            "dataset_title": "Cycling Infrastructure Database",
+                            "relevance": 3
+                        },
+                        {
+                            "dataset_title": "TfL Rolling Origin and Destination Survey",
+                            "relevance": 4
+                        },
+                        {
+                            "dataset_title": "TfL Live Traffic Disruptions",
+                            "relevance": 4
+                        }
+                    ]
+                }
+            },
+            {
+                "user": "Where can I find a report summarizing key trends from this dataset? (",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "What organizations contribute to updating this dataset?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Legal Aid #1",
+        "turns": [
+            {
+                "user": "Can you provide me with the UK Ministry of Justice dataset on civil legal aid statistics?",
+                "bot": null,
+                "eval": {
+                    "type": "Dataset Request",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Does this dataset specify the number of legal help and mediation cases?",
+                "bot": null,
+                "eval": {
+                    "type": "Clarification",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Where can I download this dataset?",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "What is the source of this dataset? ",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "What licensing restrictions apply to this dataset? Can it be used for policy research?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Legal Aid #2",
+        "turns": [
+            {
+                "user": "Are there publicly available datasets tracking legal aid cases in the UK?",
+                "bot": null,
+                "eval": {
+                    "type": "Described Dataset",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Can you provide a report that analyzes legal aid trends in the UK?",
+                "bot": null,
+                "eval": {
+                    "type": "Clarification",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "What datasets track changes in legal aid eligibility over time?",
+                "bot": null,
+                "eval": {
+                    "type": "Clarification",
+                    "ground_truth_ld": []
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Prisons #1",
+        "turns": [
+            {
+                "user": "Are there publicly available datasets tracking prison capacity in the UK?",
+                "bot": null,
+                "eval": {
+                    "type": "Described Dataset",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Can you find government reports detailing prison capacity changes over time?",
+                "bot": null,
+                "eval": {
+                    "type": "Clarification",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Can you provide an official UK government link for this data?",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": []
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Prisons #2",
+        "turns": [
+            {
+                "user": "How is the prison capacity in the UK?",
+                "bot": null,
+                "eval": {
+                    "type": "Implied Dataset",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Does this dataset differentiate between available spaces and total prison capacity?",
+                "bot": null,
+                "eval": {
+                    "type": "Clarification",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "What is the source of the data in this dataset? Does it come from the UK Ministry of Justice or another entity?",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": []
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Carers #1",
+        "turns": [
+            {
+                "user": "Can you find me a dataset on carer wellbeing in the UK?",
+                "bot": null,
+                "eval": {
+                    "type": "Dataset Request",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Does this dataset include national or regional breakdowns for carer wellbeing scores?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Where can I find the official metadata and documentation for this dataset?",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "What data format is this available in?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Who maintains this dataset, and how frequently is it updated?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Carers #2",
+        "turns": [
+            {
+                "user": "What is the national average wellbeing score of unpaid carers in the UK?",
+                "bot": null,
+                "eval": {
+                    "type": "Implied Dataset",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "How does this dataset define wellbeing? Does it use self-reported survey scores or another metric?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "How frequently is this dataset updated?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Who collects and publishes this data?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Universal Credit/Medical #1",
+        "turns": [
+            {
+                "user": "Are there publicly available datasets on antibiotic prescriptions in England?",
+                "bot": null,
+                "eval": {
+                    "type": "Described Dataset",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Which of the datasets you found specifically track NHS prescriptions?",
+                "bot": null,
+                "eval": {
+                    "type": "Clarification",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Is this dataset available in a downloadable CSV format?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Can you provide a direct link to the dataset publisher’s page?",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": []
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Universal Credit/Medical #2",
+        "turns": [
+            {
+                "user": "Where can I find data on family grocery purchase patterns in the UK?",
+                "bot": null,
+                "eval": {
+                    "type": "Implied Dataset",
+                    "ground_truth_ld": [
+                        {
+                            "dataset_title": "Focus on London - Income and Spending",
+                            "relevance": 2
+                        },
+                        {
+                            "dataset_title": "Families with savings under £1,500",
+                            "relevance": 1
+                        }
+                    ]
+                }
+            },
+            {
+                "user": "Does this dataset include spending on high-fat and high-sugar foods for children aged 3 to 5 years? (",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Is this dataset freely available, or do I need to purchase access?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": [
+                        "Freely available"
+                    ]
+                }
+            },
+            {
+                "user": "How is dietary data collected in this dataset?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Rainfall #1",
+        "turns": [
+            {
+                "user": "Can you find me the London rainfall dataset from the UK Met Office?",
+                "bot": null,
+                "eval": {
+                    "type": "Dataset Request",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Does this dataset include daily, monthly, or annual rainfall measurements?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Where can I find the official metadata and documentation for this dataset?",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "What format is this dataset available in?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Rainfall #2",
+        "turns": [
+            {
+                "user": "Are there publicly available datasets tracking rainfall in London?",
+                "bot": null,
+                "eval": {
+                    "type": "Described Dataset",
+                    "ground_truth_ld": [
+                        {
+                            "dataset_title": "Daily Areal Rainfall Calculations",
+                            "relevance": 4
+                        }
+                    ]
+                }
+            },
+            {
+                "user": "Which of these datasets provides high-resolution rainfall data at areal level?",
+                "bot": null,
+                "eval": {
+                    "type": "Clarification",
+                    "ground_truth_ld": [
+                        {
+                            "dataset_title": "Daily Areal Rainfall Calculations",
+                            "relevance": 4
+                        }
+                    ]
+                }
+            },
+            {
+                "user": "Does this dataset identify the rainiest area in London?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Can you provide a direct link to the dataset?",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": [
+                        "https://data.london.gov.uk/dataset/daily-areal-rainfall"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Healthcare #1",
+        "turns": [
+            {
+                "user": "Can you find me a dataset on NHS healthcare spending related to diabetes in the UK?",
+                "bot": null,
+                "eval": {
+                    "type": "Dataset Request",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "When was this dataset last updated? Does it include data from 2022-2023?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Where can I find the official metadata and documentation for this dataset?",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "What format is this dataset available in?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Healthcare #2",
+        "turns": [
+            {
+                "user": "Which datasets track healthcare spending by specific disease categories?",
+                "bot": null,
+                "eval": {
+                    "type": "Clarification",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Does this dataset include healthcare spending on diabetes for Scotland, Wales, and Northern Ireland separately?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Where can I find licensing details for this dataset?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Can you provide a direct link to the dataset?",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": []
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Dog Bites #1",
+        "turns": [
+            {
+                "user": "Can you provide me with a dataset on dog bite-related hospital visits in the UK from the past five years?",
+                "bot": null,
+                "eval": {
+                    "type": "Dataset Request",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "How does this dataset define a ‘dog strike’?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "This dataset does not differentiate between dog bites and dog strikes. Can you refine the search to find a dataset that distinguishes them?",
+                "bot": null,
+                "eval": {
+                    "type": "Clarification",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Where can I find the official metadata and documentation for this dataset?",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "What format is this dataset available in?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Dog Bites #2",
+        "turns": [
+            {
+                "user": "Do you have information on dog attacks requiring hospital treatment in the UK?",
+                "bot": null,
+                "eval": {
+                    "type": "Implied Dataset",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Does this dataset distinguish between serious injuries and minor dog bites?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "How frequently is this dataset updated? ",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Who collects and maintains this dataset?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Sea Temperatures #1",
+        "turns": [
+            {
+                "user": "Are there publicly available datasets tracking UK sea temperatures?",
+                "bot": null,
+                "eval": {
+                    "type": "Described Dataset",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Which of the datasets you found specifically provide historical temperature trends?",
+                "bot": null,
+                "eval": {
+                    "type": "Clarification",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "How is sea temperature measured in this dataset? Satellite data, buoys, or another method?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Where can I find licensing details for this dataset?",
+                "bot": null,
+                "eval": {
+                    "type": "additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Can you provide a direct link to the dataset?",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": []
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Sea Temperatures #2",
+        "turns": [
+            {
+                "user": "How did sea temperature change over the last 10 years?",
+                "bot": null,
+                "eval": {
+                    "type": "Implied Dataset",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Does this dataset differentiate between surface temperatures and deep-sea temperatures?",
+                "bot": null,
+                "eval": {
+                    "type": "additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "How frequently is this dataset updated?",
+                "bot": null,
+                "eval": {
+                    "type": "additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Who collects and maintains this dataset?",
+                "bot": null,
+                "eval": {
+                    "type": "additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Population Trends #1",
+        "turns": [
+            {
+                "user": "Find me a dataset that tracks UK population trends since 1800.",
+                "bot": null,
+                "eval": {
+                    "type": "Dataset Request",
+                    "ground_truth_ld": [
+                        {
+                            "dataset_title": "London's population",
+                            "relevance": 3
+                        },
+                        {
+                            "dataset_title": "Trend-based population projections",
+                            "relevance": 3
+                        },
+                        {
+                            "dataset_title": "Population Change 1939-2015",
+                            "relevance": 3
+                        },
+                        {
+                            "dataset_title": "Birth Trends London",
+                            "relevance": 3
+                        },
+                        {
+                            "dataset_title": "Birth Trends London",
+                            "relevance": 3
+                        }
+                    ]
+                }
+            },
+            {
+                "user": "Does this dataset break population trends down by age group?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Can I have a link to this dataset? ",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": [
+                        "https://data.london.gov.uk/dataset/londons-population",
+                        "https://data.london.gov.uk/dataset/trend-based-population-projections"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Population Trends #2",
+        "turns": [
+            {
+                "user": "Are there publicly available datasets tracking UK historical population changes?",
+                "bot": null,
+                "eval": {
+                    "type": "Described Dataset",
+                    "ground_truth_ld": [
+                        {
+                            "dataset_title": "London's population",
+                            "relevance": 3
+                        },
+                        {
+                            "dataset_title": "Trend-based population projections",
+                            "relevance": 3
+                        },
+                        {
+                            "dataset_title": "Population Change 1939-2015",
+                            "relevance": 3
+                        },
+                        {
+                            "dataset_title": "Birth Trends London",
+                            "relevance": 3
+                        },
+                        {
+                            "dataset_title": "Fertility in London, 2001 and 2011",
+                            "relevance": 3
+                        }
+                    ]
+                }
+            },
+            {
+                "user": "Which datasets allow for time-series analysis of UK population growth?",
+                "bot": null,
+                "eval": {
+                    "type": "Clarification",
+                    "ground_truth_ld": [
+                        {
+                            "dataset_title": "London's population",
+                            "relevance": 3
+                        },
+                        {
+                            "dataset_title": "Trend-based population projections",
+                            "relevance": 3
+                        }
+                    ]
+                }
+            },
+            {
+                "user": "Does this dataset provide annual, decadal, or census-based estimates?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": [
+                        "Dataset 1: census based estimates",
+                        "Dataset 2: modelled back series of population estimates produced by the GLA"
+                    ]
+                }
+            },
+            {
+                "user": "Where can I find licensing details for this dataset?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": [
+                        "Dataset 1: not specified",
+                        "Dataset 2: Attribution License"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Traffic #1",
+        "turns": [
+            {
+                "user": "Can you provide me with a dataset on traffic congestion levels in major UK cities?",
+                "bot": null,
+                "eval": {
+                    "type": "Dataset Request",
+                    "ground_truth_ld": [
+                        {
+                            "dataset_title": "Traffic Flows, Borough",
+                            "relevance": 2
+                        },
+                        {
+                            "dataset_title": "TfL Live Traffic Cameras",
+                            "relevance": 2
+                        }
+                    ]
+                }
+            },
+            {
+                "user": "What metric does this dataset use to define congestion? Journey time, average speed, or something else?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Where can I find the official metadata and documentation for this dataset?",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": [
+                        "https://data.london.gov.uk/dataset/traffic-flows-borough",
+                        "https://data.london.gov.uk/dataset/tfl-live-traffic-cameras"
+                    ]
+                }
+            },
+            {
+                "user": "What format is this dataset available in?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": [
+                        "Dataset 1: xls",
+                        "Dataset 2: html"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Traffic #2",
+        "turns": [
+            {
+                "user": "What are the rush hour patterns in the UK?",
+                "bot": null,
+                "eval": {
+                    "type": "Implied Dataset",
+                    "ground_truth_ld": [
+                        {
+                            "dataset_title": "Traffic Flows, Borough",
+                            "relevance": 3
+                        },
+                        {
+                            "dataset_title": "TfL Live Traffic Cameras",
+                            "relevance": 2
+                        }
+                    ]
+                }
+            },
+            {
+                "user": "Does this dataset differentiate between commuter traffic and freight traffic?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "What method does this dataset use to collect traffic data",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Who maintains this dataset?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Can I have a link to this dataset? ",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": []
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Transport Usage #1",
+        "turns": [
+            {
+                "user": "Are there publicly available datasets tracking accessibility in UK public transport systems?",
+                "bot": null,
+                "eval": {
+                    "type": "Described Dataset",
+                    "ground_truth_ld": [
+                        {
+                            "dataset_title": "Accessibility of London Underground Stations",
+                            "relevance": 4
+                        },
+                        {
+                            "dataset_title": "Public Transport Accessibility Levels",
+                            "relevance": 4
+                        }
+                    ]
+                }
+            },
+            {
+                "user": "Which datasets provide data on step-free access at train stations?",
+                "bot": null,
+                "eval": {
+                    "type": "Clarification",
+                    "ground_truth_ld": [
+                        {
+                            "dataset_title": "Accessibility of London Underground Stations",
+                            "relevance": 4
+                        },
+                        {
+                            "dataset_title": "Public Transport Accessibility Levels",
+                            "relevance": 4
+                        }
+                    ]
+                }
+            },
+            {
+                "user": "How frequently is this dataset updated?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": [
+                        "Dataset 1: Annually",
+                        "Dataset 2: Ad hoc"
+                    ]
+                }
+            },
+            {
+                "user": "Where can I find licensing details for this dataset?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": [
+                        "Dataset 1: UK Open Government License",
+                        "Dataset 2: UK Open Government License"
+                    ]
+                }
+            },
+            {
+                "user": "Can you provide a direct link to the dataset",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": [
+                        "https://data.london.gov.uk/dataset/accessibility-london-underground-stations",
+                        "https://data.london.gov.uk/dataset/public-transport-accessibility-levels"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Transport Usage #2",
+        "turns": [
+            {
+                "user": "What is the domestic and international flight traffic like in UK?",
+                "bot": null,
+                "eval": {
+                    "type": "Implied Dataset",
+                    "ground_truth_ld": [
+                        {
+                            "dataset_title": "Flights and Passengers from London Airports",
+                            "relevance": 4
+                        },
+                        {
+                            "dataset_title": "Busiest Airports by Passenger Traffic",
+                            "relevance": 3
+                        },
+                        {
+                            "dataset_title": "Travel Patterns and Trends, London",
+                            "relevance": 3
+                        },
+                        {
+                            "dataset_title": "Number of International Visitors to London",
+                            "relevance": 3
+                        }
+                    ]
+                }
+            },
+            {
+                "user": "Does this dataset differentiate between passenger and cargo flights?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Where can I find the official metadata and documentation for this dataset?",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": [
+                        "https://data.london.gov.uk/dataset/flights-and-passengers-london-airports",
+                        "https://data.london.gov.uk/dataset/busiest-airports-by-passenger-traffic",
+                        "https://data.london.gov.uk/dataset/travel-patterns-and-trends-london"
+                    ]
+                }
+            },
+            {
+                "user": "What format is this dataset available in?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": [
+                        "Dataset 1: xls",
+                        "Dataset 2: xls",
+                        "Dataset 3: xls",
+                        "html",
+                        "pdf"
+                    ]
+                }
+            },
+            {
+                "user": "Who collects and maintains this dataset, and how frequently is it updated?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": [
+                        "Dataset 1: Civil Aviation Authority",
+                        "annually",
+                        "Dataset 2: GLA",
+                        "annually",
+                        "Dataset 3: GLA",
+                        "Ad hoc"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Violence #1",
+        "turns": [
+            {
+                "user": "Can you find a dataset about violence against children?",
+                "bot": null,
+                "eval": {
+                    "type": "Dataset Request",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "How is violence against children estimated in this dataset?",
+                "bot": null,
+                "eval": {
+                    "type": "additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Where can I find the official metadata and documentation for this dataset?",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Who collects and maintains this dataset, and how frequently is it updated?",
+                "bot": null,
+                "eval": {
+                    "type": "additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Does this dataset provide a breakdown of costs by type of violence (e.g., domestic abuse, sexual exploitation, neglect)?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Violence #2",
+        "turns": [
+            {
+                "user": "What is the economic cost of not investing in violence prevention for children? ",
+                "bot": null,
+                "eval": {
+                    "type": "Implied Dataset",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Which datasets provide quantitative evidence supporting the need for increased government funding for child violence prevention?",
+                "bot": null,
+                "eval": {
+                    "type": "Clarification",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Does this dataset provide estimated cost savings from effective prevention strategies?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Who maintains this dataset?",
+                "bot": null,
+                "eval": {
+                    "type": "additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Can you provide sources for the data that you mentioned?",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": []
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Weather #1",
+        "turns": [
+            {
+                "user": "Can you provide me with a dataset that tracks sunlight and rainfall patterns in the UK?",
+                "bot": null,
+                "eval": {
+                    "type": "Described Dataset",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "How frequently is this dataset updated?",
+                "bot": null,
+                "eval": {
+                    "type": "additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Where can I find the link for this dataset?",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Does this dataset provide historical comparisons for past years’ sunlight and rainfall levels?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Weather #2",
+        "turns": [
+            {
+                "user": "Are there publicly available datasets that provide real-time weather data for the UK?",
+                "bot": null,
+                "eval": {
+                    "type": "Described Dataset",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Which of these datasets provide detailed breakdowns on sunshine duration and rainfall patterns?",
+                "bot": null,
+                "eval": {
+                    "type": "Clarification",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Does this dataset provide localized weather data for different UK regions?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Can you provide a direct link to the dataset?",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": []
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Sports #1",
+        "turns": [
+            {
+                "user": "Are there publicly available datasets tracking trends in UK sports participation?",
+                "bot": null,
+                "eval": {
+                    "type": "Described Dataset",
+                    "ground_truth_ld": [
+                        {
+                            "dataset_title": "Sports Participation Rates, Borough",
+                            "relevance": 3
+                        },
+                        {
+                            "dataset_title": "Active People Survey KPI Data, Borough",
+                            "relevance": 2
+                        },
+                        {
+                            "dataset_title": "Physically Active Children, Borough",
+                            "relevance": 4
+                        },
+                        {
+                            "dataset_title": "State of London",
+                            "relevance": 3
+                        }
+
+                    ]
+                }
+            },
+            {
+                "user": "Which of these datasets provides long-term participation trends over the past 10 years?",
+                "bot": null,
+                "eval": {
+                    "type": "Clarification",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Does this dataset rely on survey data, membership statistics, or another method?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": [
+                        "Dataset 1: Survey",
+                        "Dataset 2: Survey"
+                    ]
+                }
+            },
+            {
+                "user": "Where can I find licensing details for this dataset?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": [
+                        "Dataset 1: UK Open Government License",
+                        "Dataset 2: UK Open Government License"
+                    ]
+                }
+            },
+            {
+                "user": "Can you provide a direct link to the dataset publisher’s page?",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": [
+                        "https://data.london.gov.uk/dataset/sports-participation-rates-borough",
+                        "https://data.london.gov.uk/dataset/active-people-survey-kpi-data-borough"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Sports #2",
+        "turns": [
+            {
+                "user": "How has sports participation changed in the UK over the last decade?",
+                "bot": null,
+                "eval": {
+                    "type": "Implied Dataset",
+                    "ground_truth_ld": [
+                        {
+                            "dataset_title": "Sports Participation Rates, Borough",
+                            "relevance": 4
+                        },
+                        {
+                            "dataset_title": "Active People Survey KPI Data, Borough",
+                            "relevance": 4
+                        }
+                    ]
+                }
+            },
+            {
+                "user": "Does this dataset include reasons why participation is increasing or decreasing?",
+                "bot": null,
+                "eval": {
+                    "type": "Dataset Request",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Does this dataset allow for comparisons between UK regions (e.g., London vs. Scotland)?",
+                "bot": null,
+                "eval": {
+                    "type": "Further Context/Advice Request",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Who publishes this dataset, and what organizations contribute to the data?",
+                "bot": null,
+                "eval": {
+                    "type": "additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Air Quality #1",
+        "turns": [
+            {
+                "user": "Can you find me a dataset that tracks air pollution levels in UK cities?",
+                "bot": null,
+                "eval": {
+                    "type": "dataset Request",
+                    "ground_truth_ld": [
+                        {
+                            "dataset_title": "London Average Air Quality Levels",
+                            "relevance": 4
+                        },
+                        {
+                            "dataset_title": "Analysing Air Pollution Exposure in London",
+                            "relevance": 3
+                        },
+                        {
+                            "dataset_title": "Air Quality Monitoring - Diffusion Tube Results",
+                            "relevance": 4
+                        },
+                        {
+                            "dataset_title": "London Atmospheric Emissions Inventory (LAEI) 2019",
+                            "relevance": 4
+                        },
+                        {
+                            "dataset_title": "PM2.5 map and exposure data",
+                            "relevance": 3
+                        },
+                        {
+                            "dataset_title": "Breathe London Mobile Monitoring",
+                            "relevance": 3
+                        }
+                    ]
+                }
+            },
+            {
+                "user": "Does this dataset include specific pollutants such as NO₂, PM10, and PM2.5?",
+                "bot": null,
+                "eval": {
+                    "type": "additional Dataset Information",
+                    "ground_truth_ld": [
+                        "Dataset 1: Nitric Oxide",
+                        "Nitrogen Dioxide",
+                        "Oxides of Nitrogen",
+                        "Ozone",
+                        "Particulate Matter (PM10 and PM2.5)",
+                        "and Sulphur Dioxide",
+                        "Dataset 2: NO2",
+                        "PM10 and PM2.5",
+                        "Dataset 3: NO2",
+                        "Dataset 4: NOx",
+                        "PM10",
+                        "PM2.5 and CO2",
+                        "Dataset 5: No"
+                    ]
+                }
+            },
+            {
+                "user": "Where can I find the official metadata and documentation for this dataset?",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": [
+                        "https://data.london.gov.uk/dataset/london-average-air-quality-levels",
+                        "https://data.london.gov.uk/dataset/analysing-air-pollution-exposure-in-london",
+                        "https://data.london.gov.uk/dataset/air-quality-monitoring-diffusion-tube-results",
+                        "https://data.london.gov.uk/dataset/london-atmospheric-emissions-inventory--laei--2019",
+                        "https://data.london.gov.uk/dataset/pm2-5-map-and-exposure-data"
+                    ]
+                }
+            },
+            {
+                "user": "What format is this dataset available in?",
+                "bot": null,
+                "eval": {
+                    "type": "additional Dataset Information",
+                    "ground_truth_ld": [
+                        "Dataset 1: xls",
+                        "csv",
+                        "Dataset 2: xls",
+                        "pdf",
+                        "Dataset 3: xls",
+                        "Dataset 4: pdf",
+                        "zip xls",
+                        "Dataset 5: pdf",
+                        "csv"
+                    ]
+                }
+            },
+            {
+                "user": "Who collects and maintains this dataset, and how frequently is it updated?",
+                "bot": null,
+                "eval": {
+                    "type": "additional Dataset Information",
+                    "ground_truth_ld": [
+                        "Dataset 1: GLA",
+                        "monthly",
+                        "Dataset 2: GLA",
+                        "ad hoc",
+                        "Dataset 3: Air Quality team",
+                        "annually",
+                        "Dataset 4: GLA and TFL Air Quality",
+                        "one off",
+                        "Dataset 5: Rosalind O’Driscoll",
+                        "one off"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Air Quality #2",
+        "turns": [
+            {
+                "user": "Are there publicly available datasets that monitor long-term trends in UK air pollution?",
+                "bot": null,
+                "eval": {
+                    "type": "Described Dataset",
+                    "ground_truth_ld": [
+                        {
+                            "dataset_title": "London Average Air Quality Levels",
+                            "relevance": 4
+                        },
+                        {
+                            "dataset_title": "Analysing Air Pollution Exposure in London",
+                            "relevance": 3
+                        },
+                        {
+                            "dataset_title": "Air Quality Monitoring - Diffusion Tube Results",
+                            "relevance": 4
+                        },
+                        {
+                            "dataset_title": "London Atmospheric Emissions Inventory (LAEI) 2019",
+                            "relevance": 4
+                        },
+                        {
+                            "dataset_title": "PM2.5 map and exposure data",
+                            "relevance": 3
+                        },
+                        {
+                            "dataset_title": "Breathe London Mobile Monitoring",
+                            "relevance": 3
+                        }
+                        ,
+                        {
+                            "dataset_title": "Air quality summary statistics",
+                            "relevance": 3
+                        }
+
+                    ]
+                }
+            },
+            {
+                "user": "Which of these datasets include air quality forecasts rather than just historical data?",
+                "bot": null,
+                "eval": {
+                    "type": "Clarification",
+                    "ground_truth_ld": [
+                        {
+                            "dataset_title": "London Atmospheric Emissions Inventory (LAEI) 2019",
+                            "relevance": 4
+                        }
+                    ]
+                }
+            },
+            {
+                "user": "Does this dataset track seasonal fluctuations in pollution levels?",
+                "bot": null,
+                "eval": {
+                    "type": "additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Where does this dataset source its data from",
+                "bot": null,
+                "eval": {
+                    "type": "additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Can you provide a direct link to the dataset",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": [
+                        "https://data.london.gov.uk/dataset/london-atmospheric-emissions-inventory--laei--2019"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Water Quality #1",
+        "turns": [
+            {
+                "user": "How is the water quality of UK Lakes and rivers?",
+                "bot": null,
+                "eval": {
+                    "type": "Implied Dataset",
+                    "ground_truth_ld": [ {"dataset_title": "Water Quality of London's Rivers and Other Waterbodies",
+                    "relevance": 3
+                }]
+                }
+            },
+            {
+                "user": "Which of these datasets provide water contamination data, such as bacterial counts or chemical pollutants?",
+                "bot": null,
+                "eval": {
+                    "type": "Clarification",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "How frequently is this dataset updated?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "What are the licensing details for this dataset?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": [
+                        "UK Open Government License"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Water Quality #2",
+        "turns": [
+            {
+                "user": "Are there publicly available datasets on the impact of climate change on UK water quality?",
+                "bot": null,
+                "eval": {
+                    "type": "Described Dataset",
+                    "ground_truth_ld": [ {"dataset_title": "Draft London Environment Strategy Consultation 2017",
+                    "relevance": 3
+                }, {"dataset_title": "State of the Environment report for London",
+                "relevance": 3}]
+                }
+            },
+            {
+                "user": "Does this dataset compare pollution levels before and after recent UK flooding events?",
+                "bot": null,
+                "eval": {
+                    "type": "Clarification",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Does this dataset include chemical contamination, such as nitrate levels from farming?",
+                "bot": null,
+                "eval": {
+                    "type": "additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Can you provide a direct link to the dataset publisher’s page?",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "How frequently is this dataset updated?",
+                "bot": null,
+                "eval": {
+                    "type": "additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Cost of Living #1",
+        "turns": [
+            {
+                "user": "Can you find me a dataset tracking UK inflation rates and cost-of-living changes?",
+                "bot": null,
+                "eval": {
+                    "type": "dataset Request",
+                    "ground_truth_ld": [
+                        {
+                            "dataset_title": "GLA cost of living polling",
+                            "relevance": 3
+                        },
+                        {
+                            "dataset_title": "Pay and Inflation Trends in London and the UK, 2010-2022",
+                            "relevance": 4
+                        },
+                        {
+                            "dataset_title": "Consumer price inflation- Food and non-alcoholic beverages",
+                            "relevance": 3
+                        },
+                        {
+                            "dataset_title": "The rising cost of living and its effects on Londoners",
+                            "relevance": 4
+                        },
+                        {
+                            "dataset_title": "Impacts of rising cost of living on London",
+                            "relevance": 4
+                        }
+                    ]
+                }
+            },
+            {
+                "user": "Does this dataset differentiate inflation trends by spending category (e.g., food, housing, energy)?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Where can I find the official metadata and documentation for this dataset?",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": [
+                        "https://data.london.gov.uk/dataset/gla-poll-results-cost-of-living-2022",
+                        "https://data.london.gov.uk/dataset/pay-and-inflation-trends-in-london-and-the-uk-since-2010",
+                        "https://data.london.gov.uk/dataset/consumer-price-inflation--food-and-non-alcoholic-beverages",
+                        "https://data.london.gov.uk/dataset/the-rising-cost-of-living-and-its-effects-on-londoners"
+                    ]
+                }
+            },
+            {
+                "user": "What format is this dataset available in?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": [
+                        "Dataset 1: xls",
+                        "Dataset 2: PDF",
+                        "Dataset 3: xlsx",
+                        "Dataset 4: pdf",
+                        "xlsx"
+                    ]
+                }
+            },
+            {
+                "user": "Who collects and maintains this dataset",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": [
+                        "Dataset 1: GLA Opinion Research",
+                        "Dataset 2: GLA Economics",
+                        "Dataset 3: ONS",
+                        "Dataset 4: City Intelligence"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Cost of Living #2",
+        "turns": [
+            {
+                "user": "Are there publicly available datasets tracking the impact of inflation on household budgets?",
+                "bot": null,
+                "eval": {
+                    "type": "Described Dataset",
+                    "ground_truth_ld": [
+                        {
+                            "dataset_title": "Impacts of rising cost of living on London",
+                            "relevance": 4
+                        },
+                        {
+                            "dataset_title": "GLA cost of living polling",
+                            "relevance": 4
+                        },
+                        {
+                            "dataset_title": "The rising cost of living and its effects on Londoners",
+                            "relevance": 4
+                        }
+                    ]
+                }
+            },
+            {
+                "user": "Which datasets provide regional breakdowns of cost-of-living trends in the UK?",
+                "bot": null,
+                "eval": {
+                    "type": "Clarification",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Does this dataset rely on household surveys, retail price indices, or other data sources?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Can you provide a direct link to the dataset",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": [
+                        "https://data.london.gov.uk/dataset/impacts-of-rising-cost-of-living-on-london",
+                        "https://data.london.gov.uk/dataset/gla-poll-results-cost-of-living-2022",
+                        "https://data.london.gov.uk/dataset/the-rising-cost-of-living-and-its-effects-on-londoners"
+                    ]
+                }
+            },
+            {
+                "user": "What licensing restrictions apply to using this dataset for research?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": [
+                        "Dataset 1: Licence: Not Specified",
+                        "Dataset 2: UK Open Government License",
+                        "Dataset 3: Licence: Not Specified"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Energy Consumption #1",
+        "turns": [
+            {
+                "user": "How is the energy consumption across different sectors?",
+                "bot": null,
+                "eval": {
+                    "type": "Implied Dataset",
+                    "ground_truth_ld": [
+                        {
+                            "dataset_title": "Total Energy Consumption, Borough",
+                            "relevance": 4
+                        },
+                        {
+                            "dataset_title": "Consumption of Other Fuels, Borough",
+                            "relevance": 3
+                        },
+                        {
+                            "dataset_title": "Electricity Consumption, Borough",
+                            "relevance": 3
+                        },
+                        {
+                            "dataset_title": "London’s consumption based greenhouse gas emissions",
+                            "relevance": 2
+                        }
+                    ]
+                }
+            },
+            {
+                "user": "Does this dataset differentiate between renewable and fossil fuel energy use?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Where can I find the official metadata and documentation for this dataset?",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": [
+                        "https://data.london.gov.uk/dataset/total-energy-consumption-borough"
+                    ]
+                }
+            },
+            {
+                "user": "What format is this dataset available in?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": [
+                        "xls",
+                        "csv"
+                    ]
+                }
+            },
+            {
+                "user": "Does this dataset track seasonal variations in energy consumption?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": [
+                        "No"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Energy Comsumption #2",
+        "turns": [
+            {
+                "user": "Are there publicly available datasets tracking renewable energy production in the UK?",
+                "bot": null,
+                "eval": {
+                    "type": "Described Dataset",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Which of these datasets include solar, wind, and hydroelectric energy production?",
+                "bot": null,
+                "eval": {
+                    "type": "Clarification",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Does this dataset provide historical comparisons of renewable energy growth over the last decade?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Where can I find licensing details for this dataset?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Can you provide a direct link to the dataset publisher’s page?",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": []
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Migration #1",
+        "turns": [
+            {
+                "user": "Can you provide me with a dataset tracking immigration trends in the UK?",
+                "bot": null,
+                "eval": {
+                    "type": "dataset Request",
+                    "ground_truth_ld": [
+                        {
+                            "dataset_title": "Improvements in Estimating Migration",
+                            "relevance": 3
+                        },
+                        {
+                            "dataset_title": "London's Population",
+                            "relevance": 3
+                        },
+                        {
+                            "dataset_title": "Migrants to the United Kingdom by Decade of Arrival, Borough",
+                            "relevance": 4
+                        },
+                        {
+                            "dataset_title": "Migration indicators",
+                            "relevance": 4
+                        },
+                        {
+                            "dataset_title": "Migration indicators briefings",
+                            "relevance": 4
+                        },
+                        {
+                            "dataset_title": "Domestic Migration",
+                            "relevance": 4
+                        },
+                        {
+                            "dataset_title": "Birth trends in London",
+                            "relevance": 4
+                        }
+
+                    ]
+                }
+            },
+            {
+                "user": "Does this dataset differentiate between work visas, student visas, and asylum seekers?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Where can I find the official metadata and documentation for this dataset?",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": [
+                        "https://data.london.gov.uk/dataset/improvements-estimating-migration",
+                        "https://data.london.gov.uk/dataset/londons-population",
+                        "https://data.london.gov.uk/dataset/potential-impacts-of-skills-based-immigration-policies-in-london",
+                        "https://data.london.gov.uk/dataset/migration-indicators"
+                    ]
+                }
+            },
+            {
+                "user": "What format is this dataset available in?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": [
+                        "Dataset 1: xls",
+                        "pdf",
+                        "Dataset 2: html",
+                        "Dataset 3: xlsx",
+                        "Dataset 4: xls"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "conversation_id": "Migration #2",
+        "turns": [
+            {
+                "user": "Are there publicly available datasets tracking emigration trends from the UK?",
+                "bot": null,
+                "eval": {
+                    "type": "Described Dataset",
+                    "ground_truth_ld": [                        
+                    {
+                        "dataset_title": "Migration indicators",
+                        "relevance": 4
+                    }]
+                }
+            },
+            {
+                "user": "Which datasets provide historical trends for immigration and emigration over the last 20 years?",
+                "bot": null,
+                "eval": {
+                    "type": "Clarification",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Does this dataset include nationality, gender, and age breakdowns?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Where can I find licensing details for this dataset?",
+                "bot": null,
+                "eval": {
+                    "type": "Additional Dataset Information",
+                    "ground_truth_ld": []
+                }
+            },
+            {
+                "user": "Can you provide a direct link to the dataset",
+                "bot": null,
+                "eval": {
+                    "type": "Source Request",
+                    "ground_truth_ld": []
+                }
+            }
+        ]
+    }
+]

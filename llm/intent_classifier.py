@@ -1,6 +1,6 @@
 import subprocess
 from llm.session_manager import get_user_session  # ✅ No circular import
-
+import logging
 # ✅ Updated Intent List (Now Includes "dataset_more_results")
 INTENTS = [
     "dataset_search",       # 🔹 Includes dataset recommendations
@@ -74,7 +74,7 @@ You are a dataset discovery assistant. Your job is to classify user queries into
 
 def classify_intent(query: str, user_id: str, use_memory: bool = False) -> str:
     """Classify user intent using Mistral via Ollama with session memory."""
-    session = get_user_session(user_id)  # 🔧 Add this at the top to access session
+    session = get_user_session(user_id)
     past_context = session["history"] if use_memory else []
 
     history_str = "\n".join(past_context) if past_context else "No prior context available."
@@ -101,18 +101,20 @@ Respond ONLY with one of these intents: {', '.join(INTENTS)}.
 
         if result.returncode == 0:
             response = result.stdout.strip().lower()
+            logging.info(f"🎯 LLM classified intent: {response}")
+            logging.info(f"🧠 Session has_searched: {session.get('has_searched', False)}")
 
             # ✅ Safety: make sure it's a known intent
             if response in INTENTS:
 
-                # 🔧 [NEW] Check if FAISS has already run and override if needed
+                # 🔧 Override dataset_search if FAISS already used
                 if response == "dataset_search" and session.get("has_searched", False):
                     logging.info("🔁 FAISS already used — treating query as dataset_metadata instead.")
                     return "dataset_metadata"
 
                 return response
 
-        return "dataset_search"  # Default fallback
+        return "dataset_search"  # Fallback
 
     except Exception as e:
         logging.error(f"⚠️ Exception during intent classification: {e}")

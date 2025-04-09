@@ -1,0 +1,631 @@
+avg_relevance,result,precision,conversation_id,eval_type,recall,turn_index,ground_truth,bot_response,f1,correctness,note,user_query
+,skipped (no ground truth),,Academic Conferences#1,Described Dataset,,0,[],,,,,Can you find open datasets on AI or Machine Learning conferences?
+,skipped (no ground truth),,Academic Conferences#1,Additional Dataset Information,,1,[],,,,,Do these datasets include information on past and upcoming conferences?
+,skipped (no ground truth),,Academic Conferences#1,Source Request,,2,[],,,,,Where is this dataset hosted? Can you provide the link?
+,skipped (no ground truth),,Academic Conferences#1,Additional Dataset Information,,3,[],,,,,What is the licensing for this dataset? Can I use it commercially?
+,skipped (no ground truth),,Academic Conference#2,Described Dataset,,0,[],,,,,Are there datasets available on government-funded AI research conferences in the UK?
+,skipped (no ground truth),,Academic Conference#2,Source Request,,1,[],,,,,Where can I download this dataset?
+,skipped (no ground truth),,Academic Conference#2,Additional Dataset Information,,2,[],,,,,What format is this dataset available in?
+4.0,,1.0,Property Prices #1,Described Dataset,0.5,0,"[{""dataset_title"": ""Average House Prices by Borough, Ward, MSOA & LSOA"", ""relevance"": 4}, {""dataset_title"": ""Ratio of House Prices to Earnings, Borough"", ""relevance"": 3}, {""dataset_title"": ""UK House Price Index"", ""relevance"": 3}, {""dataset_title"": ""House Price per Square Metre in England and Wales"", ""relevance"": 4}, {""dataset_title"": ""Monthly Mix-Adjusted Average House Prices, London"", ""relevance"": 4}, {""dataset_title"": ""Focus on London - Housing"", ""relevance"": 4}]","['Average House Prices by Borough, Ward, MSOA & LSOA', 'Focus on London - Income and Spending', 'Monthly Mix-Adjusted Average House Prices, London']",0.667,,,Can you find me a dataset with the average property prices in London?
+,,0,Property Prices #1,Source Request,0.0,1,"[""https://data.london.gov.uk/dataset/average-house-prices"", ""https://data.london.gov.uk/dataset/ratio-house-prices-earnings-borough"", ""https://data.london.gov.uk/dataset/uk-house-price-index"", ""https://data.london.gov.uk/dataset/house-price-per-square-metre-in-england-and-wales"", ""https://data.london.gov.uk/dataset/monthly-mix-adjusted-average-house-prices-london""]","Based on the information provided, I cannot provide a download link for the dataset as there is no information available about where the dataset is hosted or if it is available for download. The metadata summaries only provide information about the dataset's title, description, and landing page URL, which is a webpage that provides more information about the dataset but does not offer direct download access.",0,,,Where is this dataset hosted? Can you provide a download link?
+,skipped (no ground truth),,Property Prices #1,Additional Dataset Information,,2,[],,,,,"Does this dataset include additional details such as property types (flats, houses, etc.)?"
+4.0,,0.667,Property Prices #2,Implied Dataset,0.333,0,"[{""dataset_title"": ""Average House Prices by Borough, Ward, MSOA & LSOA"", ""relevance"": 4}, {""dataset_title"": ""Ratio of House Prices to Earnings, Borough"", ""relevance"": 3}, {""dataset_title"": ""UK House Price Index"", ""relevance"": 3}, {""dataset_title"": ""House Price per Square Metre in England and Wales"", ""relevance"": 4}, {""dataset_title"": ""Monthly Mix-Adjusted Average House Prices, London"", ""relevance"": 4}, {""dataset_title"": ""The Economics of London's Housing Market"", ""relevance"": 4}]","['Focus on London - Housing', 'Monthly Mix-Adjusted Average House Prices, London', ""The Economics of London's Housing Market""]",0.444,,,How have property prices in London changed over the past 20 years?
+,,0.0,Property Prices #2,Source Request,0.0,1,"[""https://data.london.gov.uk/dataset/average-house-prices"", ""https://data.london.gov.uk/dataset/ratio-house-prices-earnings-borough"", ""https://data.london.gov.uk/dataset/uk-house-price-index"", ""https://data.london.gov.uk/dataset/house-price-per-square-metre-in-england-and-wales"", ""https://data.london.gov.uk/dataset/monthly-mix-adjusted-average-house-prices-london""]","To download these datasets, you can visit the following links:
+
+* Dataset 1: <https://data.london.gov.uk/dataset/62c08c7b-20c6-4e3d-bdbb-dc50f0943682>
+* Dataset 2: <https://data.london.gov.uk/dataset/2ca35ab8-a03d-45de-be47-d685f655ec8b>
+* Dataset 3: <https://data.london.gov.uk/dataset/e1b60712-b128-4412-b7bd-d1117519033b>
+* Dataset 4: <https://data.london.gov.uk/dataset/7901b7b4-c7c2-4357-8b91-192cbdbe494f>
+* Dataset 5: <https://data.london.gov.uk/dataset/e9646223-b134-42de-978a-696a41fb64e2>",0,,,Can you provide direct links to download these datasets?
+,skipped (no ground truth),,Property Prices #2,Additional Dataset Information,,2,[],,,,,"Are these datasets updated regularly, and do they include projections for future trends?"
+,skipped (no ground truth),,Birds#1,Dataset Request,,0,[],,,,,Do you have data from eBird from before 2021?
+,skipped (no ground truth),,Birds#1,Source Request,,1,[],,,,,Can you provide a link to the eBird dataset for Europe?
+,skipped (no ground truth),,Birds#1,Additional Dataset Information,,2,[],,,,,"Does this dataset include only citizen science data, or does it also contain government surveys?"
+,skipped (no ground truth),,Birds#2,Implied Dataset,,0,[],,,,,What are the most common bird species in the UK?
+,skipped (no ground truth),,Birds#2,Source Request,,1,[],,,,,Can you provide links to open data portals with bird observation records?
+,skipped (no ground truth),,Birds#2,Additional Dataset Information,,2,[],,,,,What licensing does this dataset have?
+3.67,,1.0,Postcode Address Files #1,Dataset Request,0.75,0,"[{""dataset_title"": ""Ordnance Survey Open Data"", ""relevance"": 4}, {""dataset_title"": ""Ordnance Survey Code-Point Open"", ""relevance"": 4}, {""dataset_title"": ""London Boroughs"", ""relevance"": 3}, {""dataset_title"": ""Postcode Directory for London"", ""relevance"": 3}]","['Ordnance Survey OpenData', 'Ordnance Survey Code-Point Open', 'London Boroughs']",0.857,,,Can you provide me with the UK Ordnance Survey Open Names dataset containing all street names and postal codes?
+,,0.0,Postcode Address Files #1,Source Request,0.0,1,"[""https://data.london.gov.uk/dataset/ordnance-survey-opendata"", ""https://data.london.gov.uk/dataset/ordnance-survey-code-point""]","The user asked for a direct link, so I will provide the direct links to the landing pages of the datasets mentioned:
+
+1. Dataset 1: <https://data.london.gov.uk/dataset/01048ac3-948f-41ce-9c5f-733e262ae2e8>
+2. Dataset 2: <https://data.london.gov.uk/dataset/0a845c83-378e-41a2-8718-3f743dd3bc48>
+3. Dataset 3: <https://data.london.gov.uk/dataset/28529895-318a-4126-941c-508307fd1413>
+4. Dataset 4: <https://data.london.gov.uk/dataset/20fd172d-dbf0-4698-9866-44e17bc8417f>
+5. Dataset 5: <https://data.london.gov.uk/dataset/17dd3eb9-780f-423f-b85e-44b400237859>",0,,,Can you provide a direct link?
+,skipped (no ground truth),,Postcode Address Files #1,Additional Dataset Information,,2,[],,,,,Does this dataset include historical changes in street names or only the latest data?
+,,,Postcode Address Files #1,Additional Dataset Information,,3,"[""Dataset 1: UK Open Government License"", ""Dataset 2: UK Open Government License""]","The license under which the dataset is published is:
+
+• License: Not Specified for Datasets 1, 2, and 3.
+
+• License: UK Open Government Licence (OGL v2) for Dataset 5.",,1.0,,Under what license is this dataset published?
+3.67,,1.0,Postcode Address Files #2,Described Dataset,0.75,0,"[{""dataset_title"": ""Ordnance Survey Open Data"", ""relevance"": 4}, {""dataset_title"": ""Ordnance Survey Code-Point Open"", ""relevance"": 4}, {""dataset_title"": ""London Boroughs"", ""relevance"": 3}, {""dataset_title"": ""Postcode Directory for London"", ""relevance"": 3}]","['Ordnance Survey Code-Point Open', 'Postcode Directory for London', 'Ordnance Survey OpenData']",0.857,,,Are there publicly available datasets listing all street names and corresponding postal codes in the UK?
+,,0,Postcode Address Files #2,Source Request,0.0,1,"[""https://data.london.gov.uk/dataset/ordnance-survey-opendata"", ""https://data.london.gov.uk/dataset/ordnance-survey-code-point""]","Given your query for an official UK government dataset for postal codes, I would recommend the following:
+
+**Dataset 1**: Ordnance Survey Code-Point Open
+This dataset provides geographic coordinates for postal units across Greater London and its boroughs, which could be particularly useful if you're focusing on the London area. The data is available in CSV format and ESRI shapefile (.shp) for GIS usage. It is published by the GLA's GIS and Infrastructure department, making it an official government dataset.
+
+**Dataset 2**: Postcode Directory for London
+This comprehensive dataset details current and terminated UK postcodes and links them to various administrative, electoral, health, and other geographical areas. It includes data on wards, LSOA/MSOA, and 1991-2011 Census areas. The file is available in CSV format, contains Royal Mail, Gridlink, Ordnance Survey, and ONS intellectual property rights, and is published quarterly by Opinion Research & General Statistics (GLA).
+
+Both of these datasets are highly relevant to your query and could serve as the ""best"" dataset depending on your specific needs. If you require data for postal codes across the entire UK, the Postcode Directory for London might be more suitable due to its comprehensive coverage. However, if your focus is solely on Greater London and its boroughs, the Ordnance Survey Code-Point Open could be the better choice.",0,,,Where can I download an official UK government dataset for postal codes?
+,,,Postcode Address Files #2,Additional Dataset Information,,2,"[""Dataset 1: Link"", ""Dataset 2: CSV"", ""ZIP""]","Based on the information provided, the following data formats are available:
+
+* CSV (for Datasets 1, 2, and 4)
+* ZIP (for Dataset 1)
+* GEOPACKAGE (for Dataset 5)
+* PDF (for Dataset 5)
+* API (for Dataset 5)
+
+Note that the format for Dataset 3 is unknown.",,0.0,,What data formats are available?
+,skipped (no ground truth),,Postcode Address Files #2,Additional Dataset Information,,3,[],,,,,"Does this dataset also include alternative names for streets (e.g., historical names)?"
+,skipped (no ground truth),,Laws #1,Dataset Request,,0,[],,,,,Can you provide me with a dataset containing all UK Supreme Court rulings on tenant repair obligations?
+,skipped (no ground truth),,Laws #1,Clarification,,1,[],,,,,This dataset covers general landlord-tenant cases but does not focus on cosmetic repairs. Can you refine your search?
+,skipped (no ground truth),,Laws #1,Source Request,,2,[],,,,,Can you provide a link to the original case law database where this data is stored?
+,skipped (no ground truth),,Laws #1,Additional Dataset Information,,3,[],,,,,Under what conditions is this dataset available?
+,skipped (no ground truth),,Laws #2,Described Dataset,,0,[],,,,,Are there any publicly available datasets listing court rulings on cosmetic repair clauses in tenancy agreements?
+,skipped (no ground truth),,Laws #2,Clarification,,1,[],,,,,"This dataset only covers cases until 2015. I need the latest cases, ideally from 2020 onward. Can you find an updated version?"
+,skipped (no ground truth),,Laws #2,Source Request,,2,[],,,,,Where can I find a government open-access legal database with this information?
+,skipped (no ground truth),,Laws #2,Additional Dataset Information,,3,[],,,,,Does this dataset also include case summaries or only the full rulings?
+3.5,,0.667,Education #1,Dataset Request,0.5,0,"[{""dataset_title"": ""HESA Student Records"", ""relevance"": 3}, {""dataset_title"": ""Graduate out comes in London"", ""relevance"": 3}, {""dataset_title"": ""Students by higher education provider"", ""relevance"": 4}, {""dataset_title"": ""Further Education and Higher Education destinations of KS5 students, Borough and Institution"", ""relevance"": 4}]","['Students by higher education provider', 'Participation of Under-Represented Groups in Higher Education', 'Graduate outcomes in London']",0.571,,,Can you provide the Higher Education Statistics Agency (HESA) dataset on university enrollment by gender in the UK from 1946 to 2021?
+,skipped (no ground truth),,Education #1,Clarification,,1,[],,,,,This dataset only covers data from 2000 onward. I need historical records from 1946. Can you refine your search?
+,,0,Education #1,Source Request,0.0,2,"[""https://data.london.gov.uk/dataset/hesa-student-records"", ""https://data.london.gov.uk/dataset/graduate-outcomes-in-london""]","Based on the information provided, I cannot provide a link to download the full dataset. The metadata summaries only include links to the landing pages for each dataset, and do not provide any information about how to download the datasets. Additionally, the user asked for a link to download the full dataset, but the metadata summaries only provide links to the individual datasets.",0,,,Can you provide a link to where I can download the full dataset?
+,,,Education #1,Additional Dataset Information,,3,"[""Dataset 1: Public Domain"", ""Dataset 2: UK Open Government License""]","Based on your query, here are some datasets that have licensing restrictions as their main focus:
+
+1. **Title:** COVID-19 Restrictions Timeseries
+**Summary:** This dataset contains information about various COVID-19 restrictions and policies in London, UK. It includes details about school closures, pub closures, shop closures, stay-at-home orders, and more. Although the dataset does not specify a time period, it is provided for context analysis with other social or economic datasets such as footfall and spend data timeseries. This dataset might be useful if you're interested in understanding the impact of COVID-19 restrictions on different aspects of society.
+
+2. **Title:** Entertainment Licensing
+**Summary:** This dataset provides modelled estimates of entertainment-licensed premises in Greater London, including premises licenses and club premises certificates. Although the data publisher is discontinued, it falls under the scope of the Night Time Observatory. The data format is a spreadsheet, with unknown time coverage. This dataset could be valuable if you're interested in analyzing entertainment licensing trends over time.
+
+3. **Title:** Number of Premises Licences and Club Premises Certificates
+**Summary:** This dataset provides the number of active Premises Licences and Club Premises Certificates in England and Wales related to alcohol, entertainment, and late-night refreshment sales. The data covers on and off sales, sporting events, live music, and recorded music. This dataset could be useful if you're investigating licensing trends for various types of businesses over time.
+
+4. **Title:** Alcohol and late-night refreshment licensing statistics
+**Summary:** This dataset, published by the Greater London Authority (GLA), provides statistics on licensed premises with alcohol status and population density for individuals aged 18 and over, per licensing authority. The data is not available for 2015. It forms part of the GLA's Night Time Observatory. This dataset could be useful if you're interested in analyzing the distribution of licensed premises with alcohol status across different areas.
+
+In terms of the ""best"" dataset, it depends on your specific research focus. If you're interested in understanding COVID-19 restrictions and their impact on society, the COVID-19 Restrictions Timeseries would be the most relevant. However, if you're investigating entertainment licensing trends or the distribution of licensed premises with alcohol status, the Entertainment Licensing dataset or Alcohol and late-night refreshment licensing statistics datasets, respectively, would be more suitable. The Number of Premises Licences and Club Premises Certificates dataset could be useful for both types of research, as it covers a broad range of business types related to licensing.",,0.0,,What licensing restrictions apply to this dataset?
+4.0,,0.667,Education #2,Described Dataset,0.5,0,"[{""dataset_title"": ""HESA Student Records"", ""relevance"": 3}, {""dataset_title"": ""Graduate out comes in London"", ""relevance"": 3}, {""dataset_title"": ""Students by higher education provider"", ""relevance"": 4}, {""dataset_title"": ""Further Education and Higher Education destinations of KS5 students, Borough and Institution"", ""relevance"": 4}]","['Participation of Under-Represented Groups in Higher Education', 'Students by higher education provider', 'Further Education and Higher Education destinations of KS5 students, Borough and Institution']",0.571,,,Are there datasets tracking the gender ratio of students in universities over time?
+,skipped (no ground truth),,Education #2,Additional Dataset Information,,1,[],,,,,What sources provide this data?
+,skipped (no ground truth),,Education #2,Source Request,,2,[],,,,,Can you provide direct links to datasets that track student gender ratios at UK universities?
+,skipped (no ground truth),,Education #2,additional Dataset Information,,3,[],,,,,Do these datasets also include dropout rates and retention statistics?
+4.0,,0.333,Homelessness #1,Dataset Request,0.2,0,"[{""dataset_title"": ""Public Health Outcomes Framework Indicators"", ""relevance"": 2}, {""dataset_title"": ""Rough Sleeping in London"", ""relevance"": 4}, {""dataset_title"": ""Housing in London - The evidence base for the Mayor's Housing Strategy"", ""relevance"": 2}, {""dataset_title"": ""Homelessness Provision, Borough"", ""relevance"": 4}, {""dataset_title"": ""State of London"", ""relevance"": 4}]","['Rough sleeping in London (CHAIN reports)', ""London's Population"", 'Children in low income families']",0.25,,,Can you provide me with a dataset of the number of homeless people in the UK between 2010 and 2023?
+,,,Homelessness #1,Clarification,,1,"[{""dataset_title"": ""Housing in London - The evidence base for the Mayor's Housing Strategy"", ""relevance"": 2}, {""dataset_title"": ""Rough Sleeping in London"", ""relevance"": 4}]","In response to your query, here are some up-to-date datasets that might meet your needs:
+
+1. **Dataset 3** - *Trend-based population projections*: This dataset provides trend-based population projections for various years including the recent ones (up to August 2024). It offers three variants based on different migration patterns and fertility rates, making it a valuable resource for demographic analysis.
+
+2. **Dataset 4** - *GLA Poll Results 2023*: This dataset contains monthly poll results from January 2023 to December 2023 regarding Londoners' views. It is available as Excel tables on the GLA website, providing you with recent data for your analysis.
+
+While both datasets are relevant, Dataset 3 might be more suitable if you are seeking demographic information and trend analysis. On the other hand, Dataset 4 would be ideal for researching Londoners' opinions and sentiments over time.",,,⚠️ Unsupported eval type: Clarification,This dataset is missing data for the years 2020–2023. Can you refine your search to find a more up-to-date dataset?
+,,0,Homelessness #1,Source Request,0.0,2,"[""https://data.london.gov.uk/dataset/housing-london"", ""https://data.london.gov.uk/dataset/chain-reports""]",The original dataset is not available. The metadata summaries provided do not include a link to the original dataset.,0,,,Can you provide a link to the original dataset?
+,skipped (no ground truth),,Homelessness #1,additional Dataset Information,,3,[],,,,,What is the definition of ‘homeless’ used in this dataset? Could differences in definitions across countries skew the comparison?
+3.33,,1.0,Homelessness #2,Described Dataset,0.6,0,"[{""dataset_title"": ""Public Health Outcomes Framework Indicators"", ""relevance"": 2}, {""dataset_title"": ""Rough Sleeping in London"", ""relevance"": 4}, {""dataset_title"": ""Housing in London - The evidence base for the Mayor's Housing Strategy"", ""relevance"": 2}, {""dataset_title"": ""Homelessness Provision, Borough"", ""relevance"": 4}, {""dataset_title"": ""State of London"", ""relevance"": 4}]","['Rough sleeping in London (CHAIN reports)', 'Homelessness Provision, Borough', ""Housing in London - The evidence base for the Mayor's Housing Strategy""]",0.75,,,Are there any publicly available datasets tracking homelessness trends in UK cities over time?
+,skipped (no ground truth),,Homelessness #2,additional Dataset Information,,1,[],,,,,"Can you compare the homelessness trends between London, Manchester, and Birmingham?"
+,skipped (no ground truth),,Homelessness #2,Clarification,,2,[],,,,,This dataset only includes data from London. I need a dataset that includes multiple cities. Can you refine your search?
+,skipped (no ground truth),,Homelessness #2,Source Request,,3,[],,,,,Where can I find government reports or open data portals with nationwide homelessness statistics?
+,skipped (no ground truth),,Homelessness #2,additional Dataset Information,,4,[],,,,,"What is the definition of ‘homeless’ used in this dataset? Does it include rough sleepers, temporary housing, and hidden homelessness?"
+,skipped (no ground truth),,Physics #1,Described Dataset,,0,[],,,,,Are there any publicly available datasets tracking plasma physics experiments in UK fusion research?
+,skipped (no ground truth),,Physics #1,additional Dataset Information,,1,[],,,,,Which datasets contain experimental data on UK-funded fusion research projects?
+,skipped (no ground truth),,Physics #1,Clarification,,2,[],,,,,This dataset contains theoretical models but lacks experimental measurements. Can you refine your search to find empirical datasets?
+,skipped (no ground truth),,Physics #1,Source Request,,3,[],,,,,Can you provide a direct link to the latest experimental data?
+,skipped (no ground truth),,Physics #2,Implied Dataset,,0,[],,,,,How has fusion energy research in the UK progressed over the last decade?
+,skipped (no ground truth),,Physics #2,Additional Dataset Information,,1,[],,,,,Do these datasets include experimental results or only funding records?
+,skipped (no ground truth),,Physics #2,Additional Dataset Information,,2,[],,,,,Where does this dataset come from? Which UK institutions collected this data?
+,skipped (no ground truth),,Physics #2,Source Request,,3,[],,,,,What is the downloadable link to this dataset?
+2.0,,0.333,Food #1,Dataset Request,0.333,0,"[{""dataset_title"": ""London Consumer Expenditure Estimates 2011-2036"", ""relevance"": 2}, {""dataset_title"": ""Food security in London: Headline findings from The Survey of Londoners 2018-19"", ""relevance"": 2}, {""dataset_title"": ""London Food Strategy Consultation 2018"", ""relevance"": 3}]","['Families with savings under £1,500', 'Food security in London: Headline findings from The Survey of Londoners 2018-19', 'SmartMeter Energy Consumption Data in London Households']",0.333,,,"Can you provide me with the Food Foundation dataset on how much of their food budget people in the UK spend on foods high in salt, sugar, or fat?"
+,skipped (no ground truth),,Food #1,Clarification,,1,[],,,,,This dataset is outdated. I need data from 2022 or 2023. Can you refine your search to find a more up-to-date version?
+,skipped (no ground truth),,Food #1,Additional Dataset Information,,2,[],,,,,Where does this dataset come from? Is it based on government surveys or supermarket sales data?
+,skipped (no ground truth),,Food #1,Source Request,,3,[],,,,,Can you provide a direct link to this dataset?
+,skipped (no ground truth),,Food #1,Additional Dataset Information,,4,[],,,,,Does this dataset break down spending by household income groups?
+,skipped (no ground truth),,Food #1,Additional dataset information,,5,[],,,,,How does the Food Foundation define ‘poorest households’?
+0,,0.0,Food #2,Described Dataset,0.0,0,"[{""dataset_title"": ""London Consumer Expenditure Estimates 2011-2036"", ""relevance"": 2}, {""dataset_title"": ""Food security in London: Headline findings from The Survey of Londoners 2018-19"", ""relevance"": 2}, {""dataset_title"": ""London Food Strategy Consultation 2018"", ""relevance"": 3}]","['SmartMeter Energy Consumption Data in London Households', 'Families with savings under £1,500', 'Obesity in Adults']",0,,,"Are there publicly available datasets that track how much UK households spend on foods high in salt, sugar, or fat?"
+,,,Food #2,Additional Dataset Information,,1,"[""Dataset 2: London Consumer Expenditure Estimates 2011-2036 (1)""]","Based on your query, here are the top 3 relevant datasets that focus on food expenditure or budget as a percentage among adults in recent years (2022 or 2023):
+
+**Dataset 1 - GLA cost of living polling**
+This dataset provides insights into public attitudes and behaviors towards the cost of living in London, including potential impacts on household budgets. The data is based on surveys conducted online by YouGov Plc and weighted to be representative of all London adults aged 18+. It may not directly address food expenditure, but it can give you an idea about how Londoners perceive their overall living costs and budget allocation.
+
+**Dataset 2 - Survey of Londoners 2021-22**
+This survey assessed the impact of COVID-19 on Londoners, including potential changes in household budgets due to the pandemic's effects on the cost of living. While it may not specifically address food expenditure, it can provide some insights into how Londoners have managed their finances over the past year or so.
+
+**Dataset 5 - The Rising Cost of Living and Access to Adult Education in London**
+Although this report focuses mainly on the impact of rising living costs on adult education in London, it does highlight that 17% of Londoners are struggling financially, which can indirectly suggest potential changes in their household budget allocation. However, please note that this data is from November 2023 to March 2024, slightly outside the specified time range (2022 or 2023).
+
+If a more direct dataset on food expenditure as a percentage of the budget among adults in recent years were available, I would suggest it first. However, given the current limited options, you may consider focusing on one or more of the above datasets to gain insights into Londoners' overall financial situations and their perception of living costs during the specified time frame.",,0.0,,"Is there any recent data (2022 or 2023) on how much adults spend on these foods, either overall or as a percentage of their budget?"
+,skipped (no ground truth),,Food #2,Clarification,,2,[],,,,,"Are there any datasets that explain why people, particularly those in lower-income households, choose foods high in salt, sugar, and fat?"
+,skipped (no ground truth),,Food #2,Additional Dataset Information,,3,[],,,,,Can you provide datasets or surveys that ask people about their reasons for purchasing junk foods?
+,skipped (no ground truth),,Food #2,Link Request,,4,[],,,,,Can you give me the link to the 2022 Food Foundation report and the two surveys you cited above?
+3.75,,1.333,Tree Canopy Cover #1,Described Dataset,0.667,0,"[{""dataset_title"": ""Tree Canopy Cover 2024"", ""relevance"": 4}, {""dataset_title"": ""Tree Canopy Cover Prioritisation Tool"", ""relevance"": 3}, {""dataset_title"": ""Curio Canopy - London Tree Canopy Cover"", ""relevance"": 4}, {""dataset_title"": ""Green Cover 2024"", ""relevance"": 4}, {""dataset_title"": ""Local Authority Maintained Trees"", ""relevance"": 4}, {""dataset_title"": ""London Green and Blue Cover"", ""relevance"": 4}]","['Tree Canopy Cover Prioritisation Tool', 'Curio Canopy - London Tree Canopy Cover', 'Tree Canopy Cover 2024']",0.889,,,Is there a publicly available dataset for tree canopy cover in London?
+,,,Tree Canopy Cover #1,Additional dataset information,,1,"[""Dataset 1: Not Open"", ""Dataset 2: UK Open Government Licence"", ""Dataset 3: Attribution Share-Alike License Creative Commons"", ""Dataset 4: Not Open""]","Based on the information provided, the license for Dataset 3 is Not Specified.",,0.0,,What license does this dataset have?
+,,0,Tree Canopy Cover #1,Source Request,0.0,2,"[""https://data.london.gov.uk/dataset/canopy-cover-2024"", ""https://data.london.gov.uk/dataset/tree-canopy-cover-prioritisation-tool"", ""https://data.london.gov.uk/dataset/curio-canopy"", ""https://data.london.gov.uk/dataset/green-cover-2024""]","The datasets that I have found for your query on data sources with additional information are:
+
+1. **Local Authority Comparator Data** - This dataset provides collated London local authority datasets for population comparison purposes. It includes data related to population, demography, and census tags, with the possibility of more data being added in the future.
+
+2. **Global City Data** - This spreadsheet contains comprehensive data for various cities worldwide, sourced from the New York City Global City database. It covers a wide range of indicators including geographic, demographic, economic, transportation, educational, tourism, health, cultural, environmental, and anti-smoking indicators.
+
+3. **Secondary sites** - This dataset provides information on UK Power Networks' secondary sites, including ONAN ratings, spatial coordinates, customer counts, addresses, substation names, aliases, and primary feeders. While it is related to electricity and electric vehicle infrastructure, the data can be useful for a broader context as well.
+
+4. **Newham Local Information System** - This dataset provides comprehensive data on various topics including pupil performance, life expectancy, crime rates, travel methods, housing information, job numbers, and deprivation measures for the London Borough of Newham. The data can be exported in multiple formats.
+
+5. **Datahub Text Search (Test)** - This report enables searching of application descriptions from the Planning London Datahub. While it may require amendments due to potential quality issues, it offers a unique opportunity to explore unstructured data related to planning applications.
+
+If I were to choose the ""best"" dataset based on your query, I would suggest the **Global City Data** because it provides comprehensive information for various cities worldwide across multiple indicators. However, the relevance of datasets may vary depending on the specific context or focus area of interest. Therefore, I recommend exploring all of these datasets to find the one most suitable for your needs.",0,,,Do you have a source for this additional information? 
+3.75,,1.333,Tree Canopy Cover #2,Dataset Request,0.667,0,"[{""dataset_title"": ""Tree Canopy Cover 2024"", ""relevance"": 4}, {""dataset_title"": ""Tree Canopy Cover Prioritisation Tool"", ""relevance"": 3}, {""dataset_title"": ""Curio Canopy - London Tree Canopy Cover"", ""relevance"": 4}, {""dataset_title"": ""Green Cover 2024"", ""relevance"": 4}, {""dataset_title"": ""Local Authority Maintained Trees"", ""relevance"": 4}, {""dataset_title"": ""London Green and Blue Cover"", ""relevance"": 4}]","['Curio Canopy - London Tree Canopy Cover', 'Tree Canopy Cover Prioritisation Tool', 'Tree Canopy Cover 2024']",0.889,,,Can you provide me with the Greater London Authority (GLA) dataset on tree canopy cover in London?
+,skipped (no ground truth),,Tree Canopy Cover #2,Clarification,,1,[],,,,,"This dataset is outdated. Is there a more recent dataset, ideally from 2022 or 2023?"
+,skipped (no ground truth),,Tree Canopy Cover #2,Further Context/Advice Request,,2,[],,,,,Can I compare this dataset to other cities?
+,skipped (no ground truth),,Tree Canopy Cover #2,Further Context/Advice Request,,3,[],,,,,"Who maintains this dataset? Is it collected by satellites, aerial surveys, or local councils?"
+,,0.0,Tree Canopy Cover #2,Source Request,0.0,4,"[""https://data.london.gov.uk/dataset/canopy-cover-2024"", ""https://data.london.gov.uk/dataset/tree-canopy-cover-prioritisation-tool"", ""https://data.london.gov.uk/dataset/green-cover-2024""]","The user asked for a link to the dataset. Based on the information provided, I can provide links to the landing pages of the datasets:
+
+Dataset 1: <https://data.london.gov.uk/dataset/f1efaa4f-7a5a-482b-8624-c5366156d892>
+
+Dataset 2: <https://data.london.gov.uk/dataset/84e62956-44d0-4dbe-a7f1-c8632a0de4aa>
+
+Dataset 3: <https://data.london.gov.uk/dataset/facbc883-5383-4558-9018-fef410a43482>
+
+Dataset 4: <https://data.london.gov.uk/dataset/a63889dc-116d-471d-9e15-44c8067fb089>
+
+Dataset 5: <https://data.london.gov.uk/dataset/01048ac3-948f-41ce-9c5f-733e262ae2e8>",0,,,Can you provide a link to the dataset?
+,skipped (no ground truth),,Sport and Activity #1,Described Dataset,,0,[],,,,,Are there any publicly available datasets on public information needs about sport and activity opportunities in the UK?
+,skipped (no ground truth),,Sport and Activity #1,Additional dataset information,,1,[],,,,,Do any datasets analyze how better information would support sport and activity uptake?
+,skipped (no ground truth),,Sport and Activity #1,Clarification,,2,[],,,,,"This dataset covers participation trends, but does it include data on information availability as a barrier?"
+,skipped (no ground truth),,Sport and Activity #1,ADditional dataset information,,3,[],,,,,Are there datasets specifically showing what types of information about sport and activity opportunities people need?
+,skipped (no ground truth),,Sport and Activity #1,Further Context/Advice Request,,4,[],,,,,"Does this dataset contain regional breakdowns, such as sport participation rates by UK local authorities?"
+,skipped (no ground truth),,Sport and Activity #2,Implied Dataset,,0,[],,,,,How does information availability impact participation in sports and physical activity?
+,skipped (no ground truth),,Sport and Activity #2,Clarification,,1,[],,,,,Are there datasets that specifically focus on information needs among disabled people trying to access sports opportunities?
+,skipped (no ground truth),,Sport and Activity #2,Clarification,,2,[],,,,,Does any dataset provide information about barriers to sport and physical activity for disabled people?
+,skipped (no ground truth),,Sport and Activity #2,Additional dataset information,,3,[],,,,,What organizations collect and publish data on sport participation among disabled groups in the UK?
+,skipped (no ground truth),,Sport and Activity #2,Source Request,,4,[],,,,,Where can I find official documentation explaining how this dataset is structured?
+0,,0.0,Census #1,Dataset Request,0.0,0,"[{""dataset_title"": ""Historical Census Tables"", ""relevance"": 4}, {""dataset_title"": ""London's Population"", ""relevance"": 4}, {""dataset_title"": ""GLA Population statistics User Group presentations"", ""relevance"": 3}, {""dataset_title"": ""Modelled population backseries"", ""relevance"": 3}, {""dataset_title"": ""Historical Census Population"", ""relevance"": 4}]","[""London's Population of Young Children - Data Hubs - V2"", 'London Commissioned Tables System Files', 'Annual London Survey 2010']",0,,,Can you access the most recent London census data?
+,skipped (no ground truth),,Census #1,Clarification,,1,[],,,,,Can you provide me with the summary of the census data for London?
+,,0.0,Census #1,Source Request,0.0,2,"[""https://data.london.gov.uk/dataset/historical-census-tables"", ""https://data.london.gov.uk/dataset/londons-population"", ""https://data.london.gov.uk/dataset/gla-population-statistics-user-group-presentations"", ""https://data.london.gov.uk/dataset/modelled-population-backseries"", ""https://data.london.gov.uk/dataset/historic-census-population""]","To download the full dataset for London, you can visit the following links:
+
+* Dataset 1: <https://data.london.gov.uk/dataset/62c08c7b-20c6-4e3d-bdbb-dc50f0943682>
+* Dataset 2: <https://data.london.gov.uk/dataset/f48d3588-7505-4b29-b2e1-80c63fe77bc2>
+* Dataset 3: <https://data.london.gov.uk/dataset/2ca35ab8-a03d-45de-be47-d685f655ec8b>
+* Dataset 4: <https://data.london.gov.uk/dataset/e9646223-b134-42de-978a-696a41fb64e2>
+* Dataset 5: <https://data.london.gov.uk/dataset/0568055e-0a02-4e88-ab9b-8eaa7165e1dd>
+
+Note that the full dataset for London is not available on a single link, and you need to visit each dataset's landing page to access it.",0,,,Where can I download the full dataset for London?
+,,,Census #1,Additional Dataset Information,,3,"[""Dataset 1: No"", ""xls"", ""Dataset 2: no"", ""html"", ""Dataset 3: no"", ""ZIP file"", ""Dataset 4: Yes"", ""csv"", ""Dataset 5: No"", ""xls""]","Based on the provided metadata summaries, I can confirm that the following datasets are available in CSV format:
+
+* Dataset 2
+* Dataset 3
+* Dataset 4
+
+However, the formats for Dataset 1 and Dataset 5 are unknown, so it is not possible to determine if they are available in CSV format or not.",,0.3,,Can I get this data in CSV format?
+,,,Census #1,Additional Dataset Information,,4,"[""Dataset 1: 2021 dataset"", ""Dataset 2: 2023"", ""yearly estimate"", ""Dataset 3: 2024"", ""half yearly"", ""Dataset 4: 2023"", ""annual"", ""Dataset 5: 2021"", ""annual""]","Based on the provided metadata summaries, none of the datasets are from the 2021 census as the latest update dates are before 2021.
+
+The most recent dataset is Dataset 3, which was last updated on November 19th, 2024. The other datasets have not been updated since 2014, 2016, or 2017, respectively.",,0.0,,How frequently is this dataset updated? Is it the 2021 census or a more recent update?
+2.0,,0.667,Census #2,Described Dataset,0.4,0,"[{""dataset_title"": ""Historical Census Tables"", ""relevance"": 2}, {""dataset_title"": ""London's Population"", ""relevance"": 2}, {""dataset_title"": ""GLA Population statistics User Group presentations"", ""relevance"": 2}, {""dataset_title"": ""Modelled population backseries"", ""relevance"": 4}, {""dataset_title"": ""Historical Census Population"", ""relevance"": 2}]","['Historical Census Tables', 'Census Commissioned Tables 2001, 2011 and 2021', 'Census Commissioned Tables 2001 data files']",0.5,,,Can you return the most recent census data?
+,,0,Census #2,Source Request,0.0,1,"[""https://data.london.gov.uk/dataset/modelled-population-backseries""]","The direct links to download the CSV files for the datasets are not provided in the given metadata summaries. The summaries only provide the landing pages for each dataset, which do not include direct download links. Therefore, I cannot provide the direct links to download the CSV files.",0,,,Can you provide me with the direct link to download those CSV files?
+,skipped (no ground truth),,Census #2,Clarification,,2,[],,,,,Why did you include the links to PDF files even though I only asked for CSVs?
+3.5,,0.667,Travel #1,Dataset Request,0.4,0,"[{""dataset_title"": ""Travel to Work by Bicycle, Ward"", ""relevance"": 2}, {""dataset_title"": ""London Business Survey 2014 - London as a place to do business"", ""relevance"": 1}, {""dataset_title"": ""Travel Patterns and Trends, London"", ""relevance"": 2}, {""dataset_title"": ""Cycling Infrastructure Database"", ""relevance"": 3}, {""dataset_title"": ""TfL Rolling Origin and Destination Survey"", ""relevance"": 4}]","['Cycling Infrastructure Database', 'TfL Rolling Origin and Destination Survey', 'Traffic Flows, Borough']",0.5,,,Can you provide me with the UK Department for Transport dataset on active travel infrastructure?
+,skipped (no ground truth),,Travel #1,Additional Dataset Information,,1,[],,,,,What formats is this dataset available in?
+,skipped (no ground truth),,Travel #1,Additional Dataset Information,,2,[],,,,,How frequently is this dataset updated?
+,skipped (no ground truth),,Travel #1,Source Request,,3,[],,,,,Can you provide a direct link to the dataset publisher’s page?
+2.5,,0.667,Travel #2,Implied Dataset,0.333,0,"[{""dataset_title"": ""Travel to Work by Bicycle, Ward"", ""relevance"": 2}, {""dataset_title"": ""London Business Survey 2014 - London as a place to do business"", ""relevance"": 1}, {""dataset_title"": ""Travel Patterns and Trends, London"", ""relevance"": 2}, {""dataset_title"": ""Cycling Infrastructure Database"", ""relevance"": 3}, {""dataset_title"": ""TfL Rolling Origin and Destination Survey"", ""relevance"": 4}, {""dataset_title"": ""TfL Live Traffic Disruptions"", ""relevance"": 4}]","['Cycling Infrastructure Database', 'Travel Patterns and Trends, London', 'Coronavirus (COVID-19) Mobility Report']",0.444,,,How does the UK government track active travel infrastructure?
+,skipped (no ground truth),,Travel #2,Source Request,,1,[],,,,,Where can I find a report summarizing key trends from this dataset? (
+,skipped (no ground truth),,Travel #2,Additional Dataset Information,,2,[],,,,,What organizations contribute to updating this dataset?
+,skipped (no ground truth),,Legal Aid #1,Dataset Request,,0,[],,,,,Can you provide me with the UK Ministry of Justice dataset on civil legal aid statistics?
+,skipped (no ground truth),,Legal Aid #1,Clarification,,1,[],,,,,Does this dataset specify the number of legal help and mediation cases?
+,skipped (no ground truth),,Legal Aid #1,Source Request,,2,[],,,,,Where can I download this dataset?
+,skipped (no ground truth),,Legal Aid #1,Source Request,,3,[],,,,,What is the source of this dataset? 
+,skipped (no ground truth),,Legal Aid #1,Additional Dataset Information,,4,[],,,,,What licensing restrictions apply to this dataset? Can it be used for policy research?
+,skipped (no ground truth),,Legal Aid #2,Described Dataset,,0,[],,,,,Are there publicly available datasets tracking legal aid cases in the UK?
+,skipped (no ground truth),,Legal Aid #2,Clarification,,1,[],,,,,Can you provide a report that analyzes legal aid trends in the UK?
+,skipped (no ground truth),,Legal Aid #2,Clarification,,2,[],,,,,What datasets track changes in legal aid eligibility over time?
+,skipped (no ground truth),,Prisons #1,Described Dataset,,0,[],,,,,Are there publicly available datasets tracking prison capacity in the UK?
+,skipped (no ground truth),,Prisons #1,Clarification,,1,[],,,,,Can you find government reports detailing prison capacity changes over time?
+,skipped (no ground truth),,Prisons #1,Source Request,,2,[],,,,,Can you provide an official UK government link for this data?
+,skipped (no ground truth),,Prisons #2,Implied Dataset,,0,[],,,,,How is the prison capacity in the UK?
+,skipped (no ground truth),,Prisons #2,Clarification,,1,[],,,,,Does this dataset differentiate between available spaces and total prison capacity?
+,skipped (no ground truth),,Prisons #2,Source Request,,2,[],,,,,What is the source of the data in this dataset? Does it come from the UK Ministry of Justice or another entity?
+,skipped (no ground truth),,Carers #1,Dataset Request,,0,[],,,,,Can you find me a dataset on carer wellbeing in the UK?
+,skipped (no ground truth),,Carers #1,Additional Dataset Information,,1,[],,,,,Does this dataset include national or regional breakdowns for carer wellbeing scores?
+,skipped (no ground truth),,Carers #1,Source Request,,2,[],,,,,Where can I find the official metadata and documentation for this dataset?
+,skipped (no ground truth),,Carers #1,Additional Dataset Information,,3,[],,,,,What data format is this available in?
+,skipped (no ground truth),,Carers #1,Additional Dataset Information,,4,[],,,,,"Who maintains this dataset, and how frequently is it updated?"
+,skipped (no ground truth),,Carers #2,Implied Dataset,,0,[],,,,,What is the national average wellbeing score of unpaid carers in the UK?
+,skipped (no ground truth),,Carers #2,Additional Dataset Information,,1,[],,,,,How does this dataset define wellbeing? Does it use self-reported survey scores or another metric?
+,skipped (no ground truth),,Carers #2,Additional Dataset Information,,2,[],,,,,How frequently is this dataset updated?
+,skipped (no ground truth),,Carers #2,Additional Dataset Information,,3,[],,,,,Who collects and publishes this data?
+,skipped (no ground truth),,Universal Credit/Medical #1,Described Dataset,,0,[],,,,,Are there publicly available datasets on antibiotic prescriptions in England?
+,skipped (no ground truth),,Universal Credit/Medical #1,Clarification,,1,[],,,,,Which of the datasets you found specifically track NHS prescriptions?
+,skipped (no ground truth),,Universal Credit/Medical #1,Additional Dataset Information,,2,[],,,,,Is this dataset available in a downloadable CSV format?
+,skipped (no ground truth),,Universal Credit/Medical #1,Source Request,,3,[],,,,,Can you provide a direct link to the dataset publisher’s page?
+1.0,,0.333,Universal Credit/Medical #2,Implied Dataset,0.5,0,"[{""dataset_title"": ""Focus on London - Income and Spending"", ""relevance"": 2}, {""dataset_title"": ""Families with savings under £1,500"", ""relevance"": 1}]","[""Births by parents' country of birth, 2014"", 'Families with savings under £1,500', 'Employment Rates of Parents']",0.4,,,Where can I find data on family grocery purchase patterns in the UK?
+,skipped (no ground truth),,Universal Credit/Medical #2,Additional Dataset Information,,1,[],,,,,Does this dataset include spending on high-fat and high-sugar foods for children aged 3 to 5 years? (
+,,,Universal Credit/Medical #2,Additional Dataset Information,,2,"[""Freely available""]","Based on the information provided, none of the datasets have a clear indicator of whether they are freely available or require purchase access. The metadata summaries do not include information about pricing or access restrictions. Therefore, I cannot provide a clear answer to the user's question without additional context or information.",,0.0,,"Is this dataset freely available, or do I need to purchase access?"
+,skipped (no ground truth),,Universal Credit/Medical #2,Additional Dataset Information,,3,[],,,,,How is dietary data collected in this dataset?
+,skipped (no ground truth),,Rainfall #1,Dataset Request,,0,[],,,,,Can you find me the London rainfall dataset from the UK Met Office?
+,skipped (no ground truth),,Rainfall #1,Additional Dataset Information,,1,[],,,,,"Does this dataset include daily, monthly, or annual rainfall measurements?"
+,skipped (no ground truth),,Rainfall #1,Source Request,,2,[],,,,,Where can I find the official metadata and documentation for this dataset?
+,skipped (no ground truth),,Rainfall #1,Additional Dataset Information,,3,[],,,,,What format is this dataset available in?
+4.0,,0.333,Rainfall #2,Described Dataset,1.0,0,"[{""dataset_title"": ""Daily Areal Rainfall Calculations"", ""relevance"": 4}]","['Daily Areal Rainfall Calculations', 'Local Authority Maintained Trees', 'Ordnance Survey OpenData']",0.5,,,Are there publicly available datasets tracking rainfall in London?
+,,,Rainfall #2,Clarification,,1,"[{""dataset_title"": ""Daily Areal Rainfall Calculations"", ""relevance"": 4}]","Based on your query for high-resolution rainfall data at an areal level, I would recommend ""Daily Areal Rainfall Calculations"" as it is specifically designed to provide such data. This dataset calculates daily areal rainfall and soil moisture deficit using data from local rain gauges and a Soil Moisture Model run by the Environment Agency. The data is provided as CSV files, making it easy for analysis and comparison with long-term average values (1961-90).",,,⚠️ Unsupported eval type: Clarification,Which of these datasets provides high-resolution rainfall data at areal level?
+,skipped (no ground truth),,Rainfall #2,Additional Dataset Information,,2,[],,,,,Does this dataset identify the rainiest area in London?
+,,0,Rainfall #2,Source Request,0.0,3,"[""https://data.london.gov.uk/dataset/daily-areal-rainfall""]","The user asked for a direct link to the dataset. None of the metadata summaries provided include a direct link to the dataset. However, each summary includes a ""Landing Page"" URL that leads to more information about the dataset and may provide access to the data.",0,,,Can you provide a direct link to the dataset?
+,skipped (no ground truth),,Healthcare #1,Dataset Request,,0,[],,,,,Can you find me a dataset on NHS healthcare spending related to diabetes in the UK?
+,skipped (no ground truth),,Healthcare #1,Additional Dataset Information,,1,[],,,,,When was this dataset last updated? Does it include data from 2022-2023?
+,skipped (no ground truth),,Healthcare #1,Source Request,,2,[],,,,,Where can I find the official metadata and documentation for this dataset?
+,skipped (no ground truth),,Healthcare #1,Additional Dataset Information,,3,[],,,,,What format is this dataset available in?
+,skipped (no ground truth),,Healthcare #2,Clarification,,0,[],,,,,Which datasets track healthcare spending by specific disease categories?
+,skipped (no ground truth),,Healthcare #2,Additional Dataset Information,,1,[],,,,,"Does this dataset include healthcare spending on diabetes for Scotland, Wales, and Northern Ireland separately?"
+,skipped (no ground truth),,Healthcare #2,Additional Dataset Information,,2,[],,,,,Where can I find licensing details for this dataset?
+,skipped (no ground truth),,Healthcare #2,Source Request,,3,[],,,,,Can you provide a direct link to the dataset?
+,skipped (no ground truth),,Dog Bites #1,Dataset Request,,0,[],,,,,Can you provide me with a dataset on dog bite-related hospital visits in the UK from the past five years?
+,skipped (no ground truth),,Dog Bites #1,Additional Dataset Information,,1,[],,,,,How does this dataset define a ‘dog strike’?
+,skipped (no ground truth),,Dog Bites #1,Clarification,,2,[],,,,,This dataset does not differentiate between dog bites and dog strikes. Can you refine the search to find a dataset that distinguishes them?
+,skipped (no ground truth),,Dog Bites #1,Source Request,,3,[],,,,,Where can I find the official metadata and documentation for this dataset?
+,skipped (no ground truth),,Dog Bites #1,Additional Dataset Information,,4,[],,,,,What format is this dataset available in?
+,skipped (no ground truth),,Dog Bites #2,Implied Dataset,,0,[],,,,,Do you have information on dog attacks requiring hospital treatment in the UK?
+,skipped (no ground truth),,Dog Bites #2,Additional Dataset Information,,1,[],,,,,Does this dataset distinguish between serious injuries and minor dog bites?
+,skipped (no ground truth),,Dog Bites #2,Additional Dataset Information,,2,[],,,,,How frequently is this dataset updated? 
+,skipped (no ground truth),,Dog Bites #2,Additional Dataset Information,,3,[],,,,,Who collects and maintains this dataset?
+,skipped (no ground truth),,Sea Temperatures #1,Described Dataset,,0,[],,,,,Are there publicly available datasets tracking UK sea temperatures?
+,skipped (no ground truth),,Sea Temperatures #1,Clarification,,1,[],,,,,Which of the datasets you found specifically provide historical temperature trends?
+,skipped (no ground truth),,Sea Temperatures #1,Additional Dataset Information,,2,[],,,,,"How is sea temperature measured in this dataset? Satellite data, buoys, or another method?"
+,skipped (no ground truth),,Sea Temperatures #1,additional Dataset Information,,3,[],,,,,Where can I find licensing details for this dataset?
+,skipped (no ground truth),,Sea Temperatures #1,Source Request,,4,[],,,,,Can you provide a direct link to the dataset?
+,skipped (no ground truth),,Sea Temperatures #2,Implied Dataset,,0,[],,,,,How did sea temperature change over the last 10 years?
+,skipped (no ground truth),,Sea Temperatures #2,additional Dataset Information,,1,[],,,,,Does this dataset differentiate between surface temperatures and deep-sea temperatures?
+,skipped (no ground truth),,Sea Temperatures #2,additional Dataset Information,,2,[],,,,,How frequently is this dataset updated?
+,skipped (no ground truth),,Sea Temperatures #2,additional Dataset Information,,3,[],,,,,Who collects and maintains this dataset?
+3.0,,1.0,Population Trends #1,Dataset Request,0.6,0,"[{""dataset_title"": ""London's population"", ""relevance"": 3}, {""dataset_title"": ""Trend-based population projections"", ""relevance"": 3}, {""dataset_title"": ""Population Change 1939-2015"", ""relevance"": 3}, {""dataset_title"": ""Birth Trends London"", ""relevance"": 3}, {""dataset_title"": ""Birth Trends London"", ""relevance"": 3}]","['Population Change 1939-2015', 'Trend-based population projections', 'Birth trends in London']",0.75,,,Find me a dataset that tracks UK population trends since 1800.
+,skipped (no ground truth),,Population Trends #1,Additional Dataset Information,,1,[],,,,,Does this dataset break population trends down by age group?
+,,0,Population Trends #1,Source Request,0.0,2,"[""https://data.london.gov.uk/dataset/londons-population"", ""https://data.london.gov.uk/dataset/trend-based-population-projections""]","Based on your query, I have found several relevant datasets that may interest you. Here are the top 3 recommendations:
+
+**1. GiGL Spaces to Visit**
+This dataset offers open space locations and boundaries in Greater London for public leisure activities, including green corridors suitable for walking and cycling. It's regularly updated and can be used by a variety of users such as community groups, web/app developers, policymakers, and researchers. The data contains information about parks, playing fields, nature reserves, and more, making it versatile for various use cases.
+
+**2. Photovoltaic (PV) Solar Panel Energy Generation data**
+This dataset provides a comprehensive analysis of Solar PV panels energy generation from 20 substations and 10 domestic premises over a period of 25,775 days. The data includes details like voltage, current, power, energy, and weather, which could be beneficial for researchers or developers working on renewable energy projects.
+
+**3. GiGL Open Space Friends Group subset**
+This dataset is a sub-set of open space sites in Greater London with established Friends Groups, important to local communities. It provides site details and friends group information, making it useful for community groups, policymakers, or researchers interested in understanding community engagement around open spaces.
+
+I recommend exploring these datasets further to find the best fit for your specific needs. If you're still unsure, feel free to ask for more details about any of these datasets!",0,,,Can I have a link to this dataset? 
+3.0,,0.333,Population Trends #2,Described Dataset,0.2,0,"[{""dataset_title"": ""London's population"", ""relevance"": 3}, {""dataset_title"": ""Trend-based population projections"", ""relevance"": 3}, {""dataset_title"": ""Population Change 1939-2015"", ""relevance"": 3}, {""dataset_title"": ""Birth Trends London"", ""relevance"": 3}, {""dataset_title"": ""Fertility in London, 2001 and 2011"", ""relevance"": 3}]","['Population Change 1939-2015', 'Population change in London during the pandemic', 'Birth estimates']",0.25,,,Are there publicly available datasets tracking UK historical population changes?
+,,,Population Trends #2,Clarification,,1,"[{""dataset_title"": ""London's population"", ""relevance"": 3}, {""dataset_title"": ""Trend-based population projections"", ""relevance"": 3}]","Based on your query, I have found several datasets that might be useful for time-series analysis of UK population growth with a focus on London. Here are some recommendations:
+
+1. **London's Population**: This dataset provides the most recent mid-year estimate for London's population and includes factors influencing its growth such as births, deaths, and international migration. It is expected to be updated in July 2025.
+
+2. **Birth Estimates**: This time series data offers live births in England and Wales from 1991-92 to the present, which can provide insights into population growth trends over time. The data is sourced from official sources like ONS mid-year population estimates and monthly births by local authority.
+
+3. **Population Change 1939-2015**: This dataset provides borough population estimates and projections (1939-2039) in an Excel workbook, highlighting London's population exceeding 8.6 million people in 2015. It is a comprehensive resource for understanding long-term population trends in London.
+
+If you're looking for the ""best"" dataset, I would recommend considering both the **London's Population** and **Birth Estimates** datasets. The London's Population dataset provides more recent data and insights into current factors influencing London's population growth, while the Birth Estimates dataset offers a time series analysis of live births in England and Wales over several decades, which can help identify trends and patterns in population growth.
+
+Hope these datasets are helpful for your research! Let me know if you need more information or have any other questions.",,,⚠️ Unsupported eval type: Clarification,Which datasets allow for time-series analysis of UK population growth?
+,,,Population Trends #2,Additional Dataset Information,,2,"[""Dataset 1: census based estimates"", ""Dataset 2: modelled back series of population estimates produced by the GLA""]","Based on the provided metadata summaries, here are the answers to the user's questions:
+
+1. Does this dataset provide annual estimates?
+
+Dataset 1 provides annual estimates for the population of London from 2020 to 2024.
+
+2. Does this dataset provide decadal estimates?
+
+No, none of the datasets provide decadal estimates.
+
+3. Does this dataset provide census-based estimates?
+
+No, none of the datasets provide census-based estimates.
+
+Note that some of the datasets provide more recent updates than others, and the last updated dates may not necessarily reflect the most current information available. Additionally, some datasets may have been updated more frequently than others, so it's important to check each dataset's landing page for more detailed information on its update schedule and availability.",,0.5,,"Does this dataset provide annual, decadal, or census-based estimates?"
+,,,Population Trends #2,Additional Dataset Information,,3,"[""Dataset 1: not specified"", ""Dataset 2: Attribution License""]","Based on the information provided, the licensing details for the datasets are as follows:
+
+• Dataset 1: Not Specified
+• Dataset 2: Not Specified
+• Dataset 3: Other (Open)
+• Dataset 4: UK Open Government Licence (OGL v2)
+• Dataset 5: Not Specified",,0.5,,Where can I find licensing details for this dataset?
+2.0,,0.333,Traffic #1,Dataset Request,0.5,0,"[{""dataset_title"": ""Traffic Flows, Borough"", ""relevance"": 2}, {""dataset_title"": ""TfL Live Traffic Cameras"", ""relevance"": 2}]","['Traffic Flows, Borough', 'Noise Pollution in London', 'London Atmospheric Emissions Inventory (LAEI) 2016']",0.4,,,Can you provide me with a dataset on traffic congestion levels in major UK cities?
+,skipped (no ground truth),,Traffic #1,Additional Dataset Information,,1,[],,,,,"What metric does this dataset use to define congestion? Journey time, average speed, or something else?"
+,,0,Traffic #1,Source Request,0.0,2,"[""https://data.london.gov.uk/dataset/traffic-flows-borough"", ""https://data.london.gov.uk/dataset/tfl-live-traffic-cameras""]","To find the official metadata and documentation for the dataset, you can refer to the following sources:
+
+1. Landing Page: The landing page for each dataset provides a brief description of the data and links to related resources, such as documentation and metadata. You can find the landing page for each dataset by looking at the URLs provided above.
+2. Metadata Summaries: The metadata summaries for each dataset provide information about the data, including the title, description, format, and date published. You can find the metadata summaries by looking at the lines of text above.
+3. Data.london.gov.uk Website: The data.london.gov.uk website provides a central location for accessing and exploring datasets related to London. You can find more information about the datasets, including metadata and documentation, by visiting the website and searching for the dataset ID or title.
+
+Note that there is no direct link to the official metadata and documentation for each dataset provided in the information above. However, you can access this information by visiting the data.london.gov.uk website and searching for the relevant dataset.",0,,,Where can I find the official metadata and documentation for this dataset?
+,,,Traffic #1,Additional Dataset Information,,3,"[""Dataset 1: xls"", ""Dataset 2: html""]","In response to your query, here are some datasets that might be of interest:
+
+1. **Local Authority comparator data**
+   - Summary: This dataset is a collection of local authority comparator data for London, providing population statistics for various local authorities to serve as demographic benchmarks. It's published by GLA Demography and is available in spreadsheet format. The datasets tagged with 'population', 'demography', and 'census'. The time coverage is currently unknown, with additional data expected to be added in the near future.
+
+2. **Annual birth estimates**
+   - Summary: The ""Annual Birth Estimates"" dataset, published by GLA Demography, provides statistics on births in London over time. The data is available in CSV and RDS formats, with the most current version accessible at https://data.london.gov.uk/dataset/birth-estimates.
+
+The reason these datasets are suggested is that they are relevant to your query, and they provide structured data in commonly used formats (CSV, spreadsheet, and RDS). If you require more specific or unique formats, you may need to refine your search or contact the dataset providers for further assistance.",,0.0,,What format is this dataset available in?
+0,,0.0,Traffic #2,Implied Dataset,0.0,0,"[{""dataset_title"": ""Traffic Flows, Borough"", ""relevance"": 3}, {""dataset_title"": ""TfL Live Traffic Cameras"", ""relevance"": 2}]","['Travel Patterns and Trends, London', 'Borough Commuting Patterns, Census 2001', 'Police Front Counter Access Times']",0,,,What are the rush hour patterns in the UK?
+,skipped (no ground truth),,Traffic #2,Additional Dataset Information,,1,[],,,,,Does this dataset differentiate between commuter traffic and freight traffic?
+,skipped (no ground truth),,Traffic #2,Additional Dataset Information,,2,[],,,,,What method does this dataset use to collect traffic data
+,skipped (no ground truth),,Traffic #2,Additional Dataset Information,,3,[],,,,,Who maintains this dataset?
+,skipped (no ground truth),,Traffic #2,Source Request,,4,[],,,,,Can I have a link to this dataset? 
+4.0,,0.667,Transport Usage #1,Described Dataset,1.0,0,"[{""dataset_title"": ""Accessibility of London Underground Stations"", ""relevance"": 4}, {""dataset_title"": ""Public Transport Accessibility Levels"", ""relevance"": 4}]","['Public Transport Accessibility Levels', 'Enable', 'Accessibility of London Underground Stations']",0.8,,,Are there publicly available datasets tracking accessibility in UK public transport systems?
+,,,Transport Usage #1,Clarification,,1,"[{""dataset_title"": ""Accessibility of London Underground Stations"", ""relevance"": 4}, {""dataset_title"": ""Public Transport Accessibility Levels"", ""relevance"": 4}]","In response to your query about datasets providing data on step-free access at train stations, I have found several relevant datasets for you:
+
+1. **Accessibility of London Underground Stations**: This dataset is detailed and specific to the London Underground Stations, containing information on physical accessibility such as walking distances, number of stairs, and location of amenities. While the data requires further processing, it could be particularly useful if you are looking for London-specific data.
+
+2. **TfL Station Facilities**: This dataset provides detailed information about facilities and access for various train stations in London, including details on station amenities marked with the TfL roundel. Although the format remains unknown, the topic of accessibility is a central aspect of this dataset.
+
+3. **Train Station Usage**: This dataset offers historical estimates of train station usage figures in the UK, covering various rail networks like Network Rail and London Overground. While it does not specifically focus on step-free access, it could still provide valuable insights into the overall usage patterns at different stations.
+
+4. **TfL Rolling Origin and Destination Survey (RODS)**: The TfL RODS program provides detailed data about journeys on the London Underground network, including boardings/alightings, line loading, station flows, origin-destination matrices, access/egress modes, etc. Although it does not focus solely on step-free access, it offers a broad understanding of how people move through train stations, which could be beneficial for your research.
+
+If you are looking for the ""best"" dataset, I would recommend the **Accessibility of London Underground Stations** dataset since it directly addresses the issue of physical accessibility at train stations, and it is specific to the London Underground network, which might be particularly relevant to your study. However, if you're seeking a broader perspective or focusing on a different region, the other datasets listed above may also prove helpful.",,,⚠️ Unsupported eval type: Clarification,Which datasets provide data on step-free access at train stations?
+,,,Transport Usage #1,Additional Dataset Information,,2,"[""Dataset 1: Annually"", ""Dataset 2: Ad hoc""]","Based on the provided metadata summaries, here's the update frequency for each dataset:
+
+Dataset 1: Last updated in 2014, which means it has not been updated since then.
+
+Dataset 2: Last updated in 2014, which means it has not been updated since then.
+
+Dataset 3: Last updated in 2014, which means it has not been updated since then.
+
+Dataset 4: Created in 2013 and last updated in 2020, which means it is updated frequently.
+
+Dataset 5: Last updated in 2017, which means it has not been updated since then.
+
+In conclusion, only Dataset 4 has been updated frequently, while the rest of the datasets have not been updated since their creation date or last update date.",,0.0,,How frequently is this dataset updated?
+,,,Transport Usage #1,Additional Dataset Information,,3,"[""Dataset 1: UK Open Government License"", ""Dataset 2: UK Open Government License""]","Based on the metadata summaries provided, all five datasets have the same license: UK Open Government Licence (OGL v2).",,0.0,,Where can I find licensing details for this dataset?
+,,0.0,Transport Usage #1,Source Request,0.0,4,"[""https://data.london.gov.uk/dataset/accessibility-london-underground-stations"", ""https://data.london.gov.uk/dataset/public-transport-accessibility-levels""]","The direct link to the dataset can be found in the landing page URL for each dataset. The URL structure is consistent across all datasets and includes the following components:
+
+* data.london.gov.uk
+* dataset/[dataset_id]
+
+Where [dataset_id] is a unique identifier for each dataset.
+
+Therefore, to access Dataset 1, the direct link would be:
+
+https://data.london.gov.uk/dataset/eb862901-f429-4efd-92e6-e919e74d3b01
+
+For Dataset 2, the direct link would be:
+
+https://data.london.gov.uk/dataset/9d674f7d-3f88-4daa-9cab-6bc6004a7f64
+
+For Dataset 3, the direct link would be:
+
+https://data.london.gov.uk/dataset/23e61b05-8356-4cf5-a63d-09da14713b85
+
+For Dataset 4, the direct link would be:
+
+https://data.london.gov.uk/dataset/121b4114-821a-43cb-b7df-8f17b6fbdaa4
+
+For Dataset 5, the direct link would be:
+
+https://data.london.gov.uk/dataset/a5274a94-4de1-4930-8f31-f58c41f4d25b",0,,,Can you provide a direct link to the dataset
+3.33,,1.0,Transport Usage #2,Implied Dataset,0.75,0,"[{""dataset_title"": ""Flights and Passengers from London Airports"", ""relevance"": 4}, {""dataset_title"": ""Busiest Airports by Passenger Traffic"", ""relevance"": 3}, {""dataset_title"": ""Travel Patterns and Trends, London"", ""relevance"": 3}, {""dataset_title"": ""Number of International Visitors to London"", ""relevance"": 3}]","['Number of International Visitors to London', 'Travel Patterns and Trends, London', 'Flights and Passengers from London Airports']",0.857,,,What is the domestic and international flight traffic like in UK?
+,skipped (no ground truth),,Transport Usage #2,Additional Dataset Information,,1,[],,,,,Does this dataset differentiate between passenger and cargo flights?
+,,0,Transport Usage #2,Source Request,0.0,2,"[""https://data.london.gov.uk/dataset/flights-and-passengers-london-airports"", ""https://data.london.gov.uk/dataset/busiest-airports-by-passenger-traffic"", ""https://data.london.gov.uk/dataset/travel-patterns-and-trends-london""]","Based on your query for metadata and documentation related to datasets, I recommend checking out the following options:
+
+1. **London Datastore Catalogue** - This dataset provides comprehensive information about all datasets available on the city's datastore, including metadata. The files are continuously updated and offered in various formats (ZIP, JSON, SPREADSHEET). This seems to be the most direct match for your request.
+
+2. **GiGL Open Space Friends Group subset** - Although this dataset does not directly focus on metadata, it is a sub-set of the comprehensive GiGL Open Space dataset and is updated quarterly by GiGL under an open license. It could provide additional context or related data that may be useful for understanding the other datasets in this list.
+
+3. (Optional) **City Tools: London** - While not focused on metadata, this dataset offers information about IT systems utilized by London boroughs for service delivery and back-office operations. The data includes contract details and suppliers, which could potentially provide additional insights into the management and maintenance of datasets.",0,,,Where can I find the official metadata and documentation for this dataset?
+,,,Transport Usage #2,Additional Dataset Information,,3,"[""Dataset 1: xls"", ""Dataset 2: xls"", ""Dataset 3: xls"", ""html"", ""pdf""]","Based on the information provided, the dataset is available in the following formats:
+
+• ZIP
+• JSON
+• SPREADSHEET
+
+The user asked about the format, and these are the formats that are mentioned in the metadata summaries for the datasets.",,0.0,,What format is this dataset available in?
+,,,Transport Usage #2,Additional Dataset Information,,4,"[""Dataset 1: Civil Aviation Authority"", ""annually"", ""Dataset 2: GLA"", ""annually"", ""Dataset 3: GLA"", ""Ad hoc""]","Sure! Based on the provided metadata summaries, here's the information you requested:
+
+Dataset 1:
+• Last Updated: 2019-03-18T10:03:27.835Z (updated in March 2019)
+
+Dataset 2:
+• Last Updated: 2025-01-08T11:39:38.198Z (no information is available about the frequency of updates)
+
+Dataset 3:
+• Last Updated: 2024-10-23T10:52:56.426Z (updated in October 2024)
+
+Dataset 4:
+• Last Updated: 2024-10-23T10:57:24.748Z (updated in October 2024)
+
+Dataset 5:
+• Last Updated: 2019-11-25T16:16:55.132Z (updated in November 2019)
+
+There is no information provided about who collects and maintains these datasets or the frequency of updates.",,0.0,,"Who collects and maintains this dataset, and how frequently is it updated?"
+,skipped (no ground truth),,Violence #1,Dataset Request,,0,[],,,,,Can you find a dataset about violence against children?
+,skipped (no ground truth),,Violence #1,additional Dataset Information,,1,[],,,,,How is violence against children estimated in this dataset?
+,skipped (no ground truth),,Violence #1,Source Request,,2,[],,,,,Where can I find the official metadata and documentation for this dataset?
+,skipped (no ground truth),,Violence #1,additional Dataset Information,,3,[],,,,,"Who collects and maintains this dataset, and how frequently is it updated?"
+,skipped (no ground truth),,Violence #1,Additional Dataset Information,,4,[],,,,,"Does this dataset provide a breakdown of costs by type of violence (e.g., domestic abuse, sexual exploitation, neglect)?"
+,skipped (no ground truth),,Violence #2,Implied Dataset,,0,[],,,,,What is the economic cost of not investing in violence prevention for children? 
+,skipped (no ground truth),,Violence #2,Clarification,,1,[],,,,,Which datasets provide quantitative evidence supporting the need for increased government funding for child violence prevention?
+,skipped (no ground truth),,Violence #2,Additional Dataset Information,,2,[],,,,,Does this dataset provide estimated cost savings from effective prevention strategies?
+,skipped (no ground truth),,Violence #2,additional Dataset Information,,3,[],,,,,Who maintains this dataset?
+,skipped (no ground truth),,Violence #2,Source Request,,4,[],,,,,Can you provide sources for the data that you mentioned?
+,skipped (no ground truth),,Weather #1,Described Dataset,,0,[],,,,,Can you provide me with a dataset that tracks sunlight and rainfall patterns in the UK?
+,skipped (no ground truth),,Weather #1,additional Dataset Information,,1,[],,,,,How frequently is this dataset updated?
+,skipped (no ground truth),,Weather #1,Source Request,,2,[],,,,,Where can I find the link for this dataset?
+,skipped (no ground truth),,Weather #1,Additional Dataset Information,,3,[],,,,,Does this dataset provide historical comparisons for past years’ sunlight and rainfall levels?
+,skipped (no ground truth),,Weather #2,Described Dataset,,0,[],,,,,Are there publicly available datasets that provide real-time weather data for the UK?
+,skipped (no ground truth),,Weather #2,Clarification,,1,[],,,,,Which of these datasets provide detailed breakdowns on sunshine duration and rainfall patterns?
+,skipped (no ground truth),,Weather #2,Additional Dataset Information,,2,[],,,,,Does this dataset provide localized weather data for different UK regions?
+,skipped (no ground truth),,Weather #2,Source Request,,3,[],,,,,Can you provide a direct link to the dataset?
+3.0,,0.667,Sports #1,Described Dataset,0.5,0,"[{""dataset_title"": ""Sports Participation Rates, Borough"", ""relevance"": 3}, {""dataset_title"": ""Active People Survey KPI Data, Borough"", ""relevance"": 2}, {""dataset_title"": ""Physically Active Children, Borough"", ""relevance"": 4}, {""dataset_title"": ""State of London"", ""relevance"": 3}]","['Sports Participation Rates, Borough', 'Participation of Under-Represented Groups in Higher Education', 'State of London']",0.571,,,Are there publicly available datasets tracking trends in UK sports participation?
+,skipped (no ground truth),,Sports #1,Clarification,,1,[],,,,,Which of these datasets provides long-term participation trends over the past 10 years?
+,,,Sports #1,Additional Dataset Information,,2,"[""Dataset 1: Survey"", ""Dataset 2: Survey""]",🔎 Explanation requests are not yet implemented.,,0.0,,"Does this dataset rely on survey data, membership statistics, or another method?"
+,,,Sports #1,Additional Dataset Information,,3,"[""Dataset 1: UK Open Government License"", ""Dataset 2: UK Open Government License""]","Based on the information provided, the licensing details for the datasets are as follows:
+
+Dataset 1 and Dataset 2: UK Open Government Licence (OGL v3)
+
+Dataset 3: UK Open Government Licence (OGL v3)
+
+Dataset 4 and Dataset 5: Not Specified.",,1.0,,Where can I find licensing details for this dataset?
+,,0,Sports #1,Source Request,0.0,4,"[""https://data.london.gov.uk/dataset/sports-participation-rates-borough"", ""https://data.london.gov.uk/dataset/active-people-survey-kpi-data-borough""]","Based on the information provided, I cannot provide a direct link to the dataset publisher's page for any of the datasets listed. The metadata summaries do not include information about the publisher's page or any direct links to access the datasets. Therefore, I cannot fulfill the user's request.",0,,,Can you provide a direct link to the dataset publisher’s page?
+4.0,,0.667,Sports #2,Implied Dataset,1.0,0,"[{""dataset_title"": ""Sports Participation Rates, Borough"", ""relevance"": 4}, {""dataset_title"": ""Active People Survey KPI Data, Borough"", ""relevance"": 4}]","['Sports Participation Rates, Borough', 'Active People Survey KPI Data, Borough', 'Participation of Under-Represented Groups in Higher Education']",0.8,,,How has sports participation changed in the UK over the last decade?
+,skipped (no ground truth),,Sports #2,Dataset Request,,1,[],,,,,Does this dataset include reasons why participation is increasing or decreasing?
+,skipped (no ground truth),,Sports #2,Further Context/Advice Request,,2,[],,,,,"Does this dataset allow for comparisons between UK regions (e.g., London vs. Scotland)?"
+,skipped (no ground truth),,Sports #2,additional Dataset Information,,3,[],,,,,"Who publishes this dataset, and what organizations contribute to the data?"
+3.67,,1.0,Air Quality #1,dataset Request,0.5,0,"[{""dataset_title"": ""London Average Air Quality Levels"", ""relevance"": 4}, {""dataset_title"": ""Analysing Air Pollution Exposure in London"", ""relevance"": 3}, {""dataset_title"": ""Air Quality Monitoring - Diffusion Tube Results"", ""relevance"": 4}, {""dataset_title"": ""London Atmospheric Emissions Inventory (LAEI) 2019"", ""relevance"": 4}, {""dataset_title"": ""PM2.5 map and exposure data"", ""relevance"": 3}, {""dataset_title"": ""Breathe London Mobile Monitoring"", ""relevance"": 3}]","['London Average Air Quality Levels', 'Air Quality Monitoring - Diffusion Tube Results', 'Breathe London Mobile Monitoring']",0.667,,,Can you find me a dataset that tracks air pollution levels in UK cities?
+,,,Air Quality #1,additional Dataset Information,,1,"[""Dataset 1: Nitric Oxide"", ""Nitrogen Dioxide"", ""Oxides of Nitrogen"", ""Ozone"", ""Particulate Matter (PM10 and PM2.5)"", ""and Sulphur Dioxide"", ""Dataset 2: NO2"", ""PM10 and PM2.5"", ""Dataset 3: NO2"", ""Dataset 4: NOx"", ""PM10"", ""PM2.5 and CO2"", ""Dataset 5: No""]","In response to your query, I have found several relevant datasets that include pollutants such as NO₂, PM10, and PM2.5. Here are the summaries:
+
+1. **Title:** London Atmospheric Emissions Inventory (LAEI) 2019
+   - **Summary:** This dataset provides emissions estimates for key pollutants including NOx, PM10, PM2.5, and CO2 by source type, as well as concentration maps for the forecast years 2025 and 2030. It covers Greater London and is provided in several parts in ZIP files, with supporting information available in Excel and GIS formats.
+
+2. **Title:** London Atmospheric Emissions Inventory (LAEI) 2016
+   - **Summary:** This dataset provides emission estimates for key pollutants by source type in 2016, with recalculated figures for 2010 and 2013. Ground level concentrations of NOx, NO2, PM10, and PM2.5 were estimated across Greater London in 2016 using an atmospheric dispersion model.
+
+3. **Title:** London Average Air Quality Levels
+   - **Summary:** This dataset provides hourly and daily average readings of six air pollutants (Nitric Oxide, Nitrogen Dioxide, Oxides of Nitrogen, Ozone, Particulate Matter PM10 and PM2.5, and Sulphur Dioxide) in London, along with their corresponding index levels.
+
+4. **Title:** London Atmospheric Emissions Inventory (LAEI) 2013
+   - **Summary:** This dataset provides emission estimates for key pollutants in London and surrounding areas from 2008 to 2030, with a focus on NOx, PM10, PM2.5, and CO2. The inventory was updated in April 2017 due to revised road transport emission factors.
+
+If you are looking for the ""best"" dataset, I would recommend the **London Atmospheric Emissions Inventory (LAEI) 2019** as it provides the most recent data and estimates for emissions of key pollutants in Greater London, including NO₂, PM10, and PM2.5. It also offers concentration maps for the forecast years 2025 and 2030, which could be valuable for future planning and decision-making regarding air quality.
+
+However, if you are specifically interested in historical data or data from a particular year, the other datasets (London Atmospheric Emissions Inventory 2016, London Atmospheric Emissions Inventory 2013, and London Average Air Quality Levels) could also be useful.",,0.0,,"Does this dataset include specific pollutants such as NO₂, PM10, and PM2.5?"
+,,0.0,Air Quality #1,Source Request,0.0,2,"[""https://data.london.gov.uk/dataset/london-average-air-quality-levels"", ""https://data.london.gov.uk/dataset/analysing-air-pollution-exposure-in-london"", ""https://data.london.gov.uk/dataset/air-quality-monitoring-diffusion-tube-results"", ""https://data.london.gov.uk/dataset/london-atmospheric-emissions-inventory--laei--2019"", ""https://data.london.gov.uk/dataset/pm2-5-map-and-exposure-data""]","Based on the information provided, the official metadata and documentation for the dataset can be found at the following links:
+
+* Dataset 1: <https://data.london.gov.uk/dataset/9ca66bba-b18c-4d2b-8025-a5fe7d0d66e0>
+* Dataset 2: <https://data.london.gov.uk/dataset/d45876d5-1b93-44ab-bf97-79f39403b058>
+* Dataset 3: <https://data.london.gov.uk/dataset/290a22f1-5eef-4801-8286-3f288b49093a>
+* Dataset 4: <https://data.london.gov.uk/dataset/5275e506-e14b-458e-95d9-b3b99db4115d>
+* Dataset 5: <https://data.london.gov.uk/dataset/5fbda6f4-06a9-4b50-99e6-ef6507018c2e>
+
+Note that the official metadata and documentation for each dataset can be found by clicking on the corresponding link.",0,,,Where can I find the official metadata and documentation for this dataset?
+,,,Air Quality #1,additional Dataset Information,,3,"[""Dataset 1: xls"", ""csv"", ""Dataset 2: xls"", ""pdf"", ""Dataset 3: xls"", ""Dataset 4: pdf"", ""zip xls"", ""Dataset 5: pdf"", ""csv""]","Based on the provided metadata summaries, the format(s) available for the dataset are:
+
+• SPREADSHEET
+• CSV
+• PDF
+
+Note that ZIP is not explicitly mentioned in the provided metadata summaries, but it can be inferred that it may also be available as a download option based on the presence of ZIP files in some of the datasets.",,0.333,,What format is this dataset available in?
+,,,Air Quality #1,additional Dataset Information,,4,"[""Dataset 1: GLA"", ""monthly"", ""Dataset 2: GLA"", ""ad hoc"", ""Dataset 3: Air Quality team"", ""annually"", ""Dataset 4: GLA and TFL Air Quality"", ""one off"", ""Dataset 5: Rosalind O’Driscoll"", ""one off""]","Based on the metadata summaries provided, the following information can be answered:
+
+1. Who collects and maintains this dataset?
+
+The creator of Dataset 1 is not specified, while the creators of Dataset 2-5 are not mentioned in the metadata. Therefore, it cannot be determined who collects and maintains these datasets.
+
+2. How frequently is it updated?
+
+Dataset 1 was last updated on October 18, 2023, while Dataset 2 was last updated on December 17, 2021. Dataset 3 was last updated on August 8, 2019, and Dataset 4 was last updated on September 9, 2021. Dataset 5 was last updated on September 29, 2015.
+
+From the information provided, it appears that Dataset 1 is updated more frequently than the other datasets, with updates occurring every few months. The other datasets have longer periods between updates, with Dataset 3 having the longest gap between updates (over 4 years).",,0.0,,"Who collects and maintains this dataset, and how frequently is it updated?"
+3.5,,0.667,Air Quality #2,Described Dataset,0.286,0,"[{""dataset_title"": ""London Average Air Quality Levels"", ""relevance"": 4}, {""dataset_title"": ""Analysing Air Pollution Exposure in London"", ""relevance"": 3}, {""dataset_title"": ""Air Quality Monitoring - Diffusion Tube Results"", ""relevance"": 4}, {""dataset_title"": ""London Atmospheric Emissions Inventory (LAEI) 2019"", ""relevance"": 4}, {""dataset_title"": ""PM2.5 map and exposure data"", ""relevance"": 3}, {""dataset_title"": ""Breathe London Mobile Monitoring"", ""relevance"": 3}, {""dataset_title"": ""Air quality summary statistics"", ""relevance"": 3}]","['Modelling the long-term health impacts of air pollution in London', 'Air Quality Monitoring - Diffusion Tube Results', 'Air quality summary statistics']",0.4,,,Are there publicly available datasets that monitor long-term trends in UK air pollution?
+,,,Air Quality #2,Clarification,,1,"[{""dataset_title"": ""London Atmospheric Emissions Inventory (LAEI) 2019"", ""relevance"": 4}]","Based on your query for air quality forecasts rather than historical data, I recommend you take a look at Dataset 2 titled ""LAEI 2019 - Borough Air Quality Data for LLAQM"". This dataset provides annual mean and daily means of NOx, NO2, PM10, and PM2.5 concentrations, along with emissions data by source type for these pollutants and CO2, in the form of maps, dashboards, charts, and tables, for London boroughs from 2013 to forecast years 2025 and 2030. The dataset is updated regularly, and it includes future forecast years which would provide you with air quality forecast information.
+
+If you want to explore more options, I suggest considering Dataset 5, ""LLAQM bespoke borough by borough 2013 air quality modelling and data"". This dataset provides a collection of maps, data, and graphs on air quality in London boroughs for the years 2013 and 2020. While it doesn't explicitly mention forecast data, it does include information up to the year 2020, and you might find additional insights or trends that could help you make predictions about future air quality.",,,⚠️ Unsupported eval type: Clarification,Which of these datasets include air quality forecasts rather than just historical data?
+,skipped (no ground truth),,Air Quality #2,additional Dataset Information,,2,[],,,,,Does this dataset track seasonal fluctuations in pollution levels?
+,skipped (no ground truth),,Air Quality #2,additional Dataset Information,,3,[],,,,,Where does this dataset source its data from
+,,0,Air Quality #2,Source Request,0.0,4,"[""https://data.london.gov.uk/dataset/london-atmospheric-emissions-inventory--laei--2019""]","The user asked for a direct link to the dataset, and the provided metadata summaries do not include any direct links to the datasets. Therefore, I cannot provide a direct link to the dataset.",0,,,Can you provide a direct link to the dataset
+3.0,,0.333,Water Quality #1,Implied Dataset,1.0,0,"[{""dataset_title"": ""Water Quality of London's Rivers and Other Waterbodies"", ""relevance"": 3}]","[""Water Quality of London's Rivers and Other Waterbodies"", ""'Climate Just' data"", 'London Reservoir Levels']",0.5,,,How is the water quality of UK Lakes and rivers?
+,skipped (no ground truth),,Water Quality #1,Clarification,,1,[],,,,,"Which of these datasets provide water contamination data, such as bacterial counts or chemical pollutants?"
+,skipped (no ground truth),,Water Quality #1,Additional Dataset Information,,2,[],,,,,How frequently is this dataset updated?
+,,,Water Quality #1,Additional Dataset Information,,3,"[""UK Open Government License""]","The licensing details for Dataset 4 are:
+
+• License: Not Specified.",,0.0,,What are the licensing details for this dataset?
+0,,0.0,Water Quality #2,Described Dataset,0.0,0,"[{""dataset_title"": ""Draft London Environment Strategy Consultation 2017"", ""relevance"": 3}]","[""'Climate Just' data"", 'Application of PAS 2070: London case study', 'Climate Risk Mapping']",0,,,Are there publicly available datasets on the impact of climate change on UK water quality?
+,skipped (no ground truth),,Water Quality #2,Clarification,,1,[],,,,,Does this dataset compare pollution levels before and after recent UK flooding events?
+,skipped (no ground truth),,Water Quality #2,additional Dataset Information,,2,[],,,,,"Does this dataset include chemical contamination, such as nitrate levels from farming?"
+,skipped (no ground truth),,Water Quality #2,Source Request,,3,[],,,,,Can you provide a direct link to the dataset publisher’s page?
+,skipped (no ground truth),,Water Quality #2,additional Dataset Information,,4,[],,,,,How frequently is this dataset updated?
+4.0,,1.0,Cost of Living #1,dataset Request,0.6,0,"[{""dataset_title"": ""GLA cost of living polling"", ""relevance"": 3}, {""dataset_title"": ""Pay and Inflation Trends in London and the UK, 2010-2022"", ""relevance"": 4}, {""dataset_title"": ""Consumer price inflation- Food and non-alcoholic beverages"", ""relevance"": 3}, {""dataset_title"": ""The rising cost of living and its effects on Londoners"", ""relevance"": 4}, {""dataset_title"": ""Impacts of rising cost of living on London"", ""relevance"": 4}]","['Pay and Inflation Trends in London and the UK, 2010-2022', 'The rising cost of living and its effects on Londoners', 'Impacts of rising cost of living on London ']",0.75,,,Can you find me a dataset tracking UK inflation rates and cost-of-living changes?
+,skipped (no ground truth),,Cost of Living #1,Additional Dataset Information,,1,[],,,,,"Does this dataset differentiate inflation trends by spending category (e.g., food, housing, energy)?"
+,,0,Cost of Living #1,Source Request,0.0,2,"[""https://data.london.gov.uk/dataset/gla-poll-results-cost-of-living-2022"", ""https://data.london.gov.uk/dataset/pay-and-inflation-trends-in-london-and-the-uk-since-2010"", ""https://data.london.gov.uk/dataset/consumer-price-inflation--food-and-non-alcoholic-beverages"", ""https://data.london.gov.uk/dataset/the-rising-cost-of-living-and-its-effects-on-londoners""]","To find the official metadata and documentation for the dataset, you can refer to the following links:
+
+* Dataset 1: No official metadata or documentation provided.
+* Dataset 2: No official metadata or documentation provided.
+* Dataset 3: No official metadata or documentation provided.
+* Dataset 4: No official metadata or documentation provided.
+* Dataset 5: No official metadata or documentation provided.
+
+Please note that there is no official metadata or documentation provided for any of the datasets listed above.",0,,,Where can I find the official metadata and documentation for this dataset?
+,,,Cost of Living #1,Additional Dataset Information,,3,"[""Dataset 1: xls"", ""Dataset 2: PDF"", ""Dataset 3: xlsx"", ""Dataset 4: pdf"", ""xlsx""]","For a general search, I have found several datasets that might be of interest to you:
+
+1. **London Datastore Catalogue**: This comprehensive catalog provides live snapshots of all entries on the London Datastore in ZIP, JSON, and SPREADSHEET formats. It covers metadata, datastore, dump, and excel files.
+
+2. **Test Dataset for Harvesting Development**: This untagged test dataset is useful for evaluating and configuring harvesters across various formats such as DOCUMENT, IMAGE, and TXT.
+
+3. **Local Authority comparator data**: Compiled datasets for London local authorities providing population comparators by GLA Demography are available in spreadsheet format.
+
+4. **Annual birth estimates**: This dataset contains statistics on birth rates and is available in both CSV and RDS formats.
+
+5. **City Tools: London**: This dataset provides information on IT systems utilized across various London boroughs, visualized in a dashboard. The data's time coverage is unknown.
+
+If you are specifically looking for the ""best"" dataset, it really depends on your requirements and preferences. However, the **London Datastore Catalogue** might be considered the best as it offers a comprehensive overview of various datasets available on the London Datastore in multiple formats (ZIP, JSON, SPREADSHEET) and covers a wide range of topics due to its continual updates.
+
+Alternatively, if you are looking for a dataset that specifically focuses on population data, both **Local Authority comparator data** and **Annual birth estimates** could be suitable options. Lastly, the **Test Dataset for Harvesting Development** might be beneficial for those interested in evaluating and configuring harvesters across various formats (DOCUMENT, IMAGE, TXT).",,0.0,,What format is this dataset available in?
+,,,Cost of Living #1,Additional Dataset Information,,4,"[""Dataset 1: GLA Opinion Research"", ""Dataset 2: GLA Economics"", ""Dataset 3: ONS"", ""Dataset 4: City Intelligence""]","Based on the provided metadata summaries, the dataset collector and maintainer information is as follows:
+
+Dataset 1: Publisher is Opinion Research and General Statistics (GLA).
+Dataset 2: Publisher is not specified.
+Dataset 3: Publisher is GLA Demography.
+Dataset 4: Publisher is GLA Demography, and the dataset is licensed under UK Open Government Licence (OGL v3).
+Dataset 5: Publisher is LOTI, and the dataset is licensed under UK Open Government Licence (OGL v3).
+
+Therefore, the user's question ""Who collects and maintains this dataset"" can be answered as follows:
+
+* Dataset 1 is collected and maintained by Opinion Research and General Statistics (GLA).
+* Dataset 2 is not specified.
+* Dataset 3 is collected and maintained by GLA Demography.
+* Dataset 4 is collected and maintained by GLA Demography, and licensed under UK Open Government Licence (OGL v3).
+* Dataset 5 is collected and maintained by LOTI, and licensed under UK Open Government Licence (OGL v3).",,0.25,,Who collects and maintains this dataset
+4.0,,0.667,Cost of Living #2,Described Dataset,0.667,0,"[{""dataset_title"": ""Impacts of rising cost of living on London"", ""relevance"": 4}, {""dataset_title"": ""GLA cost of living polling"", ""relevance"": 4}, {""dataset_title"": ""The rising cost of living and its effects on Londoners"", ""relevance"": 4}]","['Children in low income families', 'The rising cost of living and its effects on Londoners', 'Impacts of rising cost of living on London ']",0.667,,,Are there publicly available datasets tracking the impact of inflation on household budgets?
+,skipped (no ground truth),,Cost of Living #2,Clarification,,1,[],,,,,Which datasets provide regional breakdowns of cost-of-living trends in the UK?
+,skipped (no ground truth),,Cost of Living #2,Additional Dataset Information,,2,[],,,,,"Does this dataset rely on household surveys, retail price indices, or other data sources?"
+,,0,Cost of Living #2,Source Request,0.0,3,"[""https://data.london.gov.uk/dataset/impacts-of-rising-cost-of-living-on-london"", ""https://data.london.gov.uk/dataset/gla-poll-results-cost-of-living-2022"", ""https://data.london.gov.uk/dataset/the-rising-cost-of-living-and-its-effects-on-londoners""]","The direct link to the dataset is not provided in the metadata summaries given. The landing page URL for each dataset is provided, but it does not include a direct link to the dataset.",0,,,Can you provide a direct link to the dataset
+,,,Cost of Living #2,Additional Dataset Information,,4,"[""Dataset 1: Licence: Not Specified"", ""Dataset 2: UK Open Government License"", ""Dataset 3: Licence: Not Specified""]","In response to your query, I have searched for datasets that might be suitable for research involving licensing restrictions. Here are some recommendations:
+
+1. **Dataset 1: COVID-19 Restrictions Timeseries**
+   This dataset provides a time-series of various COVID-19 restrictions and policies in London, UK. It could be useful for research related to the impact of such measures on different aspects like social or economic behavior.
+
+2. **Dataset 2: GiGL Spaces to Visit**
+   While this dataset primarily focuses on open spaces in Greater London, it is still relevant as it provides information on publically accessible areas suitable for leisure activities. This could potentially be used in research examining the effect of restrictions on public spaces usage.
+
+3. **Dataset 3: London Borough of Southwark waiting, stopping, and loading restrictions**
+   This dataset offers insights into highway restrictions maintained by Southwark. Although it doesn't directly relate to licensing restrictions, understanding traffic regulations can contribute to research involving transportation or urban planning.
+
+4. **Dataset 5: Entertainment licensing (if available)**
+   If accessible and its time coverage is relevant, this dataset provides modelled estimates of premises licenses and club certificates for regulated entertainment within Greater London's Night Time Observatory. It could be useful in research focused on the entertainment industry or nightlife regulations.",,0.0,,What licensing restrictions apply to using this dataset for research?
+3.33,,1.0,Energy Consumption #1,Implied Dataset,0.75,0,"[{""dataset_title"": ""Total Energy Consumption, Borough"", ""relevance"": 4}, {""dataset_title"": ""Consumption of Other Fuels, Borough"", ""relevance"": 3}, {""dataset_title"": ""Electricity Consumption, Borough"", ""relevance"": 3}, {""dataset_title"": ""London’s consumption based greenhouse gas emissions"", ""relevance"": 2}]","['Total Energy Consumption, Borough', 'Consumption of Other Fuels, Borough', 'Just transition initial analysis by industry group in London']",0.857,,,How is the energy consumption across different sectors?
+,skipped (no ground truth),,Energy Consumption #1,Additional Dataset Information,,1,[],,,,,Does this dataset differentiate between renewable and fossil fuel energy use?
+,,0,Energy Consumption #1,Source Request,0.0,2,"[""https://data.london.gov.uk/dataset/total-energy-consumption-borough""]","The following are some datasets that may contain metadata and documentation related to your search:
+
+1. **London Datastore Catalogue**: This dataset provides a live snapshot of all metadata entries on the London Datastore, making it relevant for those seeking metadata information. It is available in various formats and includes tags like 'metadata' and 'datastore'. However, please note that the exact time coverage is unknown.
+
+2. **GiGL Spaces to Visit**: While not explicitly a metadata dataset, the GiGL Spaces to Visit dataset provides public access information for open spaces in Greater London. It could potentially include documentation about these spaces. The data is updated quarterly and covers various types of open spaces like parks and nature reserves.
+
+3. **City Tools: London**: This dataset provides information about IT systems, contracts, and suppliers utilized across various London boroughs. Although not directly related to the metadata you're seeking, it does contain documentation on a large scale system, which might include metadata. The data is available in HTML and CSV formats and covers 809 systems.
+
+Since all three datasets are relevant in different ways, I would suggest starting with the London Datastore Catalogue due to its specific focus on metadata. If you require additional context or documentation beyond that provided, you may find the other two datasets helpful as well.",0,,,Where can I find the official metadata and documentation for this dataset?
+,,,Energy Consumption #1,Additional Dataset Information,,3,"[""xls"", ""csv""]","Based on the information provided, the dataset is available in the following formats:
+
+• ZIP
+• JSON
+• SPREADSHEET
+
+The user asked about the format of the dataset, and these are the formats that are listed in the metadata summaries for the datasets.",,0.0,,What format is this dataset available in?
+,,,Energy Consumption #1,Additional Dataset Information,,4,"[""No""]","Based on the provided metadata summaries, none of the datasets track seasonal variations in energy consumption explicitly. The datasets cover various topics such as biodiversity hotspots, open spaces, and city tools, but none of them provide information on energy consumption patterns over different seasons.
+
+However, Dataset 5, ""City Tools: London,"" does include a date range of 2019-11-22T12:20:41.498Z to 2019-11-25T16:16:55.132Z, which might suggest that the data was collected or updated during this time period. It is possible that the dataset may include information on energy consumption patterns during specific seasons, but without further information, it is not possible to determine if this is the case.",,0.0,,Does this dataset track seasonal variations in energy consumption?
+,skipped (no ground truth),,Energy Comsumption #2,Described Dataset,,0,[],,,,,Are there publicly available datasets tracking renewable energy production in the UK?
+,skipped (no ground truth),,Energy Comsumption #2,Clarification,,1,[],,,,,"Which of these datasets include solar, wind, and hydroelectric energy production?"
+,skipped (no ground truth),,Energy Comsumption #2,Additional Dataset Information,,2,[],,,,,Does this dataset provide historical comparisons of renewable energy growth over the last decade?
+,skipped (no ground truth),,Energy Comsumption #2,Additional Dataset Information,,3,[],,,,,Where can I find licensing details for this dataset?
+,skipped (no ground truth),,Energy Comsumption #2,Source Request,,4,[],,,,,Can you provide a direct link to the dataset publisher’s page?
+4.0,,1.0,Migration #1,dataset Request,0.429,0,"[{""dataset_title"": ""Improvements in Estimating Migration"", ""relevance"": 3}, {""dataset_title"": ""London's Population"", ""relevance"": 3}, {""dataset_title"": ""Migrants to the United Kingdom by Decade of Arrival, Borough"", ""relevance"": 4}, {""dataset_title"": ""Migration indicators"", ""relevance"": 4}, {""dataset_title"": ""Migration indicators briefings"", ""relevance"": 4}, {""dataset_title"": ""Domestic Migration"", ""relevance"": 4}, {""dataset_title"": ""Birth trends in London"", ""relevance"": 4}]","['Migration indicators', 'Migration indicators briefings', 'Domestic Migration']",0.6,,,Can you provide me with a dataset tracking immigration trends in the UK?
+,skipped (no ground truth),,Migration #1,Additional Dataset Information,,1,[],,,,,"Does this dataset differentiate between work visas, student visas, and asylum seekers?"
+,,0,Migration #1,Source Request,0.0,2,"[""https://data.london.gov.uk/dataset/improvements-estimating-migration"", ""https://data.london.gov.uk/dataset/londons-population"", ""https://data.london.gov.uk/dataset/potential-impacts-of-skills-based-immigration-policies-in-london"", ""https://data.london.gov.uk/dataset/migration-indicators""]","In response to your query, I have gathered a list of datasets that may contain metadata and documentation related to the dataset you're looking for. Here are my suggestions:
+
+**1. London Datastore Catalogue**
+This dataset offers comprehensive metadata for all datasets available on the London datastore. It is regularly updated by the Opinion Research and General Statistics (GLA) and provides access to various formats such as ZIP, JSON, SPREADSHEET, and Excel.
+
+**2. GiGL Open Space Friends Group subset**
+This dataset from Greenspace Information for Greater London CIC (GiGL) includes metadata about open space sites in Greater London with established Friends Groups. It offers information such as site boundaries, names, sizes, access types, and friends group contact information. This dataset is updated quarterly and is freely available under an open license.
+
+Both datasets seem relevant to your query as they provide metadata related to their respective subjects. If you're looking for a more specific type of metadata or documentation, please clarify your needs so I can better assist you in finding the most suitable dataset.",0,,,Where can I find the official metadata and documentation for this dataset?
+,,,Migration #1,Additional Dataset Information,,3,"[""Dataset 1: xls"", ""pdf"", ""Dataset 2: html"", ""Dataset 3: xlsx"", ""Dataset 4: xls""]","Based on the provided metadata summaries, the dataset is available in the following formats:
+
+• ZIP
+• JSON
+• SPREADSHEET
+
+These are the only formats specifically listed for the dataset. The other formats mentioned in the metadata (IMAGE, PDF, CSV) are not explicitly stated as being part of this particular dataset.",,0.0,,What format is this dataset available in?
+4.0,,0.333,Migration #2,Described Dataset,1.0,0,"[{""dataset_title"": ""Migration indicators"", ""relevance"": 4}]","['Migration indicators', 'Migration indicators briefings', 'Trend-based population projections']",0.5,,,Are there publicly available datasets tracking emigration trends from the UK?
+,skipped (no ground truth),,Migration #2,Clarification,,1,[],,,,,Which datasets provide historical trends for immigration and emigration over the last 20 years?
+,skipped (no ground truth),,Migration #2,Additional Dataset Information,,2,[],,,,,"Does this dataset include nationality, gender, and age breakdowns?"
+,skipped (no ground truth),,Migration #2,Additional Dataset Information,,3,[],,,,,Where can I find licensing details for this dataset?
+,skipped (no ground truth),,Migration #2,Source Request,,4,[],,,,,Can you provide a direct link to the dataset

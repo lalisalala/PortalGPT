@@ -95,40 +95,52 @@ def clean_llm_output(response_text):
     return response_text
 
 def reformulate_query(query):
-    """Refines user queries only if they are vague, otherwise returns as-is."""
-    
-    # ✅ If the query is already well-structured, return it directly
-    if len(query.split()) <= 3:  # Short queries may need reformulation
-        reformulation_prompt = f"""
-        You are an AI assistant that refines vague queries for dataset retrieval.
-        If the user query is already well-structured, return it as-is.
-        Otherwise, improve it while keeping it concise and preserving its meaning.
+    """Uses LLM to extract concise, search-optimized keywords from user queries for FAISS."""
 
-        **User Query:** "{query}"
-        
-        **Improved Query:** (Return only the refined query, no extra text)
-        """
+    reformulation_prompt = f"""
+You are a helpful AI that rewrites user questions into concise keyword-based search queries.
 
-        try:
-            result = subprocess.run(
-                ["ollama", "run", "mistral", reformulation_prompt],
-                capture_output=True,
-                text=True,
-                timeout=10
-            )
+Your goal is to extract **only the most relevant terms or phrases** to help a semantic search engine find datasets.
 
-            if result.returncode == 0:
-                return result.stdout.strip()
-            else:
-                logging.warning(f"⚠️ Query reformulation failed, using original query.")
-                return query  # Fallback to original query
+⚠️ Do not return full sentences or explanations — just a **comma-separated list** of important keywords, entities, topics, and filters.
 
-        except Exception as e:
-            logging.error(f"⚠️ Exception in query reformulation: {str(e)}")
-            return query  # Fallback to original query
+### Examples:
 
-    else:
-        return query  # ✅ Return original query if it's already detailed
+User: "Can you show me datasets on homelessness in London from 2020?"
+→ Reformulated: homelessness, London, 2020
+
+User: "I’m researching air quality trends across boroughs."
+→ Reformulated: air quality, trends, boroughs
+
+User: "Show me crime statistics for Hackney between 2015 and 2019."
+→ Reformulated: crime, Hackney, 2015–2019
+
+---
+
+User: "{query}"
+→ Reformulated:
+"""
+
+    try:
+        result = subprocess.run(
+            ["ollama", "run", "llama2:13b", reformulation_prompt],
+            capture_output=True,
+            text=True,
+            timeout=15
+        )
+
+        if result.returncode == 0:
+            cleaned = result.stdout.strip()
+            logging.info(f"🧠 Reformulated Query: {cleaned}")
+            return cleaned if cleaned else query
+        else:
+            logging.warning("⚠️ Reformulation failed, using original query.")
+            return query
+
+    except Exception as e:
+        logging.error(f"⚠️ Exception in reformulation: {str(e)}")
+        return query
+
 
 
 def handle_dataset_search(query, user_id):
@@ -139,17 +151,17 @@ def handle_dataset_search(query, user_id):
     logging.info(f"🔍 Original Query: {query} → Reformulated Query: {refined_query}")
 
     # ✅ Step 2: Search FAISS with the refined query
-    datasets = search_faiss(refined_query, k=50)  
-    top_datasets = datasets[:3]  # ✅ First batch of results
+    datasets = search_faiss(refined_query, k=20) 
+    top_datasets = datasets[:5]  # ✅ First batch of results
 
     # ✅ Step 3: Store results in session
     session = get_user_session(user_id)
     store_faiss_results(user_id, datasets)
 
-    # 🔥 FIX: Update `shown_count` to 3 (ensures pagination starts at 6 next time)
-    session["shown_count"] = 3
+    # 🔥 FIX: Update `shown_count` to 5 (ensures pagination starts at 6 next time)
+    session["shown_count"] = 5
     session["has_searched"] = True 
-    logging.info(f"✅ Updated `shown_count` to 3 for user {user_id}")
+    logging.info(f"✅ Updated `shown_count` to 5 for user {user_id}")
 
     dataset_info = format_dataset_info(top_datasets)
     dataset_prompt_template = load_prompt()

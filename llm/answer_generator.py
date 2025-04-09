@@ -14,7 +14,7 @@ from llm.intent_handlers.dataset_search import handle_dataset_search
 from llm.intent_handlers.dataset_more_results import handle_dataset_more_results
 from llm.session_manager import update_user_history, generate_user_id
 from llm.intent_handlers.dataset_metadata import handle_dataset_metadata  
-
+from llm.session_manager import get_user_session
 
 # ✅ Setup logging
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
@@ -38,25 +38,36 @@ def load_prompt(intent):
 
 def generate_response(query, user_id):
     """Processes user query, classifies intent, retains context, and generates response."""
-    
-    update_user_history(user_id, query)  # ✅ Store query in session
-    
-    intent = classify_intent(query, user_id, use_memory=True)
+
+    session = get_user_session(user_id)
+    update_user_history(user_id, query)
+
+    raw_intent = classify_intent(query, user_id, use_memory=True)
+    logging.info(f"🎯 LLM classified intent: {raw_intent}")
+    logging.info(f"🧠 Session has_searched: {session.get('has_searched')}")
+
+    if raw_intent == "dataset_search" and session.get("has_searched", False):
+        logging.info("🔁 Already searched. Overriding intent to dataset_metadata.")
+        intent = "dataset_metadata"
+    else:
+        intent = raw_intent
+
     logging.info(f"🔍 Detected Intent: {intent}")
 
-    # ✅ Handle fewer, more flexible intents
+    # ✅ Route to correct handler or handle unimplemented ones
     if intent == "dataset_search":
         return handle_dataset_search(query, user_id)
     elif intent == "dataset_more_results":
         return handle_dataset_more_results(user_id)
     elif intent == "dataset_metadata":
-        return handle_dataset_metadata(query, user_id)  # 🔹 Covers all metadata lookups
+        return handle_dataset_metadata(query, user_id)
     elif intent == "dataset_explanation":
-        return handle_dataset_explanation(query, user_id)  # 🔹 Covers term definitions
+        return "🔎 Explanation requests are not yet implemented."
     elif intent == "fallback":
-        return handle_fallback(query)
+        return "💬 This seems like a casual or unrelated query. Let's focus on datasets!"
     else:
         return "🤖 Sorry, I didn't understand that request."
+
 
     
 if __name__ == "__main__":

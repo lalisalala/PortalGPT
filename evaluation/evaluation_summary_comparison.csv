@@ -1,0 +1,7 @@
+eval_type,avg_relevance_chatbot,correctness_chatbot,f1_chatbot,precision_chatbot,recall_chatbot,avg_relevance_keyword,correctness_keyword,f1_keyword,precision_keyword,recall_keyword,avg_relevance_chatgpt,correctness_chatgpt,f1_chatgpt,precision_chatgpt,recall_chatgpt
+additional dataset information,,0.121,,,,,,,,,,,,,
+clarification,,,,,,,,,,,,,,,
+dataset request,3.122,,0.551,0.55,0.578,1.952,,0.256,0.283,0.274,1.958,,0.197,0.329,0.164
+described dataset,3.07,,0.469,0.44,0.596,2.35,,0.328,0.354,0.358,2.145,,0.372,0.396,0.367
+implied dataset,2.656,,0.507,0.45,0.688,2.584,,0.372,0.492,0.49,3.094,,0.562,0.725,0.531
+source request,,,0.036,0.03,0.045,,,,,,,,,,
